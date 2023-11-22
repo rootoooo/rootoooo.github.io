@@ -74,7 +74,7 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 logo="" group-title="England",英格兰BBC
 http://149.62.177.107/BBC_World_News_HD/index.m3u8?token=test
 #EXTINF:-1 logo="" group-title="America",美国CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 #EXTINF:-1 logo="" group-title="America",美国GlobalNews
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 #EXTINF:-1 logo="" group-title="America",美国ABC
