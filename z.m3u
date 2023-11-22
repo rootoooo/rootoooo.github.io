@@ -70,7 +70,7 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Germany",德国DW
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 #EXTINF:-1 logo="" group-title="France",法国24
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 #EXTINF:-1 logo="" group-title="England",英格兰BBC
 http://149.62.177.107/BBC_World_News_HD/index.m3u8?token=test
 #EXTINF:-1 logo="" group-title="America",美国CNN
