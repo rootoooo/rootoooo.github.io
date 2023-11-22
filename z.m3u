@@ -1,123 +1,123 @@
 #EXTM3U
-#EXTINF:-1 logo="" group-title="China",CCTV1.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV2.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV2
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV4.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV5.4K.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV5
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV5+.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV5+
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV13.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV14.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV14
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV16.4K.50FPS
+#EXTINF:-1 logo="" group-title="China",CCTV16
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV超高清.4K.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV4K超高清.4K.25FPS
+#EXTINF:-1 logo="" group-title="China",CCTV4K超高清
 http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CGTN.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 logo="" group-title="China",CGTNDocumentary.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",CGTNDocumentary
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-#EXTINF:-1 logo="" group-title="China",广西卫视.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",广西卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
-#EXTINF:-1 logo="" group-title="China",北京卫视.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",北京卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
-#EXTINF:-1 logo="" group-title="China",东方卫视.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",东方卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:-1 logo="" group-title="China",浙江卫视.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",浙江卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
-#EXTINF:-1 logo="" group-title="China",江苏卫视.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",江苏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
-#EXTINF:-1 logo="" group-title="China",湖南卫视.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",湖南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
-#EXTINF:-1 logo="" group-title="China",香港特区中文台.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",香港特区中文台
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 logo="" group-title="China",香港特区资讯台.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",香港特区资讯台
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 logo="" group-title="China",香港特区台.1080P.25FPS
+#EXTINF:-1 logo="" group-title="China",香港特区台
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong.8K.30FPS
+#EXTINF:-1 logo="" group-title="China",HongKong
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻台.1080P.30FPS
+#EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻台
 https://pkj99.github.io/YTLive/TVBS新聞.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省中天新闻.1080P.30FPS
+#EXTINF:-1 logo="" group-title="China",台湾省中天新闻
 https://pkj99.github.io/YTLive/中天新聞.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省东森新闻.1080P.60FPS
+#EXTINF:-1 logo="" group-title="China",台湾省东森新闻
 https://pkj99.github.io/YTLive/東森新聞.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省三立新闻.1080P.30FPS
+#EXTINF:-1 logo="" group-title="China",台湾省三立新闻
 https://pkj99.github.io/YTLive/三立新闻台.m3u8
-#EXTINF:-1 logo="" group-title="China",音乐MV.1080P.30FPS
+#EXTINF:-1 logo="" group-title="China",音乐MV
 https://www.goodiptv.club/douyu/9588891
-#EXTINF:-1 logo="" group-title="Russia",俄罗斯Rt.1080P.25FPS
+#EXTINF:-1 logo="" group-title="Russia",俄罗斯RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Japan",日本NHK.1080P.30FPS
+#EXTINF:-1 logo="" group-title="Japan",日本NHK
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 logo="" group-title="Australia",澳大利亚ABC.720P.25FPS
+#EXTINF:-1 logo="" group-title="Australia",澳大利亚ABC
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-#EXTINF:-1 logo="" group-title="Turkey",土耳其TRT.1080P.25FPS
+#EXTINF:-1 logo="" group-title="Turkey",土耳其TRT
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 logo="" group-title="Qatar",卡塔尔半岛.1080P.25FPS
+#EXTINF:-1 logo="" group-title="Qatar",卡塔尔半岛
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 logo="" group-title="Singapore",新加坡CNA.1080P.25FPS
+#EXTINF:-1 logo="" group-title="Singapore",新加坡CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 logo="" group-title="Europe",欧洲新闻Europe.720P.25FPS
+#EXTINF:-1 logo="" group-title="Europe",欧洲新闻Europe
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="France",法国24.720P.25FPS
+#EXTINF:-1 logo="" group-title="France",法国24
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Germany",德国DW.1080P.50FPS
+#EXTINF:-1 logo="" group-title="Germany",德国DW
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="England",英格兰BBC.480P.25FPS
+#EXTINF:-1 logo="" group-title="England",英格兰BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-#EXTINF:-1 logo="" group-title="America",美国CNN.720P.25FPS
+#EXTINF:-1 logo="" group-title="America",美国CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",美国GlobalNews.720P.25FPS
+#EXTINF:-1 logo="" group-title="America",美国GlobalNews
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 logo="" group-title="America",美国ABC.720P.25FPS
+#EXTINF:-1 logo="" group-title="America",美国ABC
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 logo="" group-title="America",美国FOX.720P.30FPS
+#EXTINF:-1 logo="" group-title="America",美国FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",美国CBS.720P.30FPS
+#EXTINF:-1 logo="" group-title="America",美国CBS
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 logo="" group-title="America",美国Reuters.1080P.30FPS
+#EXTINF:-1 logo="" group-title="America",美国Reuters
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",美国OAN.1080P.30FPS
+#EXTINF:-1 logo="" group-title="America",美国OAN
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",美国NewsMax.720P.30FPS
+#EXTINF:-1 logo="" group-title="America",美国NewsMax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 logo="" group-title="综合",Bloomberg.4K.60FPS
+#EXTINF:-1 logo="" group-title="综合",Bloomberg
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",Fashion.4K.25FPS
+#EXTINF:-1 logo="" group-title="综合",Fashion
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",Clarity.4K.30FPS
+#EXTINF:-1 logo="" group-title="综合",Clarity
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 logo="" group-title="综合",LoveNature.4K.30FPS
+#EXTINF:-1 logo="" group-title="综合",LoveNature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 logo="" group-title="综合",loupe.4K.30FPS
+#EXTINF:-1 logo="" group-title="综合",loupe
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",NASA1.720P.30FPS
+#EXTINF:-1 logo="" group-title="综合",NASA1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 logo="" group-title="综合",NASA2.720P.30FPS
+#EXTINF:-1 logo="" group-title="综合",NASA2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 logo="" group-title="综合",Mavtv.720P.30FPS
+#EXTINF:-1 logo="" group-title="综合",Mavtv
 https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",SportsGrid.720P.30FPS
+#EXTINF:-1 logo="" group-title="综合",SportsGrid
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",RedBull.1080P.30FPS
+#EXTINF:-1 logo="" group-title="综合",RedBull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 logo="" group-title="综合",Outside.1080P.30FPS
+#EXTINF:-1 logo="" group-title="综合",Outside
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 logo="" group-title="综合",Discovery.1080P.50FPS
+#EXTINF:-1 logo="" group-title="综合",Discovery
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
-#EXTINF:-1 logo="" group-title="综合",ZooMoo.1080P.25FPS
+#EXTINF:-1 logo="" group-title="综合",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",Music.1080P.30FPS
+#EXTINF:-1 logo="" group-title="综合",Music
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 logo="" group-title="综合",THTmusic.1080P.30FPS
+#EXTINF:-1 logo="" group-title="综合",THTmusic
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 
