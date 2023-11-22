@@ -115,9 +115,9 @@ https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 #EXTINF:-1 logo="" group-title="综合",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",Music
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 logo="" group-title="综合",THTmusic
+#EXTINF:-1 logo="" group-title="综合",THT
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 logo="" group-title="综合",MTV
+https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
 
 
