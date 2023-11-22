@@ -3,8 +3,6 @@
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV2.1080P.25FPS
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV3.1080P.25FPS
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV4.1080P.25FPS
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV5.4K.25FPS
@@ -45,14 +43,14 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 logo="" group-title="China",HongKong.8K.30FPS
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS.1080P.30FPS
-http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 logo="" group-title="China",台湾省TVBSLIVE.1080P.30FPS
-https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻台.1080P.30FPS
+https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻.1080P.30FPS
 https://pkj99.github.io/YTLive/中天新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省东森新闻.1080P.60FPS
 https://pkj99.github.io/YTLive/東森新聞.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省三立新闻.1080P.30FPS
+https://pkj99.github.io/YTLive/三立新闻台.m3u8
 #EXTINF:-1 logo="" group-title="China",音乐MV.1080P.30FPS
 https://www.goodiptv.club/douyu/9588891
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯Rt.1080P.25FPS
