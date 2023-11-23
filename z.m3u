@@ -67,22 +67,22 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 logo="" group-title="China",HongKong.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻台
+https://epg.pw/stream/f9efb8d90b794167021e488f94eca9fca27ebd9a457141905d28cf3de633392e.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS.NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+https://epg.pw/stream/ae2da4fe052e892865797fa735bf3ca2298ca49156e0c98d3bbd670008162fc2.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS
 https://epg.pw/stream/209e83121746809d6d24ee7a893ff596a9936802cd6a91ea72848053674bc94f.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+https://epg.pw/stream/1a83de037c49efece573d043731a08720f30a6c0ffdb495762f205e7567a26ad.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+https://epg.pw/stream/75ed5dace6085a341761f5b7fe43bbbc83c975c8e80fd064568286b5c539cfb9.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省东森新闻
 https://epg.pw/stream/ed5584e2a99e88b1171f18ae15a1617c697612d1f2797caef1960b52f32ef8ed.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省东森财经新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省三立新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省三立新闻LIVE
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+https://epg.pw/stream/1f0d0e82ff3b9bbf3fbb877a47a08099bd3c5d972e033a5015f3da0097a458d3.ctv
+#EXTINF:-1 logo="" group-title="China",台湾省三立INEWS
+https://epg.pw/stream/a2330bdca96a3420aa2a0558fee3e7a27377acf939e88305f7d3c66e9c5b1a15.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省三立LIVE
 https://epg.pw/stream/8d53e3f66f1ef64c060c8e27ba1f509b63ed0f1d2a465d6ea5b330f6001e53b8.ctv
 #EXTINF:-1 logo="" group-title="China",音乐MV
