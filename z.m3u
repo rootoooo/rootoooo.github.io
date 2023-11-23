@@ -65,12 +65,26 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/o
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 logo="" group-title="China",香港特区台.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省TVBSnews
-https://pkj99.github.io/YTLive/TVBS新聞.m3u8
+#EXTINF:-1 logo="" group-title="China",HongKong.IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省TVBS.NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省TVBS
+https://epg.pw/stream/209e83121746809d6d24ee7a893ff596a9936802cd6a91ea72848053674bc94f.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻
-https://pkj99.github.io/YTLive/中天新聞.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省东森新闻
-https://pkj99.github.io/YTLive/東森新聞.m3u8
+https://epg.pw/stream/ed5584e2a99e88b1171f18ae15a1617c697612d1f2797caef1960b52f32ef8ed.ctv
+#EXTINF:-1 logo="" group-title="China",台湾省东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省三立新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省三立新闻LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 logo="" group-title="China",台湾省三立LIVE
+https://epg.pw/stream/8d53e3f66f1ef64c060c8e27ba1f509b63ed0f1d2a465d6ea5b330f6001e53b8.ctv
 #EXTINF:-1 logo="" group-title="China",音乐MV
 https://www.goodiptv.club/douyu/9588891
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯RT
