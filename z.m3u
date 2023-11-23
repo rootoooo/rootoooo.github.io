@@ -18,7 +18,7 @@ http://222.71.221.186:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV5+.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV5+
-http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV13.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV13
