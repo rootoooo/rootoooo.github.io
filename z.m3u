@@ -66,7 +66,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 #EXTINF:-1 logo="" group-title="China",香港特区台.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+https://epg.pw/stream/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS
 https://epg.pw/stream/209e83121746809d6d24ee7a893ff596a9936802cd6a91ea72848053674bc94f.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省东森新闻
