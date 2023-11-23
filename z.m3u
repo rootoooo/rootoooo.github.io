@@ -1,56 +1,68 @@
 #EXTM3U
-#EXTINF:-1 logo="" group-title="China",CCTV1
+#EXTINF:-1 logo="" group-title="China",CCTV1.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV2
+#EXTINF:-1 logo="" group-title="China",CCTV1
+http://222.71.221.186:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV2.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV3
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV4
+#EXTINF:-1 logo="" group-title="China",CCTV2
+http://222.71.221.186:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV4.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV5
+#EXTINF:-1 logo="" group-title="China",CCTV4
+http://222.71.221.186:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV5+
+#EXTINF:-1 logo="" group-title="China",CCTV5
+http://222.71.221.186:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5+.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5+
+http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 logo="" group-title="China",CCTV13.IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV14
+#EXTINF:-1 logo="" group-title="China",CCTV14.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV16
+#EXTINF:-1 logo="" group-title="China",CCTV14
+http://222.71.221.186:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV16.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CGTN
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 logo="" group-title="China",CGTNDocumentary
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-#EXTINF:-1 logo="" group-title="China",广西卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
-#EXTINF:-1 logo="" group-title="China",北京卫视
+#EXTINF:-1 logo="" group-title="China",CCTV16
+http://111.20.40.165/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 logo="" group-title="China",北京卫视.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
-#EXTINF:-1 logo="" group-title="China",东方卫视
+#EXTINF:-1 logo="" group-title="China",北京卫视
+http://222.71.221.186:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 logo="" group-title="China",东方卫视.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:-1 logo="" group-title="China",浙江卫视
+#EXTINF:-1 logo="" group-title="China",东方卫视
+http://222.71.221.186:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 logo="" group-title="China",浙江卫视.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
-#EXTINF:-1 logo="" group-title="China",江苏卫视
+#EXTINF:-1 logo="" group-title="China",浙江卫视
+http://222.71.221.186:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 logo="" group-title="China",江苏卫视.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
-#EXTINF:-1 logo="" group-title="China",湖南卫视
+#EXTINF:-1 logo="" group-title="China",江苏卫视
+http://222.71.221.186:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 logo="" group-title="China",湖南卫视.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
-#EXTINF:-1 logo="" group-title="China",香港特区中文台
+#EXTINF:-1 logo="" group-title="China",湖南卫视
+http://222.71.221.186:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 logo="" group-title="China",香港特区中文台.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 logo="" group-title="China",香港特区资讯台
+#EXTINF:-1 logo="" group-title="China",香港特区资讯台.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 logo="" group-title="China",香港特区台
+#EXTINF:-1 logo="" group-title="China",香港特区台.IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省TVBSnews
 https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻
 https://pkj99.github.io/YTLive/中天新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省东森新闻
 https://pkj99.github.io/YTLive/東森新聞.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省三立新闻
-https://pkj99.github.io/YTLive/三立新闻台.m3u8
 #EXTINF:-1 logo="" group-title="China",音乐MV
 https://www.goodiptv.club/douyu/9588891
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯RT
