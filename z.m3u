@@ -7,6 +7,10 @@ http://222.71.221.186:9901/tsfile/live/0001_1.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV2
 http://222.71.221.186:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV3.IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV3
+http://222.71.221.186:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV4.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV4
@@ -31,6 +35,10 @@ http://222.71.221.186:9901/tsfile/live/0014_1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV16
 http://111.20.40.165/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 logo="" group-title="China",广西卫视.IPV6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
+#EXTINF:-1 logo="" group-title="China",广西卫视
+http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 #EXTINF:-1 logo="" group-title="China",北京卫视.IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 logo="" group-title="China",北京卫视
@@ -101,35 +109,35 @@ https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="America",美国NewsMax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 logo="" group-title="综合",Bloomberg
+#EXTINF:-1 logo="" group-title="Mix",Bloomberg
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",Fashion
+#EXTINF:-1 logo="" group-title="Mix",Fashion
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",Clarity
+#EXTINF:-1 logo="" group-title="Mix",Clarity
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 logo="" group-title="综合",LoveNature
+#EXTINF:-1 logo="" group-title="Mix",LoveNature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 logo="" group-title="综合",loupe
+#EXTINF:-1 logo="" group-title="Mix",loupe
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",NASA1
+#EXTINF:-1 logo="" group-title="Mix",NASA1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 logo="" group-title="综合",NASA2
+#EXTINF:-1 logo="" group-title="Mix",NASA2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 logo="" group-title="综合",Mavtv
+#EXTINF:-1 logo="" group-title="Mix",Mavtv
 https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",SportsGrid
+#EXTINF:-1 logo="" group-title="Mix",SportsGrid
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",RedBull
+#EXTINF:-1 logo="" group-title="Mix",RedBull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 logo="" group-title="综合",Outside
+#EXTINF:-1 logo="" group-title="Mix",Outside
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 logo="" group-title="综合",Discovery
+#EXTINF:-1 logo="" group-title="Mix",Discovery
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
-#EXTINF:-1 logo="" group-title="综合",ZooMoo
+#EXTINF:-1 logo="" group-title="Mix",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",THT
+#EXTINF:-1 logo="" group-title="Mix",THT
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 logo="" group-title="综合",MTV
+#EXTINF:-1 logo="" group-title="Mix",MTV
 https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
 
 
