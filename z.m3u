@@ -89,8 +89,6 @@ https://epg.pw/stream/f97a160d98f87fbc12dfb8c7e015dc4839b08ffca5d5384c1e9436eac1
 https://epg.pw/stream/ed5584e2a99e88b1171f18ae15a1617c697612d1f2797caef1960b52f32ef8ed.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省三立LIVE
 https://epg.pw/stream/8d53e3f66f1ef64c060c8e27ba1f509b63ed0f1d2a465d6ea5b330f6001e53b8.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省三立财经
-https://epg.pw/stream/6a5c8fecfe65490d68c36a85075822c4ed8c34822cadde030baacb291418b406.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省台视LIVE
 https://epg.pw/stream/6ad862162e8226e1a6c7bea6f5df1032005375d9c5eb01d53a474e83b5fbf842.ctv
 #EXTINF:-1 logo="" group-title="China",台湾省寰宇新聞
@@ -159,5 +157,7 @@ http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 logo="" group-title="Mix",MTV
 https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
+#EXTINF:-1 logo="" group-title="Mix",WWE
+https://epg.pw/stream/bdf66c847cabcdaf2c0cdcb00cc2256ea81aea93e4167efcb7d5fb58243dee99.ctv
 
 
