@@ -37,36 +37,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/o
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 logo="" group-title="China",香港台
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 logo="" group-title="China",8K
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 logo="" group-title="China",无线新聞台
-https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
-#EXTINF:-1 logo="" group-title="China",J2
-https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv
-#EXTINF:-1 logo="" group-title="China",翡翠台
-https://epg.pw/stream/0e22249951c49760b078dc8b0ba7751cd2f13d69964892dddb16160127171c2c.ctv
-#EXTINF:-1 logo="" group-title="China",星河台
-https://epg.pw/stream/93bdf6ab2273f194988b51904529ae553d58eb27b76dfe0c1df605edd279600f.ctv
-#EXTINF:-1 logo="" group-title="China",HKS
-https://epg.pw/stream/492e9c1ee871dfd72e301ac5f40de1a895ebed0c45c488b72b91d8874ba370a6.ctv
-#EXTINF:-1 logo="" group-title="China",Pearl
-https://epg.pw/stream/3ce97e80d81f8f3a2626acb024afe18285832eb51c609946e365a9974ef74cba.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻台
-https://epg.pw/stream/f9efb8d90b794167021e488f94eca9fca27ebd9a457141905d28cf3de633392e.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS
-https://epg.pw/stream/209e83121746809d6d24ee7a893ff596a9936802cd6a91ea72848053674bc94f.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省中天新闻
-https://epg.pw/stream/f97a160d98f87fbc12dfb8c7e015dc4839b08ffca5d5384c1e9436eac121cf76.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省东森新闻
-https://epg.pw/stream/ed5584e2a99e88b1171f18ae15a1617c697612d1f2797caef1960b52f32ef8ed.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省三立LIVE
-https://epg.pw/stream/8d53e3f66f1ef64c060c8e27ba1f509b63ed0f1d2a465d6ea5b330f6001e53b8.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省台视LIVE
-https://epg.pw/stream/6ad862162e8226e1a6c7bea6f5df1032005375d9c5eb01d53a474e83b5fbf842.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省寰宇新聞
-https://epg.pw/stream/1a8764d080afe4b8543f76b10ec64c55d4ae232d73ac71da514a7ba834f2b0e6.ctv
-#EXTINF:-1 logo="" group-title="China",台湾省民视新聞
-https://epg.pw/stream/ad3452d761cc6ad1e269f5bfac55e1444ec509ec3f718c434d1fb713cf5ea4b7.ctv
 #EXTINF:-1 logo="" group-title="China",音乐MV
 https://www.goodiptv.club/douyu/9588891
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯RT
@@ -129,7 +99,5 @@ http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 logo="" group-title="Mix",MTV
 https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Mix",WWE
-https://epg.pw/stream/bdf66c847cabcdaf2c0cdcb00cc2256ea81aea93e4167efcb7d5fb58243dee99.ctv
 
 
