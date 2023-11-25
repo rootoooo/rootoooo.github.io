@@ -13,8 +13,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",CCTV13
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
-#EXTINF:-1 logo="" group-title="LIVE",CCTV13 LIVE
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",CCTV14
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",CCTV16 4K
@@ -67,6 +65,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Discovery探索频道
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",WWE世界摔角娱乐
+https://epg.pw/stream/9fec54924d5c46bc4c75e41ddf98ecc4cef7f4eb1e1dce32ed865186aaf23270.ctv
 #EXTINF:-1 logo="" group-title="Russia",RT今日俄罗斯电视台
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Japan",NHK日本国际传媒
