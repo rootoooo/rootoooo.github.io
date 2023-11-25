@@ -73,13 +73,13 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 logo="" group-title="Bharat",WION印度新闻台
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 logo="" group-title="Australia",ABC公共电视台
+#EXTINF:-1 logo="" group-title="Australia",ABC澳大利亚公共电视台
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 logo="" group-title="Turkey",TRT土耳其广播电视台
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 logo="" group-title="Qatar",Al Jazeera半岛电视台
+#EXTINF:-1 logo="" group-title="Qatar",Al Jazeera卡塔尔半岛电视台
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 logo="" group-title="Singapore",CNA亚洲新闻台
+#EXTINF:-1 logo="" group-title="Singapore",CNA新加坡亚洲新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 logo="" group-title="Europe",Euronews欧洲新闻电视台
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
@@ -89,15 +89,15 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/strea
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 #EXTINF:-1 logo="" group-title="England",BBC英国广播公司
 http://149.62.177.107/BBC_World_News_HD/index.m3u8?token=test
-#EXTINF:-1 logo="" group-title="America",CNN有线电视新闻网
+#EXTINF:-1 logo="" group-title="America",CNN美国有线电视新闻网
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
-#EXTINF:-1 logo="" group-title="America",GlobalNews环球新闻
+#EXTINF:-1 logo="" group-title="America",GlobalNews美国环球新闻
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 logo="" group-title="America",FOX福克斯新闻网
+#EXTINF:-1 logo="" group-title="America",FOX美国福克斯新闻网
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",CBS哥伦比亚广播公司
+#EXTINF:-1 logo="" group-title="America",CBS美国哥伦比亚广播公司
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 logo="" group-title="America",Reuters路透社
+#EXTINF:-1 logo="" group-title="America",Reuters美国路透社
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 
 
