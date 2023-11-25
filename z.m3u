@@ -1,103 +1,103 @@
 #EXTM3U
-#EXTINF:-1 logo="" group-title="China",CCTV1
+#EXTINF:-1 logo="" group-title="LIVE",CCTV1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV2
+#EXTINF:-1 logo="" group-title="LIVE",CCTV2
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV3
+#EXTINF:-1 logo="" group-title="LIVE",CCTV3
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV4
+#EXTINF:-1 logo="" group-title="LIVE",CCTV4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV5
+#EXTINF:-1 logo="" group-title="LIVE",CCTV5 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV5+
+#EXTINF:-1 logo="" group-title="LIVE",CCTV5+
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV13
+#EXTINF:-1 logo="" group-title="LIVE",CCTV13
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV13备用
+#EXTINF:-1 logo="" group-title="LIVE",CCTV13 LIVE
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV14
+#EXTINF:-1 logo="" group-title="LIVE",CCTV14
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV16
+#EXTINF:-1 logo="" group-title="LIVE",CCTV16 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 logo="" group-title="China",广西卫视
+#EXTINF:-1 logo="" group-title="LIVE",广西卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
-#EXTINF:-1 logo="" group-title="China",北京卫视
+#EXTINF:-1 logo="" group-title="LIVE",北京卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
-#EXTINF:-1 logo="" group-title="China",东方卫视
+#EXTINF:-1 logo="" group-title="LIVE",东方卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:-1 logo="" group-title="China",浙江卫视
+#EXTINF:-1 logo="" group-title="LIVE",浙江卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
-#EXTINF:-1 logo="" group-title="China",江苏卫视
+#EXTINF:-1 logo="" group-title="LIVE",江苏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
-#EXTINF:-1 logo="" group-title="China",湖南卫视
+#EXTINF:-1 logo="" group-title="LIVE",湖南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
-#EXTINF:-1 logo="" group-title="China",凤凰卫视中文台
+#EXTINF:-1 logo="" group-title="LIVE",凤凰卫视中文台
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台
+#EXTINF:-1 logo="" group-title="LIVE",凤凰卫视资讯台
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 logo="" group-title="China",香港台
+#EXTINF:-1 logo="" group-title="LIVE",香港台
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 logo="" group-title="China",音乐MV
-https://www.goodiptv.club/douyu/9588891
-#EXTINF:-1 logo="" group-title="Russia",俄罗斯RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Japan",日本NHK
-http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 logo="" group-title="Australia",澳大利亚ABC
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-#EXTINF:-1 logo="" group-title="Turkey",土耳其TRT
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 logo="" group-title="Qatar",卡塔尔半岛
-https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 logo="" group-title="Singapore",新加坡CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 logo="" group-title="Europe",欧洲新闻Europe
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Germany",德国DW
-https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="France",法国24
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
-#EXTINF:-1 logo="" group-title="England",英格兰BBC
-http://149.62.177.107/BBC_World_News_HD/index.m3u8?token=test
-#EXTINF:-1 logo="" group-title="America",美国CNN
-https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
-#EXTINF:-1 logo="" group-title="America",美国GlobalNews
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 logo="" group-title="America",美国FOX
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",美国CBS
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 logo="" group-title="America",美国Reuters
-https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",美国OAN
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",美国NewsMax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 logo="" group-title="Mix",Bloomberg
-https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Mix",Fashion
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Mix",Clarity
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 logo="" group-title="Mix",LoveNature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 logo="" group-title="Mix",loupe
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Mix",NASA1
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 logo="" group-title="Mix",NASA2
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 logo="" group-title="Mix",SportsGrid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Mix",RedBull
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 logo="" group-title="Mix",Outside
-https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 logo="" group-title="Mix",Discovery
-http://45.159.74.14:80/DiscoveryChannel/index.m3u8
-#EXTINF:-1 logo="" group-title="Mix",THT
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 logo="" group-title="Mix",MTV
+#EXTINF:-1 logo="" group-title="LIVE",香港 8K
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",MTV
 https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",THT
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",MusicMV
+https://www.goodiptv.club/douyu/9588891
+#EXTINF:-1 logo="" group-title="LIVE",Bloomberg 4K彭博社
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Fashion 4K法国时尚电视台
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Clarity 4K突突突
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",LoveNature 4K大自然纪实
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Loupe 4K艺术流媒体
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",NASA1美国国家航空航天局
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",NASA2美国国家航空航天局
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",SportsGrid体育流媒体
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",RedBull红牛频道
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Outside户外运动
+https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Discovery探索频道
+http://45.159.74.14:80/DiscoveryChannel/index.m3u8
+#EXTINF:-1 logo="" group-title="Russia",RT今日俄罗斯电视台
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 logo="" group-title="Japan",NHK日本国际传媒
+http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 logo="" group-title="Bharat",WION印度新闻台
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 logo="" group-title="Australia",ABC公共电视台
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 logo="" group-title="Turkey",TRT土耳其广播电视台
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 logo="" group-title="Qatar",Al Jazeera半岛电视台
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 logo="" group-title="Singapore",CNA亚洲新闻台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 logo="" group-title="Europe",Euronews欧洲新闻电视台
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="Germany",DW德国之声
+https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="France",France24法国新闻社
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+#EXTINF:-1 logo="" group-title="England",BBC英国广播公司
+http://149.62.177.107/BBC_World_News_HD/index.m3u8?token=test
+#EXTINF:-1 logo="" group-title="America",CNN有线电视新闻网
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+#EXTINF:-1 logo="" group-title="America",GlobalNews环球新闻
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+#EXTINF:-1 logo="" group-title="America",FOX福克斯新闻网
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="America",CBS哥伦比亚广播公司
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 logo="" group-title="America",Reuters路透社
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 
 
