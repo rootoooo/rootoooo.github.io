@@ -1,54 +1,52 @@
 #EXTM3U
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV1
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV1 IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV1备用
-http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV5 4K
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV2 IPV6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV4 IPV6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV5 4K IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV5+
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV5+ IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV13
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV13 IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV13备用
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV14
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV14 IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV16 4K
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV16 4K IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",广西卫视
+#EXTINF:-1 logo="" group-title="中国大陆",广西卫视 IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",东方卫视
+#EXTINF:-1 logo="" group-title="中国大陆",北京卫视 IPV6
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",东方卫视 IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",浙江卫视
+#EXTINF:-1 logo="" group-title="中国大陆",浙江卫视 IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",江苏卫视
+#EXTINF:-1 logo="" group-title="中国大陆",江苏卫视 IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",湖南卫视
+#EXTINF:-1 logo="" group-title="中国大陆",湖南卫视 IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
-#EXTINF:-1 logo="" group-title="香港特区",凤凰卫视中文台
+#EXTINF:-1 logo="" group-title="香港特区",凤凰卫视中文台 IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 logo="" group-title="香港特区",凤凰卫视资讯台
+#EXTINF:-1 logo="" group-title="香港特区",凤凰卫视资讯台 IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 logo="" group-title="香港特区",HongKong 8K IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 logo="" group-title="台湾省",TVBS
 http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 logo="" group-title="台湾省",TVBS备用
-http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 #EXTINF:-1 logo="" group-title="台湾省",中天新闻
 https://pkj99.github.io/YTLive/中天新聞.m3u8
-#EXTINF:-1 logo="" group-title="台湾省",中天新闻备用
-http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+#EXTINF:-1 logo="" group-title="台湾省",中视新闻
+https://pkj99.github.io/YTLive/中視新聞.m3u8
 #EXTINF:-1 logo="" group-title="台湾省",东森新闻
 https://pkj99.github.io/YTLive/東森新聞.m3u8
-#EXTINF:-1 logo="" group-title="台湾省",东森新闻备用
-http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 logo="" group-title="台湾省",三立INEWS
 https://pkj99.github.io/YTLive/三立新闻台.m3u8
-#EXTINF:-1 logo="" group-title="台湾省",三立INEWS备用
-https://tv.iill.top/youtube/CKjSm5ZeehE
 #EXTINF:-1 logo="" group-title="台湾省",镜新闻
 https://pkj99.github.io/YTLive/鏡新聞.m3u8
-#EXTINF:-1 logo="" group-title="台湾省",镜新闻备用
-https://tv.iill.top/youtube/5n0y6b0Q25o
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg 4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Fashion 4K法国时尚电视台
@@ -98,7 +96,7 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/strea
 #EXTINF:-1 logo="" group-title="France",France24法国新闻社
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 #EXTINF:-1 logo="" group-title="England",BBC英国广播公司
-http://149.62.177.107/BBC_World_News_HD/index.m3u8?token=test
+http://free.cvmtv.site/BBCN?token=live
 #EXTINF:-1 logo="" group-title="America",CNN美国有线电视新闻网
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 #EXTINF:-1 logo="" group-title="America",GlobalNews美国环球新闻
@@ -109,5 +107,7 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 logo="" group-title="America",Reuters美国路透社
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="America",CNBC美国消费者新闻与商业频道
+http://free.cvmtv.site/CNBC?token=live
 
 
