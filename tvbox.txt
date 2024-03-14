@@ -14,7 +14,7 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=16359
 凤凰卫视中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 秋月剪水,http://epg.112114.xyz/douyu/9588891
-TVBS,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS-NEWS,https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
 东森新闻,https://pkj99.github.io/YTLive/東森新聞.m3u8
