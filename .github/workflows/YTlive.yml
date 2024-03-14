@@ -1,0 +1,79 @@
+name: Get YouTube Live to m3u8
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install yt-dlp
+      run: |
+        sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+        sudo chmod a+rx /usr/local/bin/yt-dlp
+
+    - name: Get 东森新闻.m3u8
+      run: |
+        touch ./东森新闻.m3u8
+        sudo cat >./东森新闻.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp -g https://www.youtube.com/watch?v=2dfAzcDf8Zg)
+        EOL
+
+    - name: Get 中天新闻.m3u8
+      run: |
+        touch ./中天新闻.m3u8
+        sudo cat >./中天新闻.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp -g https://www.youtube.com/watch?v=oIgbl7t0S_w)
+        EOL
+
+
+    - name: Get 三立新闻台.m3u8
+      run: |
+        touch ./三立新闻台.m3u8
+        sudo cat >./三立新闻台.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp -g https://www.youtube.com/watch?v=CKjSm5ZeehE)
+        EOL
+
+    - name: Get TVBS.m3u8
+      run: |
+        touch ./TVBS.m3u8
+        sudo cat >./TVBS.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp -g https://www.youtube.com/watch?v=YvdcZ_jpLXE)
+        EOL
+
+
+    # - name : Upload artifact
+    #   uses: actions/upload-artifact@master
+    #   with:
+    #     name: YTlive m3u8
+    #     path: .
+
+    - name : Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: YTlive m3u8
+        path: .
+
+
+    - name: Git push assets to "YTlive" branch
+      run: |
+        git init
+        git config --local user.name "actions"
+        git config --local user.email "action@github.com"
+        git checkout -b YTlive
+        git add .
+        git commit -m "Update YTlive"
+        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+        git push -f -u origin YTlive
