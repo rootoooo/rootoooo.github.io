@@ -29,16 +29,16 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 logo="" group-title="china",华数-4K-IPV6
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="china",CCTV16-4K-IPV6
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 logo="" group-title="china",凤凰卫视中文台
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 logo="" group-title="china",凤凰卫视资讯台
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 logo="" group-title="china",秋月剪水
 http://epg.112114.xyz/douyu/9588891
-#EXTINF:-1 logo="" group-title="china",凤凰资讯
+#EXTINF:-1 logo="" group-title="china",凤凰卫视中文台-备
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
+#EXTINF:-1 logo="" group-title="china",凤凰卫视资讯台-备
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 logo="" group-title="china",TVBS
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
 #EXTINF:-1 logo="" group-title="china",TVBS-备
