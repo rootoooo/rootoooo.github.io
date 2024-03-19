@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 logo="" group-title="china",CCTV1-IPV6
+#EXTINF:-1 logo="" group-title="china",CCTV1
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-#EXTINF:-1 logo="" group-title="china",CCTV2-IPV6
+#EXTINF:-1 logo="" group-title="china",CCTV2
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 logo="" group-title="china",CCTV4-IPV6
+#EXTINF:-1 logo="" group-title="china",CCTV4
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1 logo="" group-title="china",CCTV5-IPV6
+#EXTINF:-1 logo="" group-title="china",CCTV5
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 logo="" group-title="china",CCTV5+-IPV6
+#EXTINF:-1 logo="" group-title="china",CCTV5+
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 logo="" group-title="china",CCTV13-IPV6
+#EXTINF:-1 logo="" group-title="china",CCTV13
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 logo="" group-title="china",CCTV16-IPV6
+#EXTINF:-1 logo="" group-title="china",CCTV16
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:-1 logo="" group-title="china",广西卫视-IPV6
+#EXTINF:-1 logo="" group-title="china",广西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 logo="" group-title="china",东方卫视-IPV6
+#EXTINF:-1 logo="" group-title="china",东方卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 logo="" group-title="china",浙江卫视-IPV6
+#EXTINF:-1 logo="" group-title="china",浙江卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 logo="" group-title="china",江苏卫视-IPV6
+#EXTINF:-1 logo="" group-title="china",江苏卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 logo="" group-title="china",湖南卫视-IPV6
+#EXTINF:-1 logo="" group-title="china",湖南卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 logo="" group-title="china",爱上-4K-IPV6
+#EXTINF:-1 logo="" group-title="china",爱上-4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 logo="" group-title="china",SiTV欢笑剧场-4K-IPV6
+#EXTINF:-1 logo="" group-title="china",SiTV欢笑剧场-4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 logo="" group-title="china",华数-4K-IPV6
+#EXTINF:-1 logo="" group-title="china",华数-4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 logo="" group-title="china",凤凰卫视中文台
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -35,21 +35,21 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 logo="" group-title="china",秋月剪水
 http://epg.112114.xyz/douyu/9588891
-#EXTINF:-1 logo="" group-title="china",凤凰卫视中文台-备
+#EXTINF:-1 logo="" group-title="china",中文台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-#EXTINF:-1 logo="" group-title="china",凤凰卫视资讯台-备
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 logo="" group-title="china",资讯台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 #EXTINF:-1 logo="" group-title="china",TVBS
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
-#EXTINF:-1 logo="" group-title="china",TVBS-备
+#EXTINF:-1 logo="" group-title="china",TVBS-海外
 http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 #EXTINF:-1 logo="" group-title="china",中天新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
-#EXTINF:-1 logo="" group-title="china",中天新闻-备
+#EXTINF:-1 logo="" group-title="china",中天新闻-海外
 https://pkj99.github.io/YTLive/中天新聞.m3u8
 #EXTINF:-1 logo="" group-title="china",东森新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
-#EXTINF:-1 logo="" group-title="china",东森新闻-备
+#EXTINF:-1 logo="" group-title="china",东森新闻-海外
 https://pkj99.github.io/YTLive/東森新聞.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
