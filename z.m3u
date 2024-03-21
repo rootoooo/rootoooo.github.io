@@ -33,24 +33,36 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 logo="" group-title="china",凤凰卫视资讯台
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 logo="" group-title="china",秋月剪水
-http://epg.112114.xyz/douyu/9588891
+#EXTINF:-1 logo="" group-title="china",虎牙-上山打老虎
+http://148.135.93.213:81/live/huya/19439762
+#EXTINF:-1 logo="" group-title="china",斗鱼-秋月剪水
+https://yang-1989.eu.org/douyu/9588891
 #EXTINF:-1 logo="" group-title="china",中文台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 #EXTINF:-1 logo="" group-title="china",资讯台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
+#EXTINF:-1 logo="" group-title="china",翡翠台
+http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+#EXTINF:-1 logo="" group-title="china",明珠台
+http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+#EXTINF:-1 logo="" group-title="china",无线新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+#EXTINF:-1 logo="" group-title="china",无线财经
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
 #EXTINF:-1 logo="" group-title="china",TVBS
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
-#EXTINF:-1 logo="" group-title="china",TVBS-海外
-http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 #EXTINF:-1 logo="" group-title="china",中天新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
-#EXTINF:-1 logo="" group-title="china",中天新闻-海外
-https://pkj99.github.io/YTLive/中天新聞.m3u8
 #EXTINF:-1 logo="" group-title="china",东森新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
-#EXTINF:-1 logo="" group-title="china",东森新闻-海外
-https://pkj99.github.io/YTLive/東森新聞.m3u8
+#EXTINF:-1 logo="" group-title="china",三立新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
+#EXTINF:-1 logo="" group-title="china",三立LIVE
+http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
+#EXTINF:-1 logo="" group-title="china",中视新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetymjldhdujocnjsxw.flv
+#EXTINF:-1 logo="" group-title="china",镜新闻
+http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Fashion-4K法国时尚电视台
@@ -83,6 +95,12 @@ https://hls.pmchd.live/hls/stream.m3u8
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Vibee
 http://de1se01.v2beat.live/chunks.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",SkySport天空体育台
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",FIFA+国际足联
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 logo="" group-title="Russia",RT今日俄罗斯电视台
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Bharat",WION印度新闻台
@@ -103,6 +121,8 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/strea
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="England",BBC英国广播公司
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 logo="" group-title="England",Sky天空电视台
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 logo="" group-title="America",CNN美国有线电视新闻网
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 #EXTINF:-1 logo="" group-title="America",GlobalNews美国环球新闻
@@ -111,6 +131,12 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="America",CBS美国哥伦比亚广播公司
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 logo="" group-title="America",ABC美国广播公司
+https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1 logo="" group-title="America",Newsmax特朗普电视台
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 logo="" group-title="America",CBN基督教
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 logo="" group-title="咪咕直播",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 logo="" group-title="咪咕直播",咪咕直播4K-2
