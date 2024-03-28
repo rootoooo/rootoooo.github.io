@@ -17,8 +17,8 @@ SiTV欢笑剧场-4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 华数-4K,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 凤凰卫视中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-中文台,https://edge1.laotv.la/live/PhxChinese/index.m3u8
-资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
+中文台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS新闻,https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 中天新闻,https://pkj99.github.io/YTLive/中天新聞.m3u8
