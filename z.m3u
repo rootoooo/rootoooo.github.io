@@ -7,6 +7,16 @@ http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV13
 http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 logo="" group-title="China",北京卫视
+http://66.165.240.154:8080/live/jsydws07/hls.m3u8
+#EXTINF:-1 logo="" group-title="China",东方卫视
+http://66.165.240.154:8080/live/jsydws03/hls.m3u8
+#EXTINF:-1 logo="" group-title="China",浙江卫视
+http://66.165.240.154:8080/live/jsydws10/hls.m3u8
+#EXTINF:-1 logo="" group-title="China",江苏卫视
+http://66.165.240.154:8080/live/jsydws01/hls.m3u8
+#EXTINF:-1 logo="" group-title="China",湖南卫视
+http://66.165.240.154:8080/live/jsydws06/hls.m3u8
 #EXTINF:-1 logo="" group-title="HongKong",凤凰卫视中文台
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 logo="" group-title="HongKong",凤凰卫视资讯台
@@ -19,20 +29,20 @@ http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 logo="" group-title="HongKong",资讯台
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 logo="" group-title="HongKong",无线新闻台
+http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",TVBS
-http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 logo="" group-title="TaiWan",TVBSnews
-https://pkj99.github.io/YTLive/TVBS新聞.m3u8
+http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",中天新闻
-https://pkj99.github.io/YTLive/中天新聞.m3u8
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 logo="" group-title="TaiWan",三立新闻
+http://66.165.240.154:8080/live/slxw01/hls.m3u8
+#EXTINF:-1 logo="" group-title="TaiWan",三立LIVE
+http://66.165.240.154:8080/live/slxw02/hls.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",东森新闻
 https://pkj99.github.io/YTLive/東森新聞.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",三立新闻
-https://pkj99.github.io/YTLive/三立新闻台.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",中视新闻
-https://pkj99.github.io/YTLive/中視新聞.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",台视新闻
-https://pkj99.github.io/YTLive/台視新聞.m3u8
+#EXTINF:-1 logo="" group-title="TaiWan",小猪佩奇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Fashion-4K法国时尚电视台
