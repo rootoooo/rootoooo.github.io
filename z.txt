@@ -17,8 +17,8 @@ CCTV14,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 凤凰中文A,https://edge2.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文B,http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
 凤凰中文C,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文，https://tv.iill.top/jd/fhzw
-凤凰卫视资讯台,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+凤凰中文D，https://tv.iill.top/jd/fhzw
+凤凰资讯A,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 凤凰资讯B,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 凤凰资讯C,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯D，https://tv.iill.top/jd/fhzx
