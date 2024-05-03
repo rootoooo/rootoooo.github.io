@@ -10,15 +10,15 @@ http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
 #EXTINF:-1 logo="" group-title="China",广西卫视-IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 logo="" group-title="China",北京卫视
-http://66.165.240.154:8080/live/jsydws07/hls.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 logo="" group-title="China",东方卫视
-http://66.165.240.154:8080/live/jsydws03/hls.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 logo="" group-title="China",浙江卫视
-http://66.165.240.154:8080/live/jsydws10/hls.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 #EXTINF:-1 logo="" group-title="China",江苏卫视
-http://66.165.240.154:8080/live/jsydws01/hls.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 logo="" group-title="China",湖南卫视
-http://66.165.240.154:8080/live/jsydws06/hls.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 logo="" group-title="DongHua",CCTV14
 http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 logo="" group-title="DongHua",北京少儿卡通
