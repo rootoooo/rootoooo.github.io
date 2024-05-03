@@ -35,16 +35,12 @@ https://edge2.laotv.la/live/PhxChinese/index.m3u8
 http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
 #EXTINF:-1 logo="" group-title="HongKong",凤凰中文C
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",凤凰中文D
-https://tv.iill.top/jd/fhzw
 #EXTINF:-1 logo="" group-title="HongKong",凤凰资讯A
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 logo="" group-title="HongKong",凤凰资讯B
 http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 #EXTINF:-1 logo="" group-title="HongKong",凤凰资讯C
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",凤凰资讯D
-https://tv.iill.top/jd/fhzx
 #EXTINF:-1 logo="" group-title="TaiWan",TVBS
 https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",TVBS-LIVE
@@ -55,6 +51,10 @@ https://pkj99.github.io/YTLive/中天新聞.m3u8
 https://pkj99.github.io/YTLive/東森新聞.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",三立新闻
 https://pkj99.github.io/YTLive/三立新闻台.m3u8
+#EXTINF:-1 logo="" group-title="TaiWan",中视新闻
+https://pkj99.github.io/YTLive/中視新聞.m3u8
+#EXTINF:-1 logo="" group-title="TaiWan",台视新闻
+https://pkj99.github.io/YTLive/台視新聞.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Fashion-4K法国时尚电视台
