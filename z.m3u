@@ -29,32 +29,32 @@ http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 #EXTINF:-1 logo="" group-title="DongHua",江苏优漫卡通
 http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",凤凰卫视中文台
+#EXTINF:-1 logo="" group-title="HongKong",凤凰中文A
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",凤凰卫视资讯台
-https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",凤凰中文台
+#EXTINF:-1 logo="" group-title="HongKong",凤凰中文B
 http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",凤凰资讯台
-http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",中文台
+#EXTINF:-1 logo="" group-title="HongKong",凤凰中文C
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",资讯台
+#EXTINF:-1 logo="" group-title="HongKong",凤凰中文D
+https://tv.iill.top/jd/fhzw
+#EXTINF:-1 logo="" group-title="HongKong",凤凰资讯A
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 logo="" group-title="HongKong",凤凰资讯B
+http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
+#EXTINF:-1 logo="" group-title="HongKong",凤凰资讯C
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",无线新闻台
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+#EXTINF:-1 logo="" group-title="HongKong",凤凰资讯D
+https://tv.iill.top/jd/fhzx
 #EXTINF:-1 logo="" group-title="TaiWan",TVBS
 https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",TVBS亚洲
-http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+#EXTINF:-1 logo="" group-title="TaiWan",TVBS-LIVE
+https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",中天新闻
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",三立新闻
-http://66.165.240.154:8080/live/slxw01/hls.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",三立LIVE
-http://66.165.240.154:8080/live/slxw02/hls.m3u8
+https://pkj99.github.io/YTLive/中天新聞.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",东森新闻
 https://pkj99.github.io/YTLive/東森新聞.m3u8
+#EXTINF:-1 logo="" group-title="TaiWan",三立新闻
+https://pkj99.github.io/YTLive/三立新闻台.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Fashion-4K法国时尚电视台
