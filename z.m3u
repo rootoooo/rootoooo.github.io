@@ -15,8 +15,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
 #EXTINF:-1 logo="" group-title="China",广西卫视
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-#EXTINF:-1 logo="" group-title="China",北京卫视
-http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 logo="" group-title="China",东方卫视
 http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 logo="" group-title="China",浙江卫视
@@ -35,10 +33,12 @@ http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 #EXTINF:-1 logo="" group-title="DongHua",江苏优漫卡通
 http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
+#EXTINF:-1 logo="" group-title="HongKong",凤凰卫视中文台
+https://tv.iill.top/jd/fhzw
+#EXTINF:-1 logo="" group-title="HongKong",凤凰卫视资讯台
+https://tv.iill.top/jd/fhzx
 #EXTINF:-1 logo="" group-title="TaiWan",TVBS
 https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",TVBS网路新闻
-https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",中天新闻
 https://pkj99.github.io/YTLive/中天新聞.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",东森新闻
