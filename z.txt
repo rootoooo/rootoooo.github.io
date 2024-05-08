@@ -11,6 +11,8 @@ CCTV16,https://z88.ubtvfans.com/live/rx1/2821/e00bc8abdb50b2a016e41028e1dffee2/i
 浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+凤凰卫视中文台,https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+凤凰卫视资讯台,https://z88.ubtvfans.com/live/rx3/2292/45ceb0f863d4b877269f3c784ff16f30/index.m3u8
 咪咕视频1,http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
 咪咕视频2,http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
 咪咕视频3,http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
