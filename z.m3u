@@ -35,34 +35,6 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 logo="" group-title="HongKong",CCTV香港资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",TVBS
-https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",TVBS网路新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",中天新闻
-https://z88.ubtvfans.com/live/rx6/2420/82fd118bff7d1de735a8e9bce8756b8d/index.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",东森LIVE
-https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",东森新闻
-https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",东森财经新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",三立INEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",三立NEWS+
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",寰宇新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",民视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",台视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",镜新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 logo="" group-title="TaiWan",TaiWan
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Fashion-4K法国时尚电视台
