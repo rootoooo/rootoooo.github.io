@@ -7,9 +7,9 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV13-IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV香港中文台
+#EXTINF:-1 logo="" group-title="China",HK中文台
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV香港资讯台
+#EXTINF:-1 logo="" group-title="China",HK资讯台
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 logo="" group-title="China",广西卫视-IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
@@ -29,11 +29,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 #EXTINF:-1 logo="" group-title="China",音乐
 http://epg.112114.xyz/douyu/9588891
-#EXTINF:-1 logo="" group-title="HongKong",HongKong中文台
+#EXTINF:-1 logo="" group-title="HongKong",HK中文台
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",HongKong资讯台
+#EXTINF:-1 logo="" group-title="HongKong",HK资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",HongKong资讯
+#EXTINF:-1 logo="" group-title="HongKong",HK资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
