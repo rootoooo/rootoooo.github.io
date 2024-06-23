@@ -36,9 +36,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 logo="" group-title="HongKong",HongKong资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",TVBS
-https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",东森新闻
-https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
+http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",中天新闻
 http://tv.redrainl.site:9500/live.m3u8?c=3
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
