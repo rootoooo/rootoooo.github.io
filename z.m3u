@@ -17,12 +17,22 @@ http://epg.112114.xyz/douyu/9588891
 http://103.95.24.37:880/fhws.m3u8
 #EXTINF:-1 logo="" group-title="China",HK资讯
 http://103.95.24.37:880/fhzx.m3u8
-#EXTINF:-1 logo="" group-title="China",TVBS
-http://194.87.101.118/live.m3u8?c=5
 #EXTINF:-1 logo="" group-title="China",CTI
 http://194.87.101.118/live.m3u8?c=7
+#EXTINF:-1 logo="" group-title="China",CTV
+http://194.87.101.118/live.m3u8?c=6
+#EXTINF:-1 logo="" group-title="China",TTV
+http://194.87.101.118/live.m3u8?c=4
 #EXTINF:-1 logo="" group-title="China",SET
 http://194.87.101.118/live.m3u8?c=12
+#EXTINF:-1 logo="" group-title="China",MNEWS
+http://194.87.101.118/live.m3u8?c=10
+#EXTINF:-1 logo="" group-title="China",EBCmoney
+http://194.87.101.118/live.m3u8?c=14
+#EXTINF:-1 logo="" group-title="China",TVBS
+http://194.87.101.118/live.m3u8?c=5
+#EXTINF:-1 logo="" group-title="China",TVBSnews
+https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",EBC
 https://pkj99.github.io/YTLive/東森新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",广西卫视-IPV6
