@@ -5,8 +5,8 @@ CCTV13-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8
 CCTV香港中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 CCTV香港资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 Music,http://epg.112114.xyz/douyu/9588891
-CCTV香港中文台,http://103.95.24.37:880/fhws.m3u8
-CCTV香港资讯台,http://103.95.24.37:880/fhzx.m3u8
+HK中文,http://103.95.24.37:880/fhws.m3u8
+HK资讯,http://103.95.24.37:880/fhzx.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 CTI,http://194.87.101.118/live.m3u8?c=7
 EBC,http://37.27.111.214:8080/live/20/hls.m3u8
