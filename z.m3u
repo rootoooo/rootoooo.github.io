@@ -21,8 +21,6 @@ http://103.95.24.37:880/fhzx.m3u8
 http://194.87.101.118/live.m3u8?c=7
 #EXTINF:-1 logo="" group-title="China",CTV
 http://194.87.101.118/live.m3u8?c=6
-#EXTINF:-1 logo="" group-title="China",TTV
-http://194.87.101.118/live.m3u8?c=4
 #EXTINF:-1 logo="" group-title="China",SET
 http://194.87.101.118/live.m3u8?c=12
 #EXTINF:-1 logo="" group-title="China",MNEWS
@@ -35,6 +33,8 @@ http://194.87.101.118/live.m3u8?c=5
 https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",EBC
 https://pkj99.github.io/YTLive/東森新聞.m3u8
+#EXTINF:-1 logo="" group-title="China",天才衝衝衝
+https://pkj99.github.io/YTLive/天才衝衝衝.m3u8
 #EXTINF:-1 logo="" group-title="China",广西卫视-IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 logo="" group-title="China",东方卫视-IPV6
