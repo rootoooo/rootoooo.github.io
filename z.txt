@@ -9,13 +9,13 @@ HK中文,http://103.95.24.37:880/fhws.m3u8
 HK资讯,http://103.95.24.37:880/fhzx.m3u8
 CTI,http://194.87.101.118/live.m3u8?c=7
 CTV,http://194.87.101.118/live.m3u8?c=6
-TTV,http://194.87.101.118/live.m3u8?c=4
 SET,http://194.87.101.118/live.m3u8?c=12
 MNEWS,http://194.87.101.118/live.m3u8?c=10
 EBCmoney,http://194.87.101.118/live.m3u8?c=14
 TVBS,http://194.87.101.118/live.m3u8?c=5
 TVBSnews,https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 EBC,https://pkj99.github.io/YTLive/東森新聞.m3u8
+天才衝衝衝,https://pkj99.github.io/YTLive/天才衝衝衝.m3u8
 广西卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 东方卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 浙江卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
