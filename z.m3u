@@ -17,21 +17,21 @@ http://epg.112114.xyz/douyu/9588891
 http://103.95.24.37:880/fhws.m3u8
 #EXTINF:-1 logo="" group-title="China",HK资讯
 http://103.95.24.37:880/fhzx.m3u8
-#EXTINF:-1 logo="" group-title="China",CTI
+#EXTINF:-1 logo="" group-title="China",CTInews
 http://194.87.101.118/live.m3u8?c=7
-#EXTINF:-1 logo="" group-title="China",CTV
+#EXTINF:-1 logo="" group-title="China",CTVnews
 http://194.87.101.118/live.m3u8?c=6
-#EXTINF:-1 logo="" group-title="China",SET
+#EXTINF:-1 logo="" group-title="China",SETnews
 http://194.87.101.118/live.m3u8?c=12
-#EXTINF:-1 logo="" group-title="China",MNEWS
+#EXTINF:-1 logo="" group-title="China",Mnews
 http://194.87.101.118/live.m3u8?c=10
-#EXTINF:-1 logo="" group-title="China",EBC
+#EXTINF:-1 logo="" group-title="China",EBCnews
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 logo="" group-title="China",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 logo="" group-title="China",TVBSnews
 https://pkj99.github.io/YTLive/TVBS新聞.m3u8
-#EXTINF:-1 logo="" group-title="China",EBCnews
+#EXTINF:-1 logo="" group-title="China",EBC news
 https://pkj99.github.io/YTLive/東森新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",天才衝衝衝
 https://pkj99.github.io/YTLive/天才衝衝衝.m3u8
