@@ -11,8 +11,8 @@ CTI,http://194.87.101.118/live.m3u8?c=7
 CTV,http://194.87.101.118/live.m3u8?c=6
 SET,http://194.87.101.118/live.m3u8?c=12
 MNEWS,http://194.87.101.118/live.m3u8?c=10
-EBCmoney,http://194.87.101.118/live.m3u8?c=14
-TVBS,http://194.87.101.118/live.m3u8?c=5
+EBClive,http://37.27.111.214:8080/live/20/hls.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBSnews,https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 EBC,https://pkj99.github.io/YTLive/東森新聞.m3u8
 天才衝衝衝,https://pkj99.github.io/YTLive/天才衝衝衝.m3u8
