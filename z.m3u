@@ -21,10 +21,10 @@ http://103.95.24.37:880/fhzx.m3u8
 http://194.87.101.118/live.m3u8?c=7
 #EXTINF:-1 logo="" group-title="China",CTVnews
 http://194.87.101.118/live.m3u8?c=6
-#EXTINF:-1 logo="" group-title="China",SETnews
-http://194.87.101.118/live.m3u8?c=12
 #EXTINF:-1 logo="" group-title="China",Mnews
 http://194.87.101.118/live.m3u8?c=10
+#EXTINF:-1 logo="" group-title="China",SETnews
+http://194.87.101.118/live.m3u8?c=12
 #EXTINF:-1 logo="" group-title="China",EBCnews
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 logo="" group-title="China",TVBS
