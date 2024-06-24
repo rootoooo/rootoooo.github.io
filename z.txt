@@ -8,9 +8,9 @@ Music,http://epg.112114.xyz/douyu/9588891
 CCTV香港中文台,http://103.95.24.37:880/fhws.m3u8
 CCTV香港资讯台,http://103.95.24.37:880/fhzx.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 中天新闻,http://194.87.101.118/live.m3u8?c=7
-三立新闻,http://194.87.101.118/live.m3u8?c=7
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+三立新闻,http://194.87.101.118/live.m3u8?c=12
 广西卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 东方卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 浙江卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
