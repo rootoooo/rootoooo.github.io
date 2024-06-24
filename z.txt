@@ -7,9 +7,9 @@ CCTV香港资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/070
 Music,http://epg.112114.xyz/douyu/9588891
 HK中文,http://103.95.24.37:880/fhws.m3u8
 HK资讯,http://103.95.24.37:880/fhzx.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS,http://194.87.101.118/live.m3u8?c=5
 CTI,http://194.87.101.118/live.m3u8?c=7
-EBC,http://37.27.111.214:8080/live/20/hls.m3u8
+MNWES,http://194.87.101.118/live.m3u8?c=10
 SET,http://194.87.101.118/live.m3u8?c=12
 广西卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 东方卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -33,6 +33,7 @@ Music-MTV,https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
 Music-THT,http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 Trace Sports达尔文,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 SkySport天空体育台,https://donelfantastic.github.io/live/skysportsNz8.m3u8
+ESPN卫视体育台,http://143.244.60.30/ESPN/index.m3u8
 FIFA+国际足联,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 RT今日俄罗斯电视台,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 WION印度新闻台,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
@@ -52,4 +53,6 @@ FOX美国福克斯新闻网,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3
 CBS美国哥伦比亚广播公司,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 ABC美国广播公司,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 NBC环球新闻集团,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
-Newsmax特朗普电视台,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
+
