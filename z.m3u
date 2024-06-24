@@ -13,9 +13,9 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 logo="" group-title="China",Music
 http://epg.112114.xyz/douyu/9588891
-#EXTINF:-1 logo="" group-title="China",CCTV香港中文台
+#EXTINF:-1 logo="" group-title="China",HK中文
 http://103.95.24.37:880/fhws.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV香港资讯台
+#EXTINF:-1 logo="" group-title="China",HK资讯
 http://103.95.24.37:880/fhzx.m3u8
 #EXTINF:-1 logo="" group-title="China",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
