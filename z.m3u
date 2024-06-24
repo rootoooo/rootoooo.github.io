@@ -29,11 +29,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 #EXTINF:-1 logo="" group-title="China",Music
 http://epg.112114.xyz/douyu/9588891
-#EXTINF:-1 logo="" group-title="HongKong",HK中文台
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",HK资讯台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 logo="" group-title="HongKong",HK资讯
+#EXTINF:-1 logo="" group-title="HongKong",HongKong中文台
+http://103.95.24.37:880/fhws.m3u8
+#EXTINF:-1 logo="" group-title="HongKong",HongKong资讯台
+http://103.95.24.37:880/fhzx.m3u8
+#EXTINF:-1 logo="" group-title="HongKong",HongKong资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 logo="" group-title="TaiWan",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
