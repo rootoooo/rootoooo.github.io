@@ -25,10 +25,10 @@ http://194.87.101.118/live.m3u8?c=6
 http://194.87.101.118/live.m3u8?c=12
 #EXTINF:-1 logo="" group-title="China",MNEWS
 http://194.87.101.118/live.m3u8?c=10
-#EXTINF:-1 logo="" group-title="China",EBCmoney
-http://194.87.101.118/live.m3u8?c=14
+#EXTINF:-1 logo="" group-title="China",EBClive
+http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 logo="" group-title="China",TVBS
-http://194.87.101.118/live.m3u8?c=5
+http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 logo="" group-title="China",TVBSnews
 https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 #EXTINF:-1 logo="" group-title="China",EBC
