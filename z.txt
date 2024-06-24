@@ -7,14 +7,14 @@ CCTV香港资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/070
 Music,http://epg.112114.xyz/douyu/9588891
 HK中文,http://103.95.24.37:880/fhws.m3u8
 HK资讯,http://103.95.24.37:880/fhzx.m3u8
-CTI,http://194.87.101.118/live.m3u8?c=7
-CTV,http://194.87.101.118/live.m3u8?c=6
-SET,http://194.87.101.118/live.m3u8?c=12
-MNEWS,http://194.87.101.118/live.m3u8?c=10
-EBC,http://37.27.111.214:8080/live/20/hls.m3u8
+CTInews,http://194.87.101.118/live.m3u8?c=7
+CTVnews,http://194.87.101.118/live.m3u8?c=6
+Mnews,http://194.87.101.118/live.m3u8?c=10
+SETnews,http://194.87.101.118/live.m3u8?c=12
+EBCnews,http://37.27.111.214:8080/live/20/hls.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBSnews,https://pkj99.github.io/YTLive/TVBS新聞.m3u8
-EBCnews,https://pkj99.github.io/YTLive/東森新聞.m3u8
+EBC news,https://pkj99.github.io/YTLive/東森新聞.m3u8
 天才衝衝衝,https://pkj99.github.io/YTLive/天才衝衝衝.m3u8
 广西卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 东方卫视-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
