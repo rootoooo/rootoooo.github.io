@@ -23,15 +23,15 @@ http://58.216.99.148:80/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
 #EXTINF:-1 logo="" group-title="China",湖南卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong中文台
+#EXTINF:-1 logo="" group-title="China",HK中文台
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong资讯台
+#EXTINF:-1 logo="" group-title="China",HK资讯台
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong中文
+#EXTINF:-1 logo="" group-title="China",HK中文
 http://58.216.99.148/live2.rxip.sc96655.com/live/test1_4000.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong资讯
+#EXTINF:-1 logo="" group-title="China",HK资讯
 http://58.216.99.148/live2.rxip.sc96655.com/live/test2_4000.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong台
+#EXTINF:-1 logo="" group-title="China",HK台
 http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
 #EXTINF:-1 logo="" group-title="China",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
