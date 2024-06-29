@@ -23,6 +23,10 @@ http://58.216.99.148:80/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
 #EXTINF:-1 logo="" group-title="China",湖南卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",HongKong中文台
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 logo="" group-title="China",HongKong资讯台
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 logo="" group-title="China",HongKong中文
 http://58.216.99.148/live2.rxip.sc96655.com/live/test1_4000.m3u8
 #EXTINF:-1 logo="" group-title="China",HongKong资讯
@@ -81,10 +85,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 logo="" group-title="China",湖南卫视-IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong中文台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 logo="" group-title="China",HongKong资讯台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",Fashion-4K法国时尚电视台
