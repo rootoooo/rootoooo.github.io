@@ -53,20 +53,20 @@ http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 logo="" group-title="China",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 logo="" group-title="China",TVBS NEWS
-https://z02.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
-#EXTINF:-1 logo="" group-title="China",CTI NEWS
+#EXTINF:-1 logo="" group-title="China",中天新闻
 http://194.87.101.118/live.m3u8?c=7
-#EXTINF:-1 logo="" group-title="China",CTI LIVE
+#EXTINF:-1 logo="" group-title="China",中天LIVE
 http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 logo="" group-title="China",EBC NEWS
+#EXTINF:-1 logo="" group-title="China",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 logo="" group-title="China",EBC LIVE
+#EXTINF:-1 logo="" group-title="China",东森LIVE
 https://z02.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
-#EXTINF:-1 logo="" group-title="China",SET NEWS+
+#EXTINF:-1 logo="" group-title="China",三立NEWS+
 http://194.87.101.118/live.m3u8?c=12
-#EXTINF:-1 logo="" group-title="China",SET LIVE+
+#EXTINF:-1 logo="" group-title="China",三立LIVE+
 https://z02.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
+#EXTINF:-1 logo="" group-title="China",Music
+http://epg.112114.xyz/douyu/9588891
 #EXTINF:-1 logo="" group-title="China",CCTV1-IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV5-IPV6
