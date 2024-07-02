@@ -27,7 +27,7 @@ SETnews,http://194.87.101.118/live.m3u8?c=12
 EBCnews,http://37.27.111.214:8080/live/20/hls.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 CTI news,http://tv.redrainl.site:9500/live.m3u8?c=3
-EBC news,https://pkj99.github.io/YTLive/東森新聞.m3u8
+TVBSnews,https://pkj99.github.io/YTLive/TVBS新聞.m3u8
 Music,http://epg.112114.xyz/douyu/9588891
 CCTV1-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV5-IPV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
