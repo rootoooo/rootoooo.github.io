@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 logo="" group-title="China",CCTV1
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5
+http://58.216.99.148/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5+
+http://58.216.99.148/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV13
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV14
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",金鹰卡通
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/jykt_2000.m3u8
+#EXTINF:-1 logo="" group-title="China",动漫秀场
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",广西卫视
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxws_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",东方卫视
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",浙江卫视
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",江苏卫视
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",湖南卫视
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 logo="" group-title="China",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 logo="" group-title="China",HongKong中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 logo="" group-title="China",HongKong资讯
+http://58.216.99.148/live2.rxip.sc96655.com/live/test2_4000.m3u8
+#EXTINF:-1 logo="" group-title="China",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 logo="" group-title="China",环球新闻
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 logo="" group-title="China",香港台
+http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+#EXTINF:-1 logo="" group-title="China",无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 logo="" group-title="China",华丽翡翠
+http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 logo="" group-title="China",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 logo="" group-title="China",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 logo="" group-title="China",TVB星河台
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 logo="" group-title="China",VIUTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 logo="" group-title="China",J2
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 logo="" group-title="China",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 logo="" group-title="China",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 logo="" group-title="China",TVBS
+https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+#EXTINF:-1 logo="" group-title="China",东森新闻
+https://z02.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
+#EXTINF:-1 logo="" group-title="China",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 logo="" group-title="China",CCTV1-IPV6
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5-IPV6
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5+-IPV6
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV13-IPV6
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV14-IPV6
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 logo="" group-title="China",金鹰卡通-IPV6
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
+#EXTINF:-1 logo="" group-title="China",动漫秀场-IPV6
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 logo="" group-title="China",广西卫视-IPV6
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 logo="" group-title="China",东方卫视-IPV6
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 logo="" group-title="China",浙江卫视-IPV6
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 logo="" group-title="China",江苏卫视-IPV6
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 logo="" group-title="China",湖南卫视-IPV6
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Bloomberg-4K彭博社
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Fashion-4K法国时尚电视台
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Clarity-4K突突突
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",LoveNature-4K大自然纪实
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Loupe-4K艺术流媒体
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",NASA1美国国家航空航天局
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",NASA2美国国家航空航天局
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",SportsGrid体育流媒体
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",RedBull红牛频道
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Outside户外运动
+https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Music-MTV
+https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Music-THT
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",Trace Sports达尔文
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",SkySport天空体育台
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",ESPN卫视体育台
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 logo="" group-title="LIVE",FIFA+国际足联
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1 logo="" group-title="Russia",RT今日俄罗斯电视台
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 logo="" group-title="Bharat",WION印度新闻台
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 logo="" group-title="Australia",ABC澳大利亚公共电视台
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 logo="" group-title="Turkey",TRT土耳其广播电视台
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 logo="" group-title="Qatar",Al Jazeera卡塔尔半岛电视台
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 logo="" group-title="Singapore",CNA新加坡亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 logo="" group-title="Europe",Euronews欧洲新闻电视台
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="Germany",DW德国之声
+https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="France",France24法国新闻社
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 logo="" group-title="England",BBC英国广播公司
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1 logo="" group-title="England",Sky天空电视台
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 logo="" group-title="England",GB英国版福斯新闻
+https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+#EXTINF:-1 logo="" group-title="America",CNN美国有线电视新闻网
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 logo="" group-title="America",GlobalNews美国环球新闻
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+#EXTINF:-1 logo="" group-title="America",FOX美国福克斯新闻网
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="America",CBS美国哥伦比亚广播公司
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 logo="" group-title="America",ABC美国广播公司
+https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1 logo="" group-title="America",NBC环球新闻集团
+https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+
+
