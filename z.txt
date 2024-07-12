@@ -32,11 +32,6 @@ TVBSnwes,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://194.87.101.118/live.m3u8?c=5
 三立新闻,http://194.87.101.118/live.m3u8?c=12
 中天新闻,http://194.87.101.118/live.m3u8?c=7
-中天news,http://tv.redrainl.site:9500/live.m3u8?c=3
-音乐MV,http://epg.112114.xyz/douyu/9588891
-电影轮播,http://epg.112114.xyz/douyu/3637778
-英雄联盟,http://epg.112114.xyz/douyu/288016
-王者荣耀,http://epg.112114.xyz/douyu/1863767
 CCTV1-IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV5-IPV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5+-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
