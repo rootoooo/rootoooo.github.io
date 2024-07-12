@@ -133,5 +133,5 @@
         "Adult": true,
         "name": "91麻豆",
         "api": "https://91md.me/api.php/provide/vod/"
-    },
+    }
 ]
