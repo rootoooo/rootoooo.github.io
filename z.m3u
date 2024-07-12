@@ -67,16 +67,6 @@ http://194.87.101.118/live.m3u8?c=5
 http://194.87.101.118/live.m3u8?c=12
 #EXTINF:-1 logo="" group-title="China",中天新闻
 http://194.87.101.118/live.m3u8?c=7
-#EXTINF:-1 logo="" group-title="China",中天news
-http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 logo="" group-title="China",音乐MV
-http://epg.112114.xyz/douyu/9588891
-#EXTINF:-1 logo="" group-title="China",电影轮播
-http://epg.112114.xyz/douyu/3637778
-#EXTINF:-1 logo="" group-title="China",英雄联盟
-http://epg.112114.xyz/douyu/288016
-#EXTINF:-1 logo="" group-title="China",王者荣耀
-http://epg.112114.xyz/douyu/1863767
 #EXTINF:-1 logo="" group-title="China",CCTV1-IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV5-IPV6
