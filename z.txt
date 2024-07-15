@@ -1,6 +1,4 @@
 CCTV1-IPV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
-CCTV2-IPV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8
-CCTV4-IPV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
 CCTV5-IPV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
 CCTV5+-IPV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/1.m3u8
 CCTV13-IPV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
@@ -56,7 +54,6 @@ Music-THT,http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 Trace Sports达尔文,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 SkySport天空体育台,https://donelfantastic.github.io/live/skysportsNz8.m3u8
 ESPN卫视体育台,http://143.244.60.30/ESPN/index.m3u8
-FIFA+国际足联,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 RT今日俄罗斯电视台,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 WION印度新闻台,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC澳大利亚公共电视台,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
@@ -66,15 +63,11 @@ CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43
 Euronews欧洲新闻电视台,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 DW德国之声,https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 France24法国新闻社,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-BBC英国广播公司,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-Sky天空电视台,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-GB英国版福斯新闻,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-CNN美国有线电视新闻网,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+BBC英国广播公司,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+CNN美国有线电视新闻网,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 GlobalNews美国环球新闻,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 FOX美国福克斯新闻网,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 CBS美国哥伦比亚广播公司,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-ABC美国广播公司,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-NBC环球新闻集团,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
 
 
 
