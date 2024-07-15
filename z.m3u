@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 logo="" group-title="China",CCTV1-IPV6
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV2-IPV6
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8
-#EXTINF:-1 logo="" group-title="China",CCTV4-IPV6
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV5-IPV6
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV5+-IPV6
@@ -115,8 +111,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1 logo="" group-title="LIVE",ESPN卫视体育台
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 logo="" group-title="LIVE",FIFA+国际足联
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 logo="" group-title="Russia",RT今日俄罗斯电视台
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Bharat",WION印度新闻台
@@ -136,22 +130,15 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/strea
 #EXTINF:-1 logo="" group-title="France",France24法国新闻社
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="England",BBC英国广播公司
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 logo="" group-title="England",Sky天空电视台
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 logo="" group-title="England",GB英国版福斯新闻
-https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 logo="" group-title="America",CNN美国有线电视新闻网
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="America",GlobalNews美国环球新闻
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 #EXTINF:-1 logo="" group-title="America",FOX美国福克斯新闻网
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="America",CBS美国哥伦比亚广播公司
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 logo="" group-title="America",ABC美国广播公司
-https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-#EXTINF:-1 logo="" group-title="America",NBC环球新闻集团
-https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+
 
 
