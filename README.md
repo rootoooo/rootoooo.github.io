@@ -1,1 +1,3 @@
 皮皮虾我们走，去找一个女朋友，吃炸鸡喝啤酒，还能一起拉拉手！
+
+m3u转换：https://guihet.com/convert-m3u-js.html
