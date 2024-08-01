@@ -365,8 +365,8 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 http://37.27.111.214:8080/live/51/hls.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",VOAnews
 http://37.27.111.214:8080/live/45/hls.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",TVBSnews
-http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="中国大陆+香港+台湾",TVBS HD
+http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",TVBS
 http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",CTI
