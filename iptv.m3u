@@ -361,8 +361,6 @@ http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
 http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",TAIWAN
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",Peppa Pig
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Fashion-4K法国时尚电视台
