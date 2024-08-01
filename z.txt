@@ -183,7 +183,7 @@ CTInews,http://194.87.101.118/live.m3u8?c=7
 EBCnews,http://37.27.111.214:8080/live/20/hls.m3u8
 NTDTVnews,http://37.27.111.214:8080/live/51/hls.m3u8
 VOAnews,http://37.27.111.214:8080/live/45/hls.m3u8
-TVBSnews,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS HD,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 CTI,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 SET,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
