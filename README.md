@@ -6,8 +6,8 @@ https://github.com/YueChan/Live
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
-https://github.com/fanmingming/live/blob/main/tv/m3u/demo.m3u
+https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u
 
-https://live.fanmingming.com/tv/m3u/demo.m3u
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 
