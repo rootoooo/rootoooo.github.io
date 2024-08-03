@@ -10,4 +10,8 @@ https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
+Syncnext：https://github.com/Quinndark/syncnextPlugin
 
+https://github.com/icy37785/syncnextPlugin
+
+https://vod.infiniteapi.com/8df6b04b031ba8b2070f143da8fe0fdf/source
