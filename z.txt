@@ -185,7 +185,7 @@ NTDTVnews,http://37.27.111.214:8080/live/51/hls.m3u8
 VOAnews,http://37.27.111.214:8080/live/45/hls.m3u8
 TVBS HD,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
-CTI,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+CTI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 SET,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
 EBC,http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 NTDTV,http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
