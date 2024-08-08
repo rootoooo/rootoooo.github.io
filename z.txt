@@ -177,6 +177,7 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 Animal Planet,http://61.221.215.25:8800/hls/57/index.m3u8
 EBC,http://37.27.111.214:8080/live/20/hls.m3u8
+CTS,http://37.27.111.214:8080/live/8/hls.m3u8
 NTDTV,http://37.27.111.214:8080/live/51/hls.m3u8
 VOA,http://37.27.111.214:8080/live/45/hls.m3u8
 TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
@@ -186,50 +187,53 @@ Dw,http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
 France24,http://4gtv.mumi.rip:9877/316/4gtv-live146/index.m3u8
 Bloomberg,http://4gtv.mumi.rip:9877/283/4gtv-live059/index.m3u8
 综合频道
-Bloomberg-4K彭博社,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-Fashion-4K法国时尚电视台,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Clarity-4K突突突,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-LoveNature-4K大自然纪实,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Loupe-4K艺术流媒体,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-NASA1美国国家航空航天局,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-NASA2美国国家航空航天局,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-SportsGrid体育流媒体,https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-RedBull红牛频道,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Outside户外运动,https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+Bloomberg-4K,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+Fashion-4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Clarity-4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe-4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+SportsGrid,https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+Outside,https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 Music-MTV,https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
 Music-THT,http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-Trace Sports达尔文,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-SkySport天空体育台,https://donelfantastic.github.io/live/skysportsNz8.m3u8
-ESPN卫视体育台,http://143.244.60.30/ESPN/index.m3u8
-Real Madrid CF皇家马德里,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-FIFA国际足联,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+SkySport,https://donelfantastic.github.io/live/skysportsNz8.m3u8
+ESPN,http://143.244.60.30/ESPN/index.m3u8
+Real Madrid CF,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+FIFA,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 日本
-NHK全称日本广播协会,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 韩国
-KOREA朝鲜日报,http://37.27.111.214:8080/live/52/hls.m3u8
+KOREA,http://37.27.111.214:8080/live/52/hls.m3u8
 俄罗斯
-RT今日俄罗斯电视台,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 印度
-WION印度新闻台,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 澳大利亚
-ABC澳大利亚公共电视台,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 土耳其
-TRT土耳其广播电视台,https://tv-trtworld.live.trt.com.tr/master.m3u8
+TRT,https://tv-trtworld.live.trt.com.tr/master.m3u8
 卡塔尔
-Al Jazeera卡塔尔半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 新加坡
-CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 欧洲
-Euronews欧洲新闻电视台,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+Euronews,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 德国
-DW德国之声,http://37.27.111.214:8080/live/46/hls.m3u8
+DW,http://37.27.111.214:8080/live/46/hls.m3u8
 法国
-France24法国新闻社,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+France24,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 英国
-BBC英国广播公司,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBCnews,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+GBnews,https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 美国
-CNN美国有线电视新闻网,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-GlobalNews美国环球新闻,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-FOX美国福克斯新闻网,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-CBS美国哥伦比亚广播公司,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-CNBC消费者新闻与商业频道,http://37.27.111.214:8080/live/102/hls.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+GlobalNews,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+FOX,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+CBS,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+NBC,https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
