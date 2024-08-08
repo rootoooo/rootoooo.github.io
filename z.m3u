@@ -353,8 +353,6 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",EBC
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",CTS
-http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",NTDTV
 http://37.27.111.214:8080/live/51/hls.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",VOA
