@@ -433,7 +433,7 @@ https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="英国",BBCnews
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="英国",GB
+#EXTINF:-1 group-title="英国",GBnews
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 group-title="美国",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
