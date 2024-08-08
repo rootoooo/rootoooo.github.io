@@ -176,11 +176,15 @@ RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 Animal Planet,http://61.221.215.25:8800/hls/57/index.m3u8
-CTI,http://194.87.101.118/live.m3u8?c=7
 EBC,http://37.27.111.214:8080/live/20/hls.m3u8
 NTDTV,http://37.27.111.214:8080/live/51/hls.m3u8
 VOA,http://37.27.111.214:8080/live/45/hls.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
+CTI,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+SET,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
+Dw,http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
+France24,http://4gtv.mumi.rip:9877/316/4gtv-live146/index.m3u8
+Bloomberg,http://4gtv.mumi.rip:9877/283/4gtv-live059/index.m3u8
 综合频道
 Bloomberg-4K彭博社,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 Fashion-4K法国时尚电视台,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
