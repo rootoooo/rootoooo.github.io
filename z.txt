@@ -183,9 +183,6 @@ VOA,http://37.27.111.214:8080/live/45/hls.m3u8
 TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 CTI,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 SET,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
-Dw,http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
-France24,http://4gtv.mumi.rip:9877/316/4gtv-live146/index.m3u8
-Bloomberg,http://4gtv.mumi.rip:9877/283/4gtv-live059/index.m3u8
 综合频道
 Bloomberg-4K,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 Fashion-4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -206,6 +203,7 @@ Real Madrid CF,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3
 FIFA,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 日本
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 韩国
 KOREA,http://37.27.111.214:8080/live/52/hls.m3u8
 俄罗斯
