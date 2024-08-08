@@ -180,9 +180,9 @@ EBC,http://37.27.111.214:8080/live/20/hls.m3u8
 CTS,http://37.27.111.214:8080/live/8/hls.m3u8
 NTDTV,http://37.27.111.214:8080/live/51/hls.m3u8
 VOA,http://37.27.111.214:8080/live/45/hls.m3u8
+TVBSnews,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
-CTI,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
-SET,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
+CTI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 综合频道
 Bloomberg-4K,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 Fashion-4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -225,6 +225,7 @@ Euronews,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 DW,http://37.27.111.214:8080/live/46/hls.m3u8
 法国
 France24,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+News24,https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 英国
 BBC,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBCnews,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
