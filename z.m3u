@@ -351,18 +351,18 @@ http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",Animal Planet
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",EBC
+#EXTINF:-1 group-title="中国大陆+香港+台湾",EBCnews
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",NTDTV
 http://37.27.111.214:8080/live/51/hls.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",VOA
 http://37.27.111.214:8080/live/45/hls.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",TVBSnews
-http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="中国大陆+香港+台湾",EBC
+http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",TVBS
-http://37.27.111.214:8080/live/23/hls.m3u8
+http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 group-title="中国大陆+香港+台湾",CTI
-http://194.87.101.118/live.m3u8?c=7
+http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Fashion-4K
