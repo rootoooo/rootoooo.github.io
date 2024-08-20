@@ -267,47 +267,47 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 group-title="中国",蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 group-title="中国大陆+香港+台湾",香港卫视
+#EXTINF:-1 group-title="香港+台湾",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",环球新闻
+#EXTINF:-1 group-title="香港+台湾",环球新闻
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",无线新闻台
+#EXTINF:-1 group-title="香港+台湾",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="中国大陆+香港+台湾",华丽翡翠
+#EXTINF:-1 group-title="香港+台湾",华丽翡翠
 http://php.jdshipin.com:8880/smt.php?id=Wlt
-#EXTINF:-1 group-title="中国大陆+香港+台湾",翡翠台
+#EXTINF:-1 group-title="香港+台湾",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="中国大陆+香港+台湾",明珠台
+#EXTINF:-1 group-title="香港+台湾",明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 group-title="中国大陆+香港+台湾",TVB星河台
+#EXTINF:-1 group-title="香港+台湾",TVB星河台
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 group-title="中国大陆+香港+台湾",VIUTV
+#EXTINF:-1 group-title="香港+台湾",VIUTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="中国大陆+香港+台湾",J2
+#EXTINF:-1 group-title="香港+台湾",J2
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1 group-title="中国大陆+香港+台湾",RTHK31
+#EXTINF:-1 group-title="香港+台湾",RTHK31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-#EXTINF:-1 group-title="中国大陆+香港+台湾",RTHK32
+#EXTINF:-1 group-title="香港+台湾",RTHK32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-#EXTINF:-1 group-title="中国大陆+香港+台湾",Discovery Asia
+#EXTINF:-1 group-title="香港+台湾",Discovery Asia
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",Animal Planet
+#EXTINF:-1 group-title="香港+台湾",Animal Planet
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",HK中文
+#EXTINF:-1 group-title="香港+台湾",HK中文
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="中国大陆+香港+台湾",HK资讯
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",TVBS
+#EXTINF:-1 group-title="香港+台湾",HK资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="香港+台湾",TVBS
 http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",CTI
+#EXTINF:-1 group-title="香港+台湾",CTI
 http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",EBC
+#EXTINF:-1 group-title="香港+台湾",EBC
 http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",SET
+#EXTINF:-1 group-title="香港+台湾",SET
 http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",NTDTV
+#EXTINF:-1 group-title="香港+台湾",NTDTV
 http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
-#EXTINF:-1 group-title="中国大陆+香港+台湾",VOA
+#EXTINF:-1 group-title="香港+台湾",VOA
 http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
