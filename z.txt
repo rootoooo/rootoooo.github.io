@@ -135,8 +135,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 香港+台湾
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-环球新闻,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 凤凰卫视中文台,http://120.84.121.142:808/hls/29/index.m3u8
 凤凰卫视资讯台,http://120.84.121.13:808/hls/28/index.m3u8
 Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
