@@ -269,10 +269,6 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 group-title="中国",蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 group-title="香港+台湾",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港+台湾",环球新闻
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="香港+台湾",凤凰卫视中文台
 http://120.84.121.142:808/hls/29/index.m3u8
 #EXTINF:-1 group-title="香港+台湾",凤凰卫视资讯台
