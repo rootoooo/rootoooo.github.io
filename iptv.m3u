@@ -36,11 +36,21 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="中国",CCTV-17 农业农村
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="中国",CCTV-4K 超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+https://pi.0472.org/livetv/cctv4k.m3u8
+#EXTINF:-1 group-title="中国",重温经典
+https://pi.0472.org/livetv/cwjd.m3u8
 #EXTINF:-1 group-title="中国",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="中国",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 group-title="中国",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 group-title="中国",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 group-title="中国",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 group-title="中国",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 group-title="中国",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 group-title="中国",湖南卫视
