@@ -135,6 +135,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 港澳台
+CCTV13,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
 Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 Animal Planet,http://61.221.215.25:8800/hls/57/index.m3u8
 GlobalTrekker,https://test.zapi.us.kg/?id=globaltrekker
@@ -143,6 +144,9 @@ GlobalTrekker,https://test.zapi.us.kg/?id=globaltrekker
 香港台,https://test.zapi.us.kg/?id=phtv-hk
 无线新闻台,https://test.zapi.us.kg/?id=tvb-news
 HOY国际财经,https://test.zapi.us.kg/?id=hoy-ibc
+翡翠台,https://test.zapi.us.kg/?id=feicui
+星河台,https://test.zapi.us.kg/?id=tvb-xinghe
+明珠台,https://test.zapi.us.kg/?id=pearl
 澳视澳门,https://test.zapi.us.kg/?id=tdm
 TVBSnews,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,https://test.zapi.us.kg/?id=tvbs-hd
@@ -201,6 +205,7 @@ News24,https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 BBC,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBCnews,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC国际新闻,https://test.zapi.us.kg/?id=bbc-world-news
+BBCEarth,https://test.zapi.us.kg/?id=bbcearth
 GBnews,https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 美国
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
