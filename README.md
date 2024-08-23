@@ -14,8 +14,6 @@ Windows-v2rayN：https://github.com/2dust/v2rayN/releases
 
 Clash Verge：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
-贝锐蒲公英X1SN：133462247131
-
 贝锐管理平台：https://console-v2.oray.com/
 
 贝锐蒲公英：https://www.pgybox.com/
@@ -147,14 +145,3 @@ curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
 curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
 
 
-
-vless://861f678b-40e1-48a1-ac98-35da4feddb90@tw.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=tw.9901151.xyz&fp=chrome#中国・台湾
-vless://2dfeeee8-9078-4f0e-ff57-dd63fbfe114e@lsj1.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=lsj1.9901151.xyz&fp=chrome#美国・加州
-vless://7b89f04e-fb97-4f55-f830-a4c3cd6d23ce@lsj.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=lsj.9901151.xyz&fp=chrome#美国・洛杉矶
-vless://9b1c4262-756c-4742-9467-9f01bed8768f@sncy.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=sncy.9901151.xyz&fp=chrome#美国・水牛城
-vless://2b438d7e-f9d7-4877-f2de-b74a8d765bb6@dg.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=dg.9901151.xyz&fp=chrome#德国・黑森林
-vless://57755482-75bf-4a0c-bb01-32cd75edc25e@db.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=db.9901151.xyz&fp=chrome#迪拜・阿联酋
-vless://d900464d-1382-433b-dc6d-e7c453a2320d@bjst.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=bjst.9901151.xyz&fp=chrome#巴基斯坦
-vless://54e9bc43-d88e-4029-9998-1d4909491049@mrdn.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=mrdn.9901151.xyz&fp=chrome#摩尔多瓦
-vless://dc0743e3-b898-416e-9b0a-4a9dec745fa0@hg.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=hg.9901151.xyz&fp=chrome#韩国・首尔
-hysteria2://f265f371-4dac-4322-8e22-a7851bb8f465@142.171.18.114:8881?alpn=h3&insecure=1#US
