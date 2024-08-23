@@ -157,3 +157,4 @@ vless://57755482-75bf-4a0c-bb01-32cd75edc25e@db.9901151.xyz:443?type=ws&security
 vless://d900464d-1382-433b-dc6d-e7c453a2320d@bjst.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=bjst.9901151.xyz&fp=chrome#巴基斯坦
 vless://54e9bc43-d88e-4029-9998-1d4909491049@mrdn.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=mrdn.9901151.xyz&fp=chrome#摩尔多瓦
 vless://dc0743e3-b898-416e-9b0a-4a9dec745fa0@hg.9901151.xyz:443?type=ws&security=tls&path=%2F&sni=hg.9901151.xyz&fp=chrome#韩国・首尔
+hysteria2://f265f371-4dac-4322-8e22-a7851bb8f465@142.171.18.114:8881?alpn=h3&insecure=1#US
