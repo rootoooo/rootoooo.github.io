@@ -269,26 +269,34 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 group-title="中国",蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 group-title="香港+台湾",凤凰卫视中文台
-http://120.84.121.142:808/hls/29/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",凤凰卫视资讯台
-http://120.84.121.13:808/hls/28/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",Discovery Asia
+#EXTINF:-1 group-title="港澳台",Discovery Asia
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",Animal Planet
+#EXTINF:-1 group-title="港澳台",Animal Planet
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",TVBS
-http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",CTI
-http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",EBC
-http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",SET
-http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",NTDTV
-http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
-#EXTINF:-1 group-title="香港+台湾",VOA
-http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
+#EXTINF:-1 group-title="港澳台",GlobalTrekker
+https://test.zapi.us.kg/?id=globaltrekker
+#EXTINF:-1 group-title="港澳台",凤凰卫视中文台
+http://120.84.121.142:808/hls/29/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰卫视资讯台
+https://test.zapi.us.kg/?id=phtv-info
+#EXTINF:-1 group-title="港澳台",无线新闻台
+https://test.zapi.us.kg/?id=tvb-news
+#EXTINF:-1 group-title="港澳台",HOY国际财经
+https://test.zapi.us.kg/?id=hoy-ibc
+#EXTINF:-1 group-title="港澳台",澳视澳门
+https://test.zapi.us.kg/?id=tdm
+#EXTINF:-1 group-title="港澳台",TVBSnews
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻台
+https://test.zapi.us.kg/?id=tvbs-news
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://194.87.101.118/live.m3u8?c=7
+#EXTINF:-1 group-title="港澳台",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="港澳台",美国之音
+https://test.zapi.us.kg/?id=voa
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Fashion-4K
@@ -355,6 +363,8 @@ https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="英国",BBCnews
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="英国",BBC国际新闻
+https://test.zapi.us.kg/?id=bbc-world-news
 #EXTINF:-1 group-title="英国",GBnews
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 group-title="美国",CNN
