@@ -337,6 +337,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",WWE
 https://test.zapi.us.kg/?id=wwe
+#EXTINF:-1 group-title="综合频道",NBA
+https://test.zapi.us.kg/?id=nba
 #EXTINF:-1 group-title="日本",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="日本",News24
