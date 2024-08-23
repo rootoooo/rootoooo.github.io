@@ -276,9 +276,11 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="港澳台",GlobalTrekker
 https://test.zapi.us.kg/?id=globaltrekker
 #EXTINF:-1 group-title="港澳台",凤凰卫视中文台
-http://120.84.121.142:808/hls/29/index.m3u8
+https://test.zapi.us.kg/?id=phtv-cn
 #EXTINF:-1 group-title="港澳台",凤凰卫视资讯台
 https://test.zapi.us.kg/?id=phtv-info
+#EXTINF:-1 group-title="港澳台",香港台
+https://test.zapi.us.kg/?id=phtv-hk
 #EXTINF:-1 group-title="港澳台",无线新闻台
 https://test.zapi.us.kg/?id=tvb-news
 #EXTINF:-1 group-title="港澳台",HOY国际财经
@@ -288,13 +290,15 @@ https://test.zapi.us.kg/?id=tdm
 #EXTINF:-1 group-title="港澳台",TVBSnews
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS
-http://37.27.111.214:8080/live/23/hls.m3u8
+https://test.zapi.us.kg/?id=tvbs-hd
 #EXTINF:-1 group-title="港澳台",TVBS新闻台
 https://test.zapi.us.kg/?id=tvbs-news
 #EXTINF:-1 group-title="港澳台",中天新闻
 http://194.87.101.118/live.m3u8?c=7
 #EXTINF:-1 group-title="港澳台",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="港澳台",三立新闻
+https://test.zapi.us.kg/?id=settv-inews
 #EXTINF:-1 group-title="港澳台",美国之音
 https://test.zapi.us.kg/?id=voa
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K
@@ -385,7 +389,7 @@ https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",NBC 
+#EXTINF:-1 group-title="国际",NBC
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 group-title="国际",FOX
 https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
@@ -405,7 +409,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 https://jmp2.uk/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Africa News 
+#EXTINF:-1 group-title="国际",Africa News
 https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -459,43 +463,43 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamic
 https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
 #EXTINF:-1 group-title="国际",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
-#EXTINF:-1 group-title="国际",TED Talks 
+#EXTINF:-1 group-title="国际",TED Talks
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Kids TV 
+#EXTINF:-1 group-title="国际",Kids TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Mytime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Museum
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="国际",LoveStories 
+#EXTINF:-1 group-title="国际",LoveStories
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Travel XP 
+#EXTINF:-1 group-title="国际",Travel XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Ondemand China 
+#EXTINF:-1 group-title="国际",Ondemand China
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Yu-Gi-Oh 
+#EXTINF:-1 group-title="国际",Yu-Gi-Oh
 https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Young Hollywood
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="国际",Food 
+#EXTINF:-1 group-title="国际",Food
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",La La Life 
+#EXTINF:-1 group-title="国际",La La Life
 https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Viki 
+#EXTINF:-1 group-title="国际",Rakuten Viki
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Comedy
 https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Action
 https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Thriller 
+#EXTINF:-1 group-title="国际",Rakuten Thriller
 https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten British Films 
+#EXTINF:-1 group-title="国际",Rakuten British Films
 https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Global Fashion Channel 
+#EXTINF:-1 group-title="国际",Global Fashion Channel
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Comedy Hub 
+#EXTINF:-1 group-title="国际",Comedy Hub
 https://jmp2.uk/SamsungTVPlus/GBBD25000038Y.m3u8
-#EXTINF:-1 group-title="国际",New KPOP 
+#EXTINF:-1 group-title="国际",New KPOP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Billiards TV 
+#EXTINF:-1 group-title="国际",Billiards TV
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
