@@ -138,16 +138,18 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 Animal Planet,http://61.221.215.25:8800/hls/57/index.m3u8
 GlobalTrekker,https://test.zapi.us.kg/?id=globaltrekker
-凤凰卫视中文台,http://120.84.121.142:808/hls/29/index.m3u8
+凤凰卫视中文台,https://test.zapi.us.kg/?id=phtv-cn
 凤凰卫视资讯台,https://test.zapi.us.kg/?id=phtv-info
+香港台,https://test.zapi.us.kg/?id=phtv-hk
 无线新闻台,https://test.zapi.us.kg/?id=tvb-news
 HOY国际财经,https://test.zapi.us.kg/?id=hoy-ibc
 澳视澳门,https://test.zapi.us.kg/?id=tdm
 TVBSnews,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS,https://test.zapi.us.kg/?id=tvbs-hd
 TVBS新闻台,https://test.zapi.us.kg/?id=tvbs-news
 中天新闻,http://194.87.101.118/live.m3u8?c=7
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+三立新闻,https://test.zapi.us.kg/?id=settv-inews
 美国之音,https://test.zapi.us.kg/?id=voa
 综合频道
 Bloomberg-4K,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
