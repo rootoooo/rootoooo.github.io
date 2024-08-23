@@ -39,6 +39,8 @@ https://test.zapi.us.kg/?id=tvb-news
 https://test.zapi.us.kg/?id=hoy-ibc
 #EXTINF:-1 group-title="港澳台",HOY资讯台
 https://test.zapi.us.kg/?id=hoy-info
+#EXTINF:-1 group-title="港澳台",HOY77
+https://test.zapi.us.kg/?id=hoytv
 #EXTINF:-1 group-title="港澳台",TVB
 https://test.zapi.us.kg/?id=tvb-plus
 #EXTINF:-1 group-title="港澳台",翡翠台
@@ -55,10 +57,24 @@ https://test.zapi.us.kg/?id=now-hbo-signature
 https://test.zapi.us.kg/?id=now-news
 #EXTINF:-1 group-title="港澳台",J2
 https://test.zapi.us.kg/?id=j2
+#EXTINF:-1 group-title="港澳台",ViuTV6
+https://test.zapi.us.kg/?id=viutv6
+#EXTINF:-1 group-title="港澳台",RTHK31
+https://test.zapi.us.kg/?id=rthk31
+#EXTINF:-1 group-title="港澳台",RTHK32
+https://test.zapi.us.kg/?id=rthk32
+#EXTINF:-1 group-title="港澳台",时尚运动X
+https://test.zapi.us.kg/?id=ssydx
+#EXTINF:-1 group-title="港澳台",ELTA生活旅游
+https://test.zapi.us.kg/?id=elta-lifetravel
+#EXTINF:-1 group-title="港澳台",TLC旅游生活
+https://test.zapi.us.kg/?id=tlc
 #EXTINF:-1 group-title="港澳台",TVB华剧台
 https://test.zapi.us.kg/?id=golden-chinese-drama
 #EXTINF:-1 group-title="港澳台",爱奇艺
 https://test.zapi.us.kg/?id=astro-iqiyi
+#EXTINF:-1 group-title="港澳台",迪士尼
+https://test.zapi.us.kg/?id=disney
 #EXTINF:-1 group-title="港澳台",澳视澳门
 https://test.zapi.us.kg/?id=tdm
 #EXTINF:-1 group-title="港澳台",中天新闻
@@ -104,7 +120,11 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="综合频道",SkySport
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1 group-title="综合频道",ESPN
-http://143.244.60.30/ESPN/index.m3u8
+https://test.zapi.us.kg/?id=espn
+#EXTINF:-1 group-title="综合频道",ESPN2
+https://test.zapi.us.kg/?id=espn2
+#EXTINF:-1 group-title="综合频道",KMTV
+https://test.zapi.us.kg/?id=kmtv
 #EXTINF:-1 group-title="综合频道",Real Madrid CF
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="综合频道",FIFA
@@ -123,8 +143,8 @@ https://test.zapi.us.kg/?id=nippon-tv
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="韩国",KOREA
 http://37.27.111.214:8080/live/52/hls.m3u8
-#EXTINF:-1 group-title="韩国"KBS Drama
-https://test.zapi.us.kg/?id=kbs-drama
+#EXTINF:-1 group-title="韩国"KBSnews
+https://test.zapi.us.kg/?id=kbs-news
 #EXTINF:-1 group-title="俄罗斯",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="印度",WION
