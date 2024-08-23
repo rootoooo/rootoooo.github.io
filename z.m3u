@@ -145,7 +145,7 @@ https://test.zapi.us.kg/?id=nippon-tv
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="韩国",KOREA
 http://37.27.111.214:8080/live/52/hls.m3u8
-#EXTINF:-1 group-title="韩国"KBSnews
+#EXTINF:-1 group-title="韩国",KBSnews
 https://test.zapi.us.kg/?id=kbs-news
 #EXTINF:-1 group-title="俄罗斯",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
