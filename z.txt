@@ -170,6 +170,7 @@ ESPN,http://143.244.60.30/ESPN/index.m3u8
 Real Madrid CF,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 FIFA,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 WWE,https://test.zapi.us.kg/?id=wwe
+NBA,https://test.zapi.us.kg/?id=nba
 日本
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
