@@ -143,10 +143,6 @@ https://test.zapi.us.kg/?id=tvbs-asia
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="港澳台",三立新闻
 https://test.zapi.us.kg/?id=settv-inews
-#EXTINF:-1 group-title="港澳台",中视新闻
-https://test.zapi.us.kg/?id=ctv-news
-#EXTINF:-1 group-title="港澳台",台视新闻
-https://test.zapi.us.kg/?id=ttv-news
 #EXTINF:-1 group-title="港澳台",美国之音
 https://test.zapi.us.kg/?id=voa
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K
