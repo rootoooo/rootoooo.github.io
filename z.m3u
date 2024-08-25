@@ -267,8 +267,12 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="欧洲",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="欧洲",Euronews-English
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 group-title="德国",DW
 http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="德国",DW-news
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="法国",France24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 group-title="法国",News24
@@ -277,7 +281,7 @@ https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="英国",BBCnews
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="英国",BBC国际新闻
+#EXTINF:-1 group-title="英国",BBC-world-news
 https://test.zapi.us.kg/?id=bbc-world-news
 #EXTINF:-1 group-title="英国",BBCEarth
 https://test.zapi.us.kg/?id=bbcearth
@@ -285,6 +289,8 @@ https://test.zapi.us.kg/?id=bbcearth
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 group-title="美国",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="美国",CNNnews
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="美国",GlobalNews
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 #EXTINF:-1 group-title="美国",FOX
