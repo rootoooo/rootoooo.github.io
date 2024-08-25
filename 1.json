@@ -1,0 +1,29 @@
+[
+    {
+        "id": "293049ba-47a0-4e21-9f1e-7a4f2f0eda9c",
+        "note": "免費18x直播平台",
+        "GEO": "Non-China",
+        "Adult": true,
+        "name": "stripchat直播",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/stripchat.json"
+    },
+    {
+        "id": "d922f858-5100-4ccd-959f-a71510e390e6",
+        "Adult": true,
+        "name": "老鸭资源采集",
+        "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
+    },
+    {
+        "id": "06597cd6-593b-45fe-9a4f-fa8e42c7397a",
+        "Top": true,
+        "note": "斗鱼直播平台",
+        "name": "鬥魚直播",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/douyuM.json"
+    },
+    {
+        "id": "6d0d8d11-3b8f-4379-9ffd-603da72ea0ca",
+        "Search": true,
+        "name": "虎牙資源",
+        "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/"
+    }
+]
