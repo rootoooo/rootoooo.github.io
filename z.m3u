@@ -215,6 +215,8 @@ https://test.zapi.us.kg/?id=espn2
 https://test.zapi.us.kg/?id=wwe
 #EXTINF:-1 group-title="综合频道",NBA
 https://test.zapi.us.kg/?id=nba
+#EXTINF:-1 group-title="综合频道",QVC-live
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",KMTV
 https://test.zapi.us.kg/?id=kmtv
 #EXTINF:-1 group-title="综合频道",History
@@ -303,8 +305,6 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 group-title="德国",DW
 http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 group-title="德国",DW-news
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="法国",France24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 group-title="法国",News24
