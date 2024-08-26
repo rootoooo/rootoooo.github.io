@@ -6,7 +6,7 @@
         "Adult": true,
         "name": "stripchat直播",
         "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/stripchat.json"
-    }，
+    },
     {
         "id": "0c22e686-b494-4e78-b2e1-7fa919c01e00",
         "Top": false,
