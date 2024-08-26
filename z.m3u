@@ -151,6 +151,18 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 https://test.zapi.us.kg/?id=settv-inews
 #EXTINF:-1 group-title="港澳台",美国之音
 https://test.zapi.us.kg/?id=voa
+#EXTINF:-1 group-title="动画",CCTV14
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
+#EXTINF:-1 group-title="动画",金鹰卡通
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
+#EXTINF:-1 group-title="动画",卡酷少儿
+http://[2409:8087:5e00:24::1e]:6060/000000001000/7589856436881630561/1.m3u8
+#EXTINF:-1 group-title="动画",优漫卡通
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
+#EXTINF:-1 group-title="动画",哈哈炫动
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
+#EXTINF:-1 group-title="动画",黑莓动画
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 #EXTINF:-1 group-title="综合频道",4K-UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg
@@ -183,6 +195,8 @@ https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Music-THT
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="综合频道",Music-LISTENONSPOTIFY
+http://61.221.215.25:8800/hls/58/index.m3u8
 #EXTINF:-1 group-title="综合频道",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="综合频道",SkySport
