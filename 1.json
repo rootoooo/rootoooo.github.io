@@ -7,9 +7,10 @@
         "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/douyuM.json"
     },
     {
-        "id": "6d0d8d11-3b8f-4379-9ffd-603da72ea0ca",
-        "Search": true,
-        "name": "虎牙資源",
-        "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/"
+        "id": "a3501411-30ad-4ad7-bbe4-d3870e9ab042",
+        "Top": true,
+        "note": "虎牙直播平台",
+        "name": "虎牙直播",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/huya.json"
     }
 ]
