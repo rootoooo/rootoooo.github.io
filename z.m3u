@@ -26,9 +26,13 @@ https://test.zapi.us.kg/?id=phtv-info
 #EXTINF:-1 group-title="港澳台",香港台
 https://test.zapi.us.kg/?id=phtv-hk
 #EXTINF:-1 group-title="港澳台",香港卫视
-https://test.zapi.us.kg/?id=hks
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="港澳台",无线新闻台
 https://test.zapi.us.kg/?id=tvb-news
+#EXTINF:-1 group-title="港澳台",耀才財經
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",HOY国际财经
 https://test.zapi.us.kg/?id=hoy-ibc
 #EXTINF:-1 group-title="港澳台",HOY资讯台
@@ -125,6 +129,10 @@ https://test.zapi.us.kg/?id=hkc18
 https://test.zapi.us.kg/?id=now-668
 #EXTINF:-1 group-title="港澳台",澳门资讯
 https://test.zapi.us.kg/?id=tdm-information
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+#EXTINF:-1 group-title="港澳台",澳视澳门
+http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 #EXTINF:-1 group-title="港澳台",中天
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="港澳台",中天新闻
@@ -143,6 +151,8 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 https://test.zapi.us.kg/?id=settv-inews
 #EXTINF:-1 group-title="港澳台",美国之音
 https://test.zapi.us.kg/?id=voa
+#EXTINF:-1 group-title="综合频道",4K-UHD
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg
 https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K
@@ -155,6 +165,8 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="综合频道",Loupe-4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",NASA-4K
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",NASA1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="综合频道",NASA2
@@ -175,20 +187,22 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="综合频道",SkySport
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
-#EXTINF:-1 group-title="综合频道",ESPN
-https://test.zapi.us.kg/?id=espn
-#EXTINF:-1 group-title="综合频道",ESPN2
-https://test.zapi.us.kg/?id=espn2
-#EXTINF:-1 group-title="综合频道",KMTV
-https://test.zapi.us.kg/?id=kmtv
 #EXTINF:-1 group-title="综合频道",Real Madrid CF
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="综合频道",FIFA
 https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",InsightTV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",ESPN
+https://test.zapi.us.kg/?id=espn
+#EXTINF:-1 group-title="综合频道",ESPN2
+https://test.zapi.us.kg/?id=espn2
 #EXTINF:-1 group-title="综合频道",WWE
 https://test.zapi.us.kg/?id=wwe
 #EXTINF:-1 group-title="综合频道",NBA
 https://test.zapi.us.kg/?id=nba
+#EXTINF:-1 group-title="综合频道",KMTV
+https://test.zapi.us.kg/?id=kmtv
 #EXTINF:-1 group-title="综合频道",History
 https://test.zapi.us.kg/?id=history
 #EXTINF:-1 group-title="综合频道",Sports英超
@@ -253,6 +267,8 @@ https://test.zapi.us.kg/?id=sbs-fune
 https://test.zapi.us.kg/?id=arirang
 #EXTINF:-1 group-title="俄罗斯",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="俄罗斯",IGI
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="印度",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="澳大利亚",ABC
@@ -299,3 +315,5 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title="美国",CNBC
 http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 group-title="美国",NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
