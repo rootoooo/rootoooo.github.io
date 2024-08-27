@@ -11,6 +11,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 #EXTINF:-1 group-title="皮皮虾",CCTV16
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
+#EXTINF:-1 group-title="中国",4K-UHD
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="皮皮虾",Real Madrid CF
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="皮皮虾",FIFA
@@ -57,5 +59,23 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
 #EXTINF:-1 group-title="皮皮虾",Music-THT
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="综合频道",Music-LISTENONSPOTIFY
+http://61.221.215.25:8800/hls/58/index.m3u8
 #EXTINF:-1 group-title="皮皮虾",秋月剪水
 http://allinone.netsite.cc/douyu/9588891
+#EXTINF:-1 group-title="港澳台",娱乐新闻台
+https://test.zapi.us.kg/?id=TVB ylxw
+#EXTINF:-1 group-title="港澳台",HBO-hd
+https://test.zapi.us.kg/?id=hbo-hd
+#EXTINF:-1 group-title="港澳台",HBO-signature
+https://test.zapi.us.kg/?id=now-hbo-signature
+#EXTINF:-1 group-title="港澳台",HBO-hits
+https://test.zapi.us.kg/?id=now-hbo-hits
+#EXTINF:-1 group-title="港澳台",HBO-hits-hd
+https://test.zapi.us.kg/?id=hbo-hits-hd
+#EXTINF:-1 group-title="港澳台",HBO-family
+https://test.zapi.us.kg/?id=hbo-family
+#EXTINF:-1 group-title="港澳台",HBO-signature
+https://test.zapi.us.kg/?id=now-hbo-signature
+#EXTINF:-1 group-title="港澳台",HITSMovies
+https://test.zapi.us.kg/?id=hitsmovies
