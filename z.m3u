@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="中国",CCTV13
+#EXTINF:-1 group-title="中国",CCTV-13
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV1
+#EXTINF:-1 group-title="中国",CCTV-1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV5
+#EXTINF:-1 group-title="中国",CCTV-4
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
+#EXTINF:-1 group-title="中国",CCTV-5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV5+
+#EXTINF:-1 group-title="中国",CCTV-5+
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV16
+#EXTINF:-1 group-title="中国",CCTV-16
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 #EXTINF:-1 group-title="中国",广西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/1.m3u8
@@ -21,68 +23,44 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
 #EXTINF:-1 group-title="中国",4K-UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 group-title="中国",CCTV14
+#EXTINF:-1 group-title="中国",CCTV-14
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
 #EXTINF:-1 group-title="中国",金鹰卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
-#EXTINF:-1 group-title="中国",卡酷少儿
-http://[2409:8087:5e00:24::1e]:6060/000000001000/7589856436881630561/1.m3u8
 #EXTINF:-1 group-title="中国",优漫卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
 #EXTINF:-1 group-title="中国",哈哈炫动
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 #EXTINF:-1 group-title="中国",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻台
-http://zsntlqj.xicp.net:8896/bysid/83.m3u8
-#EXTINF:-1 group-title="港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="港澳台",耀才財經
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://zsntlqj.xicp.net:8895/bysid/1.m3u8
-#EXTINF:-1 group-title="港澳台",明珠台
-http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-#EXTINF:-1 group-title="港澳台",星空卫视
-http://119.129.173.5:8081/hls/18/index.m3u8
-#EXTINF:-1 group-title="港澳台",TVB-Plus
-http://zsntlqj.xicp.net:8896/bysid/82.m3u8
-#EXTINF:-1 group-title="港澳台",ViuTVsix
-http://zsntlqj.xicp.net:8895/bysid/96.m3u8
-#EXTINF:-1 group-title="港澳台",ViuTV
-http://zsntlqj.xicp.net:8895/bysid/99.m3u8
-#EXTINF:-1 group-title="港澳台",Discovery Asia
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="港澳台",Animal Planet
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="港澳台",LiveABC互动英语频道
-http://37.27.111.214:8080/live/54/hls.m3u8
-#EXTINF:-1 group-title="港澳台",ELTV生活英語台
-http://37.27.111.214:8080/live/56/hls.m3u8
-#EXTINF:-1 group-title="港澳台",ELTV生活旅游台
-http://37.27.111.214:8080/live/85/hls.m3u8
-#EXTINF:-1 group-title="港澳台",旅游
-http://37.27.111.214:8080/live/82/hls.m3u8
-#EXTINF:-1 group-title="港澳台",澳门资讯
-http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-#EXTINF:-1 group-title="港澳台",澳门Macau
-http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-#EXTINF:-1 group-title="港澳台",澳视澳门
-http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视中文台
+#EXTINF:-1 group-title="香港市",凤凰卫视中文台
 http://ayolee.com:5253/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰卫视资讯台
+#EXTINF:-1 group-title="香港市",凤凰卫视资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 group-title="港澳台",中天新闻
+#EXTINF:-1 group-title="香港市",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港市",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="香港市",耀才財經
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="澳门市",澳门资讯
+http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+#EXTINF:-1 group-title="澳门市",澳门Macau
+http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+#EXTINF:-1 group-title="澳门市",澳视澳门
+http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+#EXTINF:-1 group-title="台湾省",中天新闻
 http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
-#EXTINF:-1 group-title="港澳台",TVBSnews
+#EXTINF:-1 group-title="台湾省",TVBSnews
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS
+#EXTINF:-1 group-title="台湾省",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 group-title="港澳台",东森新闻
+#EXTINF:-1 group-title="台湾省",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="台湾省",美国之音
+http://37.27.111.214:8080/live/45/hls.m3u8
+#EXTINF:-1 group-title="台湾省",新唐人亚太台
+http://37.27.111.214:8080/live/51/hls.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg
 https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K
@@ -125,13 +103,25 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",InsightTV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",Discovery Asia
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="综合频道",Animal Planet
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="综合频道",LiveABC互动英语频道
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:-1 group-title="综合频道",ELTV生活英語台
+http://37.27.111.214:8080/live/56/hls.m3u8
+#EXTINF:-1 group-title="综合频道",ELTV生活旅游台
+http://37.27.111.214:8080/live/85/hls.m3u8
+#EXTINF:-1 group-title="综合频道",旅游
+http://37.27.111.214:8080/live/82/hls.m3u8
 #EXTINF:-1 group-title="综合频道",秋月剪水
 http://allinone.netsite.cc/douyu/9588891
-#EXTINF:-1 group-title="日本",NHK World
+#EXTINF:-1 group-title="日本",NHK-World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="日本",News24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="韩国",KBS World
+#EXTINF:-1 group-title="韩国",KBS-World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="俄罗斯",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
