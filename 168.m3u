@@ -23,6 +23,12 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
 #EXTINF:-1 group-title="皮皮虾",4K-UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",HK中文
+https://test.zapi.us.kg/?id=phtv-cn
+#EXTINF:-1 group-title="皮皮虾",HK资讯
+https://test.zapi.us.kg/?id=phtv-info
+#EXTINF:-1 group-title="皮皮虾",无线新闻网
+https://test.zapi.us.kg/?id=tvb-news
 #EXTINF:-1 group-title="皮皮虾",Bloomberg
 https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="皮皮虾",Bloomberg-4K
@@ -79,3 +85,57 @@ http://37.27.111.214:8080/live/85/hls.m3u8
 http://37.27.111.214:8080/live/82/hls.m3u8
 #EXTINF:-1 group-title="皮皮虾",秋月剪水
 http://allinone.netsite.cc/douyu/9588891
+#EXTINF:-1 group-title="皮皮虾",ESPN-1
+https://test.zapi.us.kg/?id=espn
+#EXTINF:-1 group-title="皮皮虾",ESPN-2
+https://test.zapi.us.kg/?id=espn2
+#EXTINF:-1 group-title="皮皮虾",PremierSports
+https://test.zapi.us.kg/?id=premiersports
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-英超
+https://test.zapi.us.kg/?id=now-sports-premier-league1
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-精选
+https://test.zapi.us.kg/?id=now-sports-prime
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-641
+https://test.zapi.us.kg/?id=now-sports641
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-1
+https://test.zapi.us.kg/?id=now-sports-1
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-2
+https://test.zapi.us.kg/?id=now-sports-2
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-3
+https://test.zapi.us.kg/?id=now-sports-3
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-4
+https://test.zapi.us.kg/?id=now-sports-4
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-5
+https://test.zapi.us.kg/?id=now-sports-5
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-6
+https://test.zapi.us.kg/?id=now-sports-6
+#EXTINF:-1 group-title="皮皮虾",Now-Sports-7
+https://test.zapi.us.kg/?id=now-sports-7
+#EXTINF:-1 group-title="皮皮虾",beIN-Sports-1
+https://test.zapi.us.kg/?id=beinsports
+#EXTINF:-1 group-title="皮皮虾",beIN-Sports-2
+https://test.zapi.us.kg/?id=beinsports2
+#EXTINF:-1 group-title="皮皮虾",beIN-Sports-3
+https://test.zapi.us.kg/?id=beinsports3
+#EXTINF:-1 group-title="皮皮虾",Now-beIN-SPORTS-1
+https://test.zapi.us.kg/?id=now-bein-sports1
+#EXTINF:-1 group-title="皮皮虾",Now-beIN-SPORTS-2
+https://test.zapi.us.kg/?id=now-bein-sports2
+#EXTINF:-1 group-title="皮皮虾",Now-beIN-SPORTS-3
+https://test.zapi.us.kg/?id=now-bein-sports3
+#EXTINF:-1 group-title="皮皮虾",Astro-SuperSport-1
+https://test.zapi.us.kg/?id=super-sports1
+#EXTINF:-1 group-title="皮皮虾",Astro-SuperSport-2
+https://test.zapi.us.kg/?id=super-sports2
+#EXTINF:-1 group-title="皮皮虾",Astro-SuperSport-3
+https://test.zapi.us.kg/?id=super-sports3
+#EXTINF:-1 group-title="皮皮虾",Astro-SuperSport-4
+https://test.zapi.us.kg/?id=super-sports4
+#EXTINF:-1 group-title="皮皮虾",myTV-SUPER-直播足球1台
+https://test.zapi.us.kg/?id=mytv-super-soccer1
+#EXTINF:-1 group-title="皮皮虾",myTV-SUPER-直播足球2台
+https://test.zapi.us.kg/?id=mytv-super-soccer2
+#EXTINF:-1 group-title="皮皮虾",myTV-SUPER-直播足球3台
+https://test.zapi.us.kg/?id=mytv-super-soccer3
+#EXTINF:-1 group-title="皮皮虾",myTV-SUPER-直播足球4台
+https://test.zapi.us.kg/?id=mytv-super-soccer4
