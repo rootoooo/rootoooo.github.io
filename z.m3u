@@ -43,12 +43,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="香港市",耀才財經
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="澳门市",澳门资讯
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 group-title="澳门市",澳门Macau
-http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-#EXTINF:-1 group-title="澳门市",澳视澳门
-http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="台湾省",中天新闻
 http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 group-title="台湾省",TVBSnews
@@ -59,8 +53,6 @@ http://37.27.111.214:8080/live/23/hls.m3u8
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="台湾省",美国之音
 http://37.27.111.214:8080/live/45/hls.m3u8
-#EXTINF:-1 group-title="台湾省",新唐人亚太台
-http://37.27.111.214:8080/live/51/hls.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Fashion-4K时尚与生活品味频道
@@ -85,6 +77,8 @@ https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="综合频道",Spotify声破天
 http://61.221.215.25:8800/hls/58/index.m3u8
+#EXTINF:-1 group-title="综合频道",Power星期天
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 group-title="综合频道",Trace-Sports運動明星頻道
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="综合频道",SkySport天空体育台
