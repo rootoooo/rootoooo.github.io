@@ -61,51 +61,43 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 http://37.27.111.214:8080/live/45/hls.m3u8
 #EXTINF:-1 group-title="台湾省",新唐人亚太台
 http://37.27.111.214:8080/live/51/hls.m3u8
-#EXTINF:-1 group-title="综合频道",Bloomberg
-https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",Bloomberg-4K
+#EXTINF:-1 group-title="综合频道",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",Fashion-4K
+#EXTINF:-1 group-title="综合频道",Fashion-4K时尚与生活品味频道
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",Clarity-4K
+#EXTINF:-1 group-title="综合频道",Clarity-4K视觉
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",LoveNature-4K
+#EXTINF:-1 group-title="综合频道",LoveNature-4K野生动物
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="综合频道",Loupe-4K
+#EXTINF:-1 group-title="综合频道",Loupe-4K艺术播放
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",NASA-4K
+#EXTINF:-1 group-title="综合频道",NASA-4K美国国家航空航天局
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",NASA1
+#EXTINF:-1 group-title="综合频道",NASA1美国国家航空航天局
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="综合频道",NASA2
+#EXTINF:-1 group-title="综合频道",NASA2美国国家航空航天局
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="综合频道",SportsGrid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",RedBull
+#EXTINF:-1 group-title="综合频道",RedBull红牛
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="综合频道",Outside
+#EXTINF:-1 group-title="综合频道",OutsideTV户外媒体
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="综合频道",Music-MTV
-https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",Music-THT
+#EXTINF:-1 group-title="综合频道",THT音乐频道
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="综合频道",Music-LISTENONSPOTIFY
+#EXTINF:-1 group-title="综合频道",Spotify声破天
 http://61.221.215.25:8800/hls/58/index.m3u8
-#EXTINF:-1 group-title="综合频道",Trace Sports
+#EXTINF:-1 group-title="综合频道",Trace-Sports運動明星頻道
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="综合频道",SkySport
+#EXTINF:-1 group-title="综合频道",SkySport天空体育台
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
-#EXTINF:-1 group-title="综合频道",Real Madrid CF
+#EXTINF:-1 group-title="综合频道",Real-Madrid-CF皇家马德里
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="综合频道",FIFA
+#EXTINF:-1 group-title="综合频道",FIFA足球
 https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",InsightTV
+#EXTINF:-1 group-title="综合频道",Insight-TV冒险运动和生活视频
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",Discovery Asia
+#EXTINF:-1 group-title="综合频道",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="综合频道",Animal Planet
+#EXTINF:-1 group-title="综合频道",Animal-Planet动物星球频道
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="综合频道",LiveABC互动英语频道
 http://37.27.111.214:8080/live/54/hls.m3u8
@@ -115,57 +107,55 @@ http://37.27.111.214:8080/live/56/hls.m3u8
 http://37.27.111.214:8080/live/85/hls.m3u8
 #EXTINF:-1 group-title="综合频道",TAIWAN旅游
 http://37.27.111.214:8080/live/82/hls.m3u8
-#EXTINF:-1 group-title="综合频道",秋月剪水
-http://allinone.netsite.cc/douyu/9588891
-#EXTINF:-1 group-title="日本",NHK-World
+#EXTINF:-1 group-title="日本",NHK-World日本国际传媒
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="日本",News24
+#EXTINF:-1 group-title="日本",JAPAN-News24日本新闻台
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="韩国",KBS-World
+#EXTINF:-1 group-title="韩国",KBS-World韩国国际传媒
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="俄罗斯",RT
+#EXTINF:-1 group-title="俄罗斯",RT今日俄罗斯
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="俄罗斯",IGI
+#EXTINF:-1 group-title="俄罗斯",IGI第一频道
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="印度",WION
+#EXTINF:-1 group-title="印度",WION世界一体新闻台
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="澳大利亚",ABC
+#EXTINF:-1 group-title="澳大利亚",ABC美国广播公司
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-#EXTINF:-1 group-title="土耳其",TRT
+#EXTINF:-1 group-title="土耳其",TRT土耳其广播
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="卡塔尔",Al Jazeera
+#EXTINF:-1 group-title="卡塔尔",Al-Jazeera半岛电视台
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="新加坡",CNA
+#EXTINF:-1 group-title="新加坡",CNA亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="欧洲",Euronews
+#EXTINF:-1 group-title="欧洲",Euronews欧洲新闻台
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="欧洲",Euronews-English
+#EXTINF:-1 group-title="欧洲",Euronews-English欧洲新闻台
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 group-title="德国",DW
+#EXTINF:-1 group-title="德国",DW德国之声
 http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 group-title="法国",France24
+#EXTINF:-1 group-title="法国",France24国际新闻频道
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 group-title="法国",News24
+#EXTINF:-1 group-title="法国",News24法兰西24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:-1 group-title="英国",BBC
+#EXTINF:-1 group-title="英国",BBC英国广播公司
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="英国",BBCnews
+#EXTINF:-1 group-title="英国",BBCnews英国广播公司
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="英国",GBnews
+#EXTINF:-1 group-title="英国",GBnews英国版福斯新闻
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 group-title="美国",CNN
+#EXTINF:-1 group-title="美国",CNN美国有线新闻网
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",CNNnews
+#EXTINF:-1 group-title="美国",CNNnews美国有线新闻网
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="美国",GlobalNews
+#EXTINF:-1 group-title="美国",GlobalNews环球新闻
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 group-title="美国",FOX
+#EXTINF:-1 group-title="美国",FOX福克斯新闻频道
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",CBS
+#EXTINF:-1 group-title="美国",CBS哥伦比亚广播公司
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="美国",NBC
+#EXTINF:-1 group-title="美国",NBC环球新闻集团
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 group-title="美国",CNBC
+#EXTINF:-1 group-title="美国",CNBC美国消费者新闻与商业频道
 http://37.27.111.214:8080/live/102/hls.m3u8
-#EXTINF:-1 group-title="美国",NewsmaxTV
+#EXTINF:-1 group-title="美国",NewsmaxTV美国保守派新闻媒体
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
