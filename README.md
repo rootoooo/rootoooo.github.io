@@ -50,6 +50,8 @@ https://github.com/icy37785/syncnextPlugin
 
 m3u转换：https://guihet.com/convert-m3u-js.html
 
+https://www.fengshows.com/live
+
 https://github.com/YueChan/Live
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
