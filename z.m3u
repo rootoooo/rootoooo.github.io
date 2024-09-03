@@ -61,6 +61,8 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="台湾省",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="台湾省",三立新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="台湾省",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K彭博社
