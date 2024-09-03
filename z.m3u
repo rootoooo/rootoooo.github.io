@@ -35,14 +35,10 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 #EXTINF:-1 group-title="中国",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
-#EXTINF:-1 group-title="香港市",HK中文
-http://ayolee.com:5253/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="香港市",HK资讯
-http://171.213.194.180:4022/udp/239.93.0.118:2191
 #EXTINF:-1 group-title="香港市",凤凰卫视中文台
-http://210.210.155.35/uq2663/h/h157/index2.m3u8
+http://222.217.247.208:8181/tsfile/live/1083_1.m3u8
 #EXTINF:-1 group-title="香港市",凤凰卫视资讯台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+http://222.217.247.208:8181/tsfile/live/1082_1.m3u8
 #EXTINF:-1 group-title="香港市",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 #EXTINF:-1 group-title="香港市",翡翠台
@@ -132,7 +128,7 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="欧洲",Euronews-English欧洲新闻台
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 group-title="德国",DW德国之声
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+http://37.27.111.214:8080/live/46/hls.m3u8
 #EXTINF:-1 group-title="法国",France24国际新闻频道
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 group-title="法国",News24法兰西24
@@ -156,6 +152,6 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 group-title="美国",NBC环球新闻集团
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title="美国",CNBC美国消费者新闻与商业频道
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+http://37.27.111.214:8080/live/102/hls.m3u8
 #EXTINF:-1 group-title="美国",NewsmaxTV美国保守派新闻媒体
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
