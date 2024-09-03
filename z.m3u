@@ -39,6 +39,8 @@ http://171.213.194.180:4022/udp/239.93.0.118:2191
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="香港市",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="香港市",明珠台
+http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 #EXTINF:-1 group-title="香港市",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 #EXTINF:-1 group-title="香港市",翡翠台
@@ -63,10 +65,6 @@ http://37.27.111.214:8080/live/23/hls.m3u8
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="台湾省",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="台湾省",三立INEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 group-title="台湾省",三立NEWS+
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Fashion-4K时尚与生活品味频道
@@ -95,6 +93,8 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 group-title="综合频道",Trace-Sports運動明星頻道
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="综合频道",SportsGrid直播FAST频道
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",SkySport天空体育台
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1 group-title="综合频道",Real-Madrid-CF皇家马德里
