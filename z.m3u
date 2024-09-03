@@ -3,6 +3,10 @@
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
+#EXTINF:-1 group-title="中国",CCTV-2
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8
+#EXTINF:-1 group-title="中国",CCTV-4
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8
 #EXTINF:-1 group-title="中国",CCTV-5+
@@ -39,8 +43,6 @@ http://171.213.194.180:4022/udp/239.93.0.118:2191
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="香港市",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="香港市",明珠台
-http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 #EXTINF:-1 group-title="香港市",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 #EXTINF:-1 group-title="香港市",翡翠台
@@ -85,24 +87,22 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="综合频道",OutsideTV户外媒体
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="综合频道",Trace-Sports運動明星頻道
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="综合频道",SportsGrid直播FAST频道
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",Insight-TV冒险运动和生活视频
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",Real-Madrid-CF皇家马德里
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="综合频道",FIFA足球
+https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",THT音乐频道
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="综合频道",Spotify声破天
 http://61.221.215.25:8800/hls/58/index.m3u8
 #EXTINF:-1 group-title="综合频道",Power星期天
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="综合频道",Trace-Sports運動明星頻道
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="综合频道",SportsGrid直播FAST频道
-https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",SkySport天空体育台
-https://donelfantastic.github.io/live/skysportsNz8.m3u8
-#EXTINF:-1 group-title="综合频道",Real-Madrid-CF皇家马德里
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="综合频道",FIFA足球
-https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="综合频道",Insight-TV冒险运动和生活视频
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="综合频道",Animal-Planet动物星球频道
