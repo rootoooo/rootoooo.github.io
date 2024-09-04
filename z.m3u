@@ -38,9 +38,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 #EXTINF:-1 group-title="中国大陆",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 #EXTINF:-1 group-title="香港市",凤凰卫视中文台
-http://222.217.247.208:8181/tsfile/live/1083_1.m3u8
+http://210.210.155.35/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 group-title="香港市",凤凰卫视资讯台
-http://222.217.247.208:8181/tsfile/live/1082_1.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="香港市",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 #EXTINF:-1 group-title="香港市",翡翠台
