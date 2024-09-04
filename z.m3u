@@ -25,6 +25,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
 #EXTINF:-1 group-title="中国大陆",4K-UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 group-title="中国大陆",ABC互动英语
+http://37.27.111.214:8080/live/54/hls.m3u8
 #EXTINF:-1 group-title="中国大陆",斗鱼音乐
 http://allinone.netsite.cc/douyu/9588891
 #EXTINF:-1 group-title="中国大陆",CCTV-14
@@ -40,9 +42,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 #EXTINF:-1 group-title="香港市",凤凰卫视中文台
 http://210.210.155.35/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 group-title="香港市",凤凰卫视资讯台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 group-title="香港市",凤凰资讯
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+http://wouu.net:9977/udp/239.93.0.118:2191
 #EXTINF:-1 group-title="香港市",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 #EXTINF:-1 group-title="香港市",翡翠台
@@ -71,10 +71,8 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="台湾省",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="台湾省",三立新闻
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="台湾省",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+https://gat.zhoujie218.top/litv/4gtv-4gtv009
 #EXTINF:-1 group-title="台湾省",Taiwan-Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K彭博社
@@ -189,3 +187,5 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 http://37.27.111.214:8080/live/102/hls.m3u8
 #EXTINF:-1 group-title="美国",NewsmaxTV美国保守派新闻媒体
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="美国",Vice媒体
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
