@@ -27,7 +27,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="中国大陆",ABC互动英语
 http://37.27.111.214:8080/live/54/hls.m3u8
-#EXTINF:-1 group-title="中国大陆",斗鱼音乐
+#EXTINF:-1 group-title="中国大陆",Music
 http://allinone.netsite.cc/douyu/9588891
 #EXTINF:-1 group-title="中国大陆",CCTV-14
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
