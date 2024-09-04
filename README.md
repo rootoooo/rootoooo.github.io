@@ -30,7 +30,7 @@ SMS虚拟号：https://sms-activate.org/getNumber
 
 美国地址生成器：https://www.meiguodizhi.com/
 
-免费域名：https://nic.eu.org/ - AD1456-FREE
+免费域名：https://nic.eu.org/
 
 LocalSend本地发送：https://github.com/localsend/localsend
 
