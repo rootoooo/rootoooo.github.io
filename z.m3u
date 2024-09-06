@@ -38,6 +38,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 #EXTINF:-1 group-title="香港市",凤凰卫视中文台
 http://210.210.155.35/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 group-title="香港市",凤凰卫视资讯台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="香港市",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="香港市",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
@@ -107,13 +109,17 @@ https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="综合频道",FIFA足球
 https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",Sony电影
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",THT音乐频道
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="综合频道",Spotify声破天
 http://61.221.215.25:8800/hls/58/index.m3u8
 #EXTINF:-1 group-title="综合频道",Power星期天
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="中国大陆",Music
+#EXTINF:-1 group-title="综合频道",The-Country-Network乡村音乐生活
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",Music秋月剪水
 http://allinone.netsite.cc/douyu/9588891
 #EXTINF:-1 group-title="综合频道",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
@@ -131,6 +137,12 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="综合频道",TNA美式摔角
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="综合频道",Law-&-Crime法律与秩序
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/law_720p/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",FunRoads房车网
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/funroads_720p/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",Hunt-Channel户外节目
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/huntchannel_720p/playlist.m3u8
 #EXTINF:-1 group-title="泰国",PBS3泰国公共电视台
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="马来西亚",RTM马来西亚广播电视台
@@ -189,3 +201,7 @@ http://37.27.111.214:8080/live/102/hls.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="美国",Vice媒体
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="美国",InfoWars信息战网站
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/infowars_720p/playlist.m3u8
+#EXTINF:-1 group-title="美国",OANN美国第一新闻网
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
