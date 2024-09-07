@@ -40,7 +40,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="香港市",凤凰卫视资讯台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="香港市",HK中文
-http://210.210.155.35/uq2663/h/h157/index2.m3u8
+http://free.xiptv.x10.bz/kudou.php?id=121
 #EXTINF:-1 group-title="香港市",HK资讯
 http://free.xiptv.x10.bz/kudou.php?id=122
 #EXTINF:-1 group-title="香港市",HK香港台
@@ -93,6 +93,14 @@ http://37.27.111.214:8080/live/23/hls.m3u8
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="台湾省",三立新闻
 http://free.xiptv.x10.bz/kudou.php?id=79
+#EXTINF:-1 group-title="台湾省",寰宇新闻
+http://free.xiptv.x10.bz/kudou.php?id=76
+#EXTINF:-1 group-title="台湾省",民视新闻
+http://free.xiptv.x10.bz/kudou.php?id=84
+#EXTINF:-1 group-title="台湾省",中视新闻
+http://free.xiptv.x10.bz/kudou.php?id=80
+#EXTINF:-1 group-title="台湾省",台视新闻
+http://free.xiptv.x10.bz/kudou.php?id=81
 #EXTINF:-1 group-title="台湾省",中天新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv009
 #EXTINF:-1 group-title="台湾省",Taiwan-Plus
@@ -133,6 +141,8 @@ https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="综合频道",FIFA足球
 https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",Sports英超
+http://free.xiptv.x10.bz/kudou.php?id=31
 #EXTINF:-1 group-title="综合频道",Sony电影
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",THT音乐频道
