@@ -46,6 +46,8 @@ UUID生成：https://1024tools.com/uuid
 
 Umi-OCR 文字识别工具：https://github.com/hiroi-sora/Umi-OCR
 
+NDM下载：https://www.neatdownloadmanager.com/index.php/en/
+
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
