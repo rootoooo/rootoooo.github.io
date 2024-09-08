@@ -6,6 +6,10 @@
 
 Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
+Shadowrocket：https://whatshub.top/config/shadowrocket_basic.conf
+
+Shadowrocket去广告模块：https://whatshub.top/module/YouTubeAd.sgmodule
+
 安卓-v2rayN：https://github.com/2dust/v2rayNG/releases
 
 安卓-ClashMeta：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
