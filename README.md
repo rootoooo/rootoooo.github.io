@@ -44,6 +44,8 @@ UUID生成：https://1024tools.com/uuid
 
 洋葱浏览器：https://www.torproject.org
 
+Umi-OCR 文字识别工具：https://github.com/hiroi-sora/Umi-OCR
+
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
