@@ -26,6 +26,8 @@ DNS：https://www.nslookup.io/
 
 M3U8：http://tonkiang.us/
 
+AI：https://www.igdux.com/ai3
+
 SMS虚拟号：https://sms-activate.org/getNumber
 
 美国地址生成器：https://www.meiguodizhi.com/
