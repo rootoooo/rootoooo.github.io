@@ -93,10 +93,6 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="台湾省",中天新闻
 https://gat.zhoujie218.top/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="台湾省",中天news
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="台湾省",Taiwan-Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Fashion-4K时尚与生活品味频道
@@ -133,6 +129,8 @@ https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="综合频道",FIFA足球
 https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="综合频道",Sports英超
+http://free.xiptv.x10.bz/kudou.php?id=31
 #EXTINF:-1 group-title="综合频道",Sony电影
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",THT音乐频道
@@ -145,6 +143,8 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Music秋月剪水
 http://allinone.netsite.cc/douyu/9588891
+#EXTINF:-1 group-title="综合频道",Taiwan-Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="综合频道",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="综合频道",Animal-Planet动物星球频道
