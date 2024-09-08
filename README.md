@@ -38,15 +38,13 @@ TVBOX：https://github.com/o0HalfLife0o/TVBoxOSC
 
 直播软件：https://github.com/xiaoyaocz/dart_simple_live/releases
 
+NDM下载：https://www.neatdownloadmanager.com/index.php/en/
+
 FinalShell：https://www.hostbuf.com/
 
 UUID生成：https://1024tools.com/uuid
 
 洋葱浏览器：https://www.torproject.org
-
-Umi-OCR 文字识别工具：https://github.com/hiroi-sora/Umi-OCR
-
-NDM下载：https://www.neatdownloadmanager.com/index.php/en/
 
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
