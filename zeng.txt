@@ -66,10 +66,6 @@ https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-https://warp.haoss.eu.org/sub/104.19.45.180
-
-vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@haoss.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNsb3VkQ29uZS1WTUVTUyIsDQogICJhZGQiOiAiaGFvc3MuZXUub3JnIiwNCiAgInBvcnQiOiAiMjA4MiIsDQogICJpZCI6ICIxMDFkNGZjZC02Y2UyLTQyNzctYTIyMy05ZGI2ODYzNmVmOWUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRhYmxlcy1jaGluZXNlLXJvbmFsZC1zdHJhdGVnaWVzLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiL3NiYS12bT9lZD0yMDQ4IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogInRhYmxlcy1jaGluZXNlLXJvbmFsZC1zdHJhdGVnaWVzLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
 vless://101d4fcd-6ce2-4277-a223-9db68636ef9e@haoss.eu.org:2082?encryption=none&security=none&sni=tables-chinese-ronald-strategies.trycloudflare.com&type=ws&host=tables-chinese-ronald-strategies.trycloudflare.com&path=%2Fsba-vl%3Fed%3D2048#CloudCone-VLESS
