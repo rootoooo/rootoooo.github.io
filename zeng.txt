@@ -64,10 +64,6 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@haoss.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
 
-vless://f7f1b672-dba8-404c-b7f1-8a2ec3e89ab2@haoss.eu.org:443?encryption=none&security=tls&sni=invoice-bone-operations-thoughts.trycloudflare.com&type=ws&host=invoice-bone-operations-thoughts.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#VLESS
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZNRVNTIiwNCiAgImFkZCI6ICJoYW9zcy5ldS5vcmciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZjdmMWI2NzItZGJhOC00MDRjLWI3ZjEtOGEyZWMzZTg5YWIyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJpbnZvaWNlLWJvbmUtb3BlcmF0aW9ucy10aG91Z2h0cy50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi9hcmdveC12bT9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImludm9pY2UtYm9uZS1vcGVyYXRpb25zLXRob3VnaHRzLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-
 更新VPS系统环境：
 
 apt update -y && apt install -y curl socat wget sudo
