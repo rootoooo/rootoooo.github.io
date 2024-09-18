@@ -64,6 +64,10 @@ https://github.com/YueChan/Live
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
+vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@haoss.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
+
+vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@shehh.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
+
 vless://4abd913f-db4d-4948-ab02-82fa868c92eb@haoss.eu.org:443?encryption=none&security=tls&sni=dvd-statistical-females-wto.trycloudflare.com&type=ws&host=dvd-statistical-females-wto.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#Vless-01
 
 vless://4abd913f-db4d-4948-ab02-82fa868c92eb@shehh.eu.org:443?encryption=none&security=tls&sni=dvd-statistical-females-wto.trycloudflare.com&type=ws&host=dvd-statistical-females-wto.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#Vless-02
