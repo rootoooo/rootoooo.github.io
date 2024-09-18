@@ -66,6 +66,10 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@haoss.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
 
+vless://4abd913f-db4d-4948-ab02-82fa868c92eb@haoss.eu.org:443?encryption=none&security=tls&sni=dvd-statistical-females-wto.trycloudflare.com&type=ws&host=dvd-statistical-females-wto.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#racknerd-ae130b9-Vl
+
+vmess://eyAidiI6ICIyIiwgInBzIjogInJhY2tuZXJkLWFlMTMwYjktVm0iLCAiYWRkIjogImhhb3NzLmV1Lm9yZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI0YWJkOTEzZi1kYjRkLTQ5NDgtYWIwMi04MmZhODY4YzkyZWIiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImR2ZC1zdGF0aXN0aWNhbC1mZW1hbGVzLXd0by50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIi9hcmdveC12bT9lZD0yMDQ4IiwgInRscyI6ICJ0bHMiLCAic25pIjogImR2ZC1zdGF0aXN0aWNhbC1mZW1hbGVzLXd0by50cnljbG91ZGZsYXJlLmNvbSIsICJhbHBuIjogIiIgfQ==
+
 更新VPS系统环境：
 
 apt update -y && apt install -y curl socat wget sudo
