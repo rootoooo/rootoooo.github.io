@@ -18,6 +18,8 @@ Windows-v2rayN：https://github.com/2dust/v2rayN/releases
 
 Clash Verge：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
+ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
+
 贝锐管理平台：https://console-v2.oray.com/
 
 贝锐蒲公英：https://www.pgybox.com/
