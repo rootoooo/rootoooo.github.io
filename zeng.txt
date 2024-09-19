@@ -34,6 +34,8 @@ M3U8：http://tonkiang.us/
 
 AI：https://www.igdux.com/ai3
 
+zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
+
 RaiDrive：https://www.raidrive.com/download
 
 SMS虚拟号：https://sms-activate.org/getNumber
