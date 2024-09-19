@@ -23,8 +23,18 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 #EXTINF:-1 group-title="China中国-IPV6",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
+#EXTINF:-1 group-title="China中国-IPV6",咪咕-广场舞
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
+#EXTINF:-1 group-title="China中国-IPV6",咪咕-青少
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
+#EXTINF:-1 group-title="China中国-IPV6",咪咕-篮球
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
+#EXTINF:-1 group-title="China中国-IPV6",咪咕-竞技
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270001/1.m3u8
 #EXTINF:-1 group-title="China中国-IPV6",4K-UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 group-title="China中国-IPV6",乐游
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 #EXTINF:-1 group-title="China中国-IPV6",CCTV-14
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
 #EXTINF:-1 group-title="China中国-IPV6",金鹰卡通
@@ -101,6 +111,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Insight-TV冒险运动和生活视频
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Live直播",MyTVchain体育网络
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 group-title="Live直播",MAVTV赛车
 https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Real-Madrid-CF皇家马德里
@@ -110,12 +122,16 @@ https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Live直播",MTV音乐
 http://37.27.111.214:8080/live/25/hls.m3u8
 #EXTINF:-1 group-title="Live直播",THT音乐
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Live直播",Spotify声破天
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 group-title="Live直播",QmusicNL音乐
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:-1 group-title="Live直播",Sunset音乐
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="Live直播",Spotify音乐
 http://61.221.215.25:8800/hls/58/index.m3u8
-#EXTINF:-1 group-title="Live直播",Power星期天
+#EXTINF:-1 group-title="Live直播",Power音乐
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="Live直播",The-Country-Network乡村音乐生活
+#EXTINF:-1 group-title="Live直播",The-Country-Network音乐
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",亚洲影院
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5841816227539527643
