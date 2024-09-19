@@ -42,15 +42,17 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="HongKong香港",香港台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="HongKong香港",无线新闻台
-http://zsntlqj.xicp.net:8896/bysid/83.m3u8
+http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 group-title="HongKong香港",翡翠台
-http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="HongKong香港",TVB-Plus
-http://zsntlqj.xicp.net:8896/bysid/82.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="HongKong香港",ViuTVsix
 http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 #EXTINF:-1 group-title="HongKong香港",ViuTV
 http://zsntlqj.xicp.net:8895/bysid/99.m3u8
+#EXTINF:-1 group-title="HongKong香港",TVBJade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="HongKong香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="HongKong香港",环球电视台
@@ -60,7 +62,7 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="HongKong香港",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="HongKong香港",星河台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="HongKong香港",明珠台
 http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
 #EXTINF:-1 group-title="Macao澳门",澳视澳门
@@ -129,7 +131,11 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 group-title="Live直播",The-Country-Network乡村音乐生活
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Sony电影
+#EXTINF:-1 group-title="Live直播",亚洲影院
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5841816227539527643
+#EXTINF:-1 group-title="Live直播",欧美影院
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=7185203501769528108
+#EXTINF:-1 group-title="Live直播",Sony电影-西班牙语
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Taiwan-Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
