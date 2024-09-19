@@ -89,7 +89,7 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 https://gat.zhoujie218.top/litv/4gtv-4gtv152
 #EXTINF:-1 group-title="Taiwan台湾",三立新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 group-title="Taiwan台湾",中天新闻
+#EXTINF:-1 group-title="Taiwan台湾",中天新闻-HD
 https://gat.zhoujie218.top/litv/4gtv-4gtv009
 #EXTINF:-1 group-title="Live直播",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
