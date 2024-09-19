@@ -121,6 +121,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Insight-TV冒险运动和生活视频
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Live直播",MyTVchain体育网络
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 group-title="Live直播",MAVTV赛车
 https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Real-Madrid-CF皇家马德里
