@@ -60,6 +60,8 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
+黑木耳：https://www.heimuer.tv/api.php/provide/vod/at/xml
+
 http://allinone.netsite.cc/douyu/9588891
 
 m3u转换：https://guihet.com/convert-m3u-js.html
