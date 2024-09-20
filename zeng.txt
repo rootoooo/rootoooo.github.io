@@ -68,6 +68,8 @@ https://github.com/icy37785/syncnextPlugin
 
 草榴-json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
 
+探探-json：https://apittzy.com/api.php/provide/vod/?ac=list
+
 http://allinone.netsite.cc/douyu/9588891
 
 m3u转换：https://guihet.com/convert-m3u-js.html
