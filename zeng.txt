@@ -60,11 +60,13 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
-黑木耳：https://www.heimuer.tv/api.php/provide/vod/at/xml
+黑木耳-xml：https://www.heimuer.tv/api.php/provide/vod/at/xml
 
-https://api.apilyzy.com/api.php/provide/vod/at/xml
+唐老鸭-xml：https://api.apilyzy.com/api.php/provide/vod/at/xml
 
-https://91md.me/api.php/provide/vod/
+91-json：https://91md.me/api.php/provide/vod/
+
+草榴-json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
 
 http://allinone.netsite.cc/douyu/9588891
 
