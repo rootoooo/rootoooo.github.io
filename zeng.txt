@@ -36,6 +36,24 @@ AI：https://www.igdux.com/ai3
 
 zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
 
+zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
+
+TVBOX：https://github.com/o0HalfLife0o/TVBoxOSC
+
+直播软件：https://github.com/xiaoyaocz/dart_simple_live/releases
+
+黑木耳-xml：https://www.heimuer.tv/api.php/provide/vod/at/xml
+
+唐老鸭-xml：https://api.apilyzy.com/api.php/provide/vod/at/xml
+
+91-json：https://91md.me/api.php/provide/vod/
+
+草榴-json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
+
+探探-json：https://apittzy.com/api.php/provide/vod/?ac=list
+
+http://allinone.netsite.cc/douyu/9588891
+
 RaiDrive：https://www.raidrive.com/download
 
 SMS虚拟号：https://sms-activate.org/getNumber
@@ -59,18 +77,6 @@ UUID生成：https://1024tools.com/uuid
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
-
-黑木耳-xml：https://www.heimuer.tv/api.php/provide/vod/at/xml
-
-唐老鸭-xml：https://api.apilyzy.com/api.php/provide/vod/at/xml
-
-91-json：https://91md.me/api.php/provide/vod/
-
-草榴-json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
-
-探探-json：https://apittzy.com/api.php/provide/vod/?ac=list
-
-http://allinone.netsite.cc/douyu/9588891
 
 m3u转换：https://guihet.com/convert-m3u-js.html
 
