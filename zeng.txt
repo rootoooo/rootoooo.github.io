@@ -40,8 +40,6 @@ AI：https://www.igdux.com/ai3
 
 zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
 
-zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
-
 TVBOX：https://github.com/o0HalfLife0o/TVBoxOSC
 
 直播软件：https://github.com/xiaoyaocz/dart_simple_live/releases
