@@ -104,6 +104,8 @@ https://psub.888005.xyz/sub?target=clash&url=vmess%3A%2F%2FewogICJ2IjogIjIiLAogI
 
 https://psub.888005.xyz/sub?target=quanx&url=vmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIlJhY2tOZXJkIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiMjg3MjIiLA0KICAiaWQiOiAiMzgxNGUxNWYtYTQ2Ny00MTQxLWMyMWUtZGFiOGEwNGI5YjhjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvRlIiLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9&insert=false
 
+hysteria2://1234567890@88.218.79.165:4444,40000-44000/?insecure=1&sni=www.bing.com#Hysteria2-misaka
+
 更新VPS系统环境：
 
 apt update -y && apt install -y curl socat wget sudo
