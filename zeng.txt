@@ -94,8 +94,6 @@ https://github.com/YueChan/Live
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@haoss.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
-
 vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@shehh.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJhY2tOZXJkIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiMjg3MjIiLA0KICAiaWQiOiAiMzgxNGUxNWYtYTQ2Ny00MTQxLWMyMWUtZGFiOGEwNGI5YjhjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvRlIiLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
