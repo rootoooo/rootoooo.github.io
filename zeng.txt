@@ -96,6 +96,8 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@shehh.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
 
+https://psub.888005.xyz/sub?target=clash&url=vless%3A%2F%2Fc9e6f086-4c35-4530-8a79-8cf1c46ce36f%40shehh.eu.org%3A2082%3Fencryption%3Dnone%26security%3Dnone%26sni%3Dvless.zeng-sl.workers.dev%26fp%3Drandomized%26type%3Dws%26host%3Dvless.zeng-sl.workers.dev%26path%3D%252F%253Fed%253D2048%23Cloudflare&insert=false
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJhY2tOZXJkIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiMjg3MjIiLA0KICAiaWQiOiAiMzgxNGUxNWYtYTQ2Ny00MTQxLWMyMWUtZGFiOGEwNGI5YjhjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvRlIiLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
 https://psub.888005.xyz/sub?target=clash&url=vmess%3A%2F%2FewogICJ2IjogIjIiLAogICJwcyI6ICJSYWNrTmVyZCIsCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwKICAicG9ydCI6IDI4NzIyLAogICJpZCI6ICIzODE0ZTE1Zi1hNDY3LTQxNDEtYzIxZS1kYWI4YTA0YjliOGMiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiL0ZSIiwKICAidGxzIjogIm5vbmUiCn0%3D&insert=false
