@@ -123,7 +123,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 Frp内网穿透：
 
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
+
 chmod 700 ./install-frps.sh
+
 ./install-frps.sh install
 
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
