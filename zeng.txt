@@ -112,10 +112,6 @@ apt update -y && apt install -y curl socat wget sudo
 
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 
-ArgoX：
-
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
-
 X-UI
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
