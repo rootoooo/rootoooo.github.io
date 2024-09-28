@@ -116,7 +116,7 @@ X-UI：
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
-Frp内网穿透：
+Frp：
 
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
 
@@ -148,11 +148,12 @@ jc21/nginx-proxy-manager:latest
 
 哪吒面板：
 
-curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh sudo ./nezha.sh
+curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
+sudo ./nezha.sh 
 
-OAuth应用程序→新建vps→Homepage URL：http://XXX.com:8008→http://XXX.com:8008/oauth2/callback
+OAuth应用程序→新建vps→Homepage URL：http://ip.XXX.com:8008→http://ip.XXX.com:8008/oauth2/callback
 
-哪吒：ClentID：XXX→Client：XXX→rootoooo→未接入CDN的面板服务器域名/IP→XXX.com
+ClentID：***→Client：***→rootoooo→未接入CDN的面板服务器域名/IP→ip.XXX.com
 
 Alist：
 
