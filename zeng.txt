@@ -112,7 +112,7 @@ apt update -y && apt install -y curl socat wget sudo
 
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 
-X-UI
+X-UI：
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
@@ -126,11 +126,11 @@ chmod 700 ./install-frps.sh
 
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
-安装 Docker：
+Docker：
 
 curl -fsSL https://get.docker.com | sh
 
-一键安装 Nginx Proxy Manager：
+Nginx Proxy Manager：
 
 docker run -d
 --name=npm
@@ -152,11 +152,9 @@ curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -
 
 OAuth应用程序→新建vps→Homepage URL：http://XXX.com:8008→http://XXX.com:8008/oauth2/callback
 
-XXX
-
 哪吒：ClentID：XXX→Client：XXX→rootoooo→未接入CDN的面板服务器域名/IP→XXX.com
 
-Alist一键安装：
+Alist：
 
 curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
 
