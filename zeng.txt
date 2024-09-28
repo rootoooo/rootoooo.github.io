@@ -94,12 +94,13 @@ https://github.com/YueChan/Live
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@shehh.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
+vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@shehh.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#US
 
-vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@haoss.eu.org:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#Cloudflare
+https://psub.888005.xyz/sub?target=clash&url=vless%3A%2F%2Fc9e6f086-4c35-4530-8a79-8cf1c46ce36f%40shehh.eu.org%3A2082%3Fencryption%3Dnone%26security%3Dnone%26sni%3Dvless.zeng-sl.workers.dev%26fp%3Drandomized%26type%3Dws%26host%3Dvless.zeng-sl.workers.dev%26path%3D%252F%253Fed%253D2048%23US&insert=false
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJhY2tOZXJkIiwNCiAgImFkZCI6ICJoYW9zcy5ldS5vcmciLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogIjE0YzhmY2U5LTIzNzUtNDA3Zi1jNTNmLTgyMmI5NTQzNWJhNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInguaGFvc3MuZXUub3JnIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJhY2tOZXJkIiwNCiAgImFkZCI6ICJzaGVoaC5ldS5vcmciLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogIjE0YzhmY2U5LTIzNzUtNDA3Zi1jNTNmLTgyMmI5NTQzNWJhNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInguaGFvc3MuZXUub3JnIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiODQ0MyIsDQogICJpZCI6ICJlZTlhYjg4MS1iYmQzLTQzMGMtYmE5OC1jNzJiZjdiOWNhMjgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+
+https://psub.888005.xyz/sub?target=clash&url=vmess%3A%2F%2Few0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiODQ0MyIsDQogICJpZCI6ICJlZTlhYjg4MS1iYmQzLTQzMGMtYmE5OC1jNzJiZjdiOWNhMjgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9&insert=false
 
 更新VPS系统环境：
 
@@ -112,8 +113,6 @@ curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejili
 X-UI：
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
 
 Frp：
 
