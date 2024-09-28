@@ -75,6 +75,10 @@ http://37.27.111.214:8080/live/23/hls.m3u8
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="China中国",三立新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+#EXTINF:-1 group-title="China中国",Taiwan-Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="China中国",斗鱼-秋月剪水
+http://allinone.netsite.cc/douyu/9588891
 #EXTINF:-1 group-title="Live直播",Bloomberg-4K彭博社
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Fashion-4K时尚与生活品味频道
@@ -125,8 +129,6 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",欧美影院
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=7185203501769528108
-#EXTINF:-1 group-title="Live直播",Taiwan-Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="Live直播",Animal-Planet动物星球频道
