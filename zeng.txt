@@ -88,7 +88,7 @@ https://github.com/YueChan/Live
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZyYW5jZSIsDQogICJhZGQiOiAiODguMjE4Ljc5LjE2NSIsDQogICJwb3J0IjogIjY1NTM1IiwNCiAgImlkIjogIjhmNWQ5YzRjLThhZWYtNDkwZi1hYTcyLTZlOWQ0MTdmYTJkYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLms5Xlm70iLAogICJhZGQiOiAiODguMjE4Ljc5LjE2NSIsCiAgInBvcnQiOiA2NTUzNSwKICAiaWQiOiAiMWU0MzhiNzktYmZlNS00NzExLWY5OTItZTcxNmNiNWEzNDA1IiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8zIiwKICAidGxzIjogIm5vbmUiCn0=
 
 更新VPS系统环境：
 
@@ -160,3 +160,21 @@ curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
 卸载
 
 curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
+
+申请SSL证书：
+
+apt update && apt -y install socat
+
+apt -y install cron
+
+wget -O -  https://get.acme.sh | bash
+
+export CF_Key="xxx" 
+
+export CF_Email="xxx@qq.com" 
+
+acme.sh --register-account -m xxx@qq.com
+
+acme.sh --issue --dns dns_cf -d xxx.com -k ec-256
+
+
