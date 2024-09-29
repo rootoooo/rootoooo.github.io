@@ -98,9 +98,19 @@ apt update -y && apt install -y curl socat wget sudo
 
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 
+申请SSL证书:
+
+sudo apt install git -y
+
+git clone https://github.com/slobys/SSL-Renewal.git /tmp/acme && mv /tmp/acme/* /root && bash acme_2.0.sh
+
 X-UI：
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+
+3X-UI：
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 Frp：
 
