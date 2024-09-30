@@ -14,8 +14,6 @@ Shadowrocket去广告模块：https://whatshub.top/module/YouTubeAd.sgmodule
 
 安卓-ClashMeta：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
 
-Windows-v2rayN：https://github.com/2dust/v2rayN/releases
-
 Clash Verge：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 软件报毒检测：https://www.virscan.org/
