@@ -95,3 +95,54 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLTA0IiwNCiAgImFkZCI6ICI4OC4yMTguNzku
 
 hysteria2://1234567890@88.218.79.165:1314,40000-44000/?insecure=1&sni=www.bing.com#Hysteria2-misaka
 
+{
+  "host" : "88.218.79.165",
+  "file" : "",
+  "obfsParam" : "",
+  "alpn" : "",
+  "cert" : "",
+  "created" : 1727666479.721801,
+  "updated" : 1727666479.722569,
+  "mtu" : "",
+  "flag" : "FR",
+  "ping" : 543,
+  "privateKey" : "",
+  "hpkp" : "",
+  "uuid" : "AFF48763-252A-4365-973A-5D1ABB01C564",
+  "type" : "Hysteria2",
+  "downmbps" : "",
+  "user" : "",
+  "ech" : "",
+  "plugin" : "none",
+  "method" : "",
+  "data" : "",
+  "udp" : 1,
+  "filter" : "",
+  "protoParam" : "",
+  "reserved" : "",
+  "alterId" : "",
+  "upmbps" : "",
+  "keepalive" : "",
+  "allowInsecure" : 1,
+  "port" : "1314",
+  "obfs" : "none",
+  "dns" : "",
+  "publicKey" : "",
+  "peer" : "",
+  "weight" : 1727666479,
+  "title" : "Hysteria2",
+  "proto" : "",
+  "password" : "1234567890",
+  "shortId" 
+
+
+
+hysteria2://1234567890@88.218.79.165:1314?insecure=1&obfs=none#Hysteria2
+
+
+
+
+
+
+
+
