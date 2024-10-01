@@ -2,8 +2,6 @@
 
 优选IP：https://monitor.gacjie.cn/
 
-墨鱼配置：https://github.com/ddgksf2013/Profile
-
 Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
 Shadowrocket：https://whatshub.top/config/shadowrocket_basic.conf
