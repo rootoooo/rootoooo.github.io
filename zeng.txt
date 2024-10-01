@@ -36,12 +36,6 @@ M3U8：http://tonkiang.us/
 
 AI：https://www.igdux.com/ai3
 
-视频去水印：https://huggingface.co/spaces/sczhou/ProPainter
-
-https://online-video-cutter.com/cn/remove-logo
-
-图片去水印：https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
-
 zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
 
 TVBOX：https://github.com/o0HalfLife0o/TVBoxOSC
