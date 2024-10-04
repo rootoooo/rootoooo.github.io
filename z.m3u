@@ -76,7 +76,7 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="China中国",三立新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="China中国",中天新闻
-https://gat.zhoujie218.top/litv/4gtv-4gtv009
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="China中国",Taiwan-Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Bloomberg-4K彭博社
