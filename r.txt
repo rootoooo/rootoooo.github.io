@@ -1,3 +1,5 @@
+https://psub.888005.xyz/
+
 hysteria2://1234567890@88.218.79.165:1314/?insecure=1#Hysteria2-01
 
 hysteria2://a80b6576-a7e0-4dec-969d-17b689088666@88.218.79.165:57753/?sni=www.bing.com&alpn=h3&insecure=1#Hysteria2-02
