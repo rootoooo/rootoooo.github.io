@@ -16,6 +16,8 @@ Clash Verge：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 软件报毒检测：https://www.virscan.org/
 
+在线文字转语音：https://ttsmaker.cn/
+
 Frpc客户端：https://github.com/codemonkey-m/FrpClient-Win
 
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
