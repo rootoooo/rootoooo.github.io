@@ -22,6 +22,8 @@ Frpc客户端：https://github.com/codemonkey-m/FrpClient-Win
 
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
+ChatGPT-api：https://platform.openai.com/api-keys
+
 贝锐管理平台：https://console-v2.oray.com/
 
 贝锐蒲公英：https://www.pgybox.com/
