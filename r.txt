@@ -10,4 +10,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZtZXNzLTAyIiwNCiAgImFkZCI6ICJ3d3cudmlz
 
 https://dadada.acaisbest.com/api/v1/client/subscribe?token=465b131b37a5cb980f61b44578bbd961
 
+常用材料：https://wenku.baidu.com/view/f693e241cf7931b765ce0508763231126fdb776a?aggId=f693e241cf7931b765ce0508763231126fdb776a&fr=catalogMain_&_wkts_=1728970700000
+
 
