@@ -15,6 +15,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 #EXTINF:-1 group-title="China中国",广西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/1.m3u8
+#EXTINF:-1 group-title="China中国",南宁综合新闻
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="China中国",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000005866/1.m3u8
 #EXTINF:-1 group-title="China中国",江苏卫视
@@ -25,8 +27,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
 #EXTINF:-1 group-title="China中国",4K-UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 group-title="China中国",乐游
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+#EXTINF:-1 group-title="China中国",军事评论
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5822616274253344775/1.m3u8
 #EXTINF:-1 group-title="China中国",CCTV-14
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
 #EXTINF:-1 group-title="China中国",金鹰卡通
@@ -71,6 +73,10 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="China中国",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="China中国",Discovery-Asia探索頻道
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="China中国",Animal-Planet动物星球频道
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="China中国",Taiwan-Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",Bloomberg-4K彭博社
@@ -121,16 +127,8 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 group-title="Live直播",The-Country-Network音乐
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",秋月剪水
-http://allinone.netsite.cc/douyu/9588891
 #EXTINF:-1 group-title="Live直播",欧美影院
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=7185203501769528108
-#EXTINF:-1 group-title="Live直播",Taiwan-Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Discovery-Asia探索頻道
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="Live直播",Animal-Planet动物星球频道
-http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="Live直播",Wild-Earth野生动物
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="Live直播",AXS-TV-Now娱乐台
@@ -215,3 +213,5 @@ https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/infowars_720p/playlist.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",OANN美国第一新闻网
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 group-title="UnitedStates美国",TBN美国基督教
+https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
