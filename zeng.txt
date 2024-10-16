@@ -1,3 +1,13 @@
+hysteria2://1234567890@88.218.79.165:1314/?insecure=1#Hysteria2-01
+
+hysteria2://a80b6576-a7e0-4dec-969d-17b689088666@88.218.79.165:57753/?sni=www.bing.com&alpn=h3&insecure=1#Hysteria2-02
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZtZXNzLTAxIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20uaGsiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE4MGI2NTc2LWE3ZTAtNGRlYy05NjlkLTE3YjY4OTA4ODY2NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICJhODBiNjU3Ni1hN2UwLTRkZWMtOTY5ZC0xN2I2ODkwODg2NjYtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZtZXNzLTAyIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20uc2ciLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE4MGI2NTc2LWE3ZTAtNGRlYy05NjlkLTE3YjY4OTA4ODY2NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICJhODBiNjU3Ni1hN2UwLTRkZWMtOTY5ZC0xN2I2ODkwODg2NjYtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+
+vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@www.visa.com.sg:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#US
+
 不良林订阅转换：https://psub.888005.xyz/
 
 优选IP：https://monitor.gacjie.cn/
@@ -88,16 +98,97 @@ C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h
 
 开机启动：Win+R→shell:startup，：远程桌面Win+R→mstsc
 
-vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@www.visa.com.sg:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#US
-
-hysteria2://1234567890@88.218.79.165:1314/?insecure=1#Hysteria2-01
-
-hysteria2://a80b6576-a7e0-4dec-969d-17b689088666@88.218.79.165:57753/?sni=www.bing.com&alpn=h3&insecure=1#Hysteria2-02
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZtZXNzLTAxIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20uaGsiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE4MGI2NTc2LWE3ZTAtNGRlYy05NjlkLTE3YjY4OTA4ODY2NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICJhODBiNjU3Ni1hN2UwLTRkZWMtOTY5ZC0xN2I2ODkwODg2NjYtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZtZXNzLTAyIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20uc2ciLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE4MGI2NTc2LWE3ZTAtNGRlYy05NjlkLTE3YjY4OTA4ODY2NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICJhODBiNjU3Ni1hN2UwLTRkZWMtOTY5ZC0xN2I2ODkwODg2NjYtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
 常用材料：https://wenku.baidu.com/view/f693e241cf7931b765ce0508763231126fdb776a?aggId=f693e241cf7931b765ce0508763231126fdb776a&fr=catalogMain_&_wkts_=1728970700000
+
+
+更新VPS系统环境：
+
+apt update -y && apt install -y curl socat wget sudo
+
+
+
+科技lion：
+
+curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+
+
+
+hysteria2：
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh && bash hysteria.sh
+
+
+
+Sing-box-yg：
+
+bash <(curl -Ls https://gitlab.com/rwkgyg/sing-box-yg/raw/main/sb.sh)
+
+
+
+运行BBRv3加速脚本：
+
+bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/bbrv3.sh --ipv4)
+
+
+
+Frp：
+
+wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
+
+chmod 700 ./install-frps.sh
+
+./install-frps.sh install
+
+nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+
+
+Docker：
+
+curl -fsSL https://get.docker.com | sh
+
+
+
+Nginx Proxy Manager：
+
+docker run -d \
+  --name=npm \
+  -p 80:80 \
+  -p 81:81 \
+  -p 443:443 \
+  -v /home/npm/data:/data \
+  -v /home/npm/letsencrypt:/etc/letsencrypt \
+  --restart=always \
+  jc21/nginx-proxy-manager:latest
+ 
+
+安装成功后进入NGINX后台面板，服务器IP加81端口访问网页
+
+用户：admin@example.com，密码：changeme
+
+
+
+哪吒面板：
+
+curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
+sudo ./nezha.sh 
+
+OAuth应用程序→新建vps→Homepage URL：http://XXX.com:8008→http://XXX.com:8008/oauth2/callback
+
+ClentID：XXX→Client：XXX→XXX→未接入CDN的面板服务器域名/IP→XXX.com
+
+
+
+Alist：
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
+
+更新
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
+
+卸载
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
 
 
