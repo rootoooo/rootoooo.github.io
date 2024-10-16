@@ -86,7 +86,7 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip
 
-Win+R→shell:startup
+开机启动：Win+R→shell:startup，：远程桌面Win+R→mstsc
 
 vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@www.visa.com.sg:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#US
 
