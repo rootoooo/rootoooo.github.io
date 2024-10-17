@@ -101,6 +101,8 @@ Windows截图保存：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWin
 常用材料：https://wenku.baidu.com/view/f693e241cf7931b765ce0508763231126fdb776a?aggId=f693e241cf7931b765ce0508763231126fdb776a&fr=catalogMain_&_wkts_=1728970700000
 
 
+qq查询：https://www.showdev.me/qqbirthday
+
 更新VPS系统环境：
 
 apt update -y && apt install -y curl socat wget sudo
