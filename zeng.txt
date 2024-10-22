@@ -114,6 +114,10 @@ apt update -y && apt install -y curl socat wget sudo
 
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 
+bash <(curl -sL kejilion.sh)
+
+k fd XXX.XXX.COM X.X.X.X XXX
+
 
 
 hysteria2：
