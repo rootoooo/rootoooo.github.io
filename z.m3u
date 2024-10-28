@@ -41,8 +41,14 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="China中国",凤凰卫视资讯台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="China中国",凤凰卫视中文台-备
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="China中国",凤凰卫视资讯台-备
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="China中国",无线新闻台-备
+http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="China中国",TVB-Plus
@@ -51,8 +57,12 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="China中国",TVBJ1
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 group-title="China中国",TVBJ2
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",娱乐新闻台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="China中国",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="China中国",环球电视台
@@ -63,12 +73,14 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="China中国",星河台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="China中国",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",TVBSnews
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="China中国",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 group-title="China中国",TVBS备
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="China中国",TVBS新闻
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="China中国",中天新闻
@@ -127,6 +139,10 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 group-title="Live直播",The-Country-Network音乐
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Live直播",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="Live直播",美亚电影台
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 group-title="Live直播",欧美影院
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=7185203501769528108
 #EXTINF:-1 group-title="Live直播",Wild-Earth野生动物
