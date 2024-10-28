@@ -85,8 +85,6 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="China中国",TVBS备
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",TVBS新闻
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="China中国",中天新闻
