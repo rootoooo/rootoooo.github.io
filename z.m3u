@@ -33,6 +33,10 @@ http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5841816227539527643
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=7185203501769528108
 #EXTINF:-1 group-title="China中国",华数电影
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
+#EXTINF:-1 group-title="China中国",精彩影视
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
+#EXTINF:-1 group-title="China中国",欢乐剧场
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 group-title="China中国",高清娱乐
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000001569
 #EXTINF:-1 group-title="China中国",CCTV-14
@@ -73,14 +77,10 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="China中国",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 group-title="China中国",TVBS-HD
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="China中国",三立新闻
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="China中国",中天新闻
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 #EXTINF:-1 group-title="China中国",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="China中国",Animal-Planet动物星球频道
