@@ -93,6 +93,8 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",娱乐新闻台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="China中国",秋月剪水
+http://allinone.netsite.cc/douyu/9588891
 #EXTINF:-1 group-title="China中国",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="China中国",Animal-Planet动物星球频道
@@ -210,7 +212,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 group-title="England英国",GBnews英国版福斯新闻
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",CNN美国有线新闻网
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",CNNnews美国有线新闻网
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",GlobalNews环球新闻
@@ -219,8 +221,6 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",CBS哥伦比亚广播公司
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",NBC环球新闻集团
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",CNBC美国消费者新闻与商业频道
 http://37.27.111.214:8080/live/102/hls.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",NewsmaxTV美国保守派新闻媒体
