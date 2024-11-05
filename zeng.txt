@@ -88,8 +88,6 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
-CMS：https://raw.githubusercontent.com/byhooi/Surge/main/Rule/CMSPlayer.list
-
 m3u转换：https://guihet.com/convert-m3u-js.html
 
 https://www.fengshows.com/live
