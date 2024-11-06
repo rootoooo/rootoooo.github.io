@@ -101,10 +101,6 @@ http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",娱乐新闻台-HD
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",秋月剪水
-http://allinone.netsite.cc/douyu/9588891
-#EXTINF:-1 group-title="China中国",音乐
-http://allinone.netsite.cc/douyu/10262663
 #EXTINF:-1 group-title="China中国",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="China中国",Animal-Planet动物星球频道
@@ -213,8 +209,12 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 group-title="Germany德国",DW德国之声
 http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="Germany德国",DW-HD德国之声
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="France法国",France24国际新闻频道
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 group-title="France法国",France24-HD国际新闻频道
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 group-title="France法国",News24法兰西24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:-1 group-title="England英国",BBC英国广播公司
