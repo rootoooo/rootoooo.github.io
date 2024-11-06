@@ -1,13 +1,3 @@
-hysteria2://1234567890@88.218.79.165:1314/?insecure=1#France
-
-hysteria2://a80b6576-a7e0-4dec-969d-17b689088666@88.218.79.165:57753/?sni=www.bing.com&alpn=h3&insecure=1#FR
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20uc2ciLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE4MGI2NTc2LWE3ZTAtNGRlYy05NjlkLTE3YjY4OTA4ODY2NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICJhODBiNjU3Ni1hN2UwLTRkZWMtOTY5ZC0xN2I2ODkwODg2NjYtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibnV0LWFkanVzdGFibGUtYXRtLWFjcm9iYXQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
-vless://a80b6576-a7e0-4dec-969d-17b689088666@88.218.79.165:39777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=LDtt5H4RFAGPT5WnHTcT04qffOjwhGzX3KjlaQBR_ig&sid=85ed4d95&type=tcp&headerType=none#FR
-
-vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@www.visa.com.sg:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#US
-
 不良林订阅转换：https://psub.888005.xyz/
 
 优选IP：https://monitor.gacjie.cn/
@@ -151,6 +141,10 @@ bash <(curl -Ls https://gitlab.com/rwkgyg/sing-box-yg/raw/main/sb.sh)
 运行BBRv3加速脚本：
 
 bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/bbrv3.sh --ipv4)
+
+
+
+Vmess：bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
 
 
 
