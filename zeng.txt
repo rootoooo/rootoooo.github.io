@@ -142,7 +142,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/i
 
 Argp-Polska：XXX
 
-cdn.xxx.→http→loclahost:1234
+cdn.xxx.com→http→loclahost:1234
 
 bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
 
