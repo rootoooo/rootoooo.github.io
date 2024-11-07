@@ -91,9 +91,9 @@ http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",TVBS新聞台-HD
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",HK中文-HD
+#EXTINF:-1 group-title="China中国",凤凰卫视中文台-HD
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",HK资讯-HD
+#EXTINF:-1 group-title="China中国",凤凰卫视资讯台-HD
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",无线新闻台-HD
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
