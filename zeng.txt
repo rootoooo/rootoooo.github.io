@@ -120,10 +120,6 @@ apt update -y && apt install -y curl socat wget sudo
 
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 
-bash <(curl -sL kejilion.sh)
-
-k fd XXX.XXX.COM X.X.X.X XXX
-
 
 
 hysteria2：
@@ -132,19 +128,23 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hyster
 
 
 
-Sing-box-yg：
+X-ui：
 
-bash <(curl -Ls https://gitlab.com/rwkgyg/sing-box-yg/raw/main/sb.sh)
-
-
-
-运行BBRv3加速脚本：
-
-bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/bbrv3.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/956bf85bbac978d56c0e319c5fac2d6db7df9564/install.sh) 0.3.4.4
 
 
 
-Vmess：bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
+SSH/SFTP服务器地址：XXX.serv00.com
+
+DevilWEB webpanel: https://XXX.serv00.com/
+
+bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
+
+Argp-Polska：XXX
+
+cdn.xxx.→http→loclahost:1234
+
+bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
 
 
 
@@ -207,5 +207,6 @@ curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
 卸载
 
 curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
+
 
 
