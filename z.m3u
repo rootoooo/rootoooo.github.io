@@ -83,24 +83,6 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="China中国",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="China中国",中天新闻-HD
-https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",中视新闻-HD
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",TVBS-HD
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",TVBS新聞台-HD
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",凤凰卫视中文台-HD
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",凤凰卫视资讯台-HD
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",无线新闻台-HD
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",明珠台-HD
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",娱乐新闻台-HD
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="China中国",Animal-Planet动物星球频道
@@ -187,8 +169,6 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="SouthKorea韩国",KBS-World韩国国际传媒
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="SouthKorea韩国",tvN综合娱乐频道
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="Australia澳大利亚",ABC美国广播公司
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 group-title="Russia俄罗斯",RT今日俄罗斯
@@ -209,12 +189,8 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 group-title="Germany德国",DW德国之声
 http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 group-title="Germany德国",DW-HD德国之声
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="France法国",France24国际新闻频道
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 group-title="France法国",France24-HD国际新闻频道
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 group-title="France法国",News24法兰西24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:-1 group-title="England英国",BBC英国广播公司
