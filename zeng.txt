@@ -158,8 +158,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install
 
 
 
-v2ray-Vmess：
+v2ray：
 
 bash <(wget -qO- -o- https://git.io/v2ray.sh)
+
+bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/v2ray.sh)
 
 
