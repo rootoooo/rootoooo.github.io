@@ -170,8 +170,6 @@ Argp-Polska：XXX
 
 cdn.xxx.com→http→loclahost:1234
 
-bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
-
 
 
 Frp：
