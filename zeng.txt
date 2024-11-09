@@ -1,3 +1,7 @@
+美国-United States：
+
+vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@www.visa.com:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#US
+
 波兰-Poland：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZDM2YzRkOWYtMzFjNC00NWYxLThjNjQtMTAyYTYxNDIwMDFlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjZG4uc2hlaGguZXUub3JnIiwNCiAgInBhdGgiOiAiL3ZtZXNzP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiY2RuLnNoZWhoLmV1Lm9yZyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
@@ -152,9 +156,9 @@ bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb
 
 
 
-SSH/SFTP服务器地址：XXX.serv00.com
+SSH/SFTP服务器地址：s13.serv00.com
 
-DevilWEB webpanel: https://XXX.serv00.com/
+DevilWEB webpanel: https://panel13.serv00.com/
 
 bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
 
