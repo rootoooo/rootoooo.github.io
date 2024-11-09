@@ -1,14 +1,14 @@
-美国-UnitedStates-2082：
+美国-UnitedStates：
 
 vless://c9e6f086-4c35-4530-8a79-8cf1c46ce36f@www.visa.com:2082?encryption=none&security=none&sni=vless.zeng-sl.workers.dev&fp=randomized&type=ws&host=vless.zeng-sl.workers.dev&path=%2F%3Fed%3D2048#US
 
-波兰-Poland-7400-51314-4829：
+波兰-Poland：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZDM2YzRkOWYtMzFjNC00NWYxLThjNjQtMTAyYTYxNDIwMDFlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjZG4uc2hlaGguZXUub3JnIiwNCiAgInBhdGgiOiAiL3ZtZXNzP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiY2RuLnNoZWhoLmV1Lm9yZyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
-法国-France-62770：
+法国-France：
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLVZtZXNzIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiNjI3NzAiLA0KICAiaWQiOiAiNzU5M2NmOGItZDdhOC00NjM1LWI4MWQtZGY1ZWI2MjEwZmYwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+
 
 https://warp.haoss.eu.org/sub/www.visa.com
 
@@ -157,80 +157,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install
 v2ray-Vmess：
 
 bash <(wget -qO- -o- https://git.io/v2ray.sh)
-
-
-
-SSH/SFTP服务器地址：s13.serv00.com
-
-DevilWEB webpanel: https://panel13.serv00.com/
-
-bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
-
-Argp-Polska：XXX
-
-cdn.xxx.com→http→loclahost:1234
-
-
-
-Frp：
-
-wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
-
-chmod 700 ./install-frps.sh
-
-./install-frps.sh install
-
-nohup ./frps -c frps.ini >/dev/null 2>&1 &
-
-
-
-Docker：
-
-curl -fsSL https://get.docker.com | sh
-
-
-
-Nginx Proxy Manager：
-
-docker run -d \
-  --name=npm \
-  -p 80:80 \
-  -p 81:81 \
-  -p 443:443 \
-  -v /home/npm/data:/data \
-  -v /home/npm/letsencrypt:/etc/letsencrypt \
-  --restart=always \
-  jc21/nginx-proxy-manager:latest
- 
-
-安装成功后进入NGINX后台面板，服务器IP加81端口访问网页
-
-用户：admin@example.com，密码：changeme
-
-
-
-哪吒面板：
-
-curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
-sudo ./nezha.sh 
-
-OAuth应用程序→新建vps→Homepage URL：http://XXX.com:8008→http://XXX.com:8008/oauth2/callback
-
-ClentID：XXX→Client：XXX→XXX→未接入CDN的面板服务器域名/IP→XXX.com
-
-
-
-Alist：
-
-curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
-
-更新
-
-curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
-
-卸载
-
-curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
-
 
 
