@@ -148,9 +148,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hyster
 
 
 
-sing-box：
+X-ui：
 
-bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
 
 
 
