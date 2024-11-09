@@ -138,10 +138,14 @@ bash <(curl -sL kejilion.sh)
 
 
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main//hysteria2/hysteria.sh && bash hysteria.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/hysteria2/hysteria.sh && bash hysteria.sh
 
 
 
 bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/v2ray.sh)
+
+
+
+wget https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/frps.sh -O ./frps.sh && chmod 700 ./frps.sh && ./frps.sh install
 
 
