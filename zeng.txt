@@ -153,3 +153,27 @@ bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/m
 wget https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/frps.sh -O ./frps.sh && chmod 700 ./frps.sh && ./frps.sh install
 
 
+
+SSH/SFTP服务器地址：s13.serv00.com
+
+DevilWEB webpanel: https://panel13.serv00.com/
+
+bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
+
+Argp-Polska：
+
+cdn.xxx.eu.org→http→loclahost:1234
+
+
+
+Frp：
+
+wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
+
+chmod 700 ./install-frps.sh
+
+./install-frps.sh install
+
+nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+
