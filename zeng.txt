@@ -8,7 +8,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlz
 
 法国-France-41642：
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLVZtZXNzIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiNDE2NDIiLA0KICAiaWQiOiAiYjNiM2Q4NDItZTRjZS00NTQ3LWJjOWEtMDdiOTEyZTQ0MGUxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvdm1lc3MiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLVZtZXNzIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiNjI3NzAiLA0KICAiaWQiOiAiNzU5M2NmOGItZDdhOC00NjM1LWI4MWQtZGY1ZWI2MjEwZmYwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
 https://warp.haoss.eu.org/sub/www.visa.com
 
@@ -151,6 +151,12 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hyster
 X-ui：
 
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
+
+
+
+v2ray-Vmess：
+
+bash <(wget -qO- -o- https://git.io/v2ray.sh)
 
 
 
