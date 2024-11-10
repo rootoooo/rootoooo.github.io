@@ -34,10 +34,6 @@ ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
 ChatGPT-api：https://platform.openai.com/api-keys
 
-贝锐管理平台：https://console-v2.oray.com/
-
-贝锐蒲公英：https://www.pgybox.com/
-
 IP纯净：https://scamalytics.com/
 
 DNS：https://www.nslookup.io/
@@ -59,10 +55,6 @@ TVBOX：https://github.com/o0HalfLife0o/TVBoxOSC
 json：https://91md.me/api.php/provide/vod/
 
 json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
-
-http://allinone.netsite.cc/douyu/9588891
-
-RaiDrive：https://www.raidrive.com/download
 
 SMS虚拟号：https://sms-activate.org/getNumber
 
@@ -99,6 +91,8 @@ http://aktv.top/live.m3u
 https://www.stream-link.org/stream-link.m3u
 
 https://4gtv.mytvsuper.xyz/myiptv.m3u
+
+http://allinone.netsite.cc/douyu/9588891
 
 Adguard广告拦截：https://github.com/217heidai/adblockfilters
 
