@@ -152,6 +152,10 @@ cdn.xxx.eu.org→http→loclahost:1234
 
 
 
+bash <(curl -s https://raw.githubusercontent.com/gshtwy/socks5-for-serv00/main/install-socks5-hysteria.sh)
+
+
+
 Frp：
 
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
