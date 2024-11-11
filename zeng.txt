@@ -1,10 +1,6 @@
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMLVZtZXNzXHUwMDJCd3NcdTAwMkJ0bHMiLA0KICAiYWRkIjogInd3dy52aXNhLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMzZjNGQ5Zi0zMWM0LTQ1ZjEtOGM2NC0xMDJhNjE0MjAwMWUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNkbi5zaGVoaC5ldS5vcmciLA0KICAicGF0aCI6ICIvdm1lc3M/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJjZG4uc2hlaGguZXUub3JnIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
-hysteria2://34b43f71-9ffc-11ef-a739-3cecef0f513e@31.186.87.211:51314/?sni=www.bing.com&alpn=h3&insecure=1#Hysteria2
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLVZtZXNzXHUwMDJCdGNwIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiMTM5OTIiLA0KICAiaWQiOiAiNmUwYzIxMjktNTY1YS00MGM4LTkxMDItNDljOWYzMmZkNDAxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-
-hysteria2://1234567890@88.218.79.165:1314?insecure=1&obfs=none#Hysteria2
 
 https://warp.haoss.eu.org/sub/www.visa.com
 
@@ -165,5 +161,62 @@ chmod 700 ./install-frps.sh
 ./install-frps.sh install
 
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+
+
+Docker：
+
+curl -fsSL https://get.docker.com | sh
+
+
+
+Nginx Proxy Manager：
+
+docker run -d \
+  --name=npm \
+  -p 80:80 \
+  -p 81:81 \
+  -p 443:443 \
+  -v /home/npm/data:/data \
+  -v /home/npm/letsencrypt:/etc/letsencrypt \
+  --restart=always \
+  jc21/nginx-proxy-manager:latest
+ 
+
+安装成功后进入NGINX后台面板，服务器IP加81端口访问网页
+
+用户：admin@example.com，密码：changeme
+
+
+
+哪吒面板：
+
+curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
+
+sudo ./nezha.sh
+
+OAuth应用程序→新建vps→Homepage URL：http://XXX:8008→http://http://XXX:8008/oauth2/callback
+
+ClentID：XXX→XXX→XXX→未接入CDN的面板服务器域名/IP→http://XXX:8008
+
+
+
+Alist：
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
+
+更新
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
+
+卸载
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
+
+
+
+Cloudreve：
+
+bash <(curl -fsSL cloudreve-woad.vercel.app)
 
 
