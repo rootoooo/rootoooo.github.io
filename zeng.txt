@@ -4,7 +4,7 @@ hysteria2://34b43f71-9ffc-11ef-a739-3cecef0f513e@31.186.87.211:51314/?sni=www.bi
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLVZtZXNzXHUwMDJCdGNwIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiMTM5OTIiLA0KICAiaWQiOiAiNmUwYzIxMjktNTY1YS00MGM4LTkxMDItNDljOWYzMmZkNDAxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
-hysteria2://密码@IP:端口/?insecure=1#Hysteria2
+hysteria2://1234567890@88.218.79.165:1314?insecure=1&obfs=none#Hysteria2
 
 https://warp.haoss.eu.org/sub/www.visa.com
 
