@@ -2,11 +2,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMLVZtZXNzXHUwMDJCd3NcdTAwMkJ0bHMiLA0K
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLVZtZXNzXHUwMDJCdGNwIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiMTM5OTIiLA0KICAiaWQiOiAiNmUwYzIxMjktNTY1YS00MGM4LTkxMDItNDljOWYzMmZkNDAxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
-https://warp.haoss.eu.org/sub/www.visa.com
-
 不良林订阅转换：https://psub.888005.xyz/
-
-优选IP：https://monitor.gacjie.cn/
 
 Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
@@ -33,8 +29,6 @@ ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 ChatGPT-api：https://platform.openai.com/api-keys
 
 IP纯净：https://scamalytics.com/
-
-DNS：https://www.nslookup.io/
 
 磁力柠檬：https://lemonue.top/
 
@@ -78,33 +72,9 @@ https://github.com/icy37785/syncnextPlugin
 
 m3u转换：https://guihet.com/convert-m3u-js.html
 
-https://www.fengshows.com/live
-
-https://github.com/YueChan/Live
-
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-http://aktv.top/live.m3u
-
-https://www.stream-link.org/stream-link.m3u
-
-https://4gtv.mytvsuper.xyz/myiptv.m3u
-
 http://allinone.netsite.cc/douyu/9588891
-
-Adguard广告拦截：https://github.com/217heidai/adblockfilters
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Base_filter.txt
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Chinese_filter.txt
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Mobile_Ads_filter.txt
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_DNS_filter.txt
 
 Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip
 
