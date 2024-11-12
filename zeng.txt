@@ -116,25 +116,39 @@ qq查询：https://www.showdev.me/qqbirthday
 
 
 
+更新环境
+
 apt update -y && apt install -y curl socat wget sudo
 
 
+
+科技lion：
 
 bash <(curl -sL kejilion.sh)
 
 
 
+BBR：
+
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
+
+
+Hysteria2：
+
 wget -N --no-check-certificate https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/hysteria2/hysteria.sh && bash hysteria.sh
 
 
+
+v2ray-Vmess：
 
 bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/v2ray.sh)
 
 
 
-wget https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/frps.sh -O ./frps.sh && chmod 700 ./frps.sh && ./frps.sh install
+serc00-Vmess：
 
-
+XXX
 
 SSH/SFTP服务器地址：s13.serv00.com
 
@@ -142,11 +156,13 @@ DevilWEB webpanel: https://panel13.serv00.com/
 
 bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
 
-Argp-Polska：
+Polska：XXX
 
-cdn.xxx.eu.org→http→loclahost:1234
+cdn.XXX.eu.org→http→loclahost:1234
 
 
+
+serc00-Hysteria2：
 
 bash <(curl -s https://raw.githubusercontent.com/gshtwy/socks5-for-serv00/main/install-socks5-hysteria.sh)
 
@@ -161,62 +177,5 @@ chmod 700 ./install-frps.sh
 ./install-frps.sh install
 
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
-
-
-
-Docker：
-
-curl -fsSL https://get.docker.com | sh
-
-
-
-Nginx Proxy Manager：
-
-docker run -d \
-  --name=npm \
-  -p 80:80 \
-  -p 81:81 \
-  -p 443:443 \
-  -v /home/npm/data:/data \
-  -v /home/npm/letsencrypt:/etc/letsencrypt \
-  --restart=always \
-  jc21/nginx-proxy-manager:latest
- 
-
-安装成功后进入NGINX后台面板，服务器IP加81端口访问网页
-
-用户：admin@example.com，密码：changeme
-
-
-
-哪吒面板：
-
-curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
-
-sudo ./nezha.sh
-
-OAuth应用程序→新建vps→Homepage URL：http://XXX:8008→http://http://XXX:8008/oauth2/callback
-
-ClentID：XXX→XXX→XXX→未接入CDN的面板服务器域名/IP→http://XXX:8008
-
-
-
-Alist：
-
-curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
-
-更新
-
-curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
-
-卸载
-
-curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
-
-
-
-Cloudreve：
-
-bash <(curl -fsSL cloudreve-woad.vercel.app)
 
 
