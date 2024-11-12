@@ -179,3 +179,41 @@ chmod 700 ./install-frps.sh
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 
+Nginx proxy manager：
+
+创建存放数据的文件夹并进入
+
+mkdir -p /root/data/docker_data/npm && cd /root/data/docker_data/npm
+
+2. 创建配置文件
+
+vim docker-compose.yml
+
+英文输入法下，按 i 后填入配置
+
+version: '3'
+services:
+  app:
+    image: 'chishin/nginx-proxy-manager-zh:release'
+    restart: always
+    ports:
+      - '80:80'  # 保持默认即可，不建议修改左侧的80
+      - '81:81'  # 冒号左边可以改成自己服务器未被占用的端口
+      - '443:443' # 保持默认即可，不建议修改左侧的443
+    volumes:
+      - ./data:/data # 冒号左边的路径可以改，现在是表示把数据存放在当前文件夹下的 data 文件夹中
+      - ./letsencrypt:/etc/letsencrypt  # 冒号左边的路径可以改，现在是表示把数据存放在当前文件夹下的 letsencrypt 文件夹中
+
+按一下 esc，然后输入 :wq 按回车保存退出
+
+3. 最后启动容器
+
+docker compose up -d 
+
+启动后就可以输入 http://[ip]:81 访问管理后台了
+
+默认登陆名和密码：
+Email: admin@example.com
+Password: changeme
+
+
