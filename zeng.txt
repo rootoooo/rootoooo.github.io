@@ -66,6 +66,8 @@ UUID生成：https://1024tools.com/uuid
 
 洋葱浏览器：https://www.torproject.org
 
+AdGuard拦截广告规则：https://fastly.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
+
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
