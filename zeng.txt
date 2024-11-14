@@ -108,13 +108,13 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 
 Hysteria2：
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/hysteria2/hysteria.sh && bash hysteria.sh
+wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
 
 
 
 v2ray-Vmess：
 
-bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/v2ray.sh)
+bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
