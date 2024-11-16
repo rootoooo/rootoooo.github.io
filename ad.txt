@@ -1,7 +1,7 @@
-!Title: anti-AD
-!Version: 20241111023837
-!Homepage: https://github.com/privacy-protection-tools/anti-AD
-!!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
+!Title: DNS过滤器
+!Version: 520
+!Homepage: https://github.com/rootoooo/rootoooo.github.io/edit/main/ad.txt
+!!!note! If you are using "AdGuard", please load https://haoss.eu.org/ad.txt
 !!!This list only applies to "AdGuard Home".
 !Total lines: 83439
 @@||ad.azure.com^
