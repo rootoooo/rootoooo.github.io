@@ -1,5 +1,5 @@
-!Title: DNS过滤器
-!Version: 520
+!Title: DNS-自定义过滤器
+!Version: 皮皮虾
 !Homepage: https://github.com/rootoooo/rootoooo.github.io/edit/main/ad.txt
 !!!note! If you are using "AdGuard", please load https://haoss.eu.org/ad.txt
 !!!This list only applies to "AdGuard Home".
