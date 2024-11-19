@@ -22,6 +22,8 @@ Shadowrocket去广告模块：https://whatshub.top/module/YouTubeAd.sgmodule
 
 小火箭/surge：https://raw.githubusercontent.com/ddgksf2013/Modules/main/Adblock.sgmodule
 
+MAC-v2rayU：https://github.com/yanue/V2rayU/releases
+
 安卓-v2rayN：https://github.com/2dust/v2rayNG/releases
 
 安卓-ClashMeta：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
