@@ -126,14 +126,6 @@ bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
-X-ui：
-
-bash <(curl -sSL https://haoss.eu.org/ssl.sh)
-
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
-
-
-
 serc00-Vmess：
 
 XXX
