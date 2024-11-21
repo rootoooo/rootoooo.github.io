@@ -11,8 +11,8 @@ NC='\033[0m' # No Color
 
 # 版本信息
 VERSION="1.0"
-AUTHOR="hiyuelin"
-TELEGRAM="https://t.me/hiyuelin"
+AUTHOR="rootoooo"
+TELEGRAM="https://t.me/root"
 
 print_logo() {
     echo -e "${CYAN}"
