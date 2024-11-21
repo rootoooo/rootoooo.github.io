@@ -122,11 +122,9 @@ bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
-v2ray：
+IPTV：
 
-https://github.com/v2fly/fhs-install-v2ray
-
-bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
+bash <(curl -s https://haoss.eu.org/iptv.sh)
 
 
 
