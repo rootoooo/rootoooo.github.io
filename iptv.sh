@@ -1,4 +1,6 @@
 #!/bin/bash
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
 
 # 颜色定义
 RED='\033[0;31m'
@@ -11,170 +13,566 @@ NC='\033[0m' # No Color
 
 # 版本信息
 VERSION="1.0"
-AUTHOR="rootoooo"
-TELEGRAM="https://t.me/root"
 
+# 作者信息
+AUTHOR="hiyuelin"
+TELEGRAM="https://t.me/hiyuelin"
+
+# 函数定义
 print_logo() {
     echo -e "${CYAN}"
-    echo "M3U Proxy Installer"
+    echo "  _____           _        _ _    _____           _       _   "
+    echo " |_   _|         | |      | | |  / ____|         (_)     | |  "
+    echo "   | |  _ __  ___| |_ __ _| | | | (___   ___ _ __ _ _ __ | |_ "
+    echo "   | | | '_ \/ __| __/ _\` | | |  \___ \ / __| '__| | '_ \| __|"
+    echo "  _| |_| | | \__ \ || (_| | | |  ____) | (__| |  | | |_) | |_ "
+    echo " |_____|_| |_|___/\__\__,_|_|_| |_____/ \___|_|  |_| .__/ \__|"
+    echo "                                                   | |        "
+    echo "                                                   |_|        "
     echo -e "${NC}"
     echo -e "${YELLOW}Version: ${VERSION}${NC}"
     echo -e "${YELLOW}Author: ${AUTHOR}${NC}"
     echo -e "${YELLOW}Telegram: ${TELEGRAM}${NC}"
+    echo
 }
 
 print_menu() {
     clear
     print_logo
-    echo -e "${PURPLE}=== M3U Proxy 管理菜单 ===${NC}"
-    echo -e "${BLUE}1)${NC} 部署 M3U Proxy"
-    echo -e "${BLUE}2)${NC} 删除 M3U Proxy"
+    echo -e "${PURPLE}=== 程序安装菜单 ===${NC}"
+    echo -e "${BLUE}1)${NC} Docker 管理"
+    echo -e "${BLUE}2)${NC} X-UI"
+    echo -e "${BLUE}3)${NC} 3X-UI"
+    echo -e "${BLUE}4)${NC} BBR加速"
+    echo -e "${BLUE}5)${NC} 哪吒监控"
+    echo -e "${BLUE}6)${NC} aaPanel"
+    echo -e "${BLUE}7)${NC} IP质量体检"
+    echo -e "${BLUE}8)${NC} frp内网穿透"
+    echo -e "${BLUE}9)${NC} 检查Netflix解锁"
+    echo -e "${BLUE}10)${NC} 查看本机IP信息"
     echo -e "${RED}0)${NC} 退出"
     echo
 }
 
-check_and_install_docker() {
-    if ! command -v docker &> /dev/null; then
-        echo -e "${YELLOW}Docker 未安装，正在安装...${NC}"
-        curl -fsSL https://get.docker.com -o get-docker.sh
-        sudo sh get-docker.sh
-        sudo usermod -aG docker $USER
-        echo -e "${GREEN}Docker 安装完成${NC}"
-    else
-        echo -e "${GREEN}Docker 已安Docekr${NC}"
-    fi
+docker_menu() {
+    while true; do
+        clear
+        print_logo
+        echo -e "${PURPLE}=== Docker 管理菜单 ===${NC}"
+        echo -e "${BLUE}1)${NC} 安装 Docker"
+        echo -e "${BLUE}2)${NC} 安装 Docker Compose"
+        echo -e "${BLUE}3)${NC} 查看镜像"
+        echo -e "${BLUE}4)${NC} 查看容器"
+        echo -e "${BLUE}5)${NC} 删除容器"
+        echo -e "${BLUE}6)${NC} 删除镜像"
+        echo -e "${BLUE}7)${NC} 部署 Pixman 应用"
+        echo -e "${BLUE}8)${NC} 删除 Pixman 应用"
+        echo -e "${BLUE}9)${NC} Pixman 应用 Mytvsuper 生成静态 m3u"
+        echo -e "${BLUE}10)${NC} 部署 Allinone 应用"
+        echo -e "${BLUE}11)${NC} 删除 Allinone 应用"
+        echo -e "${BLUE}12)${NC} 设置自动更新 Docker 镜像"
+        echo -e "${RED}0)${NC} 返回主菜单"
+        echo
+
+        read -p "请输入选项数字: " docker_choice
+        case $docker_choice in
+            1)
+                install_docker
+                ;;
+            2)
+                install_docker_compose
+                ;;
+            3)
+                docker images
+                read -p "按回车键继续..."
+                ;;
+            4)
+                docker ps -a
+                read -p "按回车键继续..."
+                ;;
+            5)
+                delete_container
+                ;;
+            6)
+                delete_image
+                ;;
+            7)
+                deploy_pixman
+                ;;
+            8)
+                remove_pixman
+                ;;
+            9)
+                generate_mytvsuper_m3u
+                ;;
+            10)
+                deploy_allinone
+                ;;
+            11)
+                remove_allinone
+                ;;
+            12)
+                setup_auto_update
+                ;;
+            0)
+                return
+                ;;
+            *)
+                echo -e "${RED}无效选项，请重新选择${NC}"
+                read -p "按回车键继续..."
+                ;;
+        esac
+    done
 }
 
-check_and_install_docker_compose() {
-    if ! command -v docker-compose &> /dev/null; then
-        echo -e "${YELLOW}Docker Compose 未安装，正在安装...${NC}"
-        sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-        sudo chmod +x /usr/local/bin/docker-compose
-        echo -e "${GREEN}Docker Compose 安装完成${NC}"
+delete_container() {
+    echo -e "${YELLOW}当前运行的容器：${NC}"
+    docker ps -a
+    echo
+    read -p "请输入要删除的容器 CONTAINER ID: " container_id
+    if [ -n "$container_id" ]; then
+        docker stop $container_id
+        docker rm $container_id
+        echo -e "${GREEN}容器 $container_id 已被删除${NC}"
+        
+        read -p "是否同时删除相关的镜像？(y/n): " delete_image_choice
+        if [[ $delete_image_choice == [yY] ]]; then
+            delete_image
+        fi
     else
-        echo -e "${GREEN}Docker Compose 已安装${NC}"
+        echo -e "${RED}未输入容器 CONTAINER ID，操作取消${NC}"
     fi
-}
-
-deploy_m3u_proxy() {
-    echo -e "${GREEN}开始部署 M3U Proxy...${NC}"
-    
-    # 检查并安装 Docker 和 Docker Compose
-    check_and_install_docker
-    check_and_install_docker_compose
-    
-    # 1. 指定目录
-    read -p "请指定一个目录用于存放 M3U Proxy 文件 (默认 /home/m3u-proxy): " m3u_dir
-    m3u_dir=${m3u_dir:-/home/m3u-proxy}
-    
-    # 2. 创建必要的文件
-    mkdir -p $m3u_dir
-    touch $m3u_dir/iptv.m3u $m3u_dir/whitelist.txt $m3u_dir/ip_whitelist.txt $m3u_dir/m3u_proxy.log $m3u_dir/security_config.json
-    
-    # 3. 设置端口
-    read -p "请输入要使用的端口 (默认 5001): " port
-    port=${port:-5001}
-    
-    # 4. 自动获取服务器 IP 地址并生成代理服务器地址
-    echo "正在尝试获取服务器 IP 地址..."
-    server_ip=$(wget -qO- -4 ifconfig.me 2>&1 || curl -s4 ifconfig.me || dig +short myip.opendns.com @resolver1.opendns.com)
-    if [ -z "$server_ip" ]; then
-        echo -e "${RED}无法自动获取服务器 IP 地址${NC}"
-        read -p "请手动输入服务器 IP 地址: " server_ip
-    else
-        echo -e "检测到的服务器 IP 地址: ${YELLOW}${server_ip}${NC}"
-    fi
-
-    # 构建代理服务器地址
-    proxy_server="http://${server_ip}:${port}"
-    echo -e "代理服务器地址: ${YELLOW}${proxy_server}${NC}"
-
-    # 5. 设置管理员账户和密码
-    read -p "请设置管理员用户名 (默认 root): " admin_username
-    admin_username=${admin_username:-root}
-    read -p "请设置管理员密码 (默认 root): " admin_password
-    admin_password=${admin_password:-root}
-    
-    # 创建 docker-compose.yml 文件
-    cat > $m3u_dir/docker-compose.yml <<EOL
-version: '3'
-
-services:
-  m3u-proxy:
-    image: hiyuelin/m3u-proxy:latest
-    ports:
-      - "${port}:5612"
-    volumes:
-      - ./iptv.m3u:/app/iptv.m3u
-      - ./whitelist.txt:/app/whitelist.txt
-      - ./ip_whitelist.txt:/app/ip_whitelist.txt
-      - ./m3u_proxy.log:/app/m3u_proxy.log
-      - ./security_config.json:/app/security_config.json
-    environment:
-      - PROXY_SERVER=${proxy_server}
-      - DEBUG_MODE=False
-      - ENABLE_IP_WHITELIST=False
-      - CONSOLE_LOG_ENABLED=True
-      - LOG_LEVEL=INFO
-      - ORIGINAL_M3U_PATH=/app/iptv.m3u
-      - WHITE_LIST_PATH=/app/whitelist.txt
-      - IP_WHITELIST_PATH=/app/ip_whitelist.txt
-      - LOG_FILE_PATH=/app/m3u_proxy.log
-      - PORT=5612
-      - HOST=0.0.0.0
-      - ADMIN_USERNAME=${admin_username}
-      - ADMIN_PASSWORD=${admin_password}
-    restart: unless-stopped
-EOL
-
-    # 启动服务
-    cd $m3u_dir
-    docker-compose up -d
-    
-    echo -e "${GREEN}M3U Proxy 部署完成${NC}"
-    echo -e "管理界面地址: ${YELLOW}${proxy_server}/admin${NC}"
-    echo -e "用户名: ${YELLOW}${admin_username}${NC}"
-    echo -e "密码: ${YELLOW}${admin_password}${NC}"
-    echo
-    echo -e "${CYAN}重要提示：${NC}"
-    echo -e "1. 请在 ${YELLOW}${m3u_dir}/iptv.m3u${NC} 文件中添加您要代理的频道列表，或上传您的 iptv.m3u 文件替换现有文件。"
-    echo -e "2. ${YELLOW}${m3u_dir}/ip_whitelist.txt${NC} 用于管理 IP 白名单。"
-    echo -e "3. ${YELLOW}${m3u_dir}/whitelist.txt${NC} 用于管理域名白名单。"
-    echo -e "4. 每次更新 iptv.m3u 文件后，请在管理面板中点击"刷新域名白名单"按钮以更新白名单。"
-    echo -e "5. 代理后的 M3U 文件地址: ${YELLOW}${proxy_server}/iptv.m3u${NC}"
-    echo
-    echo -e "${YELLOW}注意：${NC}更新 iptv.m3u 文件后，请务必在管理面板中刷新域名白名单，以确保新添加的频道能够正常工作。"
-    echo -e "${YELLOW}提示：${NC}在您的播放器中使用代理后的 M3U 文件地址来访问经过代理的频道列表。"
-    echo
     read -p "按回车键继续..."
 }
 
-remove_m3u_proxy() {
-    echo -e "${YELLOW}正在删除 M3U Proxy...${NC}"
-    read -p "请输入 M3U Proxy 的安装目录 (默认 /home/m3u-proxy): " m3u_dir
-    m3u_dir=${m3u_dir:-/home/m3u-proxy}
-    
-    if [ -f "$m3u_dir/docker-compose.yml" ]; then
-        cd $m3u_dir
-        echo -e "${YELLOW}停止并删除 M3U Proxy 容器...${NC}"
-        docker-compose down
-        
-        echo -e "${YELLOW}删除 M3U Proxy 镜像...${NC}"
-        docker rmi hiyuelin/m3u-proxy:latest
-        
-        echo -e "${YELLOW}删除 docker-compose.yml 文件...${NC}"
-        rm docker-compose.yml
-        
-        echo -e "${GREEN}M3U Proxy 已成功删除（包括容器和镜像）${NC}"
+delete_image() {
+    echo -e "${YELLOW}当前的镜像：${NC}"
+    docker images
+    echo
+    read -p "请输入要删除的镜像 IMAGE ID: " image_id
+    if [ -n "$image_id" ]; then
+        docker rmi $image_id
+        if [ $? -eq 0 ]; then
+            echo -e "${GREEN}镜像 $image_id 已被除${NC}"
+        else
+            echo -e "${RED}删除像 $image_id 失败，可能是因为该镜像正在被使用或不存在${NC}"
+        fi
     else
-        echo -e "${RED}未找到 M3U Proxy 的 docker-compose.yml 文件，删除失败${NC}"
+        echo -e "${RED}未输入镜像 IMAGE ID，操作取消${NC}"
     fi
+    read -p "按回车键继续..."
+}
+
+install_docker() {
+    echo -e "${GREEN}开始安装 Docker...${NC}"
+    echo -e "${YELLOW}警告：此操作将直接从网络下载并执行脚本。请确保您信任该脚本的源。${NC}"
+    wget -qO- get.docker.com | bash
+    sudo usermod -aG docker $USER
+    echo -e "${GREEN}Docker 安装完成${NC}"
+    docker --version
+    read -p "按回车键继续..."
+}
+
+install_docker_compose() {
+    echo -e "${GREEN}开始安装 Docker Compose...${NC}"
+    if ! command -v docker &> /dev/null; then
+        echo -e "${RED}错误：Docker 未安装。请先安装 Docker。${NC}"
+        read -p "按回车键继续..."
+        return
+    fi
+    sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+    sudo chmod +x /usr/local/bin/docker-compose
+    echo -e "${GREEN}Docker Compose 安装完成${NC}"
+    docker-compose --version
+    read -p "按回车键继续..."
+}
+
+install_xui() {
+    echo -e "${GREEN}开始安装 X-UI...${NC}"
+    echo -e "${YELLOW}警告：此操作将直接从网下载并执行脚本。请确保您信任该脚本的来源。${NC}"
+    bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+    echo -e "${GREEN}X-UI 安装脚本执行完成${NC}"
+    read -p "按回车键继续..."
+}
+
+install_3xui() {
+    echo -e "${GREEN}开始安装 3X-UI...${NC}"
+    echo -e "${YELLOW}警告：此操作将直接从网络下载执行脚本。请确保您信任该脚本的来源。${NC}"
+    bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+    echo -e "${GREEN}3X-UI 安装脚本执行完成${NC}"
+    read -p "按回车键继续..."
+}
+
+install_bbr() {
+    echo -e "${GREEN}开始安装 BBR 加速...${NC}"
+    echo -e "${YELLOW}警告：此操作将直接从网络下载并执行脚本。请确保您信任该脚本的来源。${NC}"
+    wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
+    chmod +x tcp.sh
+    ./tcp.sh
+    echo -e "${GREEN}BBR 加速安装脚本执行完成${NC}"
+    read -p "按回车键继续..."
+}
+
+install_nezha() {
+    echo -e "${GREEN}开始安装哪吒监控...${NC}"
+    echo -e "${YELLOW}警告：此操作将直接从网络下载并执行脚本。请确保您信任该脚本的来源。${NC}"
+    curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh
+    chmod +x nezha.sh
+    sudo ./nezha.sh
+    echo -e "${GREEN}哪吒监控安装脚本执行完成${NC}"
+    read -p "按回车键继续..."
+}
+
+install_aapanel() {
+    echo -e "${GREEN}开始装 aaPanel...${NC}"
+    echo -e "${YELLOW}警告：此操作将直接从网络下并执行脚本。请确保您信任该脚本的来源。${NC}"
+    wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh
+    bash install.sh aapanel
+    echo -e "${GREEN}aaPanel 安装脚本执行完成${NC}"
+    read -p "按回车键继续..."
+}
+
+install_ip_check() {
+    echo -e "${GREEN}开始执行 IP 质量体检...${NC}"
+    echo -e "${YELLOW}警告：此操作将直接从网络下载并执行脚本。请确保您信任该脚本的来源。${NC}"
+    bash <(curl -Ls IP.Check.Place)
+    echo -e "${GREEN}IP 质量体检执行完成${NC}"
+    read -p "按回车键继续..."
+}
+
+install_frp() {
+    echo -e "${GREEN}开始安装 frp 内网穿透...${NC}"
+    echo -e "${YELLOW}警告：此操作直接从网络下载并执行脚本。请确保您信任该脚本的来源。${NC}"
+    echo "请选择安装源："
+    echo "1) Gitee"
+    echo "2) Github"
+    read -p "请输入选项数字: " frp_choice
+    case $frp_choice in
+        1)
+            wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
+            ;;
+        2)
+            wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
+            ;;
+        *)
+            echo -e "${RED}无效选项，取消安装。${NC}"
+            return
+            ;;
+    esac
+    chmod 700 ./install-frps.sh
+    ./install-frps.sh install
+    echo -e "${GREEN}frp 内网穿透安装完成${NC}"
+    read -p "按回车键继续..."
+}
+
+install_netflix_check() {
+    echo -e "${GREEN}开始检查Netflix解锁...${NC}"
+    echo -e "${YELLOW}警告：此操作将直接从网络下载并执行脚本。请确保您信任该脚本的来源。${NC}"
+    wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.01/nf_2.01_linux_amd64 && chmod +x nf && clear && ./nf
+    echo -e "${GREEN}Netflix解锁检查执行完成${NC}"
+    read -p "按回车键继续..."
+}
+
+deploy_pixman() {
+    echo -e "${GREEN}开始部署 Pixman 应用...${NC}"
+
+    # 选择架构
+    echo "请选择您的系统架构："
+    echo "1) x86"
+    echo "2) ARM/v7"
+    read -p "请输入选项数字: " arch_choice
+
+    case $arch_choice in
+        1)
+            image="pixman/pixman"
+            ;;
+        2)
+            image="pixman/pixman-armv7"
+            ;;
+        *)
+            echo -e "${RED}无效选项，取消部署。${NC}"
+            return
+            ;;
+    esac
+
+    # 拉取镜像
+    echo -e "${YELLOW}正在拉取 $image 镜像...${NC}"
+    docker pull $image
+
+    # 设置端口
+    read -p "请输入要运行的端口 (默认 5000): " port
+    port=${port:-5000}
+
+    # 设置变量
+    variables=""
+
+    # MYTVSUPER TOKEN
+    read -p "是否有 MYTVSUPER TOKEN? (y/n): " has_mytvsuper
+    if [[ $has_mytvsuper == [yY] ]]; then
+        read -p "请输入 MYTVSUPER TOKEN: " mytvsuper_token
+        variables="$variables -e MYTVSUPER_TOKEN=$mytvsuper_token"
+    fi
+
+    # Hamivideo
+    read -p "是否需要添加 Hamivideo? (y/n): " has_hamivideo
+    if [[ $has_hamivideo == [yY] ]]; then
+        read -p "请输入 HAMI_SESSION_ID: " hami_session_id
+        read -p "请输入 HAMI_SERIAL_NO: " hami_serial_no
+        read -p "请输入 HAMI_SESSION_IP: " hami_session_ip
+        variables="$variables -e HAMI_SESSION_ID=$hami_session_id -e HAMI_SERIAL_NO=$hami_serial_no -e HAMI_SESSION_IP=$hami_session_ip"
+    fi
+
+    # 运行容器
+    echo -e "${YELLOW}正在创建并运行 Pixman 容器...${NC}"
+    if [ -z "$variables" ]; then
+        docker run -d --name=pixman -p $port:5000 $image
+    else
+        docker run -d --name=pixman -p $port:5000 $variables $image
+    fi
+
+    echo -e "${GREEN}Pixman 应用部署完成。容器正在后台运行，端口为 $port${NC}"
     
-    read -p "是否要删除 M3U Proxy 的配置文件和日志？(y/N): " delete_config
-    if [[ $delete_config =~ ^[Yy]$ ]]; then
-        echo -e "${YELLOW}删除配置文件和日志...${NC}"
-        rm -f $m3u_dir/iptv.m3u $m3u_dir/whitelist.txt $m3u_dir/ip_whitelist.txt $m3u_dir/m3u_proxy.log $m3u_dir/security_config.json
-        echo -e "${GREEN}配置文件和日志已删除${NC}"
+    # 获取当前服务器的 IP 地址
+    server_ip=$(curl -s ipinfo.io/ip)
+    
+    echo -e "\n${YELLOW}以下是可用的直播源链接：${NC}"
+    echo -e "${CYAN}四季線上 4GTV:${NC} http://${server_ip}:${port}/4gtv.m3u"
+    echo -e "${CYAN}江苏移动魔百盒 TPTV:${NC}"
+    echo "http://${server_ip}:${port}/tptv.m3u"
+    echo "http://${server_ip}:${port}/tptv_proxy.m3u"
+    echo -e "${CYAN}央视频直播源:${NC} http://${server_ip}:${port}/ysp.m3u"
+    echo -e "${CYAN}MytvSuper 直播源:${NC} http://${server_ip}:${port}/mytvsuper.m3u"
+    echo -e "${CYAN}Beesport 直播源:${NC} http://${server_ip}:${port}/beesport.m3u"
+    echo -e "${CYAN}中国移动 iTV 平台:${NC}"
+    echo "http://${server_ip}:${port}/itv.m3u"
+    echo "http://${server_ip}:${port}/itv_proxy.m3u"
+    echo -e "${CYAN}TheTV:${NC} http://${server_ip}:${port}/thetv.m3u"
+    echo -e "${CYAN}Hami Video:${NC} http://${server_ip}:${port}/hami.m3u"
+    echo -e "${CYAN}DLHD:${NC} http://${server_ip}:${port}/dlhd.m3u"
+    
+    echo -e "\n${YELLOW}请保存这些链接以便后续使用。${NC}"
+    read -p "按回车键继续..."
+}
+
+remove_pixman() {
+    echo -e "${GREEN}开始删除 Pixman 应用...${NC}"
+
+    # 选择架构
+    echo "请选择您的系统架构："
+    echo "1) x86"
+    echo "2) ARM/v7"
+    read -p "请输入选项数字: " arch_choice
+
+    case $arch_choice in
+        1)
+            image="pixman/pixman"
+            container_name="pixman"
+            ;;
+        2)
+            image="pixman/pixman-armv7"
+            container_name="pixman"
+            ;;
+        *)
+            echo -e "${RED}无效选项，取消删除。${NC}"
+            return
+            ;;
+    esac
+
+    echo -e "${YELLOW}正在停止并删除 Pixman 容器...${NC}"
+    docker stop $container_name
+    docker rm $container_name
+
+    echo -e "${YELLOW}正在删除 Pixman 镜像...${NC}"
+    docker rmi $image
+
+    echo -e "${GREEN}Pixman 应用已成功删除${NC}"
+    read -p "按回车键继续..."
+}
+
+deploy_allinone() {
+    echo -e "${GREEN}开始部署 Allinone 应用...${NC}"
+
+    # 拉取镜像
+    echo -e "${YELLOW}正在拉取 youshandefeiyang/allinone 镜像...${NC}"
+    docker pull youshandefeiyang/allinone
+
+    # 设置端口
+    read -p "请输入要运行的端口 (默认 5000): " port
+    port=${port:-5000}
+
+    # 运行容器
+    echo -e "${YELLOW}正在创建并运行 Allinone 容器...${NC}"
+    docker run -d --name=allinone --restart=unless-stopped --privileged=true -p $port:35455 youshandefeiyang/allinone
+
+    echo -e "${GREEN}Allinone 应用部署完成。容器正在后台运行，端口为 $port${NC}"
+    read -p "按回车键继续..."
+}
+
+remove_allinone() {
+    echo -e "${GREEN}开始删除 Allinone 应用...${NC}"
+
+    echo -e "${YELLOW}正在停止并删除 Allinone 容器...${NC}"
+    docker stop allinone
+    docker rm allinone
+
+    echo -e "${YELLOW}正在删除 Allinone 镜像...${NC}"
+    docker rmi youshandefeiyang/allinone
+
+    echo -e "${GREEN}Allinone 应用已成功删除${NC}"
+    read -p "按回车键继续..."
+}
+
+# 在其他函数定义之后，添加这个新函数
+check_ip_info() {
+    while true; do
+        clear
+        print_logo
+        echo -e "${PURPLE}=== 查看本机IP信息 ===${NC}"
+        echo -e "${BLUE}1)${NC} 查看网卡IP"
+        echo -e "${BLUE}2)${NC} 查看互联网IP"
+        echo -e "${RED}0)${NC} 返回主菜单"
+        echo
+
+        read -p "请输入选项数字: " ip_choice
+        case $ip_choice in
+            1)
+                echo -e "${GREEN}网卡IP信息：${NC}"
+                ip addr
+                read -p "按回车键继续..."
+                ;;
+            2)
+                echo -e "${GREEN}互联网IP信息：${NC}"
+                curl -s ipinfo.io
+                echo  # 添加一个空行，使输出更整洁
+                read -p "按回车键继续..."
+                ;;
+            0)
+                return
+                ;;
+            *)
+                echo -e "${RED}无效选项，请重新选择${NC}"
+                read -p "按回车键继续..."
+                ;;
+        esac
+    done
+}
+
+setup_auto_update() {
+    echo -e "${GREEN}设置自动更新 Docker 镜像${NC}"
+    echo "请选择要自动更新的应用："
+    echo "1) Pixman"
+    echo "2) Allinone"
+    read -p "请输入选项数字: " app_choice
+
+    case $app_choice in
+        1)
+            app_name="Pixman"
+            echo "请选择 Pixman 的架构："
+            echo "1) x86"
+            echo "2) ARM/v7"
+            read -p "请输入选项数字: " arch_choice
+            case $arch_choice in
+                1)
+                    image_name="pixman/pixman"
+                    ;;
+                2)
+                    image_name="pixman/pixman-armv7"
+                    ;;
+                *)
+                    echo -e "${RED}无效选项，取消设置。${NC}"
+                    return
+                    ;;
+            esac
+            default_port=5000
+            ;;
+        2)
+            app_name="Allinone"
+            image_name="youshandefeiyang/allinone"
+            default_port=35455
+            ;;
+        *)
+            echo -e "${RED}无效选项，取消设置。${NC}"
+            return
+            ;;
+    esac
+
+    read -p "请输入应用当前运行的端口 (默认 $default_port): " port
+    port=${port:-$default_port}
+
+    echo "请选择更新频率："
+    echo "1) 每天"
+    echo "2) 每2天"
+    echo "3) 每周"
+    read -p "请输入选项数字: " freq_choice
+
+    case $freq_choice in
+        1)
+            cron_schedule="0 4 * * *"
+            freq_text="每天"
+            ;;
+        2)
+            cron_schedule="0 4 */2 * *"
+            freq_text="每2天"
+            ;;
+        3)
+            cron_schedule="0 4 * * 0"
+            freq_text="每周"
+            ;;
+        *)
+            echo -e "${RED}无效选项，取消设置。${NC}"
+            return
+            ;;
+    esac
+
+    update_script="/usr/local/bin/update_${app_name,,}_image.sh"
+    echo '#!/bin/bash' > $update_script
+    echo "docker pull $image_name" >> $update_script
+    echo "docker stop $app_name" >> $update_script
+    echo "docker rm $app_name" >> $update_script
+    if [ "$app_name" = "Pixman" ]; then
+        echo "docker run -d --name=$app_name --restart=unless-stopped -p $port:5000 $image_name" >> $update_script
+    else
+        echo "docker run -d --name=$app_name --restart=unless-stopped --privileged=true -p $port:35455 $image_name" >> $update_script
+    fi
+    chmod +x $update_script
+
+    # 检查是否已存在相同的 cron 任务
+    if crontab -l | grep -q "$update_script"; then
+        sed -i "\|$update_script|d" <(crontab -l)
+    fi
+
+    (crontab -l 2>/dev/null; echo "$cron_schedule $update_script") | crontab -
+
+    echo -e "${GREEN}自动更新已设置。$app_name 将$freq_text凌晨4点自动更新。使用端口: $port${NC}"
+    read -p "按回车键继续..."
+}
+
+generate_mytvsuper_m3u() {
+    echo -e "${GREEN}开始生成 Mytvsuper 静态 m3u...${NC}"
+    docker exec pixman sh -c 'flask mytvsuper_tivimate'
+    
+    # 获取当前服务器的 IP 地址
+    server_ip=$(curl -s ipinfo.io/ip)
+    
+    # 获取 Pixman 应用的端口
+    pixman_port=$(docker port pixman 5000 | cut -d ':' -f 2)
+    
+    echo -e "${GREEN}Mytvsuper 静态 m3u 生成完成${NC}"
+    echo -e "${YELLOW}请使用 http://${server_ip}:${pixman_port}/mytvsuper-tivimate.m3u 订阅${NC}"
+    echo -e "${YELLOW}注意：生成的Mytvsuper链接有效期为 24 小时${NC}"
+    
+    read -p "是否需要添加每24小时自动执行一次的任务？(y/n): " auto_task
+    if [[ $auto_task == [yY] ]]; then
+        # 创建自动执行脚本
+        auto_script="/usr/local/bin/generate_mytvsuper_m3u.sh"
+        echo '#!/bin/bash' > $auto_script
+        echo "docker exec pixman sh -c 'flask mytvsuper_tivimate'" >> $auto_script
+        chmod +x $auto_script
+        
+        # 添加 cron 任务
+        (crontab -l 2>/dev/null; echo "0 */24 * * * $auto_script") | crontab -
+        
+        echo -e "${GREEN}自动执行任务已添加，每 24 小时执行一次${NC}"
     fi
     
     read -p "按回车键继续..."
@@ -185,9 +583,37 @@ while true; do
     print_menu
     read -p "请输入选项数字: " choice
     case $choice in
-        1) deploy_m3u_proxy ;;
-        2) remove_m3u_proxy ;;
-        0) 
+        1)
+            docker_menu
+            ;;
+        2)
+            install_xui
+            ;;
+        3)
+            install_3xui
+            ;;
+        4)
+            install_bbr
+            ;;
+        5)
+            install_nezha
+            ;;
+        6)
+            install_aapanel
+            ;;
+        7)
+            install_ip_check
+            ;;
+        8)
+            install_frp
+            ;;
+        9)
+            install_netflix_check
+            ;;
+        10)
+            check_ip_info
+            ;;
+        0)
             echo -e "${GREEN}感谢使用，再见！${NC}"
             exit 0
             ;;
