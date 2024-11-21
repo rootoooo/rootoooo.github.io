@@ -90,9 +90,9 @@ deploy_m3u_proxy() {
     echo -e "代理服务器地址: ${YELLOW}${proxy_server}${NC}"
 
     # 5. 设置管理员账户和密码
-    read -p "请设置管理员用户名 (默认 admin): " admin_username
+    read -p "请设置管理员用户名 (默认 root): " admin_username
     admin_username=${admin_username:-admin}
-    read -p "请设置管理员密码 (默认 admin123): " admin_password
+    read -p "请设置管理员密码 (默认 root): " admin_password
     admin_password=${admin_password:-admin123}
     
     # 创建 docker-compose.yml 文件
