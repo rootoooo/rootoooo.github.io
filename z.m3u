@@ -73,10 +73,8 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="China中国",TVBSnews
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="China中国",TVBS
-http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 group-title="China中国",东森新闻
-http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="China中国",TVBS-HD
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",中天新闻-HD
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",凤凰卫视中文台-HD
@@ -87,8 +85,8 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",无线新闻台-HD
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="China中国",TVBS-HD
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="China中国",爆笑虫子
+http://dns.yiandrive.com:16813/douyu/9942574
 #EXTINF:-1 group-title="China中国",秋月剪水
 http://allinone.netsite.cc/douyu/9588891
 #EXTINF:-1 group-title="China中国",臭猴纸
@@ -135,8 +133,6 @@ https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Live直播",FIFA足球
 https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",MTV音乐
-http://37.27.111.214:8080/live/25/hls.m3u8
 #EXTINF:-1 group-title="Live直播",THT音乐
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:-1 group-title="Live直播",QmusicNL音乐
@@ -200,7 +196,7 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Europe欧洲",Euronews-English欧洲新闻台
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 group-title="Germany德国",DW德国之声
-http://37.27.111.214:8080/live/46/hls.m3u8
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="France法国",France24国际新闻频道
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 group-title="France法国",News24法兰西24
@@ -221,8 +217,6 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",NBS环球新闻集团
 https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",CNBC美国消费者新闻与商业频道
-http://37.27.111.214:8080/live/102/hls.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",NewsmaxTV美国保守派新闻媒体
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="UnitedStates美国",Vice媒体
