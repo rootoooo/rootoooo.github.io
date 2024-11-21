@@ -85,6 +85,12 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",无线新闻台-HD
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="China中国",猫和老鼠
+http://dns.yiandrive.com:16813/huya/11352879
+#EXTINF:-1 group-title="China中国",哆啦A梦
+http://dns.yiandrive.com:16813/huya/11601963
+#EXTINF:-1 group-title="China中国",七龙珠
+http://dns.yiandrive.com:16813/huya/11601966
 #EXTINF:-1 group-title="China中国",爆笑虫子
 http://dns.yiandrive.com:16813/douyu/9942574
 #EXTINF:-1 group-title="China中国",秋月剪水
