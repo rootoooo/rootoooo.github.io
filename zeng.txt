@@ -6,6 +6,8 @@ eyJhIjoiYmVlZDRlMWFhNzdiZmQwNzhkYjFmY2Q1ZjhiNTU1MDAiLCJ0IjoiNGYzODhhYmQtNWM5ZC00
 
 hysteria2://密码@IP:端口/?insecure=1#Hysteria2
 
+https://panel13.serv00.com/s13.serv00.com
+
 不良林订阅转换：https://psub.888005.xyz/
 
 Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
