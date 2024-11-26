@@ -14,7 +14,11 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJQTCIsCiAgImFkZCI6ICJyb290b29vby5zZXJ2MDAu
 
 https://github.com/chengaopan/AutoMergePublicNodes
 
+https://github.haoss.eu.org/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
+
 https://github.com/barry-far/V2ray-Configs?tab=readme-ov-file
+
+https://github.haoss.eu.org/https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
 
 不良林订阅转换：https://psub.888005.xyz/
 
