@@ -55,6 +55,14 @@ https://live.iill.top/youtube/@fm190-ld7qz?si=JuL7kqr9030Cs0dL
 https://live.iill.top/youtube/@moonbabydj?si=ytNtZ3HnqAv2iSil
 #EXTINF:-1 group-title="China中国",凤凰资讯
 https://live.iill.top/youtube/@phoenixtvhk
+#EXTINF:-1 group-title="China中国",中天新闻
+https://tv.iill.top/litv/4gtv-4gtv009
+#EXTINF:-1 group-title="China中国",东森新闻
+https://tv.iill.top/litv/4gtv-4gtv152
+#EXTINF:-1 group-title="China中国",TVBS
+https://tv.iill.top/litv/4gtv-4gtv073
+#EXTINF:-1 group-title="China中国",TVBSnews
+http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="China中国",凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="China中国",凤凰卫视资讯台
@@ -79,14 +87,6 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="China中国",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="China中国",TVBSnews
-http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="China中国",TVBS
-https://tv.iill.top/litv/4gtv-4gtv073
-#EXTINF:-1 group-title="China中国",中天新闻
-https://tv.iill.top/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="China中国",东森新闻
-https://tv.iill.top/litv/4gtv-4gtv152
 #EXTINF:-1 group-title="China中国",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="China中国",Animal-Planet动物星球频道
