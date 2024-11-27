@@ -134,12 +134,6 @@ bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
-IPTV：
-
-bash <(curl -s https://haoss.eu.org/iptv.sh)
-
-
-
 Frp：
 
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
