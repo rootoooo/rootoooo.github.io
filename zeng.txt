@@ -146,12 +146,6 @@ bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
-Vmess：
-
-bash <(curl -Lso- https://haoss.eu.org/vmess.sh)
-
-
-
 IPTV：
 
 bash <(curl -s https://haoss.eu.org/iptv.sh)
