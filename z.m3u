@@ -25,6 +25,16 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 #EXTINF:-1 group-title="China中国",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
+#EXTINF:-1 group-title="China中国",CCTV-14
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
+#EXTINF:-1 group-title="China中国",金鹰卡通
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
+#EXTINF:-1 group-title="China中国",优漫卡通
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
+#EXTINF:-1 group-title="China中国",哈哈炫动
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
+#EXTINF:-1 group-title="China中国",黑莓动画
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 #EXTINF:-1 group-title="China中国",4K-UHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="China中国",秋月剪水
@@ -37,16 +47,8 @@ https://live.iill.top/youtube/UsZi0jxZHZ8
 https://live.iill.top/youtube/@hotdoornight?si=qDTKsosNMnzIlZTc
 #EXTINF:-1 group-title="China中国",综艺玩很大
 https://live.iill.top/youtube/@mr.player?si=Is0_nDyz8E3X7bSJ
-#EXTINF:-1 group-title="China中国",CCTV-14
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
-#EXTINF:-1 group-title="China中国",金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
-#EXTINF:-1 group-title="China中国",优漫卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
-#EXTINF:-1 group-title="China中国",哈哈炫动
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
-#EXTINF:-1 group-title="China中国",黑莓动画
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
+#EXTINF:-1 group-title="China中国",凤凰资讯
+https://live.iill.top/youtube/@phoenixtvhk
 #EXTINF:-1 group-title="China中国",凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="China中国",凤凰卫视资讯台
@@ -74,13 +76,11 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="China中国",TVBSnews
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="China中国",TVBS
-https://live.iill.top/youtube/watch?v=o_-hSMgpAzs
+https://tv.iill.top/litv/4gtv-4gtv073
 #EXTINF:-1 group-title="China中国",中天新闻
-https://live.iill.top/youtube/watch?v=vr3XyVCR4T0
+https://tv.iill.top/litv/4gtv-4gtv009
 #EXTINF:-1 group-title="China中国",东森新闻
-https://live.iill.top/youtube/@newsebc?si=zECd7Sug6HS4gXtO
-#EXTINF:-1 group-title="China中国",凤凰资讯
-https://live.iill.top/youtube/@phoenixtvhk
+https://tv.iill.top/litv/4gtv-4gtv152
 #EXTINF:-1 group-title="China中国",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="China中国",Animal-Planet动物星球频道
