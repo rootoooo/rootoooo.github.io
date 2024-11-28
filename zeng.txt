@@ -10,7 +10,7 @@ wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amcl
 
 ssh <rootoooo>@<panel>.serv00.com
 
-bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh 73bb6872-54b6-4c8f-8f0a-9562bfcb7fff)
 
 不良林订阅转换：https://psub.888005.xyz/
 
