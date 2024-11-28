@@ -1,13 +1,3 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiMTA5MTEiLA0KICAiaWQiOiAiMTJiN2Y5YTQtNmE4Mi00NWMyLTgxZTAtNTQxYzVhNWQ2OGMzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJQTCIsCiAgImFkZCI6ICJyb290b29vby5zZXJ2MDAubmV0IiwKICAicG9ydCI6IDQ5NDkyLAogICJpZCI6ICIzMWE4OWExZS03NmVlLTQ2YzUtYTQ0ZS0xNTUwMDllMTA0YzQiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9
-
-hysteria2://密码@IP:端口/?insecure=1#Hysteria2
-
-https://panel13.serv00.com/s13.serv00.com/rootoooo.serv00.net
-
-wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/am-serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
-
 不良林订阅转换：https://psub.888005.xyz/
 
 Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
@@ -117,43 +107,5 @@ chmod 700 ./install-frps.sh
 ./install-frps.sh install
 
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
-
-
-
-Nginx proxy manager：
-
-1、创建存放数据的文件夹并进入
-
-mkdir -p /root/data/docker_data/npm && cd /root/data/docker_data/npm
-
-2、创建配置文件
-
-vim docker-compose.yml
-
-英文输入法下，按 i 后填入配置
-
-services:
-  app:
-    image: 'docker.io/jc21/nginx-proxy-manager:latest'
-    restart: unless-stopped
-    ports:
-      - '80:80'
-      - '81:81'
-      - '443:443'
-    volumes:
-      - ./data:/data
-      - ./letsencrypt:/etc/letsencrypt
-
-按一下 esc，然后输入 :wq 按回车保存退出
-
-3、最后启动容器
-
-docker compose up -d 
-
-启动后就可以输入 http://[ip]:81 访问管理后台了
-
-默认登陆名和密码：
-Email: admin@example.com
-Password: changeme
 
 
