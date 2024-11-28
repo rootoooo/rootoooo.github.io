@@ -14,6 +14,8 @@ Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/Quant
 
 Shadowrocket去广告模块：https://whatshub.top/module/YouTubeAd.sgmodule
 
+Windows：https://github.com/2dust/v2rayn/releases
+
 MAC-v2rayU：https://github.com/yanue/V2rayU/releases
 
 安卓-v2rayN：https://github.com/2dust/v2rayNG/releases
