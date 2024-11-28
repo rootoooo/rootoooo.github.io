@@ -92,14 +92,6 @@ https://live.iill.top/youtube/UsZi0jxZHZ8
 
 https://live.iill.top/youtube/@phoenixtvhk
 
-http://dns.yiandrive.com:16813/douyu/
-
-http://dns.yiandrive.com:16813/huya/
-
-http://dns.yiandrive.com:16813/douyin/
-
-http://dns.yiandrive.com:16813/bilibili/
-
 Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip
 
 开机启动：Win+R→shell:startup，：远程桌面Win+R→mstsc
@@ -124,7 +116,7 @@ bash <(curl -sL kejilion.sh)
 
 Hysteria2：
 
-wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
+bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
 
 
 
