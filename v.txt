@@ -7,3 +7,5 @@ hysteria2://密码@IP:端口/?insecure=1#Hysteria2
 订阅转换：https://psub.888005.xyz/
 
 
+
+https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json
