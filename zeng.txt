@@ -1,12 +1,16 @@
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwNCiAgInBvcnQiOiAiMTA5MTEiLA0KICAiaWQiOiAiMTJiN2Y5YTQtNmE4Mi00NWMyLTgxZTAtNTQxYzVhNWQ2OGMzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJQTCIsCiAgImFkZCI6ICJyb290b29vby5zZXJ2MDAubmV0IiwKICAicG9ydCI6IDQ5NDkzLAogICJpZCI6ICI3OTg2NDZmYy1mNmFlLTRjNGQtZTA3Yy02ZThjZDEyYWY5MjYiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9
+
 
 hysteria2://密码@IP:端口/?insecure=1#Hysteria2
 
 https://panel13.serv00.com/s13.serv00.com/rootoooo.serv00.net
 
 wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/am-serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
+
+ssh <rootoooo>@<panel>.serv00.com
+
+bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
 
 不良林订阅转换：https://psub.888005.xyz/
 
