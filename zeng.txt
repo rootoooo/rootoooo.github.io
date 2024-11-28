@@ -32,6 +32,8 @@ Tvbox：https://github.com/o0HalfLife0o/TVBoxOSC
 
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
+Gps：https://github.com/ZCShou/GoGoGo/releases
+
 json：https://91md.me/api.php/provide/vod/
 
 json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
