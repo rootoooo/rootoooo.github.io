@@ -12,47 +12,35 @@ wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amcl
 
 Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
-Shadowrocket：https://whatshub.top/config/shadowrocket_basic.conf
-
 Shadowrocket去广告模块：https://whatshub.top/module/YouTubeAd.sgmodule
-
-小火箭/surge：https://raw.githubusercontent.com/ddgksf2013/Modules/main/Adblock.sgmodule
 
 MAC-v2rayU：https://github.com/yanue/V2rayU/releases
 
 安卓-v2rayN：https://github.com/2dust/v2rayNG/releases
 
-安卓-ClashMeta：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
-
-Clash Verge：https://github.com/clash-verge-rev/clash-verge-rev/releases
+ClashVerge：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 Fancyss：https://hq450.github.io/fancyss/
 
 软件报毒检测：https://www.virscan.org/
 
-在线文字转语音：https://ttsmaker.cn/
-
 Frpc-Windows客户端：https://github.com/codemonkey-m/FrpClient-Win
 
-Frpc-Mac客户端：https://github.com/luckjiawei/frpc-desktop/releases
-
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
-
-ChatGPT-api：https://platform.openai.com/api-keys
 
 IP纯净：https://scamalytics.com/
 
 磁力柠檬：https://lemonue.top/
 
-M3U8：http://tonkiang.us/
+M3u8：http://tonkiang.us/
 
 AI：https://www.igdux.com/ai3
 
-zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
+Zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
 
-TVBOX：https://github.com/o0HalfLife0o/TVBoxOSC
+Tvbox：https://github.com/o0HalfLife0o/TVBoxOSC
 
-直播软件：https://github.com/xiaoyaocz/dart_simple_live/releases
+Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 json：https://91md.me/api.php/provide/vod/
 
@@ -65,10 +53,6 @@ SMS虚拟号：https://sms-activate.org/getNumber
 免费域名：https://nic.eu.org/
 
 LocalSend本地发送：https://github.com/localsend/localsend
-
-TVBOX：https://github.com/o0HalfLife0o/TVBoxOSC
-
-直播软件：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 FinalShell：https://www.hostbuf.com/
 
@@ -87,8 +71,6 @@ m3u转换：https://guihet.com/convert-m3u-js.html
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 http://allinone.netsite.cc/douyu/9588891
-
-https://live.iill.top/youtube/UsZi0jxZHZ8
 
 https://live.iill.top/youtube/@phoenixtvhk
 
