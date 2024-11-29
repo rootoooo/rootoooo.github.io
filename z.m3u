@@ -33,8 +33,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 #EXTINF:-1 group-title="Live",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
-#EXTINF:-1 group-title="Live",第一财经
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="Live",纯享-4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="Live",华数-4K
@@ -105,10 +103,8 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="Live",Taiwan台湾
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="SinGapore",CNA亚洲新闻台
+#EXTINF:-1 group-title="Singapore",CNA亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="Thailand",PBS3泰国公共电视台
-http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="Japan",NHK-World日本国际传媒
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="Japan",JAPAN-News24日本新闻台
