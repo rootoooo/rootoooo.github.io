@@ -15,8 +15,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 #EXTINF:-1 group-title="China中国",广西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/1.m3u8
-#EXTINF:-1 group-title="China中国",南宁新闻
-https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="China中国",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000005866/1.m3u8
 #EXTINF:-1 group-title="China中国",江苏卫视
@@ -37,16 +35,10 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 #EXTINF:-1 group-title="China中国",第一财经
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="China中国",4K-UHD
+#EXTINF:-1 group-title="China中国",纯享-4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="China中国",华数-4K
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-#EXTINF:-1 group-title="China中国",Z. Heaton - Scenic Relaxation
-https://live.iill.top/youtube/@12KScenicRelaxation
-#EXTINF:-1 group-title="China中国",8K Scenic Relaxation
-https://live.iill.top/youtube/@ScenicRelaxation8K
-#EXTINF:-1 group-title="China中国",Eric - 8K Nature Film
-https://live.iill.top/youtube//@8knaturefilm1620
 #EXTINF:-1 group-title="China中国",Red Squirrel Studios
 https://live.iill.top/youtube/@RedSquirrelStudios
 #EXTINF:-1 group-title="China中国",Relaxing Nature 4K
@@ -59,19 +51,19 @@ https://live.iill.top/youtube/UsZi0jxZHZ8
 https://live.iill.top/youtube/@hotdoornight?si=qDTKsosNMnzIlZTc
 #EXTINF:-1 group-title="China中国",综艺玩很大
 https://live.iill.top/youtube/@mr.player?si=Is0_nDyz8E3X7bSJ
-#EXTINF:-1 group-title="China中国",Chinese Mix
+#EXTINF:-1 group-title="China中国",Chinese-MixDJ
 https://live.iill.top/youtube/@fm190-ld7qz?si=JuL7kqr9030Cs0dL
-#EXTINF:-1 group-title="China中国",Chinese DJ
+#EXTINF:-1 group-title="China中国",Chinese-DJ
 https://live.iill.top/youtube/@moonbabydj?si=ytNtZ3HnqAv2iSil
-#EXTINF:-1 group-title="China中国",DJ MoonBaby
+#EXTINF:-1 group-title="China中国",MoonBaby-DJ
 https://live.iill.top/youtube/@moonbabydj
-#EXTINF:-1 group-title="China中国",BreakBeat
+#EXTINF:-1 group-title="China中国",BreakBeat-DJ
 https://live.iill.top/youtube//@breakbeatdj
 #EXTINF:-1 group-title="China中国",凤凰资讯
 https://live.iill.top/youtube/@phoenixtvh
-#EXTINF:-1 group-title="China中国",东森新闻
+#EXTINF:-1 group-title="China中国",东森Live
 https://live.iill.top/youtube/@newsebc
-#EXTINF:-1 group-title="China中国",三立新闻
+#EXTINF:-1 group-title="China中国",三立Live
 https://live.iill.top/youtube/@setnews
 #EXTINF:-1 group-title="China中国",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
