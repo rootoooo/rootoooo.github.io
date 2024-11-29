@@ -39,17 +39,17 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="China中国",华数-4K
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-#EXTINF:-1 group-title="China中国",Relaxing Nature 4K
+#EXTINF:-1 group-title="China中国",RelaxingNature
 https://live.iill.top/youtube/@relaxtionnature4k
-#EXTINF:-1 group-title="China中国",Amazing Places 4K
+#EXTINF:-1 group-title="China中国",AmazingPlaces
 https://live.iill.top/youtube/@amazingplaces4k
-#EXTINF:-1 group-title="China中国",Red Squirrel Studios
+#EXTINF:-1 group-title="China中国",RedSquirrelStudios
 https://live.iill.top/youtube/@RedSquirrelStudios
-#EXTINF:-1 group-title="China中国",The Good Life Radio
+#EXTINF:-1 group-title="China中国",TheGoodLifeRadio
 https://live.iill.top/youtube/@TheGoodLiferadio
-#EXTINF:-1 group-title="China中国",Deep Blue
+#EXTINF:-1 group-title="China中国",DeepBlue
 https://live.iill.top/youtube/@DeepBlue112
-#EXTINF:-1 group-title="China中国",Chill Vibes Club
+#EXTINF:-1 group-title="China中国",ChillVibesClub
 https://live.iill.top/youtube/@Chillclub286
 #EXTINF:-1 group-title="China中国",天才冲冲冲
 https://live.iill.top/youtube/UsZi0jxZHZ8
@@ -67,22 +67,26 @@ https://live.iill.top/youtube/@moonbabydj
 https://live.iill.top/youtube//@breakbeatdj
 #EXTINF:-1 group-title="China中国",凤凰资讯
 https://live.iill.top/youtube/@phoenixtvh
-#EXTINF:-1 group-title="China中国",三立Live
+#EXTINF:-1 group-title="China中国",三立新闻-Live
 https://live.iill.top/youtube/@setnews
-#EXTINF:-1 group-title="China中国",东森Live
+#EXTINF:-1 group-title="China中国",东森新闻-Live
 https://live.iill.top/youtube/@newsebc
 #EXTINF:-1 group-title="China中国",东森新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv152
-#EXTINF:-1 group-title="China中国",中天Live
+#EXTINF:-1 group-title="China中国",中天新闻-Live
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",中天新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv009
-#EXTINF:-1 group-title="China中国",TVBS-HD
+#EXTINF:-1 group-title="China中国",TVBS-Live
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="China中国",TVBS
 http://litv.zapi.us.kg/?id=4gtv-4gtv073
 #EXTINF:-1 group-title="China中国",TVBSnews
 http://61.221.215.25:8800/hls/9/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="China中国",凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="China中国",凤凰卫视资讯台
