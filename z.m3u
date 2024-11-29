@@ -39,16 +39,14 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="China中国",华数-4K
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-#EXTINF:-1 group-title="China中国",RelaxingNature
-https://live.iill.top/youtube/@relaxtionnature4k
-#EXTINF:-1 group-title="China中国",AmazingPlaces
-https://live.iill.top/youtube/@amazingplaces4k
-#EXTINF:-1 group-title="China中国",RedSquirrelStudios
-https://live.iill.top/youtube/@RedSquirrelStudios
-#EXTINF:-1 group-title="China中国",DeepBlue
-https://live.iill.top/youtube/@DeepBlue112
-#EXTINF:-1 group-title="China中国",ChillVibesClub
-https://live.iill.top/youtube/@Chillclub286
+#EXTINF:-1 group-title="China中国",Bloomberg-4K
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 group-title="China中国",Fashion-4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="China中国",LoveNature-4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="China中国",RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="China中国",TheGoodLifeRadio
 https://live.iill.top/youtube/@TheGoodLiferadio
 #EXTINF:-1 group-title="China中国",ChineseDJ
@@ -107,72 +105,8 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="China中国",Taiwan-Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Bloomberg-4K彭博社
-https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Fashion-4K时尚与生活品味频道
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Clarity-4K视觉
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",LoveNature-4K野生动物
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="Live直播",Loupe-4K艺术播放
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",NASA-4K美国国家航空航天局
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",NASA1美国国家航空航天局
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="Live直播",NASA2美国国家航空航天局
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="Live直播",RedBull红牛
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="Live直播",OutsideTV户外媒体
-https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="Live直播",Trace-Sports運動明星頻道
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Live直播",SportsGrid直播FAST频道
-https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Insight-TV冒险运动和生活视频
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",MyTVchain体育网络
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 group-title="Live直播",MAVTV赛车
-https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Real-Madrid-CF皇家马德里
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Live直播",FIFA足球
-https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",THT音乐
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",QmusicNL音乐
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
-#EXTINF:-1 group-title="Live直播",Sunset音乐
-https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-#EXTINF:-1 group-title="Live直播",Power音乐
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="Live直播",The-Country-Network音乐
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Wild-Earth野生动物
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="Live直播",AXS-TV-Now娱乐台
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Trace-Sports爱尔达体育
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Live直播",Fight-Network格斗
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",AXS综合格斗
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Live直播",TNA美式摔角
-https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Live直播",Law-&-Crime法律与秩序
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/law_720p/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",FunRoads房车网
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/funroads_720p/playlist.m3u8
-#EXTINF:-1 group-title="Live直播",Hunt-Channel户外节目
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/huntchannel_720p/playlist.m3u8
 #EXTINF:-1 group-title="Singapore新加坡",CNA亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="Malaysia马来西亚",RTM马来西亚广播电视台
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Thailand泰国",PBS3泰国公共电视台
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="Japan日本",NHK-World日本国际传媒
