@@ -28,8 +28,6 @@ AI：https://www.igdux.com/ai3
 
 Zyplayer：https://github.com/Hiram-Wong/ZyPlayer/releases
 
-Tvbox：https://github.com/o0HalfLife0o/TVBoxOSC
-
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
