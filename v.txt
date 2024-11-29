@@ -6,4 +6,4 @@ https://github.haoss.eu.org/https://raw.githubusercontent.com/vlessgithub/vlessg
 
 bash -c "$(curl -sL https://yang-1989.eu.org/pixman.sh)"
 
-
+https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
