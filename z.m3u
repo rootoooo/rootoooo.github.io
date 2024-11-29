@@ -1,169 +1,161 @@
 #EXTM3U
-#EXTINF:-1 group-title="China中国",CCTV-13
+#EXTINF:-1 group-title="Live",CCTV-13
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
-#EXTINF:-1 group-title="China中国",CCTV-1
+#EXTINF:-1 group-title="Live",CCTV-1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
-#EXTINF:-1 group-title="China中国",CCTV-2
+#EXTINF:-1 group-title="Live",CCTV-2
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8
-#EXTINF:-1 group-title="China中国",CCTV-4
+#EXTINF:-1 group-title="Live",CCTV-4
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
-#EXTINF:-1 group-title="China中国",CCTV-5
+#EXTINF:-1 group-title="Live",CCTV-5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
-#EXTINF:-1 group-title="China中国",CCTV-5+
+#EXTINF:-1 group-title="Live",CCTV-5+
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
-#EXTINF:-1 group-title="China中国",CCTV-16
+#EXTINF:-1 group-title="Live",CCTV-16
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
-#EXTINF:-1 group-title="China中国",广西卫视
+#EXTINF:-1 group-title="Live",广西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/1.m3u8
-#EXTINF:-1 group-title="China中国",东方卫视
+#EXTINF:-1 group-title="Live",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000005866/1.m3u8
-#EXTINF:-1 group-title="China中国",江苏卫视
+#EXTINF:-1 group-title="Live",江苏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
-#EXTINF:-1 group-title="China中国",浙江卫视
+#EXTINF:-1 group-title="Live",浙江卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
-#EXTINF:-1 group-title="China中国",湖南卫视
+#EXTINF:-1 group-title="Live",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
-#EXTINF:-1 group-title="China中国",CCTV-14
+#EXTINF:-1 group-title="Live",CCTV-14
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
-#EXTINF:-1 group-title="China中国",金鹰卡通
+#EXTINF:-1 group-title="Live",金鹰卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
-#EXTINF:-1 group-title="China中国",优漫卡通
+#EXTINF:-1 group-title="Live",优漫卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
-#EXTINF:-1 group-title="China中国",哈哈炫动
+#EXTINF:-1 group-title="Live",哈哈炫动
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
-#EXTINF:-1 group-title="China中国",黑莓动画
+#EXTINF:-1 group-title="Live",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
-#EXTINF:-1 group-title="China中国",第一财经
+#EXTINF:-1 group-title="Live",第一财经
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="China中国",纯享-4K
+#EXTINF:-1 group-title="Live",纯享-4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 group-title="China中国",华数-4K
+#EXTINF:-1 group-title="Live",华数-4K
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-#EXTINF:-1 group-title="China中国",Bloomberg-4K
+#EXTINF:-1 group-title="Live",Bloomberg-4K
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 group-title="China中国",Fashion-4K
+#EXTINF:-1 group-title="Live",Fashion-4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="China中国",LoveNature-4K
+#EXTINF:-1 group-title="Live",LoveNature-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="China中国",RedBull
+#EXTINF:-1 group-title="Live",RedBull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="China中国",TheGoodLifeRadio
+#EXTINF:-1 group-title="Live",TheGoodLifeRadio
 https://live.iill.top/youtube/@TheGoodLiferadio
-#EXTINF:-1 group-title="China中国",ChineseDJ
+#EXTINF:-1 group-title="Live",ChineseDJ
 https://live.iill.top/youtube/@fm190-ld7qz?si=JuL7kqr9030Cs0dL
-#EXTINF:-1 group-title="China中国",MoonBabyDJ
+#EXTINF:-1 group-title="Live",MoonBabyDJ
 https://live.iill.top/youtube/@moonbabydj
-#EXTINF:-1 group-title="China中国",BreakBeatDJ
+#EXTINF:-1 group-title="Live",BreakBeatDJ
 https://live.iill.top/youtube//@breakbeatdj
-#EXTINF:-1 group-title="China中国",天才冲冲冲
+#EXTINF:-1 group-title="Live",天才冲冲冲
 https://live.iill.top/youtube/UsZi0jxZHZ8
-#EXTINF:-1 group-title="China中国",综艺大热门
+#EXTINF:-1 group-title="Live",综艺大热门
 https://live.iill.top/youtube/@hotdoornight?si=qDTKsosNMnzIlZTc
-#EXTINF:-1 group-title="China中国",综艺玩很大
+#EXTINF:-1 group-title="Live",综艺玩很大
 https://live.iill.top/youtube/@mr.player?si=Is0_nDyz8E3X7bSJ
-#EXTINF:-1 group-title="China中国",凤凰资讯
+#EXTINF:-1 group-title="Live",凤凰资讯
 https://live.iill.top/youtube/@phoenixtvh
-#EXTINF:-1 group-title="China中国",三立Live
+#EXTINF:-1 group-title="Live",三立Live
 https://live.iill.top/youtube/@setnews
-#EXTINF:-1 group-title="China中国",东森Live
+#EXTINF:-1 group-title="Live",东森Live
 https://live.iill.top/youtube/@newsebc
-#EXTINF:-1 group-title="China中国",东森新闻
+#EXTINF:-1 group-title="Live",东森新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv152
-#EXTINF:-1 group-title="China中国",中天新闻
+#EXTINF:-1 group-title="Live",中天新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv009
-#EXTINF:-1 group-title="China中国",TVBS
+#EXTINF:-1 group-title="Live",TVBS
 http://litv.zapi.us.kg/?id=4gtv-4gtv073
-#EXTINF:-1 group-title="China中国",TVBSnews
+#EXTINF:-1 group-title="Live",TVBSnews
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="China中国",凤凰卫视中文台
+#EXTINF:-1 group-title="Live",凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="China中国",凤凰卫视资讯台
+#EXTINF:-1 group-title="Live",凤凰卫视资讯台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="China中国",香港台
+#EXTINF:-1 group-title="Live",香港台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="China中国",无线新闻台
+#EXTINF:-1 group-title="Live",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="China中国",翡翠台
+#EXTINF:-1 group-title="Live",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="China中国",星河台
+#EXTINF:-1 group-title="Live",星河台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="China中国",TVB-Plus
+#EXTINF:-1 group-title="Live",TVB-Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="China中国",TVBJade
+#EXTINF:-1 group-title="Live",TVBJade
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:-1 group-title="China中国",香港卫视
+#EXTINF:-1 group-title="Live",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="China中国",环球电视台
+#EXTINF:-1 group-title="Live",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="China中国",耀才財經
+#EXTINF:-1 group-title="Live",耀才財經
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="China中国",美亚C+
+#EXTINF:-1 group-title="Live",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="China中国",Discovery-Asia探索頻道
+#EXTINF:-1 group-title="Live",Discovery-Asia探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="China中国",Animal-Planet动物星球频道
+#EXTINF:-1 group-title="Live",Animal-Planet动物星球频道
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="China中国",Taiwan-Plus
+#EXTINF:-1 group-title="Live",Taiwan台湾
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="Singapore新加坡",CNA亚洲新闻台
+#EXTINF:-1 group-title="SinGapore",CNA亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="Thailand泰国",PBS3泰国公共电视台
+#EXTINF:-1 group-title="Thailand",PBS3泰国公共电视台
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="Japan日本",NHK-World日本国际传媒
+#EXTINF:-1 group-title="Japan",NHK-World日本国际传媒
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="Japan日本",JAPAN-News24日本新闻台
+#EXTINF:-1 group-title="Japan",JAPAN-News24日本新闻台
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="Japan日本",Yahoo-Finance雅虎财经
+#EXTINF:-1 group-title="Japan",Yahoo-Finance雅虎财经
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="SouthKorea韩国",KBS-World韩国国际传媒
+#EXTINF:-1 group-title="SouthKorea",KBS-World韩国国际传媒
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="Australia澳大利亚",ABC美国广播公司
+#EXTINF:-1 group-title="Australia",ABC美国广播公司
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-#EXTINF:-1 group-title="Russia俄罗斯",RT今日俄罗斯
+#EXTINF:-1 group-title="Russia",RT今日俄罗斯
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="Russia俄罗斯",IGI第一频道
+#EXTINF:-1 group-title="Russia",IGI第一频道
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Russia俄罗斯",BRICS金砖国家
+#EXTINF:-1 group-title="Russia",BRICS金砖国家
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India印度",WION世界一体新闻台
+#EXTINF:-1 group-title="India",WION世界一体新闻台
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="Türkiye土耳其",TRT土耳其广播
+#EXTINF:-1 group-title="Türkiye",TRT土耳其广播
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Qatar卡塔尔",Al-Jazeera半岛电视台
+#EXTINF:-1 group-title="Qatar",Al-Jazeera半岛电视台
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="Europe欧洲",Euronews欧洲新闻台
+#EXTINF:-1 group-title="Europe",Euronews欧洲新闻台
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Europe欧洲",Euronews-English欧洲新闻台
+#EXTINF:-1 group-title="Europe",Euronews-English欧洲新闻台
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 group-title="Germany德国",DW德国之声
+#EXTINF:-1 group-title="Germany",DW德国之声
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="France法国",France24国际新闻频道
+#EXTINF:-1 group-title="France",France24国际新闻频道
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 group-title="France法国",News24法兰西24
+#EXTINF:-1 group-title="France",News24法兰西24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:-1 group-title="England英国",BBC英国广播公司
+#EXTINF:-1 group-title="England",BBC英国广播公司
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="England英国",BBCnews英国广播公司
+#EXTINF:-1 group-title="England",BBCnews英国广播公司
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="England英国",GBnews英国版福斯新闻
+#EXTINF:-1 group-title="England",GBnews英国版福斯新闻
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",CNN美国有线新闻网
+#EXTINF:-1 group-title="UnitedStates",CNN美国有线新闻网
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",GlobalNews环球新闻
+#EXTINF:-1 group-title="UnitedStates",GlobalNews环球新闻
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",FOX福克斯新闻频道
+#EXTINF:-1 group-title="UnitedStates",FOX福克斯新闻频道
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",CBS哥伦比亚广播公司
+#EXTINF:-1 group-title="UnitedStates",CBS哥伦比亚广播公司
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",NBS环球新闻集团
+#EXTINF:-1 group-title="UnitedStates",NBS环球新闻集团
 https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",NewsmaxTV美国保守派新闻媒体
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",Vice媒体
-https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",InfoWars信息战网站
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/infowars_720p/playlist.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",OANN美国第一新闻网
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-#EXTINF:-1 group-title="UnitedStates美国",TBN美国基督教
-https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
+
+
