@@ -8,4 +8,4 @@ https://github.haoss.eu.org/https://raw.githubusercontent.com/vlessgithub/vlessg
 
 wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/am-serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
 
-https://panel13.serv00.com/
+https://panel13.serv00.com-31.186.87.211-.serv00.net
