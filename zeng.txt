@@ -78,7 +78,7 @@ Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows
 
 qq查询：https://www.showdev.me/qqbirthday
 
-
+passwd
 
 重启：reboot
 
