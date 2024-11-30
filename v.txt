@@ -2,20 +2,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSIiwNCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1
 
 订阅转换：https://psub.888005.xyz/
 
-Quantumult X个人版：https://haoss.eu.org/qx.conf
+qx.conf
 
 https://github.haoss.eu.org/https://raw.githubusercontent.com/vlessgithub/vlessgithub.github.io/main/README.md
 
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_serv00.sh)
-
 https://panel13.serv00.com-31.186.87.211
-
-vmess://eyAidiI6ICIyIiwgInBzIjogIi1zMTMtdm1lc3MiLCAiYWRkIjogIiIsICJwb3J0IjogIjQ5NDkxIiwgImlkIjogImJjOTdmNjc0LWM1NzgtNDk0MC05MjM0LTBhMWRhNDYwNDFiOSIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzP2VkPTIwNDgiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9Cg==
-
-vmess://eyAidiI6ICIyIiwgInBzIjogIi1zMTMtdm1lc3MtYXJnbyIsICJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImJjOTdmNjc0LWM1NzgtNDk0MC05MjM0LTBhMWRhNDYwNDFiOSIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAic2xpZGVzaG93LXRpZXItYmVhbnMtbXVzbGltLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL3ZtZXNzP2VkPTIwNDgiLCAidGxzIjogInRscyIsICJzbmkiOiAic2xpZGVzaG93LXRpZXItYmVhbnMtbXVzbGltLnRyeWNsb3VkZmxhcmUuY29tIiwgImFscG4iOiAiIiwgImZwIjogIiJ9Cg==
-
-hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@:49492/?sni=www.bing.com&alpn=h3&insecure=1#-s13-hysteria2
-
-tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@:49493?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#-s13-tuic
 
 
