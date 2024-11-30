@@ -6,4 +6,6 @@ Quantumult X个人版：https://haoss.eu.org/qx.conf
 
 https://github.haoss.eu.org/https://raw.githubusercontent.com/vlessgithub/vlessgithub.github.io/main/README.md
 
+wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/am-serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
 
+https://panel13.serv00.com/
