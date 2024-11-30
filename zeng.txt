@@ -80,33 +80,39 @@ qq查询：https://www.showdev.me/qqbirthday
 
 
 
-更新环境
-
-apt update -y && apt install -y curl socat wget sudo
+重启：reboot
 
 
 
-科技lion：
-
-bash <(curl -sL kejilion.sh)
+更新环境：apt update -y && apt install -y curl socat wget sudo
 
 
 
-Hysteria2：
-
-bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
+科技lion：bash <(curl -sL kejilion.sh)
 
 
 
-v2ray+CloudFlare：
-
-bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
+Hysteria2：bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
 
 
 
-IPTV：
+v2ray：bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
-bash -c "$(curl -sL https://yang-1989.eu.org/pixman.sh)"
+
+
+IPTV：bash -c "$(curl -sL https://yang-1989.eu.org/pixman.sh)"
+
+
+
+BBR：
+
+apt update -y && apt install -y wget sudo
+
+wget --no-check-certificate -O tcpx.sh https://raw.githubusercontent.com/ylx2016/Linux-NetSpeed/master/tcpx.sh
+
+chmod +x tcpx.sh
+
+./tcpx.sh
 
 
 
