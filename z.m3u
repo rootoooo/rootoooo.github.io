@@ -23,16 +23,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 #EXTINF:-1 group-title="Live",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
-#EXTINF:-1 group-title="Live",CCTV-14
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
-#EXTINF:-1 group-title="Live",金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
-#EXTINF:-1 group-title="Live",优漫卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
-#EXTINF:-1 group-title="Live",哈哈炫动
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
-#EXTINF:-1 group-title="Live",黑莓动画
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 #EXTINF:-1 group-title="Live",纯享-4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="Live",华数-4K
@@ -43,8 +33,14 @@ https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Live",LoveNature-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="Japan",Yahoo
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Live",RedBull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Live",DiscoveryAsia
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="Live",AnimalPlanet
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="Live",TheGoodLifeRadio
 https://live.iill.top/youtube/@TheGoodLiferadio
 #EXTINF:-1 group-title="Live",ChineseDJ
@@ -59,8 +55,6 @@ https://live.iill.top/youtube/UsZi0jxZHZ8
 https://live.iill.top/youtube/@hotdoornight?si=qDTKsosNMnzIlZTc
 #EXTINF:-1 group-title="Live",综艺玩很大
 https://live.iill.top/youtube/@mr.player?si=Is0_nDyz8E3X7bSJ
-#EXTINF:-1 group-title="Live",凤凰资讯
-https://live.iill.top/youtube/@phoenixtvh
 #EXTINF:-1 group-title="Live",三立Live
 https://live.iill.top/youtube/@setnews
 #EXTINF:-1 group-title="Live",东森Live
@@ -73,6 +67,10 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv009
 http://litv.zapi.us.kg/?id=4gtv-4gtv073
 #EXTINF:-1 group-title="Live",TVBSnews
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="Live",HK中文
+http://dns.yiandrive.com:16813/phenix/fhzw
+#EXTINF:-1 group-title="Live",HK资讯
+http://dns.yiandrive.com:16813/phenix/fhzx
 #EXTINF:-1 group-title="Live",凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="Live",凤凰卫视资讯台
@@ -97,61 +95,39 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="Live",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="Live",Discovery-Asia探索頻道
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="Live",Animal-Planet动物星球频道
-http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="Live",Taiwan台湾
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="Singapore",CNA亚洲新闻台
+#EXTINF:-1 group-title="Singapore",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="Japan",NHK-World日本国际传媒
+#EXTINF:-1 group-title="Japan",NHKworld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="Japan",JAPAN-News24日本新闻台
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="Japan",Yahoo-Finance雅虎财经
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="SouthKorea",KBS-World韩国国际传媒
+#EXTINF:-1 group-title="SouthKorea",KBSworld
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="Australia",ABC美国广播公司
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-#EXTINF:-1 group-title="Russia",RT今日俄罗斯
+#EXTINF:-1 group-title="Russia",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="Russia",IGI第一频道
+#EXTINF:-1 group-title="Russia",IGI
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Russia",BRICS金砖国家
+#EXTINF:-1 group-title="Russia",BRICS
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India",WION世界一体新闻台
+#EXTINF:-1 group-title="India",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="Türkiye",TRT土耳其广播
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Qatar",Al-Jazeera半岛电视台
+#EXTINF:-1 group-title="Qatar",Aljazeera
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="Europe",Euronews欧洲新闻台
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Europe",Euronews-English欧洲新闻台
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 group-title="Germany",DW德国之声
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="France",France24国际新闻频道
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 group-title="France",News24法兰西24
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:-1 group-title="England",BBC英国广播公司
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="England",BBCnews英国广播公司
+#EXTINF:-1 group-title="England",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="England",GBnews英国版福斯新闻
+#EXTINF:-1 group-title="England",GBnews
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 group-title="UnitedStates",CNN美国有线新闻网
+#EXTINF:-1 group-title="UnitedStates",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="UnitedStates",GlobalNews环球新闻
+#EXTINF:-1 group-title="UnitedStates",GlobalNews
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 group-title="UnitedStates",FOX福克斯新闻频道
+#EXTINF:-1 group-title="UnitedStates",FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="UnitedStates",CBS哥伦比亚广播公司
+#EXTINF:-1 group-title="UnitedStates",CBS
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="UnitedStates",NBS环球新闻集团
+#EXTINF:-1 group-title="UnitedStates",NBS
 https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
 
 
