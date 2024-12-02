@@ -32,6 +32,8 @@ Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
 
+Zip：https://github.com/WirelessAlien/ZipXtract/releases
+
 json：https://91md.me/api.php/provide/vod/
 
 json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
