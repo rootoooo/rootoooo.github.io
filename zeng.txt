@@ -1,4 +1,4 @@
-订阅转换：https://psub.888005.xyz/
+订阅转换：https://psub.888005.xyz
 
 Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
@@ -10,19 +10,19 @@ MAC-v2rayU：https://github.com/yanue/V2rayU/releases
 
 Android-v2rayN：https://github.com/2dust/v2rayNG/releases
 
-Fancyss：https://hq450.github.io/fancyss/
+Fancyss：https://hq450.github.io/fancyss
 
-软件报毒检测：https://www.virscan.org/
+软件报毒检测：https://www.virscan.org
 
 Frpc-Windows客户端：https://github.com/codemonkey-m/FrpClient-Win
 
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
-IP纯净：https://scamalytics.com/
+IP纯净：https://scamalytics.com
 
-磁力柠檬：https://lemonue.top/
+磁力柠檬：https://lemonue.top
 
-M3u8：http://tonkiang.us/
+M3u8：http://tonkiang.us
 
 AI：https://www.igdux.com/ai3
 
@@ -40,9 +40,9 @@ json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
 
 SMS虚拟号：https://sms-activate.org/getNumber
 
-美国地址生成器：https://www.meiguodizhi.com/
+美国地址生成器：https://www.meiguodizhi.com
 
-免费域名：https://nic.eu.org/
+免费域名：https://nic.eu.org
 
 LocalSend本地发送：https://github.com/localsend/localsend
 
@@ -59,6 +59,8 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 https://github.com/icy37785/syncnextPlugin
 
 m3u转换：https://guihet.com/convert-m3u-js.html
+
+IPTV研究生：https://www.mytvsuper.xyz
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
