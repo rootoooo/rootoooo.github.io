@@ -58,6 +58,10 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
+https://github.com/fangkuia/XPTV
+
+https://raw.githubusercontent.com/fangkuia/XPTV/main/allinone.json
+
 m3u转换：https://guihet.com/convert-m3u-js.html
 
 IPTV研究生：https://www.mytvsuper.xyz
