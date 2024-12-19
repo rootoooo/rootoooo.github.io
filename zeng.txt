@@ -64,13 +64,11 @@ https://raw.githubusercontent.com/fangkuia/XPTV/main/allinone.json
 
 m3u转换：https://guihet.com/convert-m3u-js.html
 
-IPTV研究生：https://www.mytvsuper.xyz
-
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 https://app.aptv.app/https://tv.iill.top/m3u/Gather
 
-https://add.aptv.app/https://bit.ly/iptv-aptv
+https://add.aptv.app/https://tv.iill.top/m3u/Sport
 
 http://allinone.netsite.cc/douyu/9588891
 TheGoodLifeRadio,https://live.iill.top/youtube/@TheGoodLiferadio
