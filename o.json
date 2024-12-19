@@ -1,20 +1,20 @@
 {
-  "name": "新歐樂影院",
-  "description": "海外 IP 無廣告",
-  "notification": "需要使用非中國 IP 訪問",
+  "name": "欧乐影院",
+  "description": "海外",
+  "notification": "海外",
   "host": "https://www.olevod.tv/",
   "files": ["crypto-js.min.js", "main.js"],
   "pages": [
     {
       "key": "index",
-      "title": "首頁",
+      "title": "首页",
       "url": "https://api.olelive.com/v1/pub/vod/newest/${pageNumber}/12",
       "timeout": 20,
       "javascript": "buildMedias"
     },
     {
       "key": "movie",
-      "title": "電影",
+      "title": "电影",
       "url": "https://api.olelive.com/v1/pub/vod/list/true/3/0/0/1/0/0/update/${pageNumber}/48",
       "timeout": 20,
       "javascript": "buildMedias"
