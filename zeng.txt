@@ -12,9 +12,9 @@ Android-v2rayN：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
-软件报毒检测：https://www.virscan.org
+软件检测：https://www.virscan.org/
 
-Frpc-Windows客户端：https://github.com/codemonkey-m/FrpClient-Win
+Frpc-Windows：https://github.com/codemonkey-m/FrpClient-Win
 
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
@@ -34,10 +34,6 @@ Gps：https://github.com/ZCShou/GoGoGo/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
-json：https://91md.me/api.php/provide/vod/
-
-json：https://www.caoliuzyw.com/api.php/provide/vod/?ac=list
-
 SMS虚拟号：https://sms-activate.org/getNumber
 
 美国地址生成器：https://www.meiguodizhi.com
@@ -52,11 +48,15 @@ UUID生成：https://1024tools.com/uuid
 
 洋葱浏览器：https://www.torproject.org
 
+https://zhao-visualized.netlify.app
+
 AdGuard拦截广告规则：https://fastly.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
 
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
+
+https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
 https://github.com/fangkuia/XPTV
 
