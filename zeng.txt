@@ -68,8 +68,6 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 https://tv.iill.top/m3u/Gather
 
-https://tv.iill.top/m3u/Sport
-
 http://allinone.netsite.cc/douyu/9588891
 TheGoodLifeRadio,https://live.iill.top/youtube/@TheGoodLiferadio
 ChineseDJ,https://live.iill.top/youtube/@fm190-ld7qz?si=JuL7kqr9030Cs0dL
@@ -92,8 +90,6 @@ Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows
 
 常用材料：https://wenku.baidu.com/view/f693e241cf7931b765ce0508763231126fdb776a?aggId=f693e241cf7931b765ce0508763231126fdb776a&fr=catalogMain_&_wkts_=1728970700000
 
-qq查询：https://www.showdev.me/qqbirthday
-
 
 
 更新环境：apt update -y && apt install -y curl socat wget sudo
@@ -101,10 +97,6 @@ qq查询：https://www.showdev.me/qqbirthday
 
 
 科技lion：bash <(curl -sL kejilion.sh)
-
-
-
-Hysteria2：bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
 
 
 
