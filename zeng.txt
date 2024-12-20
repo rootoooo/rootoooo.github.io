@@ -58,10 +58,6 @@ https://github.com/icy37785/syncnextPlugin
 
 https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-https://github.com/fangkuia/XPTV
-
-https://raw.githubusercontent.com/fangkuia/XPTV/main/allinone.json
-
 m3u转换：https://guihet.com/convert-m3u-js.html
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
