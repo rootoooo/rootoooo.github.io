@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="皮皮虾",CCTV13
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",CCTV1
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",CCTV5
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",CCTV5+
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",CCTV16
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",广西卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",东方卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000005866/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",浙江卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",江苏卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",湖南卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",凤凰卫视中文台
+https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+#EXTINF:-1 group-title="皮皮虾",凤凰卫视资讯台
+https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+#EXTINF:-1 group-title="皮皮虾",TVBS
+http://litv.zapi.us.kg/?id=4gtv-4gtv073
+#EXTINF:-1 group-title="皮皮虾",中天新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv009
+#EXTINF:-1 group-title="皮皮虾",东森新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv152
