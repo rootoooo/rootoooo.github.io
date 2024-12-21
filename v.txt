@@ -2,10 +2,10 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJGUiIsCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwK
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJQTCIsCiAgImFkZCI6ICIzMS4xODYuODcuMjExIiwKICAicG9ydCI6IDQ5NDkzLAogICJpZCI6ICJjZjVlZjgwNC0xMWE3LTRiZTctOTQwYS02N2VhY2UzYWJhNmMiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9
 
-订阅转换：https://psub.888005.xyz/qx.conf
+https://psub.888005.xyz/qx.conf
 
-https://panel13.serv00.com-31.186.87.211
+https://panel13.serv00.com/31.186.87.211
 
 wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/am-serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
 
-
+https://bt4gprx.com/
