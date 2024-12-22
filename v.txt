@@ -1,37 +1,15 @@
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJGUiIsCiAgImFkZCI6ICI4OC4yMTguNzkuMTY1IiwKICAicG9ydCI6IDQ5NDk0LAogICJpZCI6ICIwOTM3YzBkMy1jMjRiLTRjMTUtZjQ2YS1hMjFmZGQyM2U3YzQiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMIiwNCiAgImFkZCI6ICIzMS4xODYuODcuMjExIiwNCiAgInBvcnQiOiAiNDk0OTQiLA0KICAiaWQiOiAiOWI0MjAwNDQtM2ViMC00YzY4LWE5MWUtZjRiNjA5MWJlYzYxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvOWI0MjAwNDQtM2ViMC00YzY4LWE5MWUtZjRiNjA5MWJlYzYxLXZtP2VkPTIwNDgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
+hysteria2://9b420044-3eb0-4c68-a91e-f4b6091bec61@31.186.87.211:49494?sni=www.bing.com&alpn=h3&insecure=1#PL
 
 https://psub.888005.xyz/qx.conf
 
-https://panel13.serv00.com/31.186.87.211/128.204.223.42/49490/49494/49499
+https://panel13.serv00.com/31.186.87.211
 
 wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/am-serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
 
-serv00哪吒：https://gaojilingjuli.blogspot.com/2024/09/serv00agent.html
-
-安装PM2：
-
-bash <(curl -s https://raw.githubusercontent.com/k0baya/alist_repl/main/serv00/install-pm2.sh)
-
-修改 .profile 文件：
-
-echo ‘export PATH=~/local/soft/go/bin:$PATH’ >> ~/.profile
-
-使 .profile 的修改生效：
-
-source ~/.profile
-
-检查 go 版本：
-
-go version
-
-安装nezha面板并添加监控：
-
-bash <(curl -s https://raw.githubusercontent.com/k0baya/nezha4serv00/main/install-dashboard.sh)
-
-密钥：
-
-bash <(curl -s https://raw.githubusercontent.com/k0baya/nezha4serv00/main/install-agent.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/serv00_proxyip.sh)
 
 https://bt4gprx.com/
