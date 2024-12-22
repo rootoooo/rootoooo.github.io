@@ -13,3 +13,7 @@ wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amcl
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/serv00_proxyip.sh)
 
 https://bt4gprx.com/
+
+https://github.com/ngo5/IPTV?tab=readme-ov-file
+
+
