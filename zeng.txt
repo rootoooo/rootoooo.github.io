@@ -82,9 +82,7 @@ v2ray：bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
-Hysteria2：wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh && bash hysteria.sh
-
-wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
+Hysteria2：wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
 
 
 
