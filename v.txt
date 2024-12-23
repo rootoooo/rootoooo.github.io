@@ -14,4 +14,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_tro
 
 直播源：https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
-
+PotPlayer→127.0.0.1/dav→5244
