@@ -123,3 +123,71 @@ chmod 700 ./install-frps.sh
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 
+
+Cloudreve：bash <(curl -fsSL cloudreve-woad.vercel.app)
+
+
+
+哪吒面板：
+
+curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
+
+sudo ./nezha.sh
+
+OAuth应用程序→新建vps→Homepage URL：http://XXX:8008→http://http://XXX:8008/oauth2/callback
+
+ClentID：XXX→Client：XXX→XXX→未接入CDN的面板服务器域名/IP→http://XXX:8008
+
+
+
+Alist：
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
+
+更新
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update
+
+卸载
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s uninstall
+
+
+
+Nginx proxy manager：
+
+1、创建存放数据的文件夹并进入
+
+mkdir -p /root/data/docker_data/npm && cd /root/data/docker_data/npm
+
+2、创建配置文件
+
+vim docker-compose.yml
+
+英文输入法下，按 i 后填入配置
+
+services:
+  app:
+    image: 'docker.io/jc21/nginx-proxy-manager:latest'
+    restart: unless-stopped
+    ports:
+      - '80:80'
+      - '81:81'
+      - '443:443'
+    volumes:
+      - ./data:/data
+      - ./letsencrypt:/etc/letsencrypt
+
+按一下 esc，然后输入 :wq 按回车保存退出
+
+3、最后启动容器
+
+docker compose up -d 
+
+启动后就可以输入 http://[ip]:81 访问管理后台了
+
+默认登陆名和密码：
+Email: admin@example.com
+Password: changeme
+
+
