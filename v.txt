@@ -12,10 +12,11 @@ wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amcl
 
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/serv00_proxyip.sh)
 
-https://bt4gprx.com/
+直播源：https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
-https://shehh.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
+Alist插件：https://github.com/TheSmallHanCat/Better_Alist
 
-https://www.yeahhe.online
+Alist：https://www.yeahhe.online
 
-https://github.com/TheSmallHanCat/Better_Alist
+Alist：https://al.chirmyram.com
+
