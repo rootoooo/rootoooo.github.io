@@ -15,3 +15,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_tro
 直播源：https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
 Alist插件：https://github.com/TheSmallHanCat/Better_Alist
+
+ddns-go：https://github.com/jeessy2/ddns-go/releases
