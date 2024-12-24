@@ -15,3 +15,21 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_tro
 直播源：https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
 
+
+注：在文件所在的路径打开终端窗口（右键 --> 服务）
+
+授予程序执行权限
+chmod +x alist
+
+注：在文件所在的路径打开终端窗口（右键 --> 服务）
+
+运行程序，完成后终端窗口不可关闭
+./alist server
+
+获得管理员信息
+./alist admin
+
+设置随机密码
+./alist admin random
+
+
