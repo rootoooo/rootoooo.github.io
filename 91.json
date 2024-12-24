@@ -5,9 +5,9 @@
 
 "sites":[
 
-{"key":"91麻豆","name":"91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"91麻豆","name":"MD","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
-],
+]，
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
@@ -56,7 +56,7 @@
 {"name": "测试[②]","type": 1,"url": "http://1.117.111.78:93/home/api?type=ys&uid=24751&key=demntvwzBCKLOPRSY3&url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name": "极速[②]","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-},
+}，
 
 {"name": "智能[①]","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
