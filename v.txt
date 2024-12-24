@@ -32,4 +32,7 @@ chmod +x alist
 设置随机密码
 ./alist admin random
 
+MAC查看硬盘路径
+df -h
+
 
