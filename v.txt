@@ -35,4 +35,12 @@ chmod +x alist
 MAC查看硬盘路径
 df -h
 
+查看alist路径
+mdfind "kMDItemFSName = alist"
+
+/Applications/alist
+
+新建文件夹：alist server→拖入终端输入
+touch aliststart.command
+
 
