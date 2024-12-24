@@ -35,10 +35,4 @@ chmod +x alist
 MAC查看硬盘路径
 df -h
 
-编辑 crontab 文件：
-crontab -e
-
-添加以下内容：
-@reboot /path/to/alist server > /tmp/alist.log 2>&1 &
-
 
