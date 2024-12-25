@@ -14,6 +14,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_tro
 
 直播源：https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
-/Applications/alist server
-
 
