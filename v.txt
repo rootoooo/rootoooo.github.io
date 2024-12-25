@@ -46,10 +46,22 @@ mdfind "kMDItemFSName=alist"
 
 创建启动程序：
 
-touch aliststart.command
+touch ~/aliststart.command
 
 #!/bin/bash
-cd /Applications/alist server/alist
+cd /Applications/alist
 .alist server
+
+#!/bin/bash
+# 启用脚本严格模式
+set -e
+# 切换到 Alist 程序所在目录
+cd /Applications/alist || exit
+# 启动 Alist 服务
+./alist server
+
+设置可执行权限：
+
+chmod +x ~/aliststart.command
 
 
