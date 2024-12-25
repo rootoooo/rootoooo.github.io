@@ -1,6 +1,6 @@
 !Title: DNS-自定义过滤器
 !Version: 皮皮虾
-@@||example.top^
+@@||tv.iill.top^
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.taboola.com^
