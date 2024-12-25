@@ -16,23 +16,23 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_tro
 
 Alist-MAC：
 
-授予程序执行权限：
+alist拖入终端，授予程序执行权限：
 
-chmod +x 
+chmod +x alist
 
-运行程序：
+alist拖入终端，运行程序：
 
 ./alist server
 
-获得管理员信息：
+alist拖入终端，获得管理员信息：
 
 ./alist admin
 
-# 随机生成一个密码：
+新建终端，随机生成一个密码：
 
 ./alist admin random
 
-手动设置一个密码 `NEW_PASSWORD`是指你需要设置的密码：
+新建终端，手动设置一个密码 `NEW_PASSWORD`是指你需要设置的密码：
 
 ./alist admin set NEW_PASSWORD
 
