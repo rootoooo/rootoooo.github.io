@@ -44,4 +44,12 @@ df -h
 
 mdfind "kMDItemFSName=alist"
 
+创建启动程序：
+
+touch aliststart.command
+
+#!/bin/bash
+cd /Applications/alist/alist
+.alist server
+
 
