@@ -34,6 +34,10 @@ Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
+Android-Alist：https://github.com/jing332/AListFlutter/releases
+
+Android-Frp：https://github.com/jing332/FrpAndroid/releases
+
 SMS虚拟号：https://sms-activate.org/getNumber
 
 美国地址生成器：https://www.meiguodizhi.com
