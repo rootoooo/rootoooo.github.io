@@ -36,4 +36,12 @@ chmod +x
 
 ./alist admin set NEW_PASSWORD
 
+查看所有硬盘路径：
+
+df -h
+
+查看alist工作路径：
+
+mdfind "kMDItemFSName=alist"
+
 
