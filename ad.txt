@@ -1,9 +1,6 @@
 !Title: DNS-自定义过滤器
 !Version: 皮皮虾
-!Homepage: https://haoss.eu.org/ad.txt
-!!!note! If you are using "AdGuard", please load https://haoss.eu.org/ad.txt
-!!!This list only applies to "AdGuard Home".
-!Total lines: 83439
+@@||example.top^
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.taboola.com^
