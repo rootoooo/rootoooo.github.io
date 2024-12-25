@@ -68,6 +68,8 @@ Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows
 
 开机启动：Win+R→shell:startup，：远程桌面Win+R→mstsc
 
+Cloudreve：https://github.com/cloudreve/Cloudreve/releases
+
 Android-Alist：https://github.com/jing332/AListFlutter/releases
 
 Android-Frp：https://github.com/jing332/FrpAndroid/releases
