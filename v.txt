@@ -20,4 +20,6 @@ Alist-MAC：alist→应用程序
 
 /Applications/alist admin random
 
+df -h
 
+/Volumes/备份
