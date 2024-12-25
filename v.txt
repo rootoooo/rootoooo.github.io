@@ -19,3 +19,20 @@ Alist：
 chmod +x alist && ./alist server 
 
 ./alist admin random
+
+删除清理Alist：
+
+# 一键清理 alist 残留文件和进程
+pkill -f alist && \
+sudo find / -name "*alist*" -exec rm -rf {} + 2>/dev/null && \
+rm -rf ~/Library/LaunchAgents/*alist* \
+       ~/Library/Logs/*alist* \
+       ~/.config/alist \
+       /usr/local/bin/alist \
+       /etc/alist \
+       /var/log/alist \
+       /usr/local/share/alist && \
+sed -i '' '/alist/d' ~/.bashrc ~/.zshrc ~/.bash_profile ~/.profile 2>/dev/null && \
+echo "alist 已清理完成。"
+
+
