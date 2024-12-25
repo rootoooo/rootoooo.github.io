@@ -14,25 +14,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_tro
 
 直播源：https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
-Alist：
+Alist-MAC：alist→应用程序
 
-chmod +x alist && ./alist server 
+/Applications/alist server
 
-./alist admin random
-
-删除清理Alist：
-
-# 一键清理 alist 残留文件和进程
-pkill -f alist && \
-sudo find / -name "*alist*" -exec rm -rf {} + 2>/dev/null && \
-rm -rf ~/Library/LaunchAgents/*alist* \
-       ~/Library/Logs/*alist* \
-       ~/.config/alist \
-       /usr/local/bin/alist \
-       /etc/alist \
-       /var/log/alist \
-       /usr/local/share/alist && \
-sed -i '' '/alist/d' ~/.bashrc ~/.zshrc ~/.bash_profile ~/.profile 2>/dev/null && \
-echo "alist 已清理完成。"
+/Applications/alist admin random
 
 
