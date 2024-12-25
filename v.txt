@@ -49,7 +49,7 @@ mdfind "kMDItemFSName=alist"
 touch aliststart.command
 
 #!/bin/bash
-cd /Applications/alist/alist
+cd /Applications/alist server/alist
 .alist server
 
 
