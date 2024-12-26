@@ -6,6 +6,8 @@ hysteria2://9b420044-3eb0-4c68-a91e-f4b6091bec61@31.186.87.211:49494?sni=www.bin
 
 https://psub.888005.xyz/qx.conf
 
+https://c.XXX.eu.org/s/jRfM
+
 https://panel13.serv00.com/31.186.87.211
 
 wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/am-serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
