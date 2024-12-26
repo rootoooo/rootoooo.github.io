@@ -14,7 +14,7 @@ Fancyss：https://hq450.github.io/fancyss
 
 软件检测：https://www.virscan.org/
 
-Frpc-Windows：https://github.com/codemonkey-m/FrpClient-Win
+Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
