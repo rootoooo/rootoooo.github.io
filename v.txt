@@ -14,6 +14,6 @@ wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amcl
 
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/serv00_proxyip.sh)
 
-直播源：https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
+直播源：https://github.haoss.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
 
