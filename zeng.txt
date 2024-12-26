@@ -2,7 +2,7 @@
 
 Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
-Shadowrocket去广告模块：https://whatshub.top/module/YouTubeAd.sgmodule
+Shadowrocket：https://whatshub.top/module/YouTubeAd.sgmodule
 
 Windows-v2rayN：https://github.com/2dust/v2rayn/releases
 
@@ -12,15 +12,21 @@ Android-v2rayN：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
-软件检测：https://www.virscan.org/
+软件检测：https://www.virscan.org
 
-IP纯净：https://scamalytics.com/
+磁力：https://lemonue.top
 
-磁力柠檬：https://lemonue.top/
+m3u转换：https://guihet.com/convert-m3u-js.html
 
-M3u8：http://tonkiang.us/
+https://tv.iill.top/m3u/Gather
+
+M3u8：http://tonkiang.us
 
 AI：https://www.igdux.com/ai3
+
+LocalSend：https://github.com/localsend/localsend
+
+FinalShell：https://www.hostbuf.com
 
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
@@ -34,23 +40,17 @@ Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
-SMS虚拟号：https://sms-activate.org/getNumber
+SMS：https://sms-activate.org/getNumber
 
-美国地址生成器：https://www.meiguodizhi.com
+USaddress：https://www.meiguodizhi.com
 
-免费域名：https://nic.eu.org
+UUID：https://1024tools.com/uuid
 
-LocalSend本地发送：https://github.com/localsend/localsend
-
-FinalShell：https://www.hostbuf.com/
-
-UUID生成：https://1024tools.com/uuid
-
-洋葱浏览器：https://www.torproject.org
+Onion：https://www.torproject.org
 
 https://zhao-visualized.netlify.app
 
-AdGuard拦截广告规则：https://fastly.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
+AdGuard：https://fastly.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
 
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
@@ -58,15 +58,9 @@ https://github.com/icy37785/syncnextPlugin
 
 https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-m3u转换：https://guihet.com/convert-m3u-js.html
-
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
-
-https://tv.iill.top/m3u/Gather
-
 Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip
 
-开机启动：Win+R→shell:startup，：远程桌面Win+R→mstsc
+开机启动：Win+R→shell:startup
 
 Android-Alist：https://github.com/jing332/AListFlutter/releases
 
