@@ -1,20 +1,8 @@
 订阅转换：https://psub.888005.xyz
 
-Quantumult X：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
-
-Shadowrocket：https://whatshub.top/module/YouTubeAd.sgmodule
-
-Windows-v2rayN：https://github.com/2dust/v2rayn/releases
-
-MAC-v2rayU：https://github.com/yanue/V2rayU/releases
-
-Android-v2rayN：https://github.com/2dust/v2rayNG/releases
-
-Fancyss：https://hq450.github.io/fancyss
-
 软件检测：https://www.virscan.org
 
-磁力：https://lemonue.top
+磁力搜索：https://lemonue.top
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
@@ -51,6 +39,18 @@ UUID：https://1024tools.com/uuid
 Onion：https://www.torproject.org
 
 https://zhao-visualized.netlify.app
+
+QuantumultX：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
+
+Shadowrocket：https://whatshub.top/module/YouTubeAd.sgmodule
+
+Windows-v2rayN：https://github.com/2dust/v2rayn/releases
+
+MAC-v2rayU：https://github.com/yanue/V2rayU/releases
+
+Android-v2rayN：https://github.com/2dust/v2rayNG/releases
+
+Fancyss：https://hq450.github.io/fancyss
 
 AdGuard：https://fastly.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
 
