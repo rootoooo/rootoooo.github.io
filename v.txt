@@ -16,6 +16,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_tro
 
 https://github.com/frankiejun/serv00-play
 
+https://raw.liucn.cc/box/m.json
+
 https://github.haoss.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
 
