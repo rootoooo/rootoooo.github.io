@@ -23,16 +23,10 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
 #EXTINF:-1 group-title="皮皮虾",湖南卫视 1080P 25FPS
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8
-#EXTINF:-1 group-title="皮皮虾",纯享4K 2160P 25FPS
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 group-title="皮皮虾",华数4K 2160P 25FPS
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 #EXTINF:-1 group-title="皮皮虾",HK中文 1080P 25FPS
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 group-title="皮皮虾",HK资讯 1080P 25FPS
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-#EXTINF:-1 group-title="皮皮虾",HK无线 1080P 25FPS
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="皮皮虾",RedBull 1080P 30FPS
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="皮皮虾",LoveNature4K 2160P 30FPS
