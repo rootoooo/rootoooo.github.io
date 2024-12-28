@@ -28,8 +28,6 @@ Gps：https://github.com/ZCShou/GoGoGo/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
-TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
-
 SMS：https://sms-activate.org/getNumber
 
 USaddress：https://www.meiguodizhi.com
