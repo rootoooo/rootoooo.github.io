@@ -22,6 +22,8 @@ Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
+ChatGPT-Mirror：https://github.com/dairoot/ChatGPT-Mirror
+
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
