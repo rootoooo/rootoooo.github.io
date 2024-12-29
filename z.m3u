@@ -43,10 +43,10 @@ http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾",EBC 1080P 30FPS
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾",PhoenixtvHK 1080P 30FPS
-https://live.iill.top/youtube/@phoenixtvhk
-#EXTINF:-1 group-title="皮皮虾",MusicDJ 1080P 30FPS
-https://live.iill.top/youtube/@@moonbabydj
+#EXTINF:-1 group-title="皮皮虾",MoonBaby 1080P 30FPS
+https://live.iill.top/youtube/@moonbabydj
+#EXTINF:-1 group-title="皮皮虾",ChineseMix 1080P 30FPS
+https://live.iill.top/youtube/@FM190-ld7qz
 #EXTINF:-1 group-title="皮皮虾",Music 1080P 30FPS
 http://allinone.netsite.cc/douyu/9588891
 
