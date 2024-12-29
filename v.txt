@@ -20,4 +20,6 @@ https://raw.liucn.cc/box/m.json
 
 https://github.haoss.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
+https://github.haoss.eu.org/https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md
+
 
