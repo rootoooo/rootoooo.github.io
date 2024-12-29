@@ -14,12 +14,12 @@ wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amcl
 
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/serv00_proxyip.sh)
 
-https://github.com/frankiejun/serv00-play
-
 https://raw.liucn.cc/box/m.json
 
-https://github.haoss.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
+TVbox：https://github.haoss.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
-https://link.fuckicoding.com/
+ChatGPT：https://link.fuckicoding.com/
+
+ChatGPT镜像：https://github.com/dairoot/ChatGPT-Mirror
 
 
