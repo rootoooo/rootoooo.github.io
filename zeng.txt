@@ -24,6 +24,8 @@ ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
 ChatGPT-Mirror：https://github.com/dairoot/ChatGPT-Mirror
 
+accessToken 获取地址：https://chatgpt.com/api/auth/session
+
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
