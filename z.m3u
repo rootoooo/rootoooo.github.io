@@ -27,6 +27,18 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾",HK-Information 1080P 25FPS
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="皮皮虾",WirelessNews 1080P 30FPS
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="皮皮虾",TVBS 1080P 30FPS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="皮皮虾",CTI 1080P 30FPS
+https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 group-title="皮皮虾",EBC 1080P 30FPS
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1 group-title="皮皮虾",UHD4K 2160P 25FPS
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 group-title="皮皮虾",Wasu4K 2160P 25FPS
+http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 #EXTINF:-1 group-title="皮皮虾",RedBull 1080P 30FPS
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="皮皮虾",LoveNature4K 2160P 30FPS
@@ -37,12 +49,10 @@ https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_d
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="皮皮虾",Bloomberg 1080P 60FPS
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 group-title="皮皮虾",TVBS 1080P 30FPS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾",CTI 1080P 30FPS
-https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾",EBC 1080P 30FPS
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1 group-title="皮皮虾",PhoenixtvHK 1080P 30FPS
+https://live.iill.top/youtube/@phoenixtvhk
+#EXTINF:-1 group-title="皮皮虾",Spotify 1080P 30FPS
+https://live.iill.top/youtube/@TheGoodLiferadio
 #EXTINF:-1 group-title="皮皮虾",MoonBaby 1080P 30FPS
 https://live.iill.top/youtube/@moonbabydj
 #EXTINF:-1 group-title="皮皮虾",ChineseMix 1080P 30FPS
