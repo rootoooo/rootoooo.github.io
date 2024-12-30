@@ -24,9 +24,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
 #EXTINF:-1 group-title="皮皮虾",湖南卫视 1080P 25FPS
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8
 #EXTINF:-1 group-title="皮皮虾",HK-Chinese 1080P 25FPS
-https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾",HK-Information 1080P 25FPS
-https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾",RedBull 1080P 30FPS
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="皮皮虾",LoveNature4K 2160P 30FPS
