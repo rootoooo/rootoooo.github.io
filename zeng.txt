@@ -38,10 +38,6 @@ USaddress：https://www.meiguodizhi.com
 
 UUID：https://1024tools.com/uuid
 
-Onion：https://www.torproject.org
-
-https://zhao-visualized.netlify.app
-
 QuantumultX：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
 Shadowrocket：https://whatshub.top/module/YouTubeAd.sgmodule
