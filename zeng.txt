@@ -104,7 +104,7 @@ X-ui：bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/inst
 
 
 
-IPTV：bash -c "$(curl -sL https://yang-1989.eu.org/pixman.sh)"
+IPTV：bash -c "$(curl -sL https://haoss.eu.org//iptv.sh)"
 
 
 
