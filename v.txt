@@ -6,6 +6,8 @@ TVbox订阅：https://raw.liucn.cc/box/m.json
 
 TVbox：https://github.haoss.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
 
+AI：https://www.igdux.com/ai3
+
 ChatGPT：https://link.fuckicoding.com/
 
 IPTV：bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
