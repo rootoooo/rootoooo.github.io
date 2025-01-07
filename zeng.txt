@@ -4,15 +4,21 @@
 
 磁力搜索：https://lemonue.top
 
+TVbox订阅：https://raw.liucn.cc/box/m.json
+
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 m3u转换：https://guihet.com/convert-m3u-js.html
+
+http://XXX:52055/4gtv.m3u
 
 https://tv.iill.top/m3u/Gather
 
 M3u8：http://tonkiang.us
 
 AI：https://www.igdux.com/ai3
+
+ChatGPT：https://link.fuckicoding.com/
 
 LocalSend：https://github.com/localsend/localsend
 
@@ -101,6 +107,10 @@ Hysteria2：wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hyster
 
 
 X-ui：bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+
+
+
+IPTV：bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
 
 
 
