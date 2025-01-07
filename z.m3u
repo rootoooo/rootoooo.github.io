@@ -23,11 +23,11 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
 #EXTINF:-1 group-title="皮皮虾",湖南卫视 1080P 25FPS
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8
-#EXTINF:-1 group-title="皮皮虾",秋月剪水 1080P 60FPS
+#EXTINF:-1 group-title="皮皮虾",Music 1080P 60FPS
 http://dns.yiandrive.com:15907/douyu/9588891
-#EXTINF:-1 group-title="皮皮虾",纯享4K 2160P 25FPS
+#EXTINF:-1 group-title="皮皮虾",UHD-4K 2160P 25FPS
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 group-title="皮皮虾",华数4K 2160P 25FPS
+#EXTINF:-1 group-title="皮皮虾",Movie-4K 2160P 25FPS
 http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 #EXTINF:-1 group-title="皮皮虾",HK-Chinese 1080P 25FPS
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
@@ -43,5 +43,293 @@ https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_d
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="皮皮虾",Bloomberg 1080P 60FPS
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="4GTV",民視
+http://88.218.79.165:52055/litv/4gtv-4gtv002
+#EXTINF:-1 group-title="4GTV",民視第一台
+http://88.218.79.165:52055/litv/4gtv-4gtv003
+#EXTINF:-1 group-title="4GTV",民視台灣台
+http://88.218.79.165:52055/litv/4gtv-4gtv001
+#EXTINF:-1 group-title="4GTV",中視
+http://88.218.79.165:52055/litv/4gtv-4gtv040
+#EXTINF:-1 group-title="4GTV",中視菁采台
+http://88.218.79.165:52055/litv/4gtv-4gtv064
+#EXTINF:-1 group-title="4GTV",中天亞洲台
+http://88.218.79.165:52055/litv/4gtv-4gtv109
+#EXTINF:-1 group-title="4GTV",華視
+http://88.218.79.165:52055/litv/4gtv-4gtv041
+#EXTINF:-1 group-title="4GTV",靖天綜合台
+http://88.218.79.165:52055/litv/4gtv-4gtv046
+#EXTINF:-1 group-title="4GTV",靖天國際台
+http://88.218.79.165:52055/litv/4gtv-4gtv063
+#EXTINF:-1 group-title="4GTV",靖天日本台
+http://88.218.79.165:52055/litv/4gtv-4gtv047
+#EXTINF:-1 group-title="4GTV",三立綜合台
+http://88.218.79.165:52055/4gtv/169
+#EXTINF:-1 group-title="4GTV",台視
+http://88.218.79.165:52055/litv/4gtv-4gtv066
+#EXTINF:-1 group-title="4GTV",Arirang TV
+http://88.218.79.165:52055/litv/4gtv-4gtv079
+#EXTINF:-1 group-title="4GTV",Bloomberg TV
+http://88.218.79.165:52055/4gtv/283
+#EXTINF:-1 group-title="4GTV",民視新聞台
+http://88.218.79.165:52055/litv/litv-ftv13
+#EXTINF:-1 group-title="4GTV",中視新聞台
+http://88.218.79.165:52055/litv/4gtv-4gtv074
+#EXTINF:-1 group-title="4GTV",中天新聞台
+http://88.218.79.165:52055/litv/4gtv-4gtv009
+#EXTINF:-1 group-title="4GTV",華視新聞
+http://88.218.79.165:52055/litv/4gtv-4gtv052
+#EXTINF:-1 group-title="4GTV",靖天資訊台
+http://88.218.79.165:52055/litv/4gtv-4gtv065
+#EXTINF:-1 group-title="4GTV",寰宇新聞台
+http://88.218.79.165:52055/litv/litv-longturn14
+#EXTINF:-1 group-title="4GTV",寰宇新聞台灣台
+http://88.218.79.165:52055/litv/litv-longturn15
+#EXTINF:-1 group-title="4GTV",寰宇財經台
+http://88.218.79.165:52055/litv/litv-longturn23
+#EXTINF:-1 group-title="4GTV",TVBS 新聞台
+http://88.218.79.165:52055/litv/4gtv-4gtv072
+#EXTINF:-1 group-title="4GTV",三立 iNEWS
+http://88.218.79.165:52055/4gtv/229
+#EXTINF:-1 group-title="4GTV",台視新聞台
+http://88.218.79.165:52055/litv/4gtv-4gtv051
+#EXTINF:-1 group-title="4GTV",台視財經台
+http://88.218.79.165:52055/litv/4gtv-4gtv056
+#EXTINF:-1 group-title="4GTV",東森新聞
+http://88.218.79.165:52055/litv/4gtv-4gtv152
+#EXTINF:-1 group-title="4GTV",東森財經新聞
+http://88.218.79.165:52055/litv/4gtv-4gtv153
+#EXTINF:-1 group-title="4GTV",非凡新聞台
+http://88.218.79.165:52055/litv/4gtv-4gtv010
+#EXTINF:-1 group-title="4GTV",非凡商業台
+http://88.218.79.165:52055/litv/4gtv-4gtv048
+#EXTINF:-1 group-title="4GTV",鏡電視新聞台
+http://88.218.79.165:52055/litv/4gtv-4gtv075
+#EXTINF:-1 group-title="4GTV",CNBC Asia 財經台
+http://88.218.79.165:52055/4gtv/235
+#EXTINF:-1 group-title="4GTV",VOA 美國之音
+http://88.218.79.165:52055/litv/litv-ftv03
+#EXTINF:-1 group-title="4GTV",DW德國之聲
+http://88.218.79.165:52055/4gtv/226
+#EXTINF:-1 group-title="4GTV",SBN 全球財經台
+http://88.218.79.165:52055/4gtv/224
+#EXTINF:-1 group-title="4GTV",半島國際新聞台
+http://88.218.79.165:52055/litv/litv-ftv10
+#EXTINF:-1 group-title="4GTV",第1商業台
+http://88.218.79.165:52055/litv/4gtv-4gtv104
+#EXTINF:-1 group-title="4GTV",民視影劇台
+http://88.218.79.165:52055/litv/litv-ftv09
+#EXTINF:-1 group-title="4GTV",中視經典台
+http://88.218.79.165:52055/litv/4gtv-4gtv080
+#EXTINF:-1 group-title="4GTV",靖天戲劇台
+http://88.218.79.165:52055/litv/4gtv-4gtv058
+#EXTINF:-1 group-title="4GTV",靖天電影台
+http://88.218.79.165:52055/litv/4gtv-4gtv061
+#EXTINF:-1 group-title="4GTV",龍華偶像台
+http://88.218.79.165:52055/litv/litv-longturn12
+#EXTINF:-1 group-title="4GTV",龍華戲劇台
+http://88.218.79.165:52055/litv/litv-longturn18
+#EXTINF:-1 group-title="4GTV",龍華經典台
+http://88.218.79.165:52055/litv/litv-longturn21
+#EXTINF:-1 group-title="4GTV",龍華電影台
+http://88.218.79.165:52055/litv/litv-longturn03
+#EXTINF:-1 group-title="4GTV",靖洋戲劇台
+http://88.218.79.165:52055/litv/4gtv-4gtv045
+#EXTINF:-1 group-title="4GTV",TVBS 台劇台
+http://88.218.79.165:52055/4gtv/285
+#EXTINF:-1 group-title="4GTV",影迷數位紀實台
+http://88.218.79.165:52055/4gtv/212
+#EXTINF:-1 group-title="4GTV",影迷數位電影台
+http://88.218.79.165:52055/litv/4gtv-4gtv011
+#EXTINF:-1 group-title="4GTV",AMC 電影台
+http://88.218.79.165:52055/litv/4gtv-4gtv017
+#EXTINF:-1 group-title="4GTV",CatchPlay 電影台
+http://88.218.79.165:52055/litv/4gtv-4gtv076
+#EXTINF:-1 group-title="4GTV",My Cinema Europe HD 我的歐洲電影
+http://88.218.79.165:52055/4gtv/176
+#EXTINF:-1 group-title="4GTV",公視戲劇台
+http://88.218.79.165:52055/litv/4gtv-4gtv042
+#EXTINF:-1 group-title="4GTV",采昌影劇台
+http://88.218.79.165:52055/litv/4gtv-4gtv049
+#EXTINF:-1 group-title="4GTV",台灣戲劇台
+http://88.218.79.165:52055/litv/litv-longturn22
+#EXTINF:-1 group-title="4GTV",戲劇免費看 1台
+http://88.218.79.165:52055/4gtv/270
+#EXTINF:-1 group-title="4GTV",戲劇免費看 2台
+http://88.218.79.165:52055/4gtv/244
+#EXTINF:-1 group-title="4GTV",經典電影台
+http://88.218.79.165:52055/4gtv/201
+#EXTINF:-1 group-title="4GTV",電影免費看 2台
+http://88.218.79.165:52055/4gtv/245
+#EXTINF:-1 group-title="4GTV",電影原聲台 CMusic
+http://88.218.79.165:52055/4gtv/218
+#EXTINF:-1 group-title="4GTV",花系列 經典劇場
+http://88.218.79.165:52055/4gtv/279
+#EXTINF:-1 group-title="4GTV",CinemaWorld
+http://88.218.79.165:52055/4gtv/225
+#EXTINF:-1 group-title="4GTV",HITS 頻道
+http://88.218.79.165:52055/4gtv/186
+#EXTINF:-1 group-title="4GTV",Rock Action
+http://88.218.79.165:52055/4gtv/180
+#EXTINF:-1 group-title="4GTV",Rock Entertainment
+http://88.218.79.165:52055/4gtv/275
+#EXTINF:-1 group-title="4GTV",金光布袋戲
+http://88.218.79.165:52055/4gtv/236
+#EXTINF:-1 group-title="4GTV",霹靂布袋戲
+http://88.218.79.165:52055/4gtv/301
+#EXTINF:-1 group-title="4GTV",民視旅遊台
+http://88.218.79.165:52055/litv/litv-ftv07
+#EXTINF:-1 group-title="4GTV",ELTA 生活旅遊
+http://88.218.79.165:52055/4gtv/237
+#EXTINF:-1 group-title="4GTV",ELTV 生活英語
+http://88.218.79.165:52055/litv/litv-longturn20
+#EXTINF:-1 group-title="4GTV",亞洲旅遊台
+http://88.218.79.165:52055/litv/litv-longturn17
+#EXTINF:-1 group-title="4GTV",Global Trekker
+http://88.218.79.165:52055/4gtv/252
+#EXTINF:-1 group-title="4GTV",LUXE TV
+http://88.218.79.165:52055/4gtv/175
+#EXTINF:-1 group-title="4GTV",Pet Club TV
+http://88.218.79.165:52055/4gtv/182
+#EXTINF:-1 group-title="4GTV",TV5MONDE Style
+http://88.218.79.165:52055/4gtv/178
+#EXTINF:-1 group-title="4GTV",車迷 TV
+http://88.218.79.165:52055/4gtv/160
+#EXTINF:-1 group-title="4GTV",Love Nature
+http://88.218.79.165:52055/4gtv/139
+#EXTINF:-1 group-title="4GTV",Fun 探索娛樂台
+http://88.218.79.165:52055/4gtv/274
+#EXTINF:-1 group-title="4GTV",幸福空間居家台
+http://88.218.79.165:52055/4gtv/168
+#EXTINF:-1 group-title="4GTV",民視綜藝台
+http://88.218.79.165:52055/litv/4gtv-4gtv004
+#EXTINF:-1 group-title="4GTV",靖天育樂台
+http://88.218.79.165:52055/litv/4gtv-4gtv062
+#EXTINF:-1 group-title="4GTV",靖天歡樂台
+http://88.218.79.165:52055/litv/4gtv-4gtv054
+#EXTINF:-1 group-title="4GTV",龍華日韓台
+http://88.218.79.165:52055/litv/litv-longturn11
+#EXTINF:-1 group-title="4GTV",TVBS 綜藝台
+http://88.218.79.165:52055/4gtv/284
+#EXTINF:-1 group-title="4GTV",TVBS 歡樂台
+http://88.218.79.165:52055/litv/4gtv-4gtv068
+#EXTINF:-1 group-title="4GTV",TVBS 精采台
+http://88.218.79.165:52055/litv/4gtv-4gtv067
+#EXTINF:-1 group-title="4GTV",八大精彩台
+http://88.218.79.165:52055/litv/4gtv-4gtv034
+#EXTINF:-1 group-title="4GTV",八大綜藝台
+http://88.218.79.165:52055/litv/4gtv-4gtv039
+#EXTINF:-1 group-title="4GTV",ELTA 娛樂台
+http://88.218.79.165:52055/litv/4gtv-4gtv070
+#EXTINF:-1 group-title="4GTV",Classica 古典樂
+http://88.218.79.165:52055/litv/4gtv-4gtv059
+#EXTINF:-1 group-title="4GTV",Lifetime 娛樂頻道
+http://88.218.79.165:52055/4gtv/217
+#EXTINF:-1 group-title="4GTV",MTV Live HD 音樂頻道
+http://88.218.79.165:52055/4gtv/213
+#EXTINF:-1 group-title="4GTV",Mezzo Live
+http://88.218.79.165:52055/litv/4gtv-4gtv083
+#EXTINF:-1 group-title="4GTV",豬哥亮歌廳秀
+http://88.218.79.165:52055/litv/4gtv-4gtv006
+#EXTINF:-1 group-title="4GTV",Trace Urban
+http://88.218.79.165:52055/litv/4gtv-4gtv082
+#EXTINF:-1 group-title="4GTV",韓國娛樂台
+http://88.218.79.165:52055/litv/4gtv-4gtv016
+#EXTINF:-1 group-title="4GTV",靖天映畫台
+http://88.218.79.165:52055/litv/4gtv-4gtv055
+#EXTINF:-1 group-title="4GTV",靖天卡通台
+http://88.218.79.165:52055/litv/4gtv-4gtv044
+#EXTINF:-1 group-title="4GTV",龍華卡通台
+http://88.218.79.165:52055/litv/litv-longturn01
+#EXTINF:-1 group-title="4GTV",靖洋卡通 Nice Bingo
+http://88.218.79.165:52055/litv/4gtv-4gtv057
+#EXTINF:-1 group-title="4GTV",DreamWorks 夢工廠動畫
+http://88.218.79.165:52055/4gtv/282
+#EXTINF:-1 group-title="4GTV",Nickelodeon
+http://88.218.79.165:52055/4gtv/185
+#EXTINF:-1 group-title="4GTV",Nick Jr. 兒童頻道
+http://88.218.79.165:52055/4gtv/219
+#EXTINF:-1 group-title="4GTV",i-Fun 動漫台
+http://88.218.79.165:52055/litv/litv-ftv15
+#EXTINF:-1 group-title="4GTV",兒童卡通台
+http://88.218.79.165:52055/4gtv/269
+#EXTINF:-1 group-title="4GTV",精選動漫台
+http://88.218.79.165:52055/4gtv/204
+#EXTINF:-1 group-title="4GTV",經典卡通台
+http://88.218.79.165:52055/4gtv/202
+#EXTINF:-1 group-title="4GTV",達文西頻道
+http://88.218.79.165:52055/litv/4gtv-4gtv018
+#EXTINF:-1 group-title="4GTV",超人力霸王整套看
+http://88.218.79.165:52055/4gtv/278
+#EXTINF:-1 group-title="4GTV",MOMO 親子台
+http://88.218.79.165:52055/4gtv/231
+#EXTINF:-1 group-title="4GTV",LiveABC 互動英語台
+http://88.218.79.165:52055/4gtv/188
+#EXTINF:-1 group-title="4GTV",TVBS
+http://88.218.79.165:52055/litv/4gtv-4gtv073
+#EXTINF:-1 group-title="4GTV",History 歷史頻道
+http://88.218.79.165:52055/4gtv/214
+#EXTINF:-1 group-title="4GTV",CI 罪案偵查頻道
+http://88.218.79.165:52055/4gtv/215
+#EXTINF:-1 group-title="4GTV",Smart 知識台
+http://88.218.79.165:52055/litv/litv-longturn19
+#EXTINF:-1 group-title="4GTV",視納華仁紀實頻道
+http://88.218.79.165:52055/litv/4gtv-4gtv013
+#EXTINF:-1 group-title="4GTV",原住民族電視台
+http://88.218.79.165:52055/4gtv/273
+#EXTINF:-1 group-title="4GTV",客家電視台
+http://88.218.79.165:52055/litv/4gtv-4gtv043
+#EXTINF:-1 group-title="4GTV",滾動力 Rollor
+http://88.218.79.165:52055/4gtv/249
+#EXTINF:-1 group-title="4GTV",好消息
+http://88.218.79.165:52055/litv/litv-ftv16
+#EXTINF:-1 group-title="4GTV",好消息2台
+http://88.218.79.165:52055/litv/litv-ftv17
+#EXTINF:-1 group-title="4GTV",大愛電視
+http://88.218.79.165:52055/4gtv/209
+#EXTINF:-1 group-title="4GTV",大愛電視2
+http://88.218.79.165:52055/4gtv/230
+#EXTINF:-1 group-title="4GTV",人間衛視
+http://88.218.79.165:52055/4gtv/210
+#EXTINF:-1 group-title="4GTV",國會頻道1
+http://88.218.79.165:52055/litv/4gtv-4gtv084
+#EXTINF:-1 group-title="4GTV",國會頻道2
+http://88.218.79.165:52055/litv/4gtv-4gtv085
+#EXTINF:-1 group-title="4GTV",東森購物一台
+http://88.218.79.165:52055/4gtv/173
+#EXTINF:-1 group-title="4GTV",東森購物二台
+http://88.218.79.165:52055/4gtv/174
+#EXTINF:-1 group-title="4GTV",東森購物三台
+http://88.218.79.165:52055/4gtv/287
+#EXTINF:-1 group-title="4GTV",東森購物四台
+http://88.218.79.165:52055/4gtv/286
+#EXTINF:-1 group-title="4GTV",博斯運動一台
+http://88.218.79.165:52055/litv/litv-longturn07
+#EXTINF:-1 group-title="4GTV",博斯運動二台
+http://88.218.79.165:52055/litv/litv-longturn08
+#EXTINF:-1 group-title="4GTV",博斯無限台
+http://88.218.79.165:52055/litv/litv-longturn10
+#EXTINF:-1 group-title="4GTV",博斯無限二台
+http://88.218.79.165:52055/litv/litv-longturn13
+#EXTINF:-1 group-title="4GTV",博斯網球台
+http://88.218.79.165:52055/litv/litv-longturn09
+#EXTINF:-1 group-title="4GTV",博斯高球台
+http://88.218.79.165:52055/litv/litv-longturn05
+#EXTINF:-1 group-title="4GTV",博斯高球二台
+http://88.218.79.165:52055/litv/litv-longturn06
+#EXTINF:-1 group-title="4GTV",博斯魅力台
+http://88.218.79.165:52055/litv/litv-longturn04
+#EXTINF:-1 group-title="4GTV",GINX Esports TV
+http://88.218.79.165:52055/litv/4gtv-4gtv053
+#EXTINF:-1 group-title="4GTV",TechStorm
+http://88.218.79.165:52055/4gtv/181
+#EXTINF:-1 group-title="4GTV",時尚運動X
+http://88.218.79.165:52055/4gtv/277
+#EXTINF:-1 group-title="4GTV",智林體育台
+http://88.218.79.165:52055/litv/4gtv-4gtv101
+#EXTINF:-1 group-title="4GTV",TraceSports
+http://88.218.79.165:52055/litv/4gtv-4gtv077
+
+
 
 
