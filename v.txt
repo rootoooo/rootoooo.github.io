@@ -2,14 +2,4 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLms5Xlm70iLAogICJhZGQiOiAiODguMjE4Ljc5LjE2
 
 https://psub.888005.xyz/qx.conf
 
-http://2a01:7a7:2:3d47:216:3cff:fe7a:6f60:52055/4gtv.m3u
 
-TVbox订阅：https://raw.liucn.cc/box/m.json
-
-TVbox：https://github.haoss.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/main/README.md
-
-AI：https://www.igdux.com/ai3
-
-ChatGPT：https://link.fuckicoding.com/
-
-IPTV：bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
