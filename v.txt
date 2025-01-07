@@ -8,4 +8,4 @@ TVbox：https://github.haoss.eu.org/https://raw.githubusercontent.com/ngo5/IPTV/
 
 ChatGPT：https://link.fuckicoding.com/
 
-
+IPTV：bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
