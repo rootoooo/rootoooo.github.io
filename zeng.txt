@@ -10,8 +10,6 @@ TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 m3u转换：https://guihet.com/convert-m3u-js.html
 
-http://XXX:52055/4gtv.m3u
-
 https://tv.iill.top/m3u/Gather
 
 M3u8：http://tonkiang.us
