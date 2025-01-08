@@ -6,6 +6,4 @@ Beesport : http://XXX:8000/beesport.m3u
 
 4GTV : http://XXX:8000/4gtv.m3u
 
-http://XXX:52055/4gtv.m3u
-
 
