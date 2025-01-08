@@ -2,8 +2,8 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLms5Xlm70iLAogICJhZGQiOiAiODguMjE4Ljc5LjE2
 
 https://psub.888005.xyz/qx.conf
 
-Beesport : http://XXX:8000/beesport.m3u
+Beesport : https://XXX/beesport.m3u
 
-4GTV : http://XXX:8000/4gtv.m3u
+4GTV : https://XXX/4gtv.m3u
 
 
