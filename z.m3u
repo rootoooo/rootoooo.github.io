@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="root",HK-Chinese
+#EXTINF:-1 group-title="LIVE",HK-Chinese
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-#EXTINF:-1 group-title="root",HK-Information
+#EXTINF:-1 group-title="LIVE",HK-Information
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-#EXTINF:-1 group-title="root",TVBS
+#EXTINF:-1 group-title="LIVE",TVBS
 https://tv.iill.top/litv/4gtv-4gtv073
-#EXTINF:-1 group-title="root",CTI
+#EXTINF:-1 group-title="LIVE",CTI
 https://tv.iill.top/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="root",EBC
+#EXTINF:-1 group-title="LIVE",EBC
 https://tv.iill.top/litv/4gtv-4gtv152
-#EXTINF:-1 group-title="root",SET
+#EXTINF:-1 group-title="LIVE",SET
 https://tv.iill.top/4gtv/229
-#EXTINF:-1 group-title="root",RedBull
+#EXTINF:-1 group-title="LIVE",RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="root",LoveNature4K
+#EXTINF:-1 group-title="LIVE",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="root",Loupe4K
+#EXTINF:-1 group-title="LIVE",Loupe4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="root",FormosaTV
+#EXTINF:-1 group-title="LIVE",FormosaTV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="root",Bloomberg
+#EXTINF:-1 group-title="LIVE",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="AKTV",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
