@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="皮皮虾",CCTV-13
-http://a21709.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
-#EXTINF:-1 group-title="皮皮虾",CCTV-1
-http://a21709.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
-#EXTINF:-1 group-title="皮皮虾",CCTV-2
-http://a21709.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
-#EXTINF:-1 group-title="皮皮虾",CCTV-4
-http://a21709.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
-#EXTINF:-1 group-title="皮皮虾",CCTV-5
-http://a21709.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
-#EXTINF:-1 group-title="皮皮虾",CCTV-5+
-http://a21709.tv.netsite.cc/proxy/485668034/485668034.m3u8
-#EXTINF:-1 group-title="皮皮虾",广西卫视
-http://a21709.tv.netsite.cc/proxy/102904669/102904669.m3u8
-#EXTINF:-1 group-title="皮皮虾",东方卫视
-http://a21709.tv.netsite.cc/proxy/694881013/694881013.m3u8
-#EXTINF:-1 group-title="皮皮虾",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="皮皮虾",江苏卫视
-http://a21709.tv.netsite.cc/proxy/256947203/256947203.m3u8
-#EXTINF:-1 group-title="皮皮虾",湖南卫视
-http://a21709.tv.netsite.cc/proxy/480409838/480409838.m3u8
 #EXTINF:-1 group-title="皮皮虾",HK-Chinese
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 group-title="皮皮虾",HK-Information
