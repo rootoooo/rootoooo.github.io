@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE",CCTV-13
 http://39.134.136.161:6610/000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
+#EXTINF:-1 group-title="LIVE",CCTV-1
+http://39.134.136.161:6610/000000001000/5068253659616166748/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5068253659616166748
 #EXTINF:-1 group-title="LIVE",广西卫视
 http://39.134.136.161:6610/000000001000/1000000002000019837/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000019837
 #EXTINF:-1 group-title="LIVE",东方卫视
