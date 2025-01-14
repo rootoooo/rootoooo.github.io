@@ -1,12 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="LIVE",CCTV13
+http://223.166.234.51:7777/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="LIVE",CCTV13-移动
 http://39.134.136.161:6610/000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
-#EXTINF:-1 group-title="LIVE",CCTV13-联通
-http://223.166.234.51:7777/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="LIVE",CCTV1-移动
 http://39.134.136.161:6610/000000001000/5068253659616166748/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5068253659616166748
-#EXTINF:-1 group-title="LIVE",CCTV1-联通
-http://123.7.110.43:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="LIVE",广西卫视-移动
 http://39.134.136.161:6610/000000001000/1000000002000019837/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000019837
 #EXTINF:-1 group-title="LIVE",东方卫视-移动
