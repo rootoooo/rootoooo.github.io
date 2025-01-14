@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE",CCTV13-移动
 http://39.134.136.161:6610/000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
+#EXTINF:-1 group-title="LIVE",CCTV13-联通
+http://223.166.234.51:7777/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="LIVE",CCTV1-移动
 http://39.134.136.161:6610/000000001000/5068253659616166748/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5068253659616166748
+#EXTINF:-1 group-title="LIVE",CCTV1-联通
+http://123.7.110.43:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="LIVE",广西卫视-移动
 http://39.134.136.161:6610/000000001000/1000000002000019837/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000019837
 #EXTINF:-1 group-title="LIVE",东方卫视-移动
@@ -14,24 +18,30 @@ http://39.134.136.161:6610/000000001000/1000000001000004684/index.m3u8?livemode=
 #EXTINF:-1 group-title="LIVE",湖南卫视-移动
 http://39.134.136.161:6610/000000001000/5000000010000030452/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030452
 #EXTINF:-1 group-title="LIVE",凤凰中文
+https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+#EXTINF:-1 group-title="LIVE",凤凰中文-AKTV
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="LIVE",凤凰资讯
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="LIVE",TVBS-HD
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="LIVE",中天新闻
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="LIVE",HK-Chinese
-https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-#EXTINF:-1 group-title="LIVE",HK-Information
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+#EXTINF:-1 group-title="LIVE",凤凰资讯-AKTV
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="LIVE",TVBS
+https://ali.hlspull.yximgs.com/live/moa29.flv
+#EXTINF:-1 group-title="LIVE",TVBS-AKTV
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="LIVE",TVBS-4GTV
 https://tv.iill.top/litv/4gtv-4gtv073
-#EXTINF:-1 group-title="LIVE",CTI
+#EXTINF:-1 group-title="LIVE",中天新闻
+https://ali.hlspull.yximgs.com/live/moa28.flv
+#EXTINF:-1 group-title="LIVE",中天新闻-AKTV
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 group-title="LIVE",中天新闻-4GTV
 https://tv.iill.top/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="LIVE",EBC
+#EXTINF:-1 group-title="LIVE",东森新闻
+https://ali.hlspull.yximgs.com/live/moa35.flv
+#EXTINF:-1 group-title="LIVE",东森新闻-4GTV
 https://tv.iill.top/litv/4gtv-4gtv152
-#EXTINF:-1 group-title="LIVE",SET
+#EXTINF:-1 group-title="LIVE",三立新闻-4GTV
 https://tv.iill.top/4gtv/229
 #EXTINF:-1 group-title="LIVE",RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
