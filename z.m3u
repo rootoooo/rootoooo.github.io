@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="LIVE",CCTV13
+http://88.218.79.165:8000/itv/1000000002000021303/ystenlive
+#EXTINF:-1 group-title="LIVE",CCTV1
+http://88.218.79.165:60001/1000000001000021973/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 group-title="LIVE",CCTV4
+http://88.218.79.165:60001/5000000005000030093/bestzb/index.m3u8$4M720_百视通
+#EXTINF:-1 group-title="LIVE",CCTV5
+http://88.218.79.165:60001/1000000001000004794/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 group-title="LIVE",CCTV5+
+http://88.218.79.165:8000/itv/1000000001000018504/ystenlive
+#EXTINF:-1 group-title="LIVE",CCTV16
+http://88.218.79.165:60001/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 group-title="LIVE",广西卫视
+http://88.218.79.165:60001/5000000006000040014/bestzb/index.m3u8$4M540_百视通
+#EXTINF:-1 group-title="LIVE",东方卫视
+http://88.218.79.165:8000/itv/1000000001000005866/ystenlive
+#EXTINF:-1 group-title="LIVE",浙江卫视
+http://88.218.79.165:8000/itv/1000000001000009806/ystenlive
+#EXTINF:-1 group-title="LIVE",江苏卫视
+http://88.218.79.165:60001/1000000001000004684/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 group-title="LIVE",湖南卫视
+http://88.218.79.165:60001/1000000001000032695/ystenlive/index.m3u8$8M1080_易视腾
 #EXTINF:-1 group-title="LIVE",凤凰中文
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 group-title="LIVE",凤凰资讯
