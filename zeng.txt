@@ -110,7 +110,7 @@ X-ui：bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/inst
 
 
 
-m3u：bash <(curl -sSL https://haoss.eu.org/m3u.sh)
+IPTV：bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
 
 
 
