@@ -3,6 +3,8 @@
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 group-title="LIVE",凤凰资讯
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+#EXTINF:-1 group-title="LIVE",凤凰香港
+https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 #EXTINF:-1 group-title="LIVE",无线新闻
 https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.m3u8
 #EXTINF:-1 group-title="LIVE",TVB PLUS
@@ -15,8 +17,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="LIVE",Al Jazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 group-title="LIVE",BBC
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 group-title="LIVE",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="LIVE",Red Bull
