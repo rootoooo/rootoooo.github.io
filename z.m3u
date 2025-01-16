@@ -19,6 +19,8 @@ https://ali.hlspull.yximgs.com/live/moa28.flv
 https://ali.hlspull.yximgs.com/live/moa35.flv
 #EXTINF:-1 group-title="LIVE",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="LIVE",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="LIVE",Al Jazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 group-title="LIVE",CNN
