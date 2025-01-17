@@ -114,6 +114,10 @@ IPTV：bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
 
 
 
+M3u：bash <(curl -sSL https://haoss.eu.org/m3u.sh)
+
+
+
 BBR：
 
 apt update -y && apt install -y wget sudo
