@@ -24,6 +24,4 @@ Beesport：http://88.218.79.165:8000/beesport.m3u
 
 4GTV：http://88.218.79.165:8000/4gtv.m3u
 
-YouTube：http://88.218.79.165:8000/youtube/{房间号}
-
 
