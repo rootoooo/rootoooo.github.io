@@ -18,4 +18,6 @@ http://dns.yiandrive.com:15907/douyu/9588891
 
 http://88.218.79.165:50001/help
 
+http://88.218.79.165:5001/
+
 
