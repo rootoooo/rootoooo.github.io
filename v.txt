@@ -18,10 +18,4 @@ http://dns.yiandrive.com:15907/douyu/9588891
 
 http://88.218.79.165:50001/help
 
-iTV：http://88.218.79.165:8000/itv.m3u
-
-Beesport：http://88.218.79.165:8000/beesport.m3u
-
-4GTV：http://88.218.79.165:8000/4gtv.m3u
-
 
