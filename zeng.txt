@@ -18,8 +18,6 @@ M3u8：http://tonkiang.us
 
 AI：https://www.igdux.com/ai3
 
-ChatGPT：https://link.fuckicoding.com/
-
 LocalSend：https://github.com/localsend/localsend
 
 FinalShell：https://www.hostbuf.com
