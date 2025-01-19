@@ -11,12 +11,8 @@ http://88.218.79.165:50001/5000000005000030093/bestzb/index.m3u8$4M720_百视通
 http://88.218.79.165:50001/1000000001000004794/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 group-title="LIVE",CCTV5+
 http://88.218.79.165:50001/1000000001000020505/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 group-title="LIVE",CCTV16
-http://88.218.79.165:50001/1000000006000233001/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 group-title="LIVE",广西卫视
 http://88.218.79.165:50001/5000000006000040014/bestzb/index.m3u8$4M540_百视通
-#EXTINF:-1 group-title="LIVE",北京卫视
-http://88.218.79.165:50001/5000000010000011502/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 group-title="LIVE",东方卫视
 http://88.218.79.165:50001/1000000001000030202/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 group-title="LIVE",浙江卫视
@@ -25,8 +21,6 @@ http://88.218.79.165:50001/1000000005000265031/ystenlive/index.m3u8$5.5M1080HEVC
 http://88.218.79.165:50001/1000000001000004684/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 group-title="LIVE",湖南卫视
 http://88.218.79.165:50001/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 group-title="LIVE",第一财经
-http://88.218.79.165:50001/5000000010000027146/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 group-title="LIVE",斗鱼 Music
 http://dns.yiandrive.com:15907/douyu/9588891
 #EXTINF:-1 group-title="LIVE",虎牙 Music
