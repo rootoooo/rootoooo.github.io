@@ -24,12 +24,6 @@ http://dns.yiandrive.com:15907/bilibili/27519423
 
 http://88.218.79.165:50001/help
 
-http://88.218.79.165:60001/itv.m3u
-
-http://88.218.79.165:60001/beesport.m3u
-
-http://88.218.79.165:60001/4gtv.m3u
-
 http://88.218.79.165:5001/
 
 
