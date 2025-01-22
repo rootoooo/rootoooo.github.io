@@ -18,4 +18,8 @@ M3u：https://guihet.com/convert-m3u-js.html
 
 http://88.218.79.165:1400/help
 
+http://88.218.79.165:1400/Sub?type=txt
+    
+http://88.218.79.165:1400/Sub?type=m3u
+
 
