@@ -3,12 +3,6 @@
 http://111.29.9.33:6610/200000001898/460000089800010093/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",CCTV1
 http://111.29.9.33:6610/200000001898/460000089800010011/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="LIVE",CCTV2
-http://111.29.9.33:6610/200000001898/460000089800010211/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="LIVE",CCTV3
-http://111.29.9.33:6610/200000001898/460000089800010212/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="LIVE",CCTV4
-http://111.29.9.33:6610/200000001898/460000089800010017/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",CCTV5
 http://111.29.9.33:6610/200000001898/460000089800010145/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",CCTV5+
@@ -33,10 +27,16 @@ http://111.29.9.33:6610/200000001898/460000089800010107/1.m3u8?IASHttpSessionId=
 http://111.29.9.33:6610/200000001898/460000089800010117/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",优漫卡通
 http://111.29.9.33:6610/200000001898/460000089800010118/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="LIVE",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="LIVE",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="LIVE",HK Chinese
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="LIVE",HK Information
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="LIVE",TVBS
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1 group-title="LIVE",CTI
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 group-title="LIVE",EBC
+http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 group-title="LIVE",斗鱼 Music
 http://dns.yiandrive.com:15907/douyu/9588891
 #EXTINF:-1 group-title="LIVE",虎牙 Music
