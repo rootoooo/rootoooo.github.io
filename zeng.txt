@@ -12,8 +12,6 @@ TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 M3u：https://guihet.com/convert-m3u-js.html
 
-https://tv.iill.top/m3u/Gather
-
 M3u8：http://tonkiang.us
 
 AI：https://www.igdux.com/ai3
@@ -58,7 +56,7 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
-https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+https://github.haoss.eu.org/https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
 Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip
 
