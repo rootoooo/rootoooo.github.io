@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="移动宽带专用",CCTV13
+http://111.29.9.33:6610/200000001898/460000089800010093/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="移动宽带专用",CCTV1
 http://111.29.9.33:6610/200000001898/460000089800010011/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="移动宽带专用",CCTV2
@@ -11,8 +13,6 @@ http://111.29.9.33:6610/200000001898/460000089800010017/1.m3u8?IASHttpSessionId=
 http://111.29.9.33:6610/200000001898/460000089800010145/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="移动宽带专用",CCTV5+
 http://111.29.9.33:6610/200000001898/460000089800010202/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="移动宽带专用",CCTV13
-http://111.29.9.33:6610/200000001898/460000089800010093/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="移动宽带专用",CCTV16
 http://111.29.9.33:6610/200000001898/460000089800010142/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="移动宽带专用",广西卫视
@@ -33,8 +33,6 @@ http://111.29.9.33:6610/200000001898/460000089800010107/1.m3u8?IASHttpSessionId=
 http://111.29.9.33:6610/200000001898/460000089800010117/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="移动宽带专用",优漫卡通
 http://111.29.9.33:6610/200000001898/460000089800010118/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="移动宽带专用",4KUHD
-http://111.29.9.33:6610/200000001898/460000089800010006/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="AKTV",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠台
@@ -151,6 +149,8 @@ http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",纬来体育台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="LIVE",凤凰资讯YouTube
+https://live.iill.top/youtube/@phoenixtvhk
 #EXTINF:-1 group-title="LIVE",斗鱼 Music
 http://dns.yiandrive.com:15907/douyu/9588891
 #EXTINF:-1 group-title="LIVE",虎牙 Music
