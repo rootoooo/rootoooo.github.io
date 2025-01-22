@@ -47,6 +47,10 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 group-title="LIVE",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="LIVE",Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIVE",Global News
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 #EXTINF:-1 group-title="LIVE",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="LIVE",Love Nature 4K
