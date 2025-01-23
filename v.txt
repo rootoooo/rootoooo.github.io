@@ -18,18 +18,4 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuX
 
 M3u：https://guihet.com/convert-m3u-js.html
 
-iTV：
-
-docker pull doubebly/doube-itv:latest
-
-docker run -d --name=doube-itv -p 1444:5000 --restart=always doubebly/doube-itv:latest
-
-http://127.0.0.1:1400/help
-
-http://88.218.79.165:1400/help
-
-http://88.218.79.165:1400/Sub?type=txt
-    
-http://88.218.79.165:1400/Sub?type=m3u
-
 
