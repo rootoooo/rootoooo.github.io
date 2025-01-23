@@ -20,13 +20,13 @@ M3u：https://guihet.com/convert-m3u-js.html
 
 https://imgtool.v1.mk/allinone.html
 
-IPTV：http://88.218.79.165:35455tv.m3u
+IPTV：http://88.218.79.165:35455/tv.m3u
 
-BiliBili：http://88.218.79.165:35455bililive.m3u
+BiliBili：http://88.218.79.165:35455/bililive.m3u
 
-斗鱼一起看：http://88.218.79.165:35455douyuyqk.m3u
+斗鱼一起看：http://88.218.79.165:35455/douyuyqk.m3u
 
-虎牙一起看：http://88.218.79.165:35455huyayqk.m3u
+虎牙一起看：http://88.218.79.165:35455/huyayqk.m3u
 
 YY：http://IP:35455/yylunbo.m3u 
 
