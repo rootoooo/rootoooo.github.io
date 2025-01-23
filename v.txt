@@ -26,14 +26,6 @@ docker run -d --name=doube-itv -p 1444:5000 --restart=always doubebly/doube-itv:
 
 http://127.0.0.1:1400/help
 
-4GTV：
-
-docker pull doubebly/doube-ofiii:latest
-
-docker run -d --name=doube-ofiii -p 1444:5000 --restart=always doubebly/doube-ofiii:latest
-
-http://127.0.0.1:1444/help
-
 http://88.218.79.165:1400/help
 
 http://88.218.79.165:1400/Sub?type=txt
