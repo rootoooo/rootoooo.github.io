@@ -20,4 +20,14 @@ M3u：https://guihet.com/convert-m3u-js.html
 
 https://imgtool.v1.mk/allinone.html
 
+IPTV聚合：http://IP:35455/tv.m3u
+
+虎牙一起看：http://IP:35455/huyayqk.m3u
+
+BiliBili：http://IP:35455/bililive.m3u
+
+斗鱼一起看：http://IP:35455/douyuyqk.m3u
+
+YY：http://IP:35455/yylunbo.m3u 
+
 
