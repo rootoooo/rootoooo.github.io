@@ -38,4 +38,12 @@ YY：http://IP:35455/yylunbo.m3u
 
 B站 Music：http://88.218.79.165:35455/bilibili/27519423
 
+新用户，注册即送20美元账户余额，且无任何限制、无使用期限限制。
+
+首先注册账号：https://lightlayer.net/
+
+之后打开网页：https://account.lightlayer.net/index.php?/clientarea/addfunds/
+
+在“Redeem a voucher”下输入优惠码：LLNEWUSERGIFT2024 ，点击Redeem即可获取
+
 
