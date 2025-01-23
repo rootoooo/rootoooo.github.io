@@ -12,9 +12,9 @@ TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 M3u：https://guihet.com/convert-m3u-js.html
 
-M3u8：http://tonkiang.us
+M3u8-US：http://tonkiang.us
 
-IPTV：https://www.iptv-search.com
+M3u8-HK：https://www.iptv-search.com
 
 AI：https://www.igdux.com/ai3
 
