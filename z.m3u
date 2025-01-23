@@ -41,16 +41,10 @@ http://111.29.9.33:6610/200000001898/460000089800010058/1.m3u8?IASHttpSessionId=
 http://88.218.79.165:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="LIVE",斗鱼 Music
 http://dns.yiandrive.com:15907/douyu/9588891
-#EXTINF:-1 group-title="LIVE",斗鱼
-http://88.218.79.165:35455/douyu/9588891
 #EXTINF:-1 group-title="LIVE",虎牙 Music
 http://dns.yiandrive.com:15907/huya/20616876
-#EXTINF:-1 group-title="LIVE",虎牙
-http://88.218.79.165:35455/huya/20616876
 #EXTINF:-1 group-title="LIVE",B站 Music
 http://dns.yiandrive.com:15907/bilibili/27519423
-#EXTINF:-1 group-title="LIVE",B站
-Music：http://88.218.79.165:35455/bilibili/27519423
 #EXTINF:-1 group-title="LIVE",Chinese
 http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 #EXTINF:-1 group-title="LIVE",Information
