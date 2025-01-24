@@ -38,11 +38,8 @@ BiliBili：http://88.218.79.165:35455/bililive.m3u
 
 YY：http://88.218.79.165:35455/yylunbo.m3u
 
-斗鱼 Music：http://88.218.79.165:35455/douyu/9588891
-
-虎牙 Music：http://88.218.79.165:35455/huya/20616876
-
-B站 Music：http://88.218.79.165:35455/bilibili/27519423
+Music：http://88.218.79.165:35455/douyu/9588891
 
 https://account.lightlayer.net
+
 
