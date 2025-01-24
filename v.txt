@@ -4,8 +4,6 @@ https://psub.888005.xyz/
 
 qx.conf
 
-https://account.lightlayer.net/
-
 http://www.gx.xinhuanet.com/travel/more.htm
 
 https://www.baidu.com/s?wd=关键词%20-%E6%9D%8E%E5%BD%A6%E5%AE%8F
@@ -30,28 +28,12 @@ BiliBili：http://88.218.79.165:35455/bililive.m3u
 
 虎牙一起看：http://88.218.79.165:35455/huyayqk.m3u
 
-YY：http://IP:35455/yylunbo.m3u 
+YY：http://88.218.79.165:35455/yylunbo.m3u 
 
 斗鱼 Music：http://88.218.79.165:35455/douyu/9588891
 
 虎牙 Music：http://88.218.79.165:35455/huya/20616876
 
 B站 Music：http://88.218.79.165:35455/bilibili/27519423
-
-新用户，注册即送20美元账户余额，且无任何限制、无使用期限限制。
-
-首先注册账号：https://lightlayer.net/
-
-之后打开网页：https://account.lightlayer.net/index.php?/clientarea/addfunds/
-
-在“Redeem a voucher”下输入优惠码：LLNEWUSERGIFT2024 ，点击Redeem即可获取
-
-续费1个月，9折优惠，优惠码：CLOUD10%MON
-
-续费3个月，8折优惠，优惠码：CLOUD20%QUA ，还可以再叠加5%的优惠
-
-续费6个月，7折优惠，优惠码：CLOUD30%SEMIANN ，还可以再叠加17%的优惠
-
-续费12个月，5折优惠，优惠码：CLOUD50%ANN ，还可以再叠加17%的优惠
 
 
