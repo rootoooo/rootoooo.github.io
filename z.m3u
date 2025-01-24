@@ -44,17 +44,19 @@ http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/1
 #EXTINF:-1 group-title="LIVE",凤凰资讯
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dhkt6360bczp%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",无线新闻
-http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dhkt1674wpda%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",TVBS
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn1099meeh%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",中天新闻
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn6519rser%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="World",东森新闻
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn6808qgwd%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
-#EXTINF:-1 group-title="LIVE",BBC
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="LIVE",DW
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Deng0954pvth%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="LIVE",BBC
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="LIVE",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="LIVE",CNA
