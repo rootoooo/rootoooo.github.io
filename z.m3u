@@ -39,10 +39,6 @@ http://88.218.79.165:35455/itv/1000000001000001828.m3u8?cdn=ystenlive
 http://111.29.9.33:6610/200000001898/460000089800010058/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",湖南卫视
 http://88.218.79.165:35455/itv/5000000004000006692.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="LIVE",凤凰卫视中文台
-http://88.218.79.165:40004/proxy?url=http%3A//php.jdshipin.com/TVOD/iptv.php%3Fid%3Dfhzw
-#EXTINF:-1 group-title="LIVE",凤凰卫视资讯台
-http://88.218.79.165:40004/proxy?url=http%3A//php.jdshipin.com/TVOD/iptv.php%3Fid%3Dfhzx
 #EXTINF:-1 group-title="LIVE",凤凰中文
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dhkt0062ndqs%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",凤凰资讯
@@ -50,15 +46,13 @@ http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/1
 #EXTINF:-1 group-title="LIVE",无线新闻
 http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 #EXTINF:-1 group-title="LIVE",TVBS
-http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn1099meeh%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",中天新闻
-http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn6519rser%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="World",东森新闻
-http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn6808qgwd%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",BBC
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 group-title="LIVE",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="LIVE",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="LIVE",NHK World
