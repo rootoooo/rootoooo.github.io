@@ -28,18 +28,6 @@ https://www.stream-link.org/playlist.m3u?token=2d19ade1-b8da-496f-9614-a2af18571
 
 http://88.218.79.165:40004/1234567890987654321/iptv.m3u
 
-IPTV：http://88.218.79.165:35455/tv.m3u
-
-BiliBili：http://88.218.79.165:35455/bililive.m3u
-
-斗鱼一起看：http://88.218.79.165:35455/douyuyqk.m3u
-
-虎牙一起看：http://88.218.79.165:35455/huyayqk.m3u
-
-YY：http://88.218.79.165:35455/yylunbo.m3u
-
-Music：http://88.218.79.165:35455/douyu/9588891
-
 https://account.lightlayer.net
 
 
