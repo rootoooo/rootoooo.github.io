@@ -26,6 +26,8 @@ M3u8-HK：https://www.iptv-search.com
 
 https://www.stream-link.org/playlist.m3u?token=2d19ade1-b8da-496f-9614-a2af185717a6&hmac=c8d8c8bdab8912eff280b13afb4f5846
 
+http://88.218.79.165:40004/1234567890987654321/iptv.m3u
+
 IPTV：http://88.218.79.165:35455/tv.m3u
 
 BiliBili：http://88.218.79.165:35455/bililive.m3u
