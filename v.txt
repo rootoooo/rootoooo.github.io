@@ -36,7 +36,7 @@ BiliBili：http://88.218.79.165:35455/bililive.m3u
 
 虎牙一起看：http://88.218.79.165:35455/huyayqk.m3u
 
-YY：http://88.218.79.165:35455/yylunbo.m3u 
+YY：http://88.218.79.165:35455/yylunbo.m3u
 
 斗鱼 Music：http://88.218.79.165:35455/douyu/9588891
 
