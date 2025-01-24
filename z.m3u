@@ -42,23 +42,23 @@ http://88.218.79.165:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="LIVE",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="LIVE",凤凰中文 World
-https://sc2025.stream-link.org/playlist/190a9c313169.php?id=hkt0062ndqs&token=2d19ade1-b8da-496f-9614-a2af185717a6&hmac=c8d8c8bdab8912eff280b13afb4f5846
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dhkt0062ndqs%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="LIVE",凤凰资讯 World
-https://sc2025.stream-link.org/playlist/190a9c313169.php?id=hkt6360bczp&token=2d19ade1-b8da-496f-9614-a2af185717a6&hmac=c8d8c8bdab8912eff280b13afb4f5846
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dhkt6360bczp%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",TVBS
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 #EXTINF:-1 group-title="LIVE",TVBS World
-https://sc2025.stream-link.org/playlist/190a9c313169.php?id=twn1099meeh&token=2d19ade1-b8da-496f-9614-a2af185717a6&hmac=c8d8c8bdab8912eff280b13afb4f5846
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn1099meeh%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",中天新闻
 http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 group-title="LIVE",中天新闻 World
-https://sc2025.stream-link.org/playlist/190a9c313169.php?id=twn6519rser&token=2d19ade1-b8da-496f-9614-a2af185717a6&hmac=c8d8c8bdab8912eff280b13afb4f5846
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn6519rser%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",东森新闻
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 group-title="LIVE",东森新闻 World
-https://sc2025.stream-link.org/playlist/190a9c313169.php?id=twn6808qgwd&token=2d19ade1-b8da-496f-9614-a2af185717a6&hmac=c8d8c8bdab8912eff280b13afb4f5846
+http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn6808qgwd%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",BBC
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="LIVE",DW
