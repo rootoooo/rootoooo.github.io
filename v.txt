@@ -20,6 +20,8 @@ M3u：https://guihet.com/convert-m3u-js.html
 
 https://imgtool.v1.mk/allinone.html
 
+https://www.stream-link.org/playlist.m3u?token=2d19ade1-b8da-496f-9614-a2af185717a6&hmac=c8d8c8bdab8912eff280b13afb4f5846
+
 IPTV：http://88.218.79.165:35455/tv.m3u
 
 BiliBili：http://88.218.79.165:35455/bililive.m3u
