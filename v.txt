@@ -1,6 +1,6 @@
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLms5Xlm70iLAogICJhZGQiOiAiODguMjE4Ljc5LjE2NSIsCiAgInBvcnQiOiA0OTk5OSwKICAiaWQiOiAiMDJmZGIyOGUtYzk5NC00ODQxLWNmZjEtNjFjNWRiYTZlNDM4IiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAibm9uZSIKfQ==
 
-https://psub.888005.xyz/
+https://psub.888005.xyz
 
 qx.conf
 
@@ -44,6 +44,5 @@ YY：http://88.218.79.165:35455/yylunbo.m3u
 
 B站 Music：http://88.218.79.165:35455/bilibili/27519423
 
-https://account.lightlayer.net/index.php?
-
+https://account.lightlayer.net
 
