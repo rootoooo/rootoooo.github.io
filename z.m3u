@@ -19,12 +19,6 @@ http://88.218.79.165:35455/itv/1000000001000014260.m3u8?cdn=ystenlive
 http://88.218.79.165:35455/itv/1000000001000001828.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="LIVE",湖南卫视
 http://88.218.79.165:35455/itv/5000000004000006692.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="LIVE",斗鱼 Music
-http://88.218.79.165:35455/douyu/9588891
-#EXTINF:-1 group-title="LIVE",虎牙 Music
-http://88.218.79.165:35455/huya/20616876
-#EXTINF:-1 group-title="LIVE",B站 Music
-http://88.218.79.165:35455/bilibili/27519423
 #EXTINF:-1 group-title="LIVE",凤凰中文
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dhkt0062ndqs%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",凤凰资讯
@@ -35,6 +29,8 @@ http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/1
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn6519rser%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",东森新闻
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dtwn6808qgwd%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
+#EXTINF:-1 group-title="LIVE",Music
+http://88.218.79.165:35455/douyu/9588891
 #EXTINF:-1 group-title="LIVE",NBA
 http://88.218.79.165:40004/proxy?url=https%3A//sc2025.stream-link.org/playlist/190a9c313169.php%3Fid%3Dspt1205tmth%26token%3D2d19ade1-b8da-496f-9614-a2af185717a6%26hmac%3Dc8d8c8bdab8912eff280b13afb4f5846
 #EXTINF:-1 group-title="LIVE",DW
