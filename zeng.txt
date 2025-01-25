@@ -100,24 +100,6 @@ X-ui：bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/inst
 
 
 
-M3u：bash <(curl --sSL https://haoss.eu.org/m3u.sh)
-
-
-
-ChatGPT-Mirror：
-
-cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
-
-cd ChatGPT-Mirror/
-
-cp .env.example .env && vi .env
-
-:wq
-
-./deploy.sh
-
-
-
 BBR：
 
 apt update -y && apt install -y wget sudo
@@ -143,18 +125,6 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 
 Cloudreve：bash <(curl -fsSL cloudreve-woad.vercel.app)
-
-
-
-哪吒面板：
-
-curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh
-
-sudo ./nezha.sh
-
-OAuth应用程序→新建vps→Homepage URL：http://XXX:8008→http://http://XXX:8008/oauth2/callback
-
-ClentID：XXX→Client：XXX→XXX→未接入CDN的面板服务器域名/IP→http://XXX:8008
 
 
 
