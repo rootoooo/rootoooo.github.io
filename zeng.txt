@@ -100,10 +100,6 @@ X-ui：bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/inst
 
 
 
-IPTV：bash <(curl -sSL https://haoss.eu.org/setup_hkdvb.sh)
-
-
-
 BBR：
 
 apt update -y && apt install -y wget sudo
