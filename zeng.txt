@@ -82,23 +82,27 @@ df -h
 
 
 
-更新环境：apt update -y && apt install -y curl socat wget sudo
+apt update -y && apt install -y curl socat wget sudo
 
 
 
-科技lion：bash <(curl -sL kejilion.sh)
+bash <(curl -sL kejilion.sh)
 
 
 
-v2ray：bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
+bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
-Hysteria2：wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
+wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
 
 
 
-X-ui：bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+
+
+
+bash <(curl -sSL https://haoss.eu.org/m3u.sh)
 
 
 
