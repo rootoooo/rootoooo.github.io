@@ -10,9 +10,9 @@ http://www.gx.xinhuanet.com/travel/more.htm
 
 https://www.baidu.com/s?wd=关键词%20-%E6%9D%8E%E5%BD%A6%E5%AE%8F
 
-V2rayN：https://c.haoss.eu.org/s/mOsK
+V2rayN：https://c.haoss.eu.org/s/
 
-Android：https://c.haoss.eu.org/s/l5i5
+Android：https://c.haoss.eu.org/s/
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg
 
@@ -24,7 +24,7 @@ M3u8-US：http://tonkiang.us
 
 M3u8-HK：https://www.iptv-search.com
 
-http://88.218.79.165:40004/1234567890987654321/iptv.m3u
+http://XXX:40004/1234567890987654321/iptv.m3u
 
 https://account.lightlayer.net
 
