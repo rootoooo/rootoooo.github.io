@@ -8,6 +8,10 @@ qx.conf/jable.tv/s13.serv00.com/31.186.87.211
 
 https://panel13.serv00.com
 
+wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/Setout8/x-ui-freebsd/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
+
+bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
+
 http://www.gx.xinhuanet.com/travel/more.htm
 
 https://www.baidu.com/s?wd=关键词%20-%E6%9D%8E%E5%BD%A6%E5%AE%8F
