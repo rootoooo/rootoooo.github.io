@@ -21,12 +21,12 @@ http://111.29.9.33:6610/200000001898/460000089800010070/1.m3u8?IASHttpSessionId=
 http://111.29.9.33:6610/200000001898/460000089800010225/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",湖南卫视 移动
 http://111.29.9.33:6610/200000001898/460000089800010224/1.m3u8?IASHttpSessionId=RR
+#EXTINF:-1 group-title="LIVE",4KUHD
+http://111.29.9.33:6610/200000001898/460000089800010006/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",华数4K
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-#EXTINF:-1 group-title="LIVE",欧美影院
-http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=7185203501769528108
-#EXTINF:-1 group-title="LIVE",爱院线
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
+#EXTINF:-1 group-title="LIVE",漫威
+http://zzy789.xyz/douyu1.php?id=6140589
 #EXTINF:-1 group-title="LIVE",凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="LIVE",凤凰卫视资讯台
