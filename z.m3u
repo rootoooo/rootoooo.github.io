@@ -22,7 +22,7 @@ http://111.29.9.33:6610/200000001898/460000089800010225/1.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="LIVE",湖南卫视 移动
 http://111.29.9.33:6610/200000001898/460000089800010224/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",CCTV13
-http://183.255.10.70:6610/200000001898/460000089800010093/1.m3u8?IASHttpSessionId=007
+http://88.218.79.165:40004/proxy?url=http%3A//lu.wqwqwq.sbs/gaoma/cctv13.m3u8
 #EXTINF:-1 group-title="LIVE",华数4K
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 #EXTINF:-1 group-title="LIVE",欧美影院
