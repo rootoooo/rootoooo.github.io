@@ -22,9 +22,9 @@ http://111.29.9.33:6610/200000001898/460000089800010225/1.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="移动专用",湖南卫视
 http://111.29.9.33:6610/200000001898/460000089800010224/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="LIVE",凤凰卫视中文台
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="LIVE",凤凰卫视资讯台
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="LIVE",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="LIVE",France 24
