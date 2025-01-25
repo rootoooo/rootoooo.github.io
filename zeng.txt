@@ -110,28 +110,6 @@ M3u：bash <(curl --sSL https://haoss.eu.org/m3u.sh)
 
 
 
-Fourgtv：
-
-docker pull liuyong1987/fourgtv
-
-docker run --name fourgtv -d -p 40404:8000 liuyong1987/fourgtv
-
-iTV：http://XXX:XXX/itv.m3u
-
-Beesport：http://XXX:XXX/beesport.m3u
-
-4GTV：http://XXX:XXX/4gtv.m3u
-
-MytvSuper：http://XXX:XXX/mytvsuper.m3u
-
-Now：http://XXX:XXX/now.m3u
-
-Now：http://XXX:XXX/now-free.m3u
-
-YouTube：http://XXX:XXX/youtube/{房间号} （支持列表 list/{列表号} ）
-
-
-
 ChatGPT-Mirror：
 
 cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
