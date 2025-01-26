@@ -6,7 +6,7 @@ https://account.lightlayer.net
 
 qx.conf/jable.tv
 
-V2rayN：https://XXX/s/jRfM
+V2rayN：https://cloudreve.eu.org/s/jRfM
 
 http://www.gx.xinhuanet.com/travel/more.htm
 
@@ -26,7 +26,7 @@ docker pull doubebly/doube-ofiii:latest
 
 docker run -d --name=doube-ofiii -p 55555:5000 --restart=always doubebly/doube-ofiii:latest
 
-http://127.0.0.1:55555/help
+http://XXX:55555/help
 
 docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone  pixman iptv-api doube-itv doube-ofiii -c --schedule "0 0 2 * * *"
 
