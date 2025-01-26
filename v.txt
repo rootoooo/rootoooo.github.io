@@ -18,6 +18,7 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuX
 
 https://github.com/pppyyyccc/streamshield-proxy
 
+@hkanime_bot
 1. https://live.hkdvb.com/hls/playlist.m3u?token=429661718889620
 2. https://edge1.hkdvb.com/hls/playlist.m3u?token=429661718889620
 3. https://edge2.hkdvb.com/hls/playlist.m3u?token=429661718889620
