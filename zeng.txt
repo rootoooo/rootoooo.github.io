@@ -106,6 +106,10 @@ bash <(curl -sSL https://haoss.eu.org/m3u.sh)
 
 
 
+bash <(curl -sSL https://haoss.eu.org/hk.sh)
+
+
+
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
 
 chmod 700 ./install-frps.sh
