@@ -20,9 +20,9 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuX
 
 docker pull doubebly/doube-ofiii:latest
 
-docker run -d --name=doube-ofiii -p 50002:5000 --restart=always doubebly/doube-ofiii:latest
+docker run -d --name=doube-ofiii -p 55555:5000 --restart=always doubebly/doube-ofiii:latest
 
-http://127.0.0.1:50002/help
+http://127.0.0.1:55555/help
 
 docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone  pixman iptv-api doube-itv doube-ofiii -c --schedule "0 0 2 * * *"
 
