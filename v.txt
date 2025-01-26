@@ -36,7 +36,7 @@ docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock
 
 
 
-claw.cloud解锁ChatGPT：
+ClawCloud解锁ChatGPT：
 
 echo -e "nameserver 154.12.177.22
 
