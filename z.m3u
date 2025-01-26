@@ -35,6 +35,12 @@ http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="Live",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 group-title="Live",TVBS
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1 group-title="Live",中天新闻
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 group-title="Live",东森新闻
+http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 group-title="Live",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="Live",France 24
@@ -273,11 +279,5 @@ http://111.29.9.33:6610/200000001898/460000089800010087/1.m3u8?IASHttpSessionId=
 http://111.29.9.33:6610/200000001898/460000089800010121/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",NEWTV精品萌宠
 http://111.29.9.33:6610/200000001898/460000089800010146/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="Mobile",晴彩青少
-http://111.29.9.33:6610/200000001898/460000089800010147/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="Mobile",晴彩广场舞
-http://111.29.9.33:6610/200000001898/460000089800010233/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="Mobile",哒啵赛事
-http://111.29.9.33:6610/200000001898/460000089800010120/1.m3u8?IASHttpSessionId=RR
 
 
