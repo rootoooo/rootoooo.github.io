@@ -20,14 +20,6 @@ https://guihet.com/convert-m3u-js.html
 
 https://github.com/pppyyyccc/streamshield-proxy
 
-@hkanime_bot
-1. https://live.hkdvb.com/hls/playlist.m3u?token=429661718889620
-2. https://edge1.hkdvb.com/hls/playlist.m3u?token=429661718889620
-3. https://edge2.hkdvb.com/hls/playlist.m3u?token=429661718889620
-4. https://edge3.hkdvb.com/hls/playlist.m3u?token=429661718889620
-5. https://edge2.tvfree.sbs/hls/playlist.m3u?token=429661718889620
-6. https://live.tvfree.sbs/hls/playlist.m3u?token=429661718889620
-
 4GTV：
 
 docker pull doubebly/doube-ofiii:latest
