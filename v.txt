@@ -16,6 +16,6 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
-https://github.com/Guovin/iptv-api/tree/master
+sudo docker run -d -p 8000:8000 --name fourgtv liuyong1987/fourgtv
 
 
