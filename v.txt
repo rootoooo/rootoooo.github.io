@@ -16,18 +16,4 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
-https://guihet.com/convert-m3u-js.html
-
-https://github.com/pppyyyccc/streamshield-proxy
-
-4GTV：
-
-docker pull doubebly/doube-ofiii:latest
-
-docker run -d --name=doube-ofiii -p 55555:5000 --restart=always doubebly/doube-ofiii:latest
-
-http://XXX:55555/help
-
-docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone  pixman iptv-api doube-itv doube-ofiii -c --schedule "0 0 2 * * *"
-
 
