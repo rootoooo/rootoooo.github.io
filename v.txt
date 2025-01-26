@@ -2,11 +2,7 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLnvo7lm70iLAogICJhZGQiOiAiMzguNjEuMS4xNTEi
 
 https://psub.888005.xyz
 
-https://bandwagonhost.com
-
 https://account.lightlayer.net
-
-https://claw.cloud
 
 qx.conf/jable.tv
 
@@ -22,7 +18,12 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuX
 
 https://github.com/pppyyyccc/streamshield-proxy
 
-
+1. https://live.hkdvb.com/hls/playlist.m3u?token=429661718889620
+2. https://edge1.hkdvb.com/hls/playlist.m3u?token=429661718889620
+3. https://edge2.hkdvb.com/hls/playlist.m3u?token=429661718889620
+4. https://edge3.hkdvb.com/hls/playlist.m3u?token=429661718889620
+5. https://edge2.tvfree.sbs/hls/playlist.m3u?token=429661718889620
+6. https://live.tvfree.sbs/hls/playlist.m3u?token=429661718889620
 
 4GTV：
 
@@ -33,15 +34,5 @@ docker run -d --name=doube-ofiii -p 55555:5000 --restart=always doubebly/doube-o
 http://127.0.0.1:55555/help
 
 docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone  pixman iptv-api doube-itv doube-ofiii -c --schedule "0 0 2 * * *"
-
-
-
-ClawCloud解锁ChatGPT：
-
-echo -e "nameserver 154.12.177.22
-
-nameserver 1.1.1.1" > /etc/resolv.conf
-
-bash <(curl -L -s media.ispvps.com)
 
 
