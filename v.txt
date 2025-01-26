@@ -20,6 +20,8 @@ https://guihet.com/convert-m3u-js.html
 
 https://github.com/pppyyyccc/streamshield-proxy
 
+
+
 4GTV：
 
 docker pull doubebly/doube-ofiii:latest
@@ -29,5 +31,15 @@ docker run -d --name=doube-ofiii -p 55555:5000 --restart=always doubebly/doube-o
 http://127.0.0.1:55555/help
 
 docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone  pixman iptv-api doube-itv doube-ofiii -c --schedule "0 0 2 * * *"
+
+
+
+ClawCloud解锁：
+
+echo -e "nameserver 154.12.177.22
+
+nameserver 1.1.1.1" > /etc/resolv.conf
+
+bash <(curl -L -s media.ispvps.com)
 
 
