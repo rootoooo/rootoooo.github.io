@@ -16,8 +16,6 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
-sudo docker run -d -p 8000:8000 --name fourgtv liuyong1987/fourgtv
-
 4GTV：
 
 docker pull doubebly/doube-ofiii:latest
@@ -26,6 +24,6 @@ docker run -d --name=doube-ofiii -p 50002:5000 --restart=always doubebly/doube-o
 
 http://127.0.0.1:50002/help
 
-docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower doube-itv -c --schedule "0 0 2 * * *"
+docker run -d --name watchtower --restart unless-stopped -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone  pixman iptv-api doube-itv doube-ofiii -c --schedule "0 0 2 * * *"
 
 
