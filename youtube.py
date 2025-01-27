@@ -38,7 +38,10 @@ if __name__ == '__main__':
     # 添加需要处理的 YouTube 直播地址列表
     youtube_urls = [
         "https://www.youtube.com/watch?v=HFib76ySpbU",  # 凤凰视频
-        "https://www.youtube.com/watch?v=vr3XyVCR4T0"   # 中天新闻
+        "https://www.youtube.com/watch?v=vr3XyVCR4T0",  # 中天新闻
+        "https://www.youtube.com/watch?v=o_-hSMgpAzs",  # TVBS
+        "https://www.youtube.com/watch?v=E0zhe2gkXBs",  # 东森新闻
+        "https://www.youtube.com/watch?v=aQT8mUr445I"   # Chinese DJ
     ]
 
     print("开始获取 YouTube 直播的真实流媒体地址：\n")
