@@ -237,6 +237,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="Live",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="Live",RTHK31
+RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+#EXTINF:-1 group-title="Live",RTHK32
+RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 #EXTINF:-1 group-title="Live",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 group-title="Live",TVBS新闻台
