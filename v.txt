@@ -22,6 +22,8 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
+http://47.79.16.93:8056/user_06fa4f8d/481f26ae4f404613
+
 bash <(curl -sS https://fdtv.dxjc.pp.ua//setup_hkdvb.sh)
 
 http://47.79.16.93/mytv.m3u
