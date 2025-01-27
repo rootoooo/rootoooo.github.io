@@ -10,7 +10,7 @@ https://bandwagonhost.com
 
 https://account.lightlayer.net
 
-qx.conf/jable.tv
+qx.conf jable.tv
 
 HK：https://cloudreve.haoss.eu.org/s/k5h6
 
@@ -22,7 +22,7 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
-http://47.79.16.93:8056/user_06fa4f8d/481f26ae4f404613
+http://47.79.16.93:8056 96e1e2223bfa79e10d07c48ae2f7210f user_e786dd0d ea07fa5f50e2b817
 
 bash <(curl -sS https://fdtv.dxjc.pp.ua//setup_hkdvb.sh)
 
