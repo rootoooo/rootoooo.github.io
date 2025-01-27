@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live",CCTV13
-http://138.2.110.209:35455/gaoma/cctv13.m3u8
+http://138.2.110.209:35455/itv/5000000011000031108.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="Live",中文News
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="Live",资讯News
