@@ -1,5 +1,7 @@
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLnvo7lm70iLAogICJhZGQiOiAiMzguNjEuMS4xNTEiLAogICJwb3J0IjogNDk0OTksCiAgImlkIjogIjQyNzlkNzY1LWVmYzQtNDJjNi1hNjBkLTRmNmQ5Yjk3MjA5MyIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiIiwKICAidGxzIjogIm5vbmUiCn0=
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1OTk5OVx1NkUyRiIsDQogICJhZGQiOiAiNDcuNzkuMTYuOTMiLA0KICAicG9ydCI6ICI0OTQ5OSIsDQogICJpZCI6ICJlNjlkZmIwNC00MDJkLTQ2MDgtOTViYy0xY2NhMzU3ZDBmYTYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+
 https://psub.888005.xyz
 
 https://bandwagonhost.com
@@ -17,5 +19,7 @@ https://www.baidu.com/s?wd=关键词%20-%E6%9D%8E%E5%BD%A6%E5%AE%8F
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
+
+重装后初始用户名: root  初始密码: LeitboGi0ro  初始端口: 22
 
 
