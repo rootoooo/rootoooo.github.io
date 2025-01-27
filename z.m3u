@@ -21,42 +21,26 @@ http://lu.wqwqwq.sbs/itv/1000000005000265031.m3u8?cdn=ystenlive
 http://lu.wqwqwq.sbs/itv/1000000001000001828.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="Live",湖南卫视
 http://lu.wqwqwq.sbs/itv/1000000005000265024.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="Live",凤凰中文
+#EXTINF:-1 group-title="Live",中文News
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="Live",凤凰资讯
+#EXTINF:-1 group-title="Live",资讯News
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="Live",无线新闻
+#EXTINF:-1 group-title="Live",无线News
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="Live",翡翠台4K
-http://cdn.163189.xyz/live/fct4k/stream.m3u8
-#EXTINF:-1 group-title="Live",翡翠台
-https://cdn3.163189.xyz/live/fct/stream.m3u8
-#EXTINF:-1 group-title="Live",凤凰中文
-http://cdn.163189.xyz/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="Live",TVB PLUS
-http://cdn.163189.xyz/live/tvbp/stream.m3u8
-#EXTINF:-1 group-title="Live",HOY TV
-http://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="Live",澳视澳门
-http://cdn.163189.xyz/live/asam/stream.m3u8
-#EXTINF:-1 group-title="Live",澳视卫星
-http://cdn.163189.xyz/live/as/stream.m3u8
-#EXTINF:-1 group-title="Live",重温经典
-http://cdn3.163189.xyz/live/cwjd/stream.m3u8
-#EXTINF:-1 group-title="Live",凤凰资讯
-http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="Live",TVB J1
-http://cdn3.163189.xyz/live/j1/stream.m3u8
-#EXTINF:-1 group-title="Live",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 group-title="Live",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 group-title="Live",翡翠台4K
-http://47.79.16.93:20000/live/fct4k/stream.m3u8
 #EXTINF:-1 group-title="Live",凤凰中文
 http://47.79.16.93:20000/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="Live",凤凰资讯
+http://47.79.16.93:20001/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="Live",无线新闻台
+http://47.79.16.93:20004/news/news.stream/chunklist_w105.m3u8
+#EXTINF:-1 group-title="Live",TVB星河
+http://47.79.16.93:20003/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+#EXTINF:-1 group-title="Live",翡翠台4K
+http://47.79.16.93:20000/live/fct4k/stream.m3u8
 #EXTINF:-1 group-title="Live",TVB PLUS
 http://47.79.16.93:20000/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="Live",TVB J1
+http://47.79.16.93:20001/live/j1/stream.m3u8
 #EXTINF:-1 group-title="Live",HOY TV
 http://47.79.16.93:20000/live/hoy/stream.m3u8
 #EXTINF:-1 group-title="Live",澳视澳门
@@ -65,10 +49,6 @@ http://47.79.16.93:20000/live/asam/stream.m3u8
 http://47.79.16.93:20000/live/as/stream.m3u8
 #EXTINF:-1 group-title="Live",重温经典
 http://47.79.16.93:20001/live/cwjd/stream.m3u8
-#EXTINF:-1 group-title="Live",凤凰资讯
-http://47.79.16.93:20001/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="Live",TVB J1
-http://47.79.16.93:20001/live/j1/stream.m3u8
 #EXTINF:-1 group-title="Live",广东珠江
 http://47.79.16.93:20007/live/gdzj/stream.m3u8
 #EXTINF:-1 group-title="Live",广东体育
@@ -91,10 +71,6 @@ http://47.79.16.93:20003/jade2/jade.stream/chunklist_w108.m3u8
 http://47.79.16.93:20003/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 #EXTINF:-1 group-title="Live",TVB娱乐新闻台
 http://47.79.16.93:20004/enew/enew.stream/chunklist_w103.m3u8
-#EXTINF:-1 group-title="Live",无线新闻台
-http://47.79.16.93:20004/news/news.stream/chunklist_w105.m3u8
-#EXTINF:-1 group-title="Live",TVB星河
-http://47.79.16.93:20003/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 #EXTINF:-1 group-title="Live",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="Live",France 24
