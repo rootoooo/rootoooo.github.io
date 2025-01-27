@@ -28,4 +28,14 @@ bash <(curl -sS https://fdtv.dxjc.pp.ua//setup_hkdvb.sh)
 
 http://47.79.16.93/mytv.m3u
 
+http://47.79.16.93:35455/tv.m3u
+
+http://47.79.16.93:35455/bililive.m3u
+
+http://47.79.16.93:35455/huayayqk.m3u
+
+http://47.79.16.93:35455/douyuyqk.m3u
+
+http://47.79.16.93:35455/yylunbo.m3u
+
 
