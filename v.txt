@@ -22,6 +22,8 @@ http://47.79.16.93:8056 8429d44fb8a31163a79eda7580c482c2 user_65016f47 4428d7348
 
 IPTV：https://imgtool.v1.mk/allinone.html
 
+docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=8z5llpcwggahz7vd00wt9vtv65805ds8 -userid=8031343115 -token=41564f3bdbe8a5801b1a7507063e2f4a7cf4db5621e98ca5f7254d78fef45d9fa196a94f808610e66f9312bdf438372d5b8fe2464a96478f27eb3a9e61af219fa65e3729551a8d
+
 bash <(curl -sS https://fdtv.dxjc.pp.ua//setup_hkdvb.sh)
 
 http://47.79.16.93/mytv.m3u
