@@ -27,10 +27,14 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="Live",无线News
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="Live",凤凰中文
+#EXTINF:-1 group-title="Live",凤凰卫视中文台
 http://47.79.16.93:20000/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="Live",凤凰资讯
+#EXTINF:-1 group-title="Live",凤凰卫视资讯台
 http://47.79.16.93:20001/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="Live",凤凰中文
+http://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="Live",凤凰资讯
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="Live",无线新闻台
 http://47.79.16.93:20004/news/news.stream/chunklist_w105.m3u8
 #EXTINF:-1 group-title="Live",TVB星河
