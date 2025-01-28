@@ -243,6 +243,8 @@ RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 #EXTINF:-1 group-title="Live",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="Live",无线新闻台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="Live",TVBS新闻台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 group-title="Live",DW
