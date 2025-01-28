@@ -86,31 +86,31 @@ df -h
 
 
 
-apt update -y && apt install -y curl socat wget sudo
+更新：apt update -y && apt install -y curl socat wget sudo
 
 
 
-bash <(curl -sL kejilion.sh)
+科技lion：bash <(curl -sL kejilion.sh)
 
 
 
-bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
+V2ray：bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
-wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
+Hysteria2：wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
 
 
 
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+X-ui：bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 
 
-bash <(curl -sL https://raw.githubusercontent.com/souying/serverMmon/main/scripts/mmon_install.sh)
+青蛇探针：bash <(curl -sL https://raw.githubusercontent.com/souying/serverMmon/main/scripts/mmon_install.sh)
 
 
 
-bash <(curl -sSL https://haoss.eu.org/m3u.sh)
+M3u代理：bash <(curl -sSL https://haoss.eu.org/m3u.sh)
 
 
 
@@ -121,5 +121,23 @@ chmod 700 ./install-frps.sh
 ./install-frps.sh install
 
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+
+
+ChatGPT-Mirror：
+
+cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
+
+cd ChatGPT-Mirror/
+
+cp .env.example .env && vi .env
+
+./deploy.sh
+
+cd /home/
+
+cd ChatGPT-Mirror/
+
+./deploy.sh
 
 
