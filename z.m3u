@@ -216,9 +216,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 group-title="Live",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 group-title="Live",Music
-http://38.61.1.151:10101/douyu/10118209
-#EXTINF:-1 group-title="Live",Model
 http://38.61.1.151:10101/douyu/9588891
+#EXTINF:-1 group-title="Live",Model
+http://38.61.1.151:10101/douyu/10118209
 #EXTINF:-1 group-title="Live",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Live",BBC
