@@ -217,10 +217,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 group-title="Live",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="Live",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="Live",Music
 http://38.61.1.151:10101/douyu/9588891
-#EXTINF:-1 group-title="Live",Model
-http://38.61.1.151:10101/douyu/10118209
 #EXTINF:-1 group-title="Live",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="Live",France 24
