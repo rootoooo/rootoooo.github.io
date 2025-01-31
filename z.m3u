@@ -69,6 +69,8 @@ http://111.29.9.33:6610/200000001898/460000089800010059/1.m3u8?IASHttpSessionId=
 http://111.29.9.33:6610/200000001898/460000089800010225/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",湖南卫视
 http://111.29.9.33:6610/200000001898/460000089800010058/1.m3u8?IASHttpSessionId=RR
+#EXTINF:-1 group-title="Mobile",海南卫视
+http://111.29.9.33:6610/200000001898/460000089800010083/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",广东珠江
 http://111.29.9.33:6610/200000001898/460000089800010091/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",广东卫视
@@ -107,8 +109,6 @@ http://111.29.9.33:6610/200000001898/460000089800010071/1.m3u8?IASHttpSessionId=
 http://111.29.9.33:6610/200000001898/460000089800010075/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",新海南
 http://111.29.9.33:6610/200000001898/460000089800010090/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="Mobile",海南卫视
-http://111.29.9.33:6610/200000001898/460000089800010083/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",东南卫视
 http://111.29.9.33:6610/200000001898/460000089800010096/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",甘肃卫视
@@ -179,14 +179,6 @@ http://111.29.9.33:6610/200000001898/460000089800010065/1.m3u8?IASHttpSessionId=
 http://111.29.9.33:6610/200000001898/460000089800010072/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",NEWTV黑莓电影
 http://111.29.9.33:6610/200000001898/460000089800010073/1.m3u8?IASHttpSessionId=RR
-#EXTINF:-1 group-title="Live",CCTV-13
-http://38.61.1.151:10101/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="Live",CCTV-1
-http://38.61.1.151:10101/gaoma/cctv1.m3u8
-#EXTINF:-1 group-title="Live",广西卫视
-http://38.61.1.151:10101/itv/5000000011000031118.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="Live",Music
-http://38.61.1.151:10101/douyu/9588891
 #EXTINF:-1 group-title="Live",凤凰卫视中文台
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="Live",凤凰卫视资讯台
