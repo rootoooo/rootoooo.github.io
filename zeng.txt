@@ -42,7 +42,7 @@ Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
 SMS：https://sms-activate.org/getNumber
 
-QuantumultX：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
+QuantumultX：https://haoss.eu.org/q.conf
 
 Shadowrocket：https://haoss.eu.org/YouTubeAd.sgmodule
 
