@@ -122,6 +122,12 @@ wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bas
 
 
 
+X-ui：
+
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+
+
+
 Serv00：
 
 bash <(curl -sSL https://haoss.eu.org/serv00.sh)
