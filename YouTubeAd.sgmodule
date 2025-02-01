@@ -1,14 +1,5 @@
 #!name = YouTube去广告
 
-#!desc =支持pip，后台播放
-
-#!author = Maasea 
-
-#!homepage=https://whatshub.top
-
-#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
-
-
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
 AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
