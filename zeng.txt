@@ -44,6 +44,8 @@ SMS：https://sms-activate.org/getNumber
 
 QuantumultX：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 
+Shadowrocket：https://haoss.eu.org/YouTubeAd.sgmodule
+
 Windows-v2rayN：https://github.com/2dust/v2rayn/releases
 
 Android-v2rayNG：https://github.com/2dust/v2rayNG/releases
