@@ -96,9 +96,9 @@ bash <(curl -sL kejilion.sh)
 
 
 
-V2ray：
+Argo：
 
-bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
+bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
 
 
@@ -108,15 +108,9 @@ wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bas
 
 
 
-X-ui：
+Serv00：
 
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-
-
-
-Argo：
-
-bash <(curl -sSL https://haoss.eu.org/argo.sh)
+bash <(curl -sSL https://haoss.eu.org/serv00.sh)
 
 
 
