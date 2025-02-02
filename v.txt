@@ -8,4 +8,6 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuX
 
 docker run -d --restart always --privileged=true -p 25252:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=34j2zsy64zeplziumzbc591fa867jc75 -userid=8031343115 -token=c54f39dd8c22f2b8162e01b44c19533a734f8ec640d06ddb2a03e761eddf261f96aa4fb9c4db66544d7702e20f38ee736bb8e17a4b4eb0292458e0315d49f5a12ba297cb861129
 
+https://live.iptv365.org/live.m3u
+
 
