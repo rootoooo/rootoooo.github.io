@@ -78,13 +78,12 @@ Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows
 
 开机启动：Win+R→shell:startup
 
-Android-Alist：https://github.com/jing332/AListFlutter/releases
+alist.txt文件修改→alist.vbs
 
-Android-Frp：https://github.com/jing332/FrpAndroid/releases
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run "cmd /k cd C:\Alist && alist server", 0, False
 
 Alist挂载：Cloudreve→Cookie→F12→Network网络→F5→config→session=XXX
-
-Alist下载：https://github.com/AlistGo/alist/releases
 
 Alist插件：https://github.com/TheSmallHanCat/Better_Alist
 
