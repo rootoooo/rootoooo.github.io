@@ -159,7 +159,7 @@ bash <(curl -sL kejilion.sh)
 
 V2ray：
 
-bash <(wget -qO- -o- https://git.io/v2ray.sh)
+bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
 
 
 
