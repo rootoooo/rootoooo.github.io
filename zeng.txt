@@ -102,6 +102,8 @@ Shadowrocket：https://haoss.eu.org/YouTubeAd.sgmodule
 
 Windows-v2rayN：https://github.com/2dust/v2rayn/releases
 
+Mac-Clash：https://github.com/clash-verge-rev/clash-verge-rev/releases
+
 Android-v2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
