@@ -157,6 +157,12 @@ bash <(curl -sL kejilion.sh)
 
 
 
+V2ray：
+
+bash <(curl -sSL https://haoss.eu.org/v2ray.sh)
+
+
+
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
