@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="News",CCTV-13
-https://tv.iill.top/migu/cctv13
 #EXTINF:-1 group-title="News",凤凰中文
 http://dns.yiandrive.com:15907/phenix/fhzw
 #EXTINF:-1 group-title="News",凤凰资讯
 http://dns.yiandrive.com:15907/phenix/fhzx
+#EXTINF:-1 group-title="News",中天新闻
+https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8
 #EXTINF:-1 group-title="Mobile",4KUHD
 http://111.29.9.33:6610/200000001898/460000089800010006/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 group-title="Mobile",CCTV1综合
@@ -191,12 +191,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="Live",无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="Live",中天新闻
-https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8
-#EXTINF:-1 group-title="Live",东森新闻
-https://stream1.freetv.fun/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
-#EXTINF:-1 group-title="Live",三立新闻
-https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.m3u8
 #EXTINF:-1 group-title="Live",Music
 http://dns.yiandrive.com:15907/douyu/9588891
 #EXTINF:-1 group-title="Live",Chinese Mix
