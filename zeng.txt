@@ -132,7 +132,7 @@ Android-v2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
-AdGuard：https://fastly.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
+AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
@@ -162,6 +162,8 @@ Alist-MAC：alist→应用程序
 df -h
 
 /Volumes/备份
+
+vmuser193012→LRuco21REtnaumS
 
 
 
