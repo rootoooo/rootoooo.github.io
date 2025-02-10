@@ -82,8 +82,6 @@ BandwagonHOST：https://bandwagonhost.com
 
 Lightlayer：https://account.lightlayer.net
 
-AkileCloud：https://akile.io
-
 Image：https://im.gurl.eu.org
 
 TVbox：https://raw.liucn.cc/box/m.json
