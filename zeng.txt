@@ -134,6 +134,8 @@ Fancyss：https://hq450.github.io/fancyss
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
+https://anti-ad.net/adguard.txt
+
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
