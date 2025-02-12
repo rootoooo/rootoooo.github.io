@@ -62,8 +62,6 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
-https://345iptv.com
-
 https://panel13.serv00.com 31.186.87.211 s13.serv00.com
 
 订阅转换：https://psub.888005.xyz
@@ -98,7 +96,7 @@ Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
-accessToken 获取地址：https://chatgpt.com/api/auth/session
+AccessToken：https://chatgpt.com/api/auth/session
 
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
@@ -185,12 +183,6 @@ bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
 
 
-Hysteria2：
-
-wget -N --no-check-certificate https://haoss.eu.org/hysteria2/hysteria.sh && bash hysteria.sh
-
-
-
 X-ui：
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
@@ -206,12 +198,6 @@ bash <(curl -sSL https://haoss.eu.org/serv00.sh)
 青蛇探针：
 
 bash <(curl -sL https://raw.githubusercontent.com/souying/serverMmon/main/scripts/mmon_install.sh)
-
-
-
-M3u代理：
-
-bash <(curl -sSL https://haoss.eu.org/m3u.sh)
 
 
 
