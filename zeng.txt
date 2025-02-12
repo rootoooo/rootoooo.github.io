@@ -221,6 +221,8 @@ cd ChatGPT-Mirror/
 
 cp .env.example .env && vi .env
 
+:wq
+
 ./deploy.sh
 
 cd /home/
