@@ -132,6 +132,10 @@ Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows
 
 开机启动：Win+R→shell:startup
 
+Alist：https://github.com/AlistGo/alist/releases
+
+Cloudreve：https://github.com/cloudreve/Cloudreve/releases
+
 alist.txt文件修改→alist.vbs
 
 Set WshShell = CreateObject("WScript.Shell")
