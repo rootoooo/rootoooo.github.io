@@ -86,7 +86,7 @@ M3u：https://guihet.com/convert-m3u-js.html
 
 M3u8：http://tonkiang.us
 
-AI：https://www.igdux.com/ai3
+Ai：https://www.igdux.com/ai3
 
 LocalSend：https://github.com/localsend/localsend
 
@@ -106,11 +106,11 @@ Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
 SMS：https://sms-activate.org/getNumber
 
-Windows-v2rayN：https://github.com/2dust/v2rayn/releases
+V2rayN：https://github.com/2dust/v2rayn/releases
 
-Mac-Clash：https://github.com/clash-verge-rev/clash-verge-rev/releases
+V2rayNG：https://github.com/2dust/v2rayNG/releases
 
-Android-v2rayNG：https://github.com/2dust/v2rayNG/releases
+ClashVerge：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
