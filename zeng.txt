@@ -106,10 +106,6 @@ Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
 SMS：https://sms-activate.org/getNumber
 
-QuantumultX：https://haoss.eu.org/qx.conf
-
-Shadowrocket：https://haoss.eu.org/YouTubeAd.sgmodule
-
 Windows-v2rayN：https://github.com/2dust/v2rayn/releases
 
 Mac-Clash：https://github.com/clash-verge-rev/clash-verge-rev/releases
