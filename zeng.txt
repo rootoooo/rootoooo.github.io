@@ -64,8 +64,6 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
-https://panel13.serv00.com 31.186.87.211 s13.serv00.com
-
 订阅转换：https://psub.888005.xyz
 
 软件检测：https://www.virscan.org
@@ -192,12 +190,6 @@ bash <(curl -sSL https://haoss.eu.org/argo.sh)
 X-ui：
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-
-
-
-Serv00：
-
-bash <(curl -sSL https://haoss.eu.org/serv00.sh)
 
 
 
