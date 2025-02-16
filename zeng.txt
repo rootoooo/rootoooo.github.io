@@ -1,3 +1,11 @@
+docker pull mybtjson/fastapi-4gtv:0.0.2
+
+docker run -d --name=fastapi-4gtv -p 50007:5000 --restart=always mybtjson/fastapi-4gtv:0.0.2
+
+http://ip:50007/?type=txt
+
+http://ip:50007/?type=m3u
+
 卿至如画
 卿至风来白卉香，四序因卿韶景长。
 山川万里皆图画，未及卿颜半分妆。
