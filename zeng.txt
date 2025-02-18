@@ -64,11 +64,7 @@ YouTube画中画：https://greasyfork.org/zh-CN/scripts/441866-act-youtube-dm-pi
 
 YouTube最高画质：https://greasyfork.org/zh-CN/scripts/501162-youtube-auto-hd
 
-vless://eed8e4d4-959f-4ebc-ad0d-a97a16c8946d@38.61.14.118:55939??encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=1KDcqWWxJCT9TuEjMoAQpPRYfWxihQqB5pJrYqLWDno&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-Zillion-network
-
-vmess://eyAidiI6ICIyIiwgInBzIjogIlVTLVppbGxpb24tbmV0d29yayIsICJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImVlZDhlNGQ0LTk1OWYtNGViYy1hZDBkLWE5N2ExNmM4OTQ2ZCIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAicGVyZm9ybWluZy1qcC1wbGFzdGljLW1pbmkudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yMDQ4IiwgInRscyI6ICJ0bHMiLCAic25pIjogInBlcmZvcm1pbmctanAtcGxhc3RpYy1taW5pLnRyeWNsb3VkZmxhcmUuY29tIiwgImFscG4iOiAiIiB9Cg==
-
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLnvo7lm70iLAogICJhZGQiOiAiMzguNjEuMTQuMTE4IiwKICAicG9ydCI6IDQ5NDk0LAogICJpZCI6ICI4OGExNzM2Mi05ODYwLTQzMGMtZTU3NC03MjQ5OWI2ZWU2MGMiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiL3VzIiwKICAidGxzIjogIm5vbmUiCn0=
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUyIsCiAgImFkZCI6ICIzOC42MS4xNC4xMTgiLAogICJwb3J0IjogNDk0OTQsCiAgImlkIjogImZmYTZmOTQwLWQyYTktNDljNC1lOWVhLTA0Nzk2ZTE3M2E4ZSIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvVVMiLAogICJ0bHMiOiAibm9uZSIKfQ==
 
 https://www.baidu.com/s?wd=关键词%20-%E6%9D%8E%E5%BD%A6%E5%AE%8F
 
@@ -162,8 +158,6 @@ Alist-MAC：alist→应用程序
 df -h
 
 /Volumes/备份
-
-vmuser193012→LRuco21REtnaumS
 
 
 
