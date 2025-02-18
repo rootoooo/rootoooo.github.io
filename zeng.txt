@@ -1,15 +1,3 @@
-https://github.com/sdmf19119/moveonjoy-m3u/tree/main
-
-https://bit.ly/moj-m3u8
-
-docker pull mybtjson/fastapi-4gtv:0.0.2
-
-docker run -d --name=fastapi-4gtv -p 50007:5000 --restart=always mybtjson/fastapi-4gtv:0.0.2
-
-http://ip:50007/?type=txt
-
-http://ip:50007/?type=m3u
-
 卿至如画
 卿至风来白卉香，四序因卿韶景长。
 山川万里皆图画，未及卿颜半分妆。
@@ -63,8 +51,6 @@ YouTube去广告：https://greasyfork.org/zh-CN/scripts/459541-youtube-adb
 YouTube画中画：https://greasyfork.org/zh-CN/scripts/441866-act-youtube-dm-pip-button
 
 YouTube最高画质：https://greasyfork.org/zh-CN/scripts/501162-youtube-auto-hd
-
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUyIsCiAgImFkZCI6ICIzOC42MS4xNC4xMTgiLAogICJwb3J0IjogNDk0OTQsCiAgImlkIjogImZmYTZmOTQwLWQyYTktNDljNC1lOWVhLTA0Nzk2ZTE3M2E4ZSIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvVVMiLAogICJ0bHMiOiAibm9uZSIKfQ==
 
 https://www.baidu.com/s?wd=关键词%20-%E6%9D%8E%E5%BD%A6%E5%AE%8F
 
