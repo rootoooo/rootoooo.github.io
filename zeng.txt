@@ -58,10 +58,6 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTIiwNCiAgImFkZCI6ICIzOC42MS4xNC4xMTgiLA0KICAicG9ydCI6ICI0OTQ5NCIsDQogICJpZCI6ICJmZmE2Zjk0MC1kMmE5LTQ5YzQtZTllYS0wNDc5NmUxNzNhOGUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9VUyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
-trojan://3782591447421952000@52.57.173.145:443?security=tls&sni=patient-ghost.treefrog761.one&allowInsecure=1&type=tcp&headerType=none#DE
-
 订阅转换：https://psub.888005.xyz
 
 软件检测：https://www.virscan.org
