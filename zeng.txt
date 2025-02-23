@@ -124,6 +124,8 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 ClashVerge：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
+ClashMeta：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
+
 Fancyss：https://hq450.github.io/fancyss
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
