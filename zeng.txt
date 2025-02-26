@@ -1,3 +1,7 @@
+https://bit.ly/iptv-aptv
+
+https://tv.iill.top/m3u/Gather
+
 docker pull mybtjson/fastapi-4gtv:1.0.3
 
 docker run -d --name=fastapi-4gtv -p 50007:5000 --restart=always mybtjson/fastapi-4gtv:1.0.3
