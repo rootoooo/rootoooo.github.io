@@ -3,7 +3,9 @@ docker pull mybtjson/fastapi-4gtv:1.0.3
 docker run -d --name=fastapi-4gtv -p 50007:5000 --restart=always mybtjson/fastapi-4gtv:1.0.3
 
 http://ip:50007/help
+
 http://ip:50007/?type=txt
+
 http://ip:50007/?type=m3u
 
 https://tz.nezha.su
