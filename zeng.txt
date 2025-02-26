@@ -20,6 +20,10 @@ https://jc.tiktokcn.xyz/s/5e1292e0ad8893afde5ede841e0f009d
 
 https://yjy.lol/s/cdc7c0842eda53123e0eb84d17490e75
 
+vless://cda486e1-2d72-4b7f-9d53-174d47831e85@191.101.132.126:444?type=tcp&security=reality&pbk=CjasDwM4WxTl1osMjwCwkBuDzFCNabbuHOpleAjNkBk&fp=chrome&sni=itunes.apple.com&sid=d56864&spx=%2F&flow=xtls-rprx-vision#8c1lsqfz
+
+vless://cda486e1-2d72-4b7f-9d53-174d47831e85@[2400:e3e0:f5a9:4861:1f25:c4f3:27fd:a14c]:444?type=tcp&security=reality&pbk=CjasDwM4WxTl1osMjwCwkBuDzFCNabbuHOpleAjNkBk&fp=chrome&sni=itunes.apple.com&sid=d56864&spx=%2F&flow=xtls-rprx-vision#8c1lsqfz
+
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUy0wMiIsCiAgImFkZCI6ICIzOC42MS4xNC4xMTgiLAogICJwb3J0IjogNDAwMDIsCiAgImlkIjogIjc1ZDBkNTc0LTljZTQtNDA2Zi1kNTVlLTZiYmMwNjMyOGE2MiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvNDAwMDIiLAogICJ0bHMiOiAibm9uZSIKfQ==
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUy0wMyIsCiAgImFkZCI6ICIzOC42MS4xNC4xMTgiLAogICJwb3J0IjogNDAwMDMsCiAgImlkIjogIjk1ZjVmNmZhLTkwMDUtNDNlYS1mNTQyLTA5MmNlMGI5OWY2NiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvNDAwMDMiLAogICJ0bHMiOiAibm9uZSIKfQ==
