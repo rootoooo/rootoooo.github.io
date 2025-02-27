@@ -1,3 +1,11 @@
+谷歌HK，http://34.96.214.137:50001/Sub?type=m3u
+
+阿里HK，http://8.218.67.196:50001/Sub?type=m3u
+
+HK，http://91.229.133.234:50001/Sub?type=m3u
+
+HK，http://38.207.178.130:50001/Sub?type=m3u
+
 https://bit.ly/iptv-aptv
 
 https://tv.iill.top/m3u/Gather
