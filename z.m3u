@@ -39,8 +39,16 @@ http://dns.yiandrive.com:15907/douyu/9588891
 http://dns.yiandrive.com:15907/douyu/8737695
 #EXTINF:-1 group-title="Live",虎牙-音乐石榴
 http://dns.yiandrive.com:15907/huya/17091681
-#EXTINF:-1 group-title="Live",Cti
+#EXTINF:-1 group-title="Live",HK Chinese
+http://122.117.71.103:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 group-title="Live",HK Information
+http://122.117.71.103:8573/http/220.130.87.218:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="Live",CTI
 http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+#EXTINF:-1 group-title="Live",EBC
+http://122.117.71.103:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
+#EXTINF:-1 group-title="Live",SET
+http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
 #EXTINF:-1 group-title="Live",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Live",BBC
