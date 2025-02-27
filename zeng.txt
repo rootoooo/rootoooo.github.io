@@ -90,6 +90,8 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEb
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
 
+VnQS1Sq243eQBa0AaHJQsbgTPBxKNozZHPL1qbgdcKA=
+
 订阅转换：https://psub.888005.xyz
 
 软件检测：https://www.virscan.org
@@ -119,6 +121,8 @@ LocalSend：https://github.com/localsend/localsend
 FinalShell：https://www.hostbuf.com
 
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
+
+RustDesk：https://github.com/rustdesk/rustdesk
 
 ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
 
@@ -250,5 +254,3 @@ cd /home/
 cd ChatGPT-Mirror/
 
 ./deploy.sh
-
-
