@@ -51,13 +51,13 @@ http://dns.yiandrive.com:15907/huya/11342412
 http://dns.yiandrive.com:15907/bilibili/27519423
 #EXTINF:-1 group-title="Live",哔哩哔哩-爱情公寓
 http://dns.yiandrive.com:15907/bilibili/31546095
-#EXTINF:-1 group-title="Live",抖音-第一财经
-http://dns.yiandrive.com:15907/douyin/269875672114
-#EXTINF:-1 group-title="Live",Twitch-艾怡
+#EXTINF:-1 group-title="Live",抖音-央视网
+http://dns.yiandrive.com:15907/douyin/kuaikancctv
+#EXTINF:-1 group-title="Live",艾怡
 https://live.iill.top/twitch/irissiri129
-#EXTINF:-1 group-title="Live",YouTube-音乐
+#EXTINF:-1 group-title="Live",Music
 https://live.iill.top/youtube/@HotPlaylist66
-#EXTINF:-1 group-title="Live",YouTube-Chinese Mix
+#EXTINF:-1 group-title="Live",Chinese Mix
 https://live.iill.top/youtube/@FM190-ld7qz
 #EXTINF:-1 group-title="Live",HK Chinese
 http://122.117.71.103:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
