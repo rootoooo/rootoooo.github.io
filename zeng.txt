@@ -1,7 +1,3 @@
-阿里HK，http://8.218.67.196:50001/Sub?type=m3u
-
-HK，http://38.207.178.130:50001/Sub?type=m3u
-
 https://bit.ly/iptv-aptv
 
 https://tv.iill.top/m3u/Gather
@@ -142,6 +138,8 @@ AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
 
+ZyPlayer：https://github.com/Hiram-Wong/ZyPlayer/releases
+
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
@@ -246,3 +244,5 @@ cd /home/
 cd ChatGPT-Mirror/
 
 ./deploy.sh
+
+
