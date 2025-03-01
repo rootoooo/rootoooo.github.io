@@ -96,8 +96,6 @@ LisaHOST：https://lisahost.com
 
 Lightlayer：https://account.lightlayer.net
 
-Dotdotnetworks：https://www.dotdotnetworks.com
-
 Image：https://im.gurl.eu.org
 
 TVbox：https://raw.liucn.cc/box/m.json
