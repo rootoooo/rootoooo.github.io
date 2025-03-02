@@ -2,10 +2,6 @@
 
 HK：http://38.207.178.130:50001/Sub?type=m3u
 
-json：https://91md.me/api.php/provide/vod/
-
-https://www.caoliuzyw.com/api.php/prodao/vod/
-
 https://bit.ly/iptv-aptv
 
 https://tv.iill.top/m3u/Gather
@@ -31,5 +27,9 @@ vless://d8b32035-caad-40ab-a53e-65c70c667d7f@www.visa.com.tw:443?encryption=none
 vmess://eyAidiI6ICIyIiwgInBzIjogIlVTLVppbGxpb24tbmV0d29yayIsICJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImQ4YjMyMDM1LWNhYWQtNDBhYi1hNTNlLTY1YzcwYzY2N2Q3ZiIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYmFycmllcnMtZ29hbC1leGNlc3NpdmUtcHJpY2VzLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL3ZtZXNzLWFyZ28/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJiYXJyaWVycy1nb2FsLWV4Y2Vzc2l2ZS1wcmljZXMudHJ5Y2xvdWRmbGFyZS5jb20iLCAiYWxwbiI6ICIiIH0K
 
 https://psub.888005.xyz
+
+json：https://91md.me/api.php/provide/vod/
+
+https://www.caoliuzyw.com/api.php/prodao/vod/
 
 
