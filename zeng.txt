@@ -2,6 +2,8 @@
 
 HK：http://38.207.178.130:50001/Sub?type=m3u
 
+json：https://91md.me/api.php/provide/vod/
+
 https://bit.ly/iptv-aptv
 
 https://tv.iill.top/m3u/Gather
