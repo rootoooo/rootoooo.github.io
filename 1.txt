@@ -18,9 +18,9 @@ http://ip:50007/?type=txt
 
 http://ip:50007/?type=m3u
 
-vless://d8b32035-caad-40ab-a53e-65c70c667d7f@www.visa.com.tw:443?encryption=none&security=tls&sni=barriers-goal-excessive-prices.trycloudflare.com&type=ws&host=barriers-goal-excessive-prices.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2048#US-Zillion-network
-
-vmess://eyAidiI6ICIyIiwgInBzIjogIlVTLVppbGxpb24tbmV0d29yayIsICJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImQ4YjMyMDM1LWNhYWQtNDBhYi1hNTNlLTY1YzcwYzY2N2Q3ZiIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYmFycmllcnMtZ29hbC1leGNlc3NpdmUtcHJpY2VzLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL3ZtZXNzLWFyZ28/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJiYXJyaWVycy1nb2FsLWV4Y2Vzc2l2ZS1wcmljZXMudHJ5Y2xvdWRmbGFyZS5jb20iLCAiYWxwbiI6ICIiIH0K
+vless://946d05ee-3bc6-403f-9478-670b25217812@38.61.14.118:38677??encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=FDLc-mDEEn5I1B_xbqJDt3pxLUI23fLHhQCEZXOxayc&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-Zillion-network
+vless://946d05ee-3bc6-403f-9478-670b25217812@www.visa.com.tw:443?encryption=none&security=tls&sni=pregnancy-am-thereby-conscious.trycloudflare.com&type=ws&host=pregnancy-am-thereby-conscious.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2048#US-Zillion-network
+vmess://eyAidiI6ICIyIiwgInBzIjogIlVTLVppbGxpb24tbmV0d29yayIsICJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjk0NmQwNWVlLTNiYzYtNDAzZi05NDc4LTY3MGIyNTIxNzgxMiIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAicHJlZ25hbmN5LWFtLXRoZXJlYnktY29uc2Npb3VzLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL3ZtZXNzLWFyZ28/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJwcmVnbmFuY3ktYW0tdGhlcmVieS1jb25zY2lvdXMudHJ5Y2xvdWRmbGFyZS5jb20iLCAiYWxwbiI6ICIiIH0K
 
 https://psub.888005.xyz
 
