@@ -1,6 +1,5 @@
 #!/bin/bash
 # Vmess一键安装脚本
-# Author: YouTube频道<https://www.youtube.com/channel/UCLd2LDzFPFoUnuQsP8y1wRA>
 
 
 RED="\033[31m"      # Error message
