@@ -2,8 +2,6 @@ http://8.218.67.196:50001/Sub?type=m3u
 
 http://38.207.178.130:50001/Sub?type=m3u
 
-https://github.haoss.eu.org/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-
 https://bit.ly/iptv-aptv
 
 https://tv.iill.top/m3u/Gather
