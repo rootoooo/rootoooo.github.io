@@ -185,12 +185,6 @@ bash <(curl -sSL https://haoss.eu.org/vmess.sh)
 
 
 
-Serv00：
-
-bash <(curl -sSL https://haoss.eu.org/serv00_vmess.sh)
-
-
-
 青蛇探针：
 
 bash <(curl -sL https://raw.githubusercontent.com/souying/serverMmon/main/scripts/mmon_install.sh)
