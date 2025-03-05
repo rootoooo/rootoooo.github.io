@@ -24,6 +24,8 @@ https://www.freebb.me
 
 https://panel13.serv00.com/31.186.87.211/s13.serv00.com
 
+curl -s https://raw.githubusercontent.com/qmsdh/serv00-vmess-sock5/main/sb_serv00_socks.sh -o sb00.sh && bash sb00.sh
+
 json：https://91md.me/api.php/provide/vod/
 
 https://www.caoliuzyw.com/api.php/prodao/vod/
