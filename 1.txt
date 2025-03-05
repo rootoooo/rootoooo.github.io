@@ -24,18 +24,8 @@ https://www.freebb.me
 
 https://panel13.serv00.com/31.186.87.211/s13.serv00.com
 
-curl -s https://raw.githubusercontent.com/qmsdh/serv00-vmess-sock5/main/sb_serv00_socks.sh -o sb00.sh && bash sb00.sh
-
 json：https://91md.me/api.php/provide/vod/
 
 https://www.caoliuzyw.com/api.php/prodao/vod/
 
 
-
-vmess://eyAidiI6ICIyIiwgInBzIjogIlBMLUF0bWFuX1NwLl96X28uby4iLCAiYWRkIjogIjMxLjE4Ni44Ny4yMTEiLCAicG9ydCI6ICIzMDAwOSIsICJpZCI6ICI1MTk1YzA0YS01NTJmLTRmOWUtOGJmOS0yMTZkMjU3YzA4MzkiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcz9lZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQo=
-
-vmess://eyAidiI6ICIyIiwgInBzIjogIlBMLUF0bWFuX1NwLl96X28uby4iLCAiYWRkIjogImZhbi55dXRpYW4udXMua2ciLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNTE5NWMwNGEtNTUyZi00ZjllLThiZjktMjE2ZDI1N2MwODM5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJub25lIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3M/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0K
-
-hysteria2://5195c04a-552f-4f9e-8bf9-216d257c0839@31.186.87.211:39203/?sni=www.bing.com&alpn=h3&insecure=1#PL-Atman_Sp._z_o.o.
-
-socks5://PL:1234567890@31.186.87.211:55850
