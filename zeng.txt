@@ -42,6 +42,8 @@ Bilibili免登录最高画质：https://greasyfork.org/zh-CN/scripts/467511-bili
 
 百度移动端：https://greasyfork.org/zh-CN/scripts/418349-%E7%A7%BB%E5%8A%A8%E7%AB%AF-%E7%99%BE%E5%BA%A6%E7%B3%BB%E4%BC%98%E5%8C%96
 
+百度：https://greasyfork.org/zh-CN/scripts/394099-百度系网站去广告
+
 东方永动机：https://greasyfork.org/zh-CN/scripts/438684-pagetual
 
 GitHub中文化：https://greasyfork.org/zh-CN/scripts/435208-github-%E4%B8%AD%E6%96%87%E5%8C%96%E6%8F%92%E4%BB%B6
