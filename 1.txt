@@ -6,15 +6,15 @@ https://bit.ly/iptv-aptv
 
 https://tv.iill.top/m3u/Gather
 
-docker pull mybtjson/fastapi-4gtv:1.0.3
+docker pull mybtjson/fastapi-4gtv:1.0.5
 
-docker run -d --name=fastapi-4gtv -p 50007:5000 --restart=always mybtjson/fastapi-4gtv:1.0.3
+docker run -d --name=fastapi-4gtv -p 50505:5000 --restart=always mybtjson/fastapi-4gtv:1.0.5
 
-http://ip:50007/help
+http://ip:50505/help
 
-http://ip:50007/?type=txt
+http://ip:50505/?type=txt
 
-http://ip:50007/?type=m3u
+http://ip:50505/?type=m3u
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTIiwNCiAgImFkZCI6ICIzOC42MS4xNC4xMTgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZDVmYTc4YjMtMzJlNi00OWRmLWIzZDgtMjgzYTg5Nzc4NGIzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzaGVoaC5ldS5vcmciLA0KICAicGF0aCI6ICIvYmluZ2FpIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
