@@ -20,27 +20,33 @@ http://38.61.14.118:50555/itv/1000000001000001828.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="Live",湖南卫视
 http://38.61.14.118:50555/itv/1000000005000265024.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="Live",凤凰中文
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="Live",凤凰资讯
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="Live",无线新闻
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="Live",翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="Live",明珠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="Live",星河台
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="Live",TVB Plus
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="Live",斗鱼-音乐
+http://dns.yiandrive.com:15907/douyu/9588891
+#EXTINF:-1 group-title="Live",虎牙-音乐
+http://dns.yiandrive.com:15907/huya/17091681
+#EXTINF:-1 group-title="Live",哔哩哔哩-音乐
+http://dns.yiandrive.com:15907/bilibili/27519423
+#EXTINF:-1 group-title="Live",凤凰中文
+http://122.117.71.103:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 group-title="Live",凤凰资讯
+http://122.117.71.103:8573/http/220.130.87.218:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 group-title="Live",中天新闻
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 #EXTINF:-1 group-title="Live",东森新闻
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="Live",CNA
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="Live",DW
-http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="Live",France 24
-http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+http://122.117.71.103:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
 #EXTINF:-1 group-title="Live",CCTV-1
 http://38.61.14.118:50555/gaoma/cctv1.m3u8
 #EXTINF:-1 group-title="Live",CCTV-1
@@ -591,34 +597,6 @@ http://38.61.14.118:50555/itv/1000000006000270004.m3u8?cdn=ystenlive
 http://38.61.14.118:50555/itv/1000000006000270005.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="Live",咪咕视频_8M1080_易视腾-6
 http://38.61.14.118:50555/itv/1000000006000270006.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="Live",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="Live",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="Live",无线新闻
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="Live",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="Live",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="Live",星河台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 group-title="Live",TVB Plus
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="Live",斗鱼-音乐
-http://dns.yiandrive.com:15907/douyu/9588891
-#EXTINF:-1 group-title="Live",虎牙-音乐
-http://dns.yiandrive.com:15907/huya/17091681
-#EXTINF:-1 group-title="Live",哔哩哔哩-音乐
-http://dns.yiandrive.com:15907/bilibili/27519423
-#EXTINF:-1 group-title="Live",凤凰中文
-http://122.117.71.103:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
-#EXTINF:-1 group-title="Live",凤凰资讯
-http://122.117.71.103:8573/http/220.130.87.218:8078/hls/20/80/phoenixif.m3u8
-#EXTINF:-1 group-title="Live",中天新闻
-http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-#EXTINF:-1 group-title="Live",东森新闻
-http://122.117.71.103:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
 #EXTINF:-1 group-title="Live",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Live",BBC
