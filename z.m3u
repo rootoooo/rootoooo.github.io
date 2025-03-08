@@ -47,10 +47,8 @@ http://122.117.71.103:8573/http/220.130.87.218:8078/hls/20/80/phoenixif.m3u8
 http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 #EXTINF:-1 group-title="Live",东森新闻
 http://122.117.71.103:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
-#EXTINF:-1 group-title="Live",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="Live",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="Live",三立新闻
+http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
 #EXTINF:-1 group-title="Live",CCTV-1
 http://38.61.14.118:50555/gaoma/cctv1.m3u8
 #EXTINF:-1 group-title="Live",CCTV-1
