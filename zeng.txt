@@ -165,6 +165,12 @@ bash <(curl -sL kejilion.sh)
 
 
 
+M3u：
+
+bash <(curl -sSL https://haoss.eu.org/m3u.sh)
+
+
+
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
