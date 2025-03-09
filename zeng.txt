@@ -147,7 +147,7 @@ df -h
 
 
 
-HongKong解锁ChatGPT：
+HK-DNS：
 
 echo -e "nameserver 154.12.177.22
 
