@@ -39,6 +39,8 @@ http://122.117.71.103:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
 http://122.117.71.103:8573/http/220.130.87.218:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 group-title="Live",Music
 http://dns.yiandrive.com:15907/douyu/9588891
+#EXTINF:-1 group-title="Live",Divine drama
+http://dns.yiandrive.com:15907/douyu/8737695
 #EXTINF:-1 group-title="Live",CCTV-13
 http://168.138.187.249:5000/TVOD/5000000011000031108/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 group-title="Live",CCTV-13
