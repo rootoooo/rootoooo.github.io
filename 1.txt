@@ -20,4 +20,6 @@ http://ip:port/tv.m3u
 
 douyu/huya/bilibili/
 
+http://185.238.248.134:5000/help
+
 
