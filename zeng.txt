@@ -195,16 +195,6 @@ bash <(curl -sL https://raw.githubusercontent.com/souying/serverMmon/main/script
 
 
 
-FreeAskInternet3000：
-
-git clone https://github.com/rootoooo/FreeAskInternet.git
-
-cd ./FreeAskInternet
-
-docker-compose up -d
-
-
-
 Frps服务端：
 
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
