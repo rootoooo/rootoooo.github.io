@@ -226,3 +226,15 @@ cd ChatGPT-Mirror/
 ./deploy.sh
 
 
+
+SiteProxy：
+
+git clone https://haoss.eu.org/siteproxy.git ~/siteproxy
+
+打开并修改5006：config.json
+
+cd ~/siteproxy
+
+sudo docker compose up -d
+
+
