@@ -226,15 +226,3 @@ cd ChatGPT-Mirror/
 ./deploy.sh
 
 
-
-SiteProxy：
-
-cd /home/ && git clone https://github.com/rootoooo/siteproxy.git
-
-cd /home/siteproxy
-
-cd docker-node
-
-sudo docker compose up -d
-
-
