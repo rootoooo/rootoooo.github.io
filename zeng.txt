@@ -198,7 +198,9 @@ bash <(curl -sL https://raw.githubusercontent.com/souying/serverMmon/main/script
 FreeAskInternet：
 
 git clone https://github.com/rootoooo/FreeAskInternet.git
+
 cd ./FreeAskInternet
+
 docker-compose up -d 
 
 
