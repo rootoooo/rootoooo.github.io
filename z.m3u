@@ -19,6 +19,8 @@ http://168.138.187.249:5000/TVOD/5000000004000007275/bestzb/index.m3u8$8M1080_�
 http://168.138.187.249:5000/TVOD/1000000001000001828/ystenlive/index.m3u8$8M1080_易视腾
 #EXTINF:-1 group-title="Live",湖南卫视
 http://168.138.187.249:5000/TVOD/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
+#EXTINF:-1 group-title="Live",中天新闻
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 group-title="Live",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="Live",凤凰中文
