@@ -16,6 +16,16 @@ http://ip:port/tv.m3u
 
 douyu/huya/bilibili/
 
+docker pull mybtjson/fastapi-4gtv:1.0.6
+
+docker run -d --name=fastapi-4gtv -p 50007:5000 --restart=always mybtjson/fastapi-4gtv:1.0.6
+
+http://ip:50007/help
+
+http://ip:50007/?type=txt
+
+http://ip:50007/?type=m3u
+
 http://168.138.187.249:5000/help
 
 http://150.230.195.152:5000/help
