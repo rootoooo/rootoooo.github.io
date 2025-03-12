@@ -10,7 +10,7 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 
 https://imgtool.v1.mk/allinone.html
 
-docker run -d --restart always --privileged=true -p 50505:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=g59hs7gxpvkmb5tpnyveaj95hw8b37cj -userid=8031343115 -token=7783cbd0f9fede619ae9ca9c6a2017979eeab1bed12d406b353bf8b7c74db45fbcdb06686588656204e4bd06e38ee8bb8371b7d291298786054e22a72b77b19cd929e7a00ba627
+docker run -d --restart always --privileged=true -p 50005:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=g59hs7gxpvkmb5tpnyveaj95hw8b37cj -userid=8031343115 -token=7783cbd0f9fede619ae9ca9c6a2017979eeab1bed12d406b353bf8b7c74db45fbcdb06686588656204e4bd06e38ee8bb8371b7d291298786054e22a72b77b19cd929e7a00ba627
 
 http://ip:port/tv.m3u
 
