@@ -133,8 +133,8 @@ https://cdn6.163189.xyz/live/ch5/stream.m3u8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1 group-title="Live",CHU
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1 group-title="Live",Music
-http://dns.yiandrive.com:15907/douyu/9588891
+#EXTINF:-1 group-title="Live",皇马
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Live",NBA TV
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1 group-title="Live",曼联
