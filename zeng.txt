@@ -102,8 +102,6 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
-RocketChat：https://github.com/RocketChat/Rocket.Chat.ReactNative/releases
-
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
@@ -119,6 +117,10 @@ https://github.haoss.eu.org/https://raw.githubusercontent.com/qoli/syncnext-api/
 Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip
 
 开机启动：Win+R→shell:startup
+
+RocketChat：https://github.com/RocketChat/Rocket.Chat.ReactNative/releases
+
+管理-通用-UTF8：[\u4e00-\u9fa50-9a-zA-Z-_.]+
 
 Alist：https://github.com/AlistGo/alist/releases
 
