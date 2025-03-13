@@ -102,6 +102,8 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
+RocketChat：https://github.com/RocketChat/Rocket.Chat.ReactNative/releases
+
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
