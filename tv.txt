@@ -16,6 +16,6 @@ http://ip:50055/?type=txt
 
 http://ip:50055/?type=m3u
 
-https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/gxyd.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/gxyd.m3u
 
 
