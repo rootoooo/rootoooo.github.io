@@ -24,4 +24,6 @@ http://150.230.255.231:888/help
 
 http://185.238.248.134:5000/help
 
+https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/gxyd.m3u
+
 
