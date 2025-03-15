@@ -24,34 +24,6 @@
 世路崎岖悲喜半，浮沉荣枯两相安。
 但将遗恨随流水，不惑方知道自宽。
 
-屏蔽广告：https://greasyfork.org/zh-CN/scripts/460743-屏蔽广告-屏蔽谷歌广告-百度广告-知乎广告-隐藏谷歌和百度搜索增强百度搜索结果的各种广告等等-过滤所有采用谷歌联盟和百度联盟等广告联盟的广告
-
-阅读全文：https://greasyfork.org/zh-CN/scripts/414010-阅读全文-自动展开全文-自动移除万恶弹框
-
-骚扰拦截：https://greasyfork.org/zh-CN/scripts/440871-骚扰拦截
-
-文本复制：https://greasyfork.org/zh-CN/scripts/405130-文本选中复制
-
-免登录：https://greasyfork.org/zh-CN/scripts/428960-csdn-知乎-哔哩哔哩-简书免登录去除弹窗广告
-
-抖音：https://greasyfork.org/zh-CN/scripts/501832-抖音免登录-去除登录相关组件-无水印下载视频
-
-Bilibili：https://greasyfork.org/zh-CN/scripts/467511-bilibili-在未登录的情况下自动并无限试用最高画质
-
-百度移动端：https://greasyfork.org/zh-CN/scripts/418349-移动端-百度系优化
-
-百度：https://greasyfork.org/zh-CN/scripts/394099-百度系网站去广告
-
-东方永动机：https://greasyfork.org/zh-CN/scripts/438684-pagetual
-
-GitHub中文化：https://greasyfork.org/zh-CN/scripts/435208-github-中文化插件
-
-YouTube去广告：https://greasyfork.org/zh-CN/scripts/459541-youtube-adb
-
-YouTube画中画：https://greasyfork.org/zh-CN/scripts/441866-act-youtube-dm-pip-button
-
-YouTube最高画质：https://greasyfork.org/zh-CN/scripts/501162-youtube-auto-hd
-
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg
 
 https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
