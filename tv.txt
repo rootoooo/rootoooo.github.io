@@ -18,4 +18,6 @@ http://ip:50055/?type=m3u
 
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/gxyd.m3u
 
+http://tv.nezha.su:35455/tv.m3u
+
 
