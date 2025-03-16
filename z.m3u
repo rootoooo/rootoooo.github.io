@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live",CCTV-13
 http://tv.nezha.su:35455/itv/5000000011000031108.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="Live",CCTV-1
-http://tv.nezha.su:35455/itv/5000000004000002226.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="Live",CCTV-5
 http://tv.nezha.su:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="Live",CCTV-5+
 http://tv.nezha.su:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="Live",CCTV-16
-http://tv.nezha.su:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="Nezha",广西卫视
 http://tv.nezha.su:35455/itv/5000000011000031118.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="Live",东方卫视
@@ -43,14 +39,6 @@ http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
 http://tv.nezha.su:35455/gaoma/cctv13.m3u8
 #EXTINF:-1 group-title="Nezha",CCTV-13
 http://tv.nezha.su:35455/itv/5000000011000031108.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="Nezha",CCTV-1
-http://tv.nezha.su:35455/gaoma/cctv1.m3u8
-#EXTINF:-1 group-title="Nezha",CCTV-1
-http://tv.nezha.su:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
-#EXTINF:-1 group-title="Nezha",CCTV-1
-http://tv.nezha.su:35455/itv/5000000004000002226.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="Nezha",CCTV-1
-http://tv.nezha.su:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="Nezha",CCTV-5
 http://tv.nezha.su:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 group-title="Nezha",CCTV-5
@@ -63,14 +51,6 @@ http://tv.nezha.su:35455/gaoma/cctv5p.m3u8
 http://tv.nezha.su:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="Nezha",CCTV-5+
 http://tv.nezha.su:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="Nezha",CCTV-16
-http://tv.nezha.su:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="Nezha",CCTV-16
-http://tv.nezha.su:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="Nezha",CCTV-16 4K
-http://tv.nezha.su:35455/itv/5000000008000023254.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="Nezha",CCTV-16 4K
-http://tv.nezha.su:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1 group-title="Nezha",广西卫视
 http://tv.nezha.su:35455/itv/5000000011000031118.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="Nezha",东方卫视
@@ -97,6 +77,14 @@ http://tv.nezha.su:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 http://tv.nezha.su:35455/itv/6000000001000018044.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="Nezha",湖南卫视
 http://tv.nezha.su:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="Nezha",CCTV-1
+http://tv.nezha.su:35455/gaoma/cctv1.m3u8
+#EXTINF:-1 group-title="Nezha",CCTV-1
+http://tv.nezha.su:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
+#EXTINF:-1 group-title="Nezha",CCTV-1
+http://tv.nezha.su:35455/itv/5000000004000002226.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="Nezha",CCTV-1
+http://tv.nezha.su:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="Nezha",CCTV-2
 http://tv.nezha.su:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 group-title="Nezha",CCTV-2
@@ -181,6 +169,14 @@ http://tv.nezha.su:35455/gaoma/cctv15.m3u8
 http://tv.nezha.su:35455/itv/5000000011000031109.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="Nezha",CCTV-15
 http://tv.nezha.su:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="Nezha",CCTV-16
+http://tv.nezha.su:35455/gaoma/cctv16.m3u8
+#EXTINF:-1 group-title="Nezha",CCTV-16
+http://tv.nezha.su:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="Nezha",CCTV-16 4K
+http://tv.nezha.su:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="Nezha",CCTV-16 4K
+http://tv.nezha.su:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1 group-title="Nezha",CCTV-17
 http://tv.nezha.su:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 group-title="Nezha",CCTV-17
