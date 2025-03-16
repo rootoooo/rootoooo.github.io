@@ -205,7 +205,7 @@ cd ChatGPT-Mirror/
 
 Siteproxy：
 
-git clone https://github.com/netptop/siteproxy.git
+git clone https://github.com/rootoooo/siteproxy.git
 
 config.json
 
