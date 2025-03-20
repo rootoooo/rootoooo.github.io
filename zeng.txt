@@ -74,6 +74,12 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
+QuantumultX：https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf
+
+Shadowrocket-Youtube去广告：https://github.haoss.eu.org/https://github.com/Maasea/sgmodule/raw/master/YouTube.Enhance.sgmodule
+
+Shadowrocket-墨鱼去广告模块：https://github.haoss.eu.org/https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule
+
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
