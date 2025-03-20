@@ -153,21 +153,9 @@ bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
 
 
-Vmess：
-
-bash <(curl -sSL https://haoss.eu.org/vmess.sh)
-
-
-
 X-ui：
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-
-
-
-3X-ui
-
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 
 
