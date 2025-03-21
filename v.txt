@@ -22,4 +22,8 @@ docker run -d --name=fastapi-4gtv -p 40002:5000 --restart=always mybtjson/fastap
 
 http://ip:40002/help
 
+https://c.xxx.eu.org/dav
+
+LbkPVBxS3pAlroRpWOf15DI3KV9qH6Yf
+
 
