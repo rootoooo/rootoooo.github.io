@@ -11,14 +11,18 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="Live",凤凰资讯
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="Live",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="Live",无线新闻
+http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="Live",翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1 group-title="Live",明珠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="Live",中天新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 group-title="Live",东森新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1 group-title="Live",三立新闻
+http://aktv_stream1.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 #EXTINF:-1 group-title="Live",皇马
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Live",Astro Football
