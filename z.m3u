@@ -23,10 +23,6 @@ http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1 group-title="Live",曼联
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1 group-title="Live",Chinese
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="Live",Information
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="Live",Music
 http://php.jdshipin.com/live/douyu/9588891
 #EXTINF:-1 group-title="Mobile",CCTV-13
