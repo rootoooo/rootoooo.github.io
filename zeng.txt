@@ -202,3 +202,11 @@ cd ChatGPT-Mirror/
 /home/ChatGPT-Mirror
 
 
+
+Jitsi Meet：
+
+sudo apt update
+
+sudo apt install jitsi-meet
+
+
