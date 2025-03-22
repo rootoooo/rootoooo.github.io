@@ -32,4 +32,6 @@ http://ip:port/Sub.m3u
 
 http://ip:port/Sub.txt
 
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+
 
