@@ -24,4 +24,12 @@ docker run -d --name=fastapi-4gtv -p 40002:5000 --restart=always mybtjson/fastap
 
 http://ip:40002/help
 
+docker pull doubebly/doube-itv-plus:1.0.3
+
+docker run -d --name=doube-itv-plus -p 40003:5000 --restart=always doubebly/doube-itv-plus:1.0.3
+
+http://ip:port/Sub.m3u
+
+http://ip:port/Sub.txt
+
 
