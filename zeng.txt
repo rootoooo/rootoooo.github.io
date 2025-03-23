@@ -193,12 +193,4 @@ cp .env.example .env && vi .env
 
 ./deploy.sh
 
-cd /home/
-
-cd ChatGPT-Mirror/
-
-./deploy.sh
-
-/home/ChatGPT-Mirror
-
 
