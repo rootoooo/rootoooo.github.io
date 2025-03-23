@@ -28,9 +28,9 @@ docker pull doubebly/doube-itv-plus:1.0.3
 
 docker run -d --name=doube-itv-plus -p 40003:5000 --restart=always doubebly/doube-itv-plus:1.0.3
 
-http://ip:port/Sub.m3u
+http://ip:40003/Sub.m3u
 
-http://ip:port/Sub.txt
+http://ip:40003/Sub.txt
 
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 
