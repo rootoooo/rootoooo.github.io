@@ -8,30 +8,4 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUy1MQSIsCiAgImFkZCI6ICJ1cy1sYS5zaGVoaC5l
 
 https://psub.888005.xyz
 
-http://tonkiang.us
-
-https://imgtool.v1.mk/allinone.html
-
-docker run -d --restart always --privileged=true -p 40001:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=g59hs7gxpvkmb5tpnyveaj95hw8b37cj -userid=8031343115 -token=7783cbd0f9fede619ae9ca9c6a2017979eeab1bed12d406b353bf8b7c74db45fbcdb06686588656204e4bd06e38ee8bb8371b7d291298786054e22a72b77b19cd929e7a00ba627
-
-http://ip:port/tv.m3u
-
-douyu/huya/bilibili/
-
-docker pull mybtjson/fastapi-4gtv:1.1.0
-
-docker run -d --name=fastapi-4gtv -p 40002:5000 --restart=always mybtjson/fastapi-4gtv:1.1.0
-
-http://ip:40002/help
-
-docker pull doubebly/doube-itv-plus:1.0.3
-
-docker run -d --name=doube-itv-plus -p 40003:5000 --restart=always doubebly/doube-itv-plus:1.0.3
-
-http://ip:40003/Sub.m3u
-
-http://ip:40003/Sub.txt
-
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-
 
