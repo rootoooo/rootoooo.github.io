@@ -38,6 +38,14 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuX
 
 爱盼：https://www.temp.cx
 
+M3u8搜索：http://tonkiang.us
+
+M3u8下载：https://github.com/HeiSir2014/M3U8-Downloader/releases
+
+BiliBili下载：https://github.com/leiurayer/downkyi/releases
+
+YouTube下载：https://youtube4kdownloader.com
+
 https://dash.cloudflare.com
 
 https://bwh81.net
@@ -51,8 +59,6 @@ Image：https://im.gurl.eu.org
 TVbox：https://raw.liucn.cc/box/m.json
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
-
-M3u8：http://tonkiang.us
 
 Ai：https://www.igdux.com/ai3
 
@@ -79,8 +85,6 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
-
-QuantumultX：https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf
 
 Shadowrocket-Youtube去广告：https://github.haoss.eu.org/https://github.com/Maasea/sgmodule/raw/master/YouTube.Enhance.sgmodule
 
