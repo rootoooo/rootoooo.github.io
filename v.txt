@@ -2,10 +2,4 @@ vless://b4391812-060f-474d-8cd2-f40fb096cccc@38.61.14.118:36759?encryption=none&
 
 vless://47c5a56f-1f61-40d3-af7a-665ddf229c12@144.34.231.118:3164?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=2tniWUygX5__DhNhdUJkBQE4xLiVCPoo1bvbIdP8IAc&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-LA
 
-https://cloudreve.XXX.eu.org/dav
-
-IDr37xexTlWySTOHPyvgdymbCWs95MEA
-
-R4d5xbPsVlL9Mjd2XIxEOAoTZUfiQeqG
-
 
