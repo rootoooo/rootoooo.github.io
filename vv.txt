@@ -2,4 +2,12 @@ vless://5a91dbce-7a90-4029-a2fd-0a3ef262f016@38.61.14.118:19218??encryption=none
 
 vless://47c5a56f-1f61-40d3-af7a-665ddf229c12@144.34.231.118:3164?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=2tniWUygX5__DhNhdUJkBQE4xLiVCPoo1bvbIdP8IAc&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-LA
 
+综合各种环境：fast-fast.asuscomm.com
+
+电信最优：fast-10000.asuscomm.com
+
+联通最优：fast-10010.asuscomm.com
+
+移动最优：fast-10086.asuscomm.com
+
 
