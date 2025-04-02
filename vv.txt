@@ -10,4 +10,8 @@ vless://47c5a56f-1f61-40d3-af7a-665ddf229c12@144.34.231.118:3164?encryption=none
 
 移动最优：fast-10086.asuscomm.com
 
+f8FDK3fhscY7ibVvsPeWJqQGsNxlYcrV
+
+80APzpLEPcMfzGBcaiPDmCRkntHBNGp4
+
 
