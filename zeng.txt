@@ -38,6 +38,10 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuX
 
 爱盼：https://www.temp.cx
 
+音乐：https://music.gdstudio.xyz
+
+图床：https://im.gurl.eu.org
+
 M3u8搜索：http://tonkiang.us
 
 M3u8下载：https://github.com/HeiSir2014/M3U8-Downloader/releases
@@ -51,10 +55,6 @@ https://dash.cloudflare.com
 https://bwh81.net
 
 https://account.lightlayer.net
-
-Music：https://music.gdstudio.xyz
-
-Image：https://im.gurl.eu.org
 
 TVbox：https://raw.liucn.cc/box/m.json
 
@@ -160,12 +160,6 @@ bash <(curl -sL kejilion.sh)
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
-
-
-
-X-ui：
-
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 
 
