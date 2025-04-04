@@ -30,17 +30,13 @@ https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuX
 
 订阅转换：https://psub.888005.xyz
 
-软件检测：https://www.virscan.org
+检测：https://www.virscan.org
 
-https://www.virustotal.com
+分析：https://www.virustotal.com
 
-InternetDownloadManager：https://prajna.lanzn.com/b04gihtfa
-
-磁力搜索：https://lemonue.top
+搜索：https://lemonue.top
 
 算命：https://www.212222.xyz
-
-爱盼：https://www.temp.cx
 
 音乐：https://music.gdstudio.xyz
 
@@ -53,6 +49,8 @@ M3u8下载：https://github.com/HeiSir2014/M3U8-Downloader/releases
 BiliBili下载：https://github.com/leiurayer/downkyi/releases
 
 YouTube下载：https://youtube4kdownloader.com
+
+IDM：https://prajna.lanzn.com/b04gihtfa
 
 https://dash.cloudflare.com
 
