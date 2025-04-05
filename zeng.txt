@@ -38,25 +38,21 @@ https://psub.888005.xyz
 
 算命：https://www.212222.xyz
 
-音乐：https://music.gdstudio.xyz
-
-图床：https://im.gurl.eu.org
-
-M3u8搜索：http://tonkiang.us
-
-M3u8下载：https://github.com/HeiSir2014/M3U8-Downloader/releases
-
-BiliBili下载：https://github.com/leiurayer/downkyi/releases
-
-YouTube下载：https://youtube4kdownloader.com
-
-IDM：https://prajna.lanzn.com/b04gihtfa
-
 https://dash.cloudflare.com
 
 https://bwh81.net
 
 https://account.lightlayer.net
+
+BiliBili：https://github.com/leiurayer/downkyi/releases
+
+YouTube：https://youtube4kdownloader.com
+
+Image：https://im.gurl.eu.org
+
+Music：https://music.gdstudio.xyz
+
+M3u8：http://tonkiang.us
 
 TVbox：https://raw.liucn.cc/box/m.json
 
