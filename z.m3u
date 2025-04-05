@@ -353,6 +353,8 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 group-title="Live",EBC-AKTV
 http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1 group-title="Live",DW
+http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="Live",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Live",BBC
