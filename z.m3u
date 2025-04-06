@@ -372,7 +372,7 @@ https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 group-title="Live",SET
 https://www.youtube.com/watch?v=MV9mI0GChwo
 #EXTINF:-1 group-title="Live",DW
-https://www.youtube.com/watch?v=LuKwFajn37U
+http://103.251.89.243:50007/4gtv-live071/index.m3u8
 #EXTINF:-1 group-title="Live",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Live",BBC
