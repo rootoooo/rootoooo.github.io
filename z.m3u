@@ -359,9 +359,9 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="Live",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="Live",皇马
+#EXTINF:-1 group-title="Live",皇家马德里
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Live",曼联
+#EXTINF:-1 group-title="Live",曼彻斯特联
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="Live",Information
 https://www.youtube.com/watch?v=HFib76ySpbU
