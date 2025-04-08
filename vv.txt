@@ -18,4 +18,6 @@ https://ids.ailiao.eu
 
 https://rjueulti.manus.space
 
+https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/smt.json
+
 
