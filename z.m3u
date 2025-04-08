@@ -341,6 +341,14 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="Live",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="Live",Information
+https://www.youtube.com/watch?v=HFib76ySpbU
+#EXTINF:-1 group-title="Live",CTI
+https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 group-title="Live",Chinese Mix
+https://www.youtube.com/watch?v=aQT8mUr445I
+#EXTINF:-1 group-title="Live",DJ MoonBaby
+https://www.youtube.com/watch?v=F2tpshELd1o
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",皇家马德里
