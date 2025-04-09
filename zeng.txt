@@ -90,6 +90,10 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
+Shadowrocket-美区共享ID：https://ids.ailiao.eu
+
+https://rjueulti.manus.space
+
 Shadowrocket-Youtube去广告：https://github.haoss.eu.org/https://github.com/Maasea/sgmodule/raw/master/YouTube.Enhance.sgmodule
 
 Shadowrocket-墨鱼去广告模块：https://github.haoss.eu.org/https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule
