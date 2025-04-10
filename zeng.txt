@@ -48,10 +48,6 @@ https://bwh81.net
 
 https://account.lightlayer.net
 
-BiliBili：https://github.com/leiurayer/downkyi/releases
-
-YouTube：https://youtube4kdownloader.com
-
 Image：https://im.gurl.eu.org
 
 Money：https://zh.tradingeconomics.com
@@ -63,8 +59,6 @@ M3u8：http://tonkiang.us
 TVbox：https://raw.liucn.cc/box/m.json
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
-
-Ai：https://www.igdux.com/ai3
 
 SMS：https://sms-activate.org/getNumber
 
@@ -110,13 +104,9 @@ https://github.com/icy37785/syncnextPlugin
 
 https://github.haoss.eu.org/https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-Windows+Shift+S：C:\Users\Administrator\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip
+Windows+Shift+S
 
-开机启动：Win+R→shell:startup
-
-RocketChat：https://github.com/RocketChat/Rocket.Chat.ReactNative/releases
-
-管理-通用-UTF8：[\u4e00-\u9fa50-9a-zA-Z-_.]+
+Win+R→shell:startup
 
 Alist：https://github.com/AlistGo/alist/releases
 
