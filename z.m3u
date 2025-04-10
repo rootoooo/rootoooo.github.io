@@ -341,20 +341,26 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="Live",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="Live",Information
-https://www.youtube.com/watch?v=HFib76ySpbU
-#EXTINF:-1 group-title="Live",CTI
-https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 group-title="Live",Chinese Mix
-https://www.youtube.com/watch?v=aQT8mUr445I
-#EXTINF:-1 group-title="Live",DJ MoonBaby
-https://www.youtube.com/watch?v=F2tpshELd1o
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",皇家马德里
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Live",曼彻斯特联
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="Live",Information
+https://www.youtube.com/watch?v=HFib76ySpbU
+#EXTINF:-1 group-title="Live",TVBS
+https://www.youtube.com/watch?v=o_-hSMgpAzs
+#EXTINF:-1 group-title="Live",CTI
+https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 group-title="Live",EBC
+https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 group-title="Live",SET
+https://www.youtube.com/watch?v=MV9mI0GChwo
+#EXTINF:-1 group-title="Live",Chinese Mix
+https://www.youtube.com/watch?v=aQT8mUr445I
+#EXTINF:-1 group-title="Live",DJ MoonBaby
+https://www.youtube.com/watch?v=F2tpshELd1o
 #EXTINF:-1 group-title="Live",TVBS
 http://108.181.21.27:27347/livehttpplay?channel_id=20085
 #EXTINF:-1 group-title="Live",CTI
@@ -363,6 +369,10 @@ http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 http://108.181.20.197/livehttpplay?channel_id=20082
 #EXTINF:-1 group-title="Live",SET
 http://108.181.20.197/livehttpplay?channel_id=10126
+#EXTINF:-1 group-title="Live",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="Live",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Live",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Live",BBC
