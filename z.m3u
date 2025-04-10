@@ -343,10 +343,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Live",Chinese Mix
-https://live.iill.top/youtube/@FM190-ld7qz
-#EXTINF:-1 group-title="Live",DJ MoonBaby
-https://live.iill.top/youtube/@moonbabydj
+#EXTINF:-1 group-title="Live",Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 #EXTINF:-1 group-title="Live",皇家马德里
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Live",曼彻斯特联
@@ -367,12 +365,16 @@ http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 http://108.181.20.197/livehttpplay?channel_id=20082
 #EXTINF:-1 group-title="Live",SET
 http://108.181.20.197/livehttpplay?channel_id=10126
+#EXTINF:-1 group-title="Live",NHK World
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="Live",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="Live",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Live",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Live",News24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:-1 group-title="Live",BBC
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="Live",RT
