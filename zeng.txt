@@ -76,7 +76,7 @@ LocalSend：https://github.com/localsend/localsend
 
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
-ChatGPT：https://github.com/lencx/ChatGPT/releases/tag/v1.1.0
+Chrome：https://crxdl.com
 
 AccessToken：https://chatgpt.com/api/auth/session
 
