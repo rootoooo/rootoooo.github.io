@@ -64,6 +64,8 @@ M3u8：http://tonkiang.us
 
 TVbox：https://raw.liucn.cc/box/m.json
 
+http://我不是.摸鱼儿.com
+
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 SMS：https://sms-activate.org/getNumber
