@@ -84,6 +84,8 @@ Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
 
+Rcx：https://github.com/x0b/rcx/releases
+
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
 V2rayN：https://github.com/2dust/v2rayn/releases
