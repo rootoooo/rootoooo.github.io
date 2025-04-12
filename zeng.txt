@@ -106,8 +106,6 @@ AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
 
-https://github.haoss.eu.org/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
-
 ZyPlayer：https://github.com/Hiram-Wong/ZyPlayer/releases
 
 Syncnext：https://github.com/Quinndark/syncnextPlugin
