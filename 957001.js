@@ -1,6 +1,6 @@
 var rule = {
-    title:'310直播',
-    host:'http://www.310.tv',
+    title:'957直播',
+    host:'http://www.957001.tv',
     url:'/?s=0&t=1&a=fyclass&g=fypage',
     searchUrl:'',
     searchable:0,
