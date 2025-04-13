@@ -58,6 +58,8 @@ https://account.lightlayer.net
 
 Image：https://im.gurl.eu.org
 
+LibreTV：https://libretv.is-an.org
+
 Money：https://zh.tradingeconomics.com
 
 Music：https://music.gdstudio.xyz
