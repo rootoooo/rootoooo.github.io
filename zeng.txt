@@ -58,8 +58,6 @@ https://account.lightlayer.net
 
 Image：https://im.gurl.eu.org
 
-ChinaMobile：https://itv.aptv.app/china-iptv/gxyd.m3u
-
 Money：https://zh.tradingeconomics.com
 
 Music：https://music.gdstudio.xyz
@@ -97,10 +95,6 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
-
-Shadowrocket-美区共享ID：https://ids.ailiao.eu
-
-https://rjueulti.manus.space
 
 Shadowrocket-Youtube去广告：https://github.haoss.eu.org/https://github.com/Maasea/sgmodule/raw/master/YouTube.Enhance.sgmodule
 
