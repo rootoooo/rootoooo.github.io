@@ -98,7 +98,9 @@ Shadowrocket-Youtube去广告：https://github.haoss.eu.org/https://github.com/M
 
 Shadowrocket-墨鱼去广告模块：https://github.haoss.eu.org/https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule
 
-AdGuard：https://github.com/privacy-protection-tools/anti-AD
+AdGuard：https://github.com/AdguardTeam/AdGuardHome/releases
+
+https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
 
