@@ -102,10 +102,6 @@ AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
 
-https://wsgzao.github.io/post/adguard
-
-https://easylist-downloads.adblockplus.org/easylistchina.txt
-
 ZyPlayer：https://github.com/Hiram-Wong/ZyPlayer/releases
 
 Syncnext：https://github.com/Quinndark/syncnextPlugin
