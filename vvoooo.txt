@@ -10,13 +10,9 @@ https://lbapi9.com/api.php/provide/vod/
 
 https://psub.888005.xyz
 
-vless://5a91dbce-7a90-4029-a2fd-0a3ef262f016@38.61.14.118:19218??encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=iRVI6XAH4dMWUcGMmSldAOCaHLcKP7jsjW7cmIsWXDc&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-SJ
-
 vless://5a91dbce-7a90-4029-a2fd-0a3ef262f016@www.visa.com.tw:443?encryption=none&security=tls&sni=testimony-am-constitutes-gets.trycloudflare.com&type=ws&host=testimony-am-constitutes-gets.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2048#US-SJ
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUy1TSiIsCiAgImFkZCI6ICJ3d3cudmlzYS5jb20udHciLAogICJwb3J0IjogIjQ0MyIsCiAgImlkIjogIjVhOTFkYmNlLTdhOTAtNDAyOS1hMmZkLTBhM2VmMjYyZjAxNiIsCiAgImFpZCI6ICIwIiwKICAic2N5IjogIm5vbmUiLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogInRlc3RpbW9ueS1hbS1jb25zdGl0dXRlcy1nZXRzLnRyeWNsb3VkZmxhcmUuY29tIiwKICAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yMDQ4IiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJ0ZXN0aW1vbnktYW0tY29uc3RpdHV0ZXMtZ2V0cy50cnljbG91ZGZsYXJlLmNvbSIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIgp9
-
-vless://0946ab04-0d62-4510-a313-c5aaed2eb227@144.34.231.118:20985?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=rpGn02uZF9FEvv7ujjSXt6daBV3Mb9tsVGDMc4nreBI&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-LA
 
 vless://0946ab04-0d62-4510-a313-c5aaed2eb227@www.visa.com.tw:443?encryption=none&security=tls&sni=penny-bio-sbjct-examining.trycloudflare.com&type=ws&host=penny-bio-sbjct-examining.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2048#US-LA
 
