@@ -78,6 +78,8 @@ Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
 Chrome：https://crxdl.com
 
+ChatAir：https://github.com/flyun/chatAir/releases/tag/release-1.2.3
+
 AccessToken：https://chatgpt.com/api/auth/session
 
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
