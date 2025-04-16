@@ -175,14 +175,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 
 
-青蛇探针：
-
-bash <(curl -sL https://raw.githubusercontent.com/souying/serverMmon/main/scripts/mmon_install.sh)
-
-/opt/serverMmon
-
-
-
 Frps服务端：
 
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
@@ -194,19 +186,5 @@ chmod 700 ./install-frps.sh
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 /usr/local/frps
-
-
-
-ChatGPT-Mirror：
-
-cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
-
-cd ChatGPT-Mirror/
-
-cp .env.example .env && vi .env
-
-:wq
-
-./deploy.sh
 
 
