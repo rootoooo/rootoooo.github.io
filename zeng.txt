@@ -188,3 +188,17 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 /usr/local/frps
 
 
+
+ChatGPT-Mirror：
+
+cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
+
+cd ChatGPT-Mirror/
+
+cp .env.example .env && vi .env
+
+:wq
+
+./deploy.sh
+
+
