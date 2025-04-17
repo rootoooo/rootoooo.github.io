@@ -31,7 +31,7 @@ class youtube:
 if __name__ == '__main__':
     # 使用 argparse 获取命令行传入的 URL
     parser = argparse.ArgumentParser(description='Stream tester.')
-    parser.add_argument('url', type=str, help='YouTube 直播地址')  # 设置命令行参数
+    parser.add_argument('url', type=str, help='https://www.youtube.com/watch?v=vr3XyVCR4T0')  # 设置命令行参数
     parser.add_argument('-p', '--proxy', type=str, nargs='?', default=None, help='Set the proxy server to use.')
     parser.add_argument('-k', '--cookie', type=str, nargs='?', default=None, help='Set the cookie file to use.')
     args = parser.parse_args()
