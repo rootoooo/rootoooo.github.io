@@ -1,4 +1,4 @@
-# 获取youtube直播的真实流媒体地址。
+import argparse
 import yt_dlp
 
 class youtube:
@@ -29,13 +29,16 @@ class youtube:
 
 
 if __name__ == '__main__':
-    import argparse
+    # 使用 argparse 获取命令行传入的 URL
     parser = argparse.ArgumentParser(description='Stream tester.')
+    parser.add_argument('url', type=str, help='YouTube 直播地址')  # 设置命令行参数
     parser.add_argument('-p', '--proxy', type=str, nargs='?', default=None, help='Set the proxy server to use.')
     parser.add_argument('-k', '--cookie', type=str, nargs='?', default=None, help='Set the cookie file to use.')
     args = parser.parse_args()
 
-    url = input('输入youtube直播地址：\n')
+    # 通过命令行传入的 URL
+    url = args.url
+
     real_url = youtube(url, args.cookie, args.proxy).get_real_url()
     if real_url is not None:
         print(real_url)
