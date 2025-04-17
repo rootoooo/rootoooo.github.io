@@ -2,7 +2,7 @@ import argparse
 import yt_dlp
 
 class youtube:
-    def __init__(self, url:str, cookiefile:str = None, proxy:str = None):
+    def __init__(self, url: str, cookiefile: str = None, proxy: str = None):
         if url.startswith('http'):
             self.youtube_url = url
         else:
@@ -18,29 +18,30 @@ class youtube:
     def get_real_url(self):
         try:
             info = self.ydl.extract_info(self.youtube_url, download=False)
-            if 'manifest_url' in info:
-                return [info['manifest_url']]
             if 'url' in info:
-                return [info['url']]
+                return [info['url']]  # 直接返回 url
+            if 'manifest_url' in info:
+                return [info['manifest_url']]  # 备用的 url
             return []
         except Exception as e:
-            print('Error: ' + str(e))
+            print(f"Error: {e}")
             return []
 
-
 if __name__ == '__main__':
-    # 使用 argparse 获取命令行传入的 URL
     parser = argparse.ArgumentParser(description='Stream tester.')
-    parser.add_argument('url', type=str, help='https://www.youtube.com/watch?v=vr3XyVCR4T0')  # 设置命令行参数
-    parser.add_argument('-p', '--proxy', type=str, nargs='?', default=None, help='Set the proxy server to use.')
-    parser.add_argument('-k', '--cookie', type=str, nargs='?', default=None, help='Set the cookie file to use.')
+    parser.add_argument('url', type=str, help='https://www.youtube.com/watch?v=vr3XyVCR4T0')  # 必需的 URL 参数
+    parser.add_argument('-p', '--proxy', type=str, nargs='?', default=None, help='设置代理服务器')
+    parser.add_argument('-k', '--cookie', type=str, nargs='?', default=None, help='设置 cookie 文件')
     args = parser.parse_args()
 
-    # 通过命令行传入的 URL
+    # 获取 URL 参数
     url = args.url
 
+    # 获取真实的播放流 URL
     real_url = youtube(url, args.cookie, args.proxy).get_real_url()
-    if real_url is not None:
-        print(real_url)
+
+    if real_url:
+        print(f"获取到的真实流 URL: {real_url}")
     else:
-        print('未开播或直播间不存在')
+        print("未开播或直播间不存在")
+        exit(1)
