@@ -373,6 +373,10 @@ http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
 #EXTINF:-1 group-title="Live",Football
 http://aktv_stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1 group-title="Live",ESPN
+http://aktv_stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
+#EXTINF:-1 group-title="Live",ESPN NEWS
+http://aktv_stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 #EXTINF:-1 group-title="Live",TVBS
 http://108.181.21.27:27347/livehttpplay?channel_id=20085
 #EXTINF:-1 group-title="Live",CTI
@@ -383,8 +387,6 @@ http://108.181.20.197/livehttpplay?channel_id=20082
 http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 group-title="Live",SET
 http://108.181.20.197/livehttpplay?channel_id=10126
-#EXTINF:-1 group-title="Live",SETnews
-http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 #EXTINF:-1 group-title="Live",NHK World
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="Live",CNA
