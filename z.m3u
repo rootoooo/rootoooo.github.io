@@ -360,7 +360,7 @@ http://108.181.20.197/livehttpplay?channel_id=30015
 #EXTINF:-1 group-title="Live",TVBS
 http://108.181.21.27:27347/livehttpplay?channel_id=20085
 #EXTINF:-1 group-title="Live",CTI
-http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 group-title="Live",EBC
 http://108.181.20.197/livehttpplay?channel_id=20082
 #EXTINF:-1 group-title="Live",SET
