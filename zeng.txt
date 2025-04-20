@@ -175,9 +175,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 
 
-Frps服务端：
+Frps：
 
-wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
+wget --no-check-certificate https://haoss.eu.org/frps/install-frps.sh -O ./install-frps.sh
 
 chmod 700 ./install-frps.sh
 
