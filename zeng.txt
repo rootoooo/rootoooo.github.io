@@ -187,8 +187,6 @@ chmod 700 ./install-frps.sh
 
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
-./install-frps.sh uninstall
-
 
 
 ChatGPT-Mirror：
