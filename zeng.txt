@@ -179,6 +179,8 @@ Frps：
 
 wget --no-check-certificate https://haoss.eu.org/frps/install-frps.sh -O ./install-frps.sh
 
+wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
+
 chmod 700 ./install-frps.sh
 
 ./install-frps.sh install
