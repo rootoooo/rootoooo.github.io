@@ -8,6 +8,8 @@ cms[json]：https://91md.me/api.php/provide/vod/
 
 https://lbapi9.com/api.php/provide/vod/
 
+搜资源：https://api.souavzy.vip/api.php/provide/vod/?ac=list
+
 丝袜资源：https://www.siwazyw.tv/api.php/provide/vod/at/json/
 
 玉兔资源：https://apiyutu.com/api.php/providedao/vod/?ac=list
