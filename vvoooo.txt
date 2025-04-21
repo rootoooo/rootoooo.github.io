@@ -4,7 +4,9 @@ AD1456-FREE-CMBE4RS2F2-s/k5h6-s/mOsK
 
 D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-cms[json]：https://91md.me/api.php/provide/vod/
+cms[json]：https://json02.heimuer.xyz/api.php/provide/vod/?ac=list
+
+https://91md.me/api.php/provide/vod/
 
 https://lbapi9.com/api.php/provide/vod/
 
