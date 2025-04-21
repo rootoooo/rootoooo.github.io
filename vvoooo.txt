@@ -8,6 +8,10 @@ cms[json]：https://91md.me/api.php/provide/vod/
 
 https://lbapi9.com/api.php/provide/vod/
 
+丝袜资源：https://www.siwazyw.tv/api.php/provide/vod/at/json/
+
+玉兔资源：https://apiyutu.com/api.php/providedao/vod/?ac=list
+
 https://psub.888005.xyz
 
 vless://0946ab04-0d62-4510-a313-c5aaed2eb227@144.34.231.118:20985?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=rpGn02uZF9FEvv7ujjSXt6daBV3Mb9tsVGDMc4nreBI&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-LA
