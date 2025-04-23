@@ -383,8 +383,6 @@ http://108.181.20.197/livehttpplay?channel_id=20066
 http://108.181.20.197/livehttpplay?channel_id=30015
 #EXTINF:-1 group-title="Live",TVBS HD
 http://108.181.21.27:27347/livehttpplay?channel_id=20085
-#EXTINF:-1 group-title="Live",CTI NEWS
-https://www.youtube.com/watch?v=vr3XyVCR4T0
 #EXTINF:-1 group-title="Live",CTS NEWS
 http://108.181.20.197/livehttpplay?channel_id=20086
 #EXTINF:-1 group-title="Live",EBC NEWS
@@ -399,6 +397,8 @@ http://108.181.20.197/livehttpplay?channel_id=20033
 http://108.181.20.197/livehttpplay?channel_id=20028
 #EXTINF:-1 group-title="Live",FTV NEWS
 http://108.181.21.27:27347/livehttpplay?channel_id=20097
+#EXTINF:-1 group-title="Live",Hollywood
+http://108.181.20.197/livehttpplay?channel_id=20062
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",Qmusic
