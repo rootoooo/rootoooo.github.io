@@ -332,15 +332,47 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="Live",凤凰香港
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="Live",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 group-title="Live",无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="Live",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="Live",有线综合
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="Live",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="Live",翡翠台
+http://php.jdshipin.com:8880/xsj.php?id=lotustv
+#EXTINF:-1 group-title="Live",翡翠台 4K
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 group-title="Live",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="Live",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 group-title="Live",明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 group-title="Live",星河台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="Live",TVB Plus
+#EXTINF:-1 group-title="Live",娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 group-title="Live",美亚电影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="Live",TVB Plus J2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="Live",TVB Plus J2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="Live",TVB Plus J2
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 group-title="Live",TVB Jade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="Live",VIU TV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="Live",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 group-title="Live",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 group-title="Live",澳门莲花
+http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",Qmusic
@@ -361,10 +393,18 @@ http://108.181.20.197/livehttpplay?channel_id=30015
 http://108.181.21.27:27347/livehttpplay?channel_id=20085
 #EXTINF:-1 group-title="Live",CTI
 http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 group-title="Live",CTS
+http://108.181.20.197/livehttpplay?channel_id=20086
 #EXTINF:-1 group-title="Live",EBC
 http://108.181.20.197/livehttpplay?channel_id=20082
 #EXTINF:-1 group-title="Live",SET
 http://108.181.20.197/livehttpplay?channel_id=10126
+#EXTINF:-1 group-title="Live",USTV
+http://108.181.20.197/livehttpplay?channel_id=20034
+#EXTINF:-1 group-title="Live",ERA
+http://108.181.20.197/livehttpplay?channel_id=20033
+#EXTINF:-1 group-title="Live",Next TV
+http://108.181.20.197/livehttpplay?channel_id=20028
 #EXTINF:-1 group-title="Live",NHK World
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="Live",CNA
@@ -393,6 +433,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Live",Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Live",Formosa TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Live",Formosa TV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Live",Bloomberg
