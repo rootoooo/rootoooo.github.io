@@ -403,8 +403,10 @@ http://108.181.20.197/livehttpplay?channel_id=10126
 http://108.181.20.197/livehttpplay?channel_id=20034
 #EXTINF:-1 group-title="Live",ERA
 http://108.181.20.197/livehttpplay?channel_id=20033
-#EXTINF:-1 group-title="Live",Next TV
+#EXTINF:-1 group-title="Live",NEXT
 http://108.181.20.197/livehttpplay?channel_id=20028
+#EXTINF:-1 group-title="Live",FTV
+http://108.181.21.27:27347/livehttpplay?channel_id=20097
 #EXTINF:-1 group-title="Live",NHK World
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="Live",CNA
