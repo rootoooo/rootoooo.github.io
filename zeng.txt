@@ -96,6 +96,8 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
+IOS：https://whatshub.top
+
 Shadowrocket-Youtube去广告：https://github.haoss.eu.org/https://github.com/Maasea/sgmodule/raw/master/YouTube.Enhance.sgmodule
 
 Shadowrocket-墨鱼去广告模块：https://github.haoss.eu.org/https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule
