@@ -143,7 +143,9 @@ df -h
 
 
 
-4GTV：
+TV：
+
+-# bash -c "$(curl -sL https://yang-1989.eu.org/pixman.sh)"
 
 docker pull mybtjson/pixman-4gtv:0.0.8
 
