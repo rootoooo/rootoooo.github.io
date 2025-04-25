@@ -159,6 +159,8 @@ http://ip:50555/?type=m3u
 
 首次访问设置账号密码，避免小人扒拉你节点信息：http://ip:50007/xray
 
+https://live.iptv365.org/live.txt
+
 
 
 DNS：
