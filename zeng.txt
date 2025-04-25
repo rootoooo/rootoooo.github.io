@@ -143,8 +143,6 @@ df -h
 
 /Volumes/备份
 
-ssh root@X.X.X.X
-
 
 
 TV：
