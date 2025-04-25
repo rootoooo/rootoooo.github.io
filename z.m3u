@@ -379,6 +379,8 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 #EXTINF:-1 group-title="Live",VIU TV Six
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 group-title="Live",HOY 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="Live",RTHK31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 #EXTINF:-1 group-title="Live",RTHK32
@@ -397,8 +399,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 group-title="Live",EBC NEWS
 https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-#EXTINF:-1 group-title="Live",NBA
-https://smart.pendy.dpdns.org/Smart.php?id=Nba
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",Qmusic
