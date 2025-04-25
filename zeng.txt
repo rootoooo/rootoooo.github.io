@@ -76,6 +76,8 @@ LocalSend：https://github.com/localsend/localsend
 
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
+RustDesk：https://github.com/rustdesk/rustdesk/releases
+
 Chrome：https://crxdl.com
 
 ChatAir：https://github.com/flyun/chatAir/releases/tag/release-1.2.3
