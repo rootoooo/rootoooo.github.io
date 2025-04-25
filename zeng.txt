@@ -202,14 +202,6 @@ Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/xiaowenlaile/reality/refs/heads/master/prepare.sh)"
-
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/XTLS/Xray-install/refs/heads/main/install-release.sh)" @ install
-
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/xiaowenlaile/reality/refs/heads/master/install.sh)"
-
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/xiaowenlaile/reality/refs/heads/master/target.sh)" x www.airbnb.com
-
 www.airbnb.com
 download-installer.cdn.mozilla.net
 addons.mozilla.org
