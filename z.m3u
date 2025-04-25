@@ -337,16 +337,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 #EXTINF:-1 group-title="Live",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="Live",凤凰中文
-http://108.181.20.197/livehttpplay?channel_id=20065
-#EXTINF:-1 group-title="Live",凤凰中文
-http://108.181.20.197/livehttpplay?channel_id=30014
 #EXTINF:-1 group-title="Live",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="Live",凤凰资讯
-http://108.181.20.197/livehttpplay?channel_id=20066
-#EXTINF:-1 group-title="Live",凤凰资讯
-http://108.181.20.197/livehttpplay?channel_id=30015
 #EXTINF:-1 group-title="Live",凤凰香港
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="Live",无线新闻
@@ -391,6 +383,12 @@ http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 #EXTINF:-1 group-title="Live",RTHK32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 group-title="Live",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Live",RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Live",RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Live",澳门莲花
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="Live",TVBS HD
@@ -399,6 +397,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 group-title="Live",EBC NEWS
 https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+#EXTINF:-1 group-title="Live",NBA
+https://smart.pendy.dpdns.org/Smart.php?id=Nba
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",Qmusic
