@@ -143,6 +143,27 @@ df -h
 
 
 
+4GTV：
+
+docker pull mybtjson/pixman-4gtv:0.0.8
+
+docker run -d \
+   --name=woshishabi \
+   -p 50007:5000 \
+   -p 8089:8089 \
+   --restart=always \
+   mybtjson/pixman-4gtv:0.0.8
+
+http://ip:50007/help
+
+http://ip:50007/?type=txt
+
+http://ip:50007/?type=m3u
+
+http://ip:50007/xray
+
+
+
 DNS：
 
 echo -e "nameserver 154.12.177.22
