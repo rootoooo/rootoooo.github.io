@@ -151,6 +151,15 @@ nameserver 1.1.1.1" > /etc/resolv.conf
 
 bash <(curl -L -s media.ispvps.com)
 
+Default: 154.83.83.83
+HK: 154.83.83.84
+JP: 154.83.83.85
+TW: 154.83.83.86
+SG: 154.83.83.87
+US: 154.83.83.88
+UK: 154.83.83.89
+DE: 154.83.83.90
+
 
 
 Debian更新：
