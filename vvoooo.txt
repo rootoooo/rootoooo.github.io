@@ -24,8 +24,6 @@ https://91md.me/api.php/provide/vod/
 
 https://avjoy.me
 
-https://collect.wolongzyw.com/api.php/provide/vod/
-
 https://psub.888005.xyz
 
 vless://0946ab04-0d62-4510-a313-c5aaed2eb227@144.34.231.118:20985?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=rpGn02uZF9FEvv7ujjSXt6daBV3Mb9tsVGDMc4nreBI&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-LA
