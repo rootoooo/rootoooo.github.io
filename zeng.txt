@@ -143,7 +143,7 @@ df -h
 
 
 
-HK-DNS：
+DNS：
 
 echo -e "nameserver 154.12.177.22
 
