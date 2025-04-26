@@ -219,12 +219,6 @@ player.live-video.net
 
 
 
-X-ui：
-
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-
-
-
 Frps：
 
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
