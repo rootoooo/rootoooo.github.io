@@ -16,8 +16,6 @@ LA：TA96enNTcanvpeOgpNafsHmdGFLJuchn
 
 LA-Video：mG7KgMA5YFsww7AvP7g9SqzyyI791QsD
 
-SJ-Video：JhOdse934gaqpUUee1DSFtQwmkSzRJy7
-
 cms[json]：https://json02.heimuer.xyz/api.php/provide/vod/?ac=list
 
 https://91md.me/api.php/provide/vod/
