@@ -393,12 +393,12 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Live",澳门莲花
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="Live",TVBS
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 #EXTINF:-1 group-title="Live",CTI
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 group-title="Live",CTI
 http://docker.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 group-title="Live",CTI
+http://docker.livednow.dpdns.org/of-4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",Qmusic
