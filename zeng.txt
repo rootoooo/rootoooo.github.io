@@ -161,8 +161,6 @@ http://ip:50555/?type=m3u
 
 http://www.livednow.dpdns.org/?type=m3u&proxy=true
 
-http://docker.livednow.dpdns.org/?type=m3u&proxy=true
-
 
 
 DNS：
