@@ -455,6 +455,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 #EXTINF:-1 group-title="Live",EBC
 https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+#EXTINF:-1 group-title="Live",SKY
+https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",Qmusic
