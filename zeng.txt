@@ -194,6 +194,12 @@ bash <(curl -sL kejilion.sh)
 
 
 
+3X-ui：
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+
+
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
