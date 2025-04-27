@@ -100,6 +100,8 @@ Chrome：https://crxdl.com
 
 AccessToken：https://chatgpt.com/api/auth/session
 
+OpenAI-API：https://openai.com/index/openai-api
+
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
