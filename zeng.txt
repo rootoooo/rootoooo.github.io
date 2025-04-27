@@ -52,19 +52,13 @@ https://account.lightlayer.net
 
 https://acck.io
 
-Grok：https://grok.dairoot.cn
-
 Image：https://im.gurl.eu.org
-
-Money：https://zh.tradingeconomics.com
 
 Music：https://music.gdstudio.xyz
 
 M3u8：http://tonkiang.us
 
 TVbox：https://raw.liucn.cc/box/m.json
-
-http://我不是.摸鱼儿.com
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
@@ -79,8 +73,6 @@ Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 RustDesk：https://github.com/rustdesk/rustdesk/releases
 
 Chrome：https://crxdl.com
-
-ChatAir：https://github.com/flyun/chatAir/releases/tag/release-1.2.3
 
 AccessToken：https://chatgpt.com/api/auth/session
 
@@ -98,17 +90,9 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
-IOS：https://whatshub.top
-
-Shadowrocket-Youtube去广告：https://github.haoss.eu.org/https://github.com/Maasea/sgmodule/raw/master/YouTube.Enhance.sgmodule
-
-Shadowrocket-墨鱼去广告模块：https://github.haoss.eu.org/https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule
-
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
-
-ZyPlayer：https://github.com/Hiram-Wong/ZyPlayer/releases
 
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
@@ -157,7 +141,7 @@ http://ip:50555/?type=txt
 
 http://ip:50555/?type=m3u
 
-首次访问设置账号密码，避免小人扒拉你节点信息：http://ip:50555/xray
+http://ip:50555/xray
 
 http://www.livednow.dpdns.org/?type=m3u&proxy=true
 
