@@ -159,8 +159,6 @@ http://ip:50555/?type=m3u
 
 首次访问设置账号密码，避免小人扒拉你节点信息：http://ip:50555/xray
 
-https://live.iptv365.org/live.txt
-
 http://www.livednow.dpdns.org/?type=m3u&proxy=true
 
 http://docker.livednow.dpdns.org/?type=m3u&proxy=true
