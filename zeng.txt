@@ -149,6 +149,8 @@ s13.serv00.com
 
 https://panel13.serv00.com
 
+TCP：18818-21288，UDP：33880
+
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/serv00.sh)
 
 
