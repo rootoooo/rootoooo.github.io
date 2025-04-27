@@ -16,10 +16,6 @@
         "api": "cms://zxzj",
     },
       {
-        "name": "MISS",
-        "api": "csp_Miss",
-    },
-      {
         "name": "MD",
         "api": "https://91md.me/api.php/provide/vod/",
     },
