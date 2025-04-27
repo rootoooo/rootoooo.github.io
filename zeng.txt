@@ -145,6 +145,14 @@ df -h
 
 
 
+s13.serv00.com
+
+https://panel13.serv00.com
+
+
+
+
+
 TV：
 
 docker pull mybtjson/pixman-4gtv:0.0.8
