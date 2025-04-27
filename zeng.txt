@@ -149,7 +149,7 @@ s13.serv00.com
 
 https://panel13.serv00.com
 
-
+bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/serv00.sh)
 
 
 
