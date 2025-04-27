@@ -198,6 +198,7 @@ Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
+www.iij.ad.jp
 www.airbnb.com
 download-installer.cdn.mozilla.net
 addons.mozilla.org
