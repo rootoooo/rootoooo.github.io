@@ -147,8 +147,6 @@ df -h
 
 TV：
 
--# bash -c "$(curl -sL https://yang-1989.eu.org/pixman.sh)"
-
 docker pull mybtjson/pixman-4gtv:0.0.8
 
 docker run -d --name=china -p 50555:5000 -p 8089:8089 --restart=always mybtjson/pixman-4gtv:0.0.8
@@ -159,7 +157,7 @@ http://ip:50555/?type=txt
 
 http://ip:50555/?type=m3u
 
-首次访问设置账号密码，避免小人扒拉你节点信息：http://ip:50007/xray
+首次访问设置账号密码，避免小人扒拉你节点信息：http://ip:50555/xray
 
 https://live.iptv365.org/live.txt
 
