@@ -194,12 +194,6 @@ bash <(curl -sL kejilion.sh)
 
 
 
-Singbox：
-
-bash <(curl -sSL https://haoss.eu.org/reality_hy2_ws.sh)
-
-
-
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
