@@ -198,6 +198,10 @@ bash <(curl -sL kejilion.sh)
 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
+~/.acme.sh/acme.sh –register-account -m z@foxmail.com
+
+~/.acme.sh/acme.sh –issue -d shehh.eu.org –standalone
+
 
 
 Argo：
