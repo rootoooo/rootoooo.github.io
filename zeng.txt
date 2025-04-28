@@ -204,12 +204,6 @@ bash <(curl -sL kejilion.sh)
 
 
 
-Hysteria2：
-
-bash <(curl -sSL https://haoss.eu.org/hysteria2.sh)
-
-
-
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
