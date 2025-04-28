@@ -1036,7 +1036,7 @@ while true; do
    check_argo_status=$(check_argo) > /dev/null 2>&1
    clear
    echo ""
-   purple "=== 老王Xray-2go一键安装脚本 ===\n"
+   purple "=== 一键安装脚本 ===\n"
    purple " Xray 状态: ${check_xray_status}\n"
    purple " Argo 状态: ${check_argo_status}\n"   
    purple "Caddy 状态: ${check_caddy_status}\n"
