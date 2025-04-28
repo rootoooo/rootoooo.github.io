@@ -416,7 +416,7 @@ if [ $? -eq 0 ]; then
         systemctl restart caddy
     fi
 else
-    [ -f /etc/alpine-release ] && rc-service caddy restart > /dev/null 2>&1 || red "Caddy 配置文件验证失败，订阅功能可能无法使用，但不影响节点使用\nissues 反馈：https://github.com/eooce/xray-argo/issues\n"
+    [ -f /etc/alpine-release ] && rc-service caddy restart > /dev/null 2>&1 || red "Caddy 配置文件验证失败，订阅功能可能无法使用，但不影响节点使用\nissues 反馈：https://github.com/eooce/xray-argo"
 fi
 }
 
@@ -1050,8 +1050,8 @@ while true; do
    green  "6. 修改节点配置"
    green  "7. 管理节点订阅"
    echo  "==============="
-   purple "8. ssh综合工具箱"
-   purple "9. 安装singbox四合一"
+   purple "8. X-UI"
+   purple "9. 3X-UI"
    echo  "==============="
    red "0. 退出脚本"
    echo "==========="
@@ -1090,8 +1090,8 @@ while true; do
         5) check_nodes ;;
         6) change_config ;;
         7) disable_open_sub ;;
-        8) clear && curl -fsSL https://raw.githubusercontent.com/eooce/ssh_tool/main/ssh_tool.sh -o ssh_tool.sh && chmod +x ssh_tool.sh && ./ssh_tool.sh ;;           
-        9) clear && bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh) ;;
+        8) clear && bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh) ;;           
+        9) clear && bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) ;;
         0) exit 0 ;;
         *) red "无效的选项，请输入 0 到 9" ;; 
    esac
