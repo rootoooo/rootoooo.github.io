@@ -206,7 +206,7 @@ bash <(curl -sL kejilion.sh)
 
 Hysteria2：
 
-bash <(curl -sSL https://haoss.eu.org/hysteria2)
+bash <(curl -sSL https://haoss.eu.org/hysteria2.sh)
 
 
 
