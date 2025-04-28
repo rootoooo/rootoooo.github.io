@@ -82,6 +82,10 @@ Music：https://music.gdstudio.xyz
 
 M3u8：http://tonkiang.us
 
+APTV：https://github.com/Kimentanm/aptv/tree/master/m3u
+
+https://www.goodiptv.club/douyu/
+
 TVbox：https://raw.liucn.cc/box/m.json
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
