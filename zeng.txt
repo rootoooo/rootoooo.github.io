@@ -218,6 +218,12 @@ bash <(curl -sL kejilion.sh)
 
 
 
+M3u：
+
+bash <(curl -s https://raw.githubusercontent.com/chinggirltube/M3U-Proxy/refs/heads/main/m3u_proxy_installer.sh)
+
+
+
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
