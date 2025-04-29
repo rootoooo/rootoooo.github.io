@@ -124,6 +124,14 @@ AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
 
+https://github.com/217heidai/adblockfilters
+
+https://whatshub.top/shadowrocket
+
+Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
+
+Shadowrocket-YouTube：https://whatshub.top/module/YouTubeAd.sgmodule
+
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
