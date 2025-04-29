@@ -74,8 +74,6 @@ https://bwh81.net
 
 https://account.lightlayer.net
 
-https://acck.io
-
 Image：https://im.gurl.eu.org
 
 Music：https://music.gdstudio.xyz
@@ -196,25 +194,6 @@ http://ip:50055/Sub.txt
 http://ip:50055/Sub.m3u
 
 http://ip:50055/Sub.vod.m3u?pids=ofiii75
-
-
-
-DNS：
-
-echo -e "nameserver 154.12.177.22
-
-nameserver 1.1.1.1" > /etc/resolv.conf
-
-bash <(curl -L -s media.ispvps.com)
-
-Default: 154.83.83.83
-HK: 154.83.83.84
-JP: 154.83.83.85
-TW: 154.83.83.86
-SG: 154.83.83.87
-US: 154.83.83.88
-UK: 154.83.83.89
-DE: 154.83.83.90
 
 
 
