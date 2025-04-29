@@ -88,6 +88,8 @@ APTV：https://github.com/Kimentanm/aptv/tree/master/m3u
 
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
+http://www.livednow.dpdns.org/?type=m3u&proxy=true
+
 https://www.goodiptv.club/douyu/
 
 TVbox：https://raw.liucn.cc/box/m.json
@@ -186,8 +188,6 @@ http://ip:50555/?type=txt
 http://ip:50555/?type=m3u
 
 http://ip:50555/xray
-
-http://www.livednow.dpdns.org/?type=m3u&proxy=true
 
 
 
