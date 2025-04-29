@@ -86,6 +86,8 @@ IPTV：https://pixman.io/
 
 APTV：https://github.com/Kimentanm/aptv/tree/master/m3u
 
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+
 https://www.goodiptv.club/douyu/
 
 TVbox：https://raw.liucn.cc/box/m.json
