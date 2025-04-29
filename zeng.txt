@@ -82,15 +82,13 @@ Music：https://music.gdstudio.xyz
 
 M3u8：http://tonkiang.us
 
-IPTV：https://pixman.io/
+IPTV：https://pixman.io
 
 APTV：https://github.com/Kimentanm/aptv/tree/master/m3u
 
 https://github.haoss.eu.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
 http://www.livednow.dpdns.org/?type=m3u&proxy=true
-
-https://www.goodiptv.club/douyu/
 
 TVbox：https://raw.liucn.cc/box/m.json
 
