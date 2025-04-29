@@ -84,8 +84,6 @@ IPTV：https://pixman.io
 
 APTV：https://github.com/Kimentanm/aptv/tree/master/m3u
 
-https://github.haoss.eu.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-
 http://www.livednow.dpdns.org/?type=m3u&proxy=true
 
 TVbox：https://raw.liucn.cc/box/m.json
@@ -175,9 +173,9 @@ df -h
 
 TV：
 
-docker pull mybtjson/pixman-4gtv:0.0.4
+docker pull mybtjson/pixman-4gtv:0.0.5
 
-docker run -d --name=pixman-4gtv -p 50555:5000  --dns=8.8.8.8 --restart=always mybtjson/pixman-4gtv:0.0.4
+docker run -d --name=pixman-4gtv -p 50555:5000  --dns=8.8.8.8 --restart=always mybtjson/pixman-4gtv:0.0.5
 
 http://ip:50555/?type=txt
 
