@@ -179,23 +179,23 @@ TV：
 
 docker pull mybtjson/pixman-4gtv:0.0.4
 
-docker run -d --name=pixman-4gtv -p 50007:5000  --dns=8.8.8.8 --restart=always mybtjson/pixman-4gtv:0.0.4
+docker run -d --name=pixman-4gtv -p 50555:5000  --dns=8.8.8.8 --restart=always mybtjson/pixman-4gtv:0.0.4
 
-http://ip:port/?type=txt
+http://ip:50555/?type=txt
 
-http://ip:port/?type=m3u
+http://ip:50555/?type=m3u
 
-http://ip:port/?type=m3u&proxy=true
+http://ip:50555/?type=m3u&proxy=true
 
 docker pull doubebly/doube-ofiii:1.1.3
 
-docker run -d --name=doube-ofiii -p 50002:5000 -e MY_OFIII_TOKEN=Doubebly --restart=always --dns=8.8.8.8 doubebly/doube-ofiii:1.1.3
+docker run -d --name=doube-ofiii -p 50055:5000 -e MY_OFIII_TOKEN=root --restart=always --dns=8.8.8.8 doubebly/doube-ofiii:1.1.3
 
-http://ip:port/Sub.txt
+http://ip:50055/Sub.txt
 
-http://ip:port/Sub.m3u
+http://ip:50055/Sub.m3u
 
-http://ip:port/Sub.vod.m3u?pids=ofiii75
+http://ip:50055/Sub.vod.m3u?pids=ofiii75
 
 
 
