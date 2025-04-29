@@ -218,14 +218,6 @@ bash <(curl -sL kejilion.sh)
 
 
 
-M3u：
-
-bash <(curl -s https://raw.githubusercontent.com/chinggirltube/M3U-Proxy/refs/heads/main/m3u_proxy_installer.sh)
-
-http://您的服务器IP:5001/admin
-
-
-
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
