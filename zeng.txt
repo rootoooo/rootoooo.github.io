@@ -181,6 +181,8 @@ http://ip:50555/?type=m3u
 
 http://ip:50555/?type=m3u&proxy=true
 
+http://ip:50555/xray
+
 docker pull doubebly/doube-ofiii:1.1.3
 
 docker run -d --name=doube-ofiii -p 50055:5000 -e MY_OFIII_TOKEN=root --restart=always --dns=8.8.8.8 doubebly/doube-ofiii:1.1.3
