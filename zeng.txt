@@ -171,9 +171,9 @@ df -h
 
 TV：
 
-docker pull mybtjson/pixman-4gtv:0.0.5
+docker pull mybtjson/pixman-4gtv:0.0.4
 
-docker run -d --name=pixman-4gtv -p 50555:5000  --dns=8.8.8.8 --restart=always mybtjson/pixman-4gtv:0.0.5
+docker run -d --name=pixman-4gtv -p 50555:5000  --dns=8.8.8.8 --restart=always mybtjson/pixman-4gtv:0.0.4
 
 http://ip:50555/?type=txt
 
