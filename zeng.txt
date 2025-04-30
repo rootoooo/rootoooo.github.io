@@ -126,11 +126,15 @@ https://anti-ad.net/adguard.txt
 
 https://github.com/217heidai/adblockfilters
 
-https://whatshub.top/shadowrocket
+Shadowrocket：https://whatshub.top/shadowrocket
 
-Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
+https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
 
-Shadowrocket-YouTube：https://whatshub.top/module/YouTubeAd.sgmodule
+https://whatshub.top/module/YouTubeAd.sgmodule
+
+https://whatshub.top/module/adultraplus.module
+
+https://whatshub.top/module/adguard.module
 
 Syncnext：https://github.com/Quinndark/syncnextPlugin
 
