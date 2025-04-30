@@ -559,6 +559,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
 https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
 #EXTINF:-1 group-title="Live",DJ MoonBaby
 https://smart.pendy.dpdns.org/youtube.php?id=F2tpshELd1o
+#EXTINF:-1 group-title="Live",Chinese Mix
+https://smart.pendy.dpdns.org/youtube.php?id=aQT8mUr445I
 #EXTINF:-1 group-title="Live",MTV
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Live",Qmusic
@@ -587,8 +589,6 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Live",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Live",CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="Live",Global News
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 #EXTINF:-1 group-title="Live",Red Bull
