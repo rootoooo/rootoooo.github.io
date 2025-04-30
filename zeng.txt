@@ -62,11 +62,7 @@ vless://0946ab04-0d62-4510-a313-c5aaed2eb227@www.visa.com.tw:443?encryption=none
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20udHciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDk0NmFiMDQtMGQ2Mi00NTEwLWEzMTMtYzVhYWVkMmViMjI3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwZW5ueS1iaW8tc2JqY3QtZXhhbWluaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzLWFyZ28/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJwZW5ueS1iaW8tc2JqY3QtZXhhbWluaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
-vless://2b681235-3f91-4041-8a10-54bf6dd71b11@45.196.239.41:2983?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=ki1MrwfBNh3LNKRRHqzhghE3_aU14d6f2JLX7mI8ylE&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#TW-Reality
-
-vless://2b681235-3f91-4041-8a10-54bf6dd71b11@www.visa.com.tw:443?encryption=none&security=tls&sni=fantastic-seating-gothic-adverse.trycloudflare.com&type=ws&host=fantastic-seating-gothic-adverse.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2048#TW-Vless
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRXLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20udHciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMmI2ODEyMzUtM2Y5MS00MDQxLThhMTAtNTRiZjZkZDcxYjExIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmYW50YXN0aWMtc2VhdGluZy1nb3RoaWMtYWR2ZXJzZS50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZmFudGFzdGljLXNlYXRpbmctZ290aGljLWFkdmVyc2UudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://d2f95fc1-db70-47a1-ac10-da963fbfedba@45.196.239.41:36153?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=hQauowui4K9GN66UVbcr3OIRZ6CG8bRsDvKK5_-Tk1M&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#TW-Reality
 
 检测：https://www.virscan.org
 
@@ -178,12 +174,6 @@ apt update -y && apt install -y curl socat wget sudo
 科技lion：
 
 bash <(curl -sL kejilion.sh)
-
-
-
-DD：
-
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh || wget -O reinstall.sh $_
 
 
 
