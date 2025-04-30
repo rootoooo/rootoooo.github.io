@@ -138,8 +138,6 @@ Windows+Shift+S
 
 Win+R→shell:startup
 
-DNS：https://app.alice.ws
-
 DD：https://github.com/bin456789/reinstall
 
 Alist：https://github.com/AlistGo/alist/releases
@@ -202,6 +200,12 @@ apt update -y && apt install -y curl socat wget sudo
 科技lion：
 
 bash <(curl -sL kejilion.sh)
+
+
+
+DD：
+
+curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh || wget -O reinstall.sh $_
 
 
 
