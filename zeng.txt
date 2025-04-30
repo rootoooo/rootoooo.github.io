@@ -207,6 +207,12 @@ curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh 
 
 
 
+M3u：
+
+bash <(curl -sSL https://haoss.eu.org/m3u.sh)
+
+
+
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
