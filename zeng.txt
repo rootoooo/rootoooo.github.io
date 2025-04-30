@@ -138,8 +138,6 @@ Windows+Shift+S
 
 Win+R→shell:startup
 
-DD：https://github.com/bin456789/reinstall
-
 Alist：https://github.com/AlistGo/alist/releases
 
 Cloudreve：https://github.com/cloudreve/Cloudreve/releases
