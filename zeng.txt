@@ -185,7 +185,7 @@ Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
-bash <(curl -sSL https://haoss.eu.org/argo1.sh)
+bash <(curl -sSL https://haoss.eu.org/argo2.sh)
 
 www.iij.ad.jp
 www.airbnb.com
