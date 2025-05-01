@@ -64,7 +64,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlz
 
 vless://d2f95fc1-db70-47a1-ac10-da963fbfedba@45.196.239.41:36153?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=hQauowui4K9GN66UVbcr3OIRZ6CG8bRsDvKK5_-Tk1M&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#TW-Reality
 
-http://45.196.239.41:50002
+vless://67062b78-48cf-41bd-b88d-2429b56039e3@45.196.239.41:55555?encryption=none&security=none&type=ws&path=%2Ftw55555#TW-Vless
+
+45.196.239.41:50002
 
 检测：https://www.virscan.org
 
