@@ -185,6 +185,24 @@ Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
+bash <(curl -sSL https://haoss.eu.org/argo1.sh)
+
+www.iij.ad.jp
+www.airbnb.com
+download-installer.cdn.mozilla.net
+addons.mozilla.org
+www.lovelive-anime.jp
+www.tesla.com
+www.nvidia.com
+www.sap.com
+cdn-dynmedia-1.microsoft.com
+update.microsoft
+s0.awsstatic.com
+d1.awsstatic.com
+images-na.ssl-images-amazon.com
+m.media-amazon.com
+player.live-video.net
+
 
 
 Frps：
