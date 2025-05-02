@@ -545,6 +545,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="港澳台",TVBS
 https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+#EXTINF:-1 group-title="港澳台",TVBS NEWS
+https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
 #EXTINF:-1 group-title="港澳台",中天新闻
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 group-title="港澳台",中天新闻
@@ -561,8 +563,6 @@ https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 http://108.181.20.197/livehttpplay?channel_id=10126
 #EXTINF:-1 group-title="港澳台",凤凰卫视资讯台
 https://smart.pendy.dpdns.org/youtube.php?id=BLaQVW5oUGU
-#EXTINF:-1 group-title="港澳台",CNBS
-https://smart.pendy.dpdns.org/youtube.php?id=9NyxcX3rhQs
 #EXTINF:-1 group-title="港澳台",DJ MoonBaby
 https://smart.pendy.dpdns.org/youtube.php?id=F2tpshELd1o
 #EXTINF:-1 group-title="港澳台",Chinese Mix
