@@ -171,6 +171,8 @@ IPTV：
 
 docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=akqk7t02zj3dzssvnsy8agjlb170fxh4 -userid=8031343115 -token=a142bfbcec16d039638c293bad4117cb3c60abcfd4618f96303808ce5bd86fe7fb0b64b2eaa2a3e99555f9a7594a6d280657fe33a5bb2510d03a6ab0d4eebee5d9b4f0f31edc8a
 
+docker run -d --name watchtower --restart=always -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone  --cleanup --interval 3600
+
 
 
 Debian更新：
