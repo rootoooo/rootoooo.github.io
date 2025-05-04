@@ -173,6 +173,12 @@ docker run -d --restart always --privileged=true -p 12121:35455 --name allinone 
 
 docker run -d --name watchtower --restart=always -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower allinone  --cleanup --interval 3600
 
+docker pull mybtjson/pixman-4gtv:0.0.5
+
+docker run -d --name=pixman-4gtv -p 50555:5000  --dns=8.8.8.8 --restart=always mybtjson/pixman-4gtv:0.0.5
+
+http://ip:50555/?type=txt
+
 
 
 Debian更新：
