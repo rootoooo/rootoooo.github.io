@@ -64,7 +64,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlz
 
 vless://0f978a09-6148-4b64-9296-3147ed556eb1@45.196.239.41:8228??encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=LH4FYhEzZtAEDdq80NxV2n3RdTDI90fFSA96LUDsOm4&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#TW-Reality
 
-45.196.239.41:55555
+http://45.196.239.41:12121/tv.m3u
+
+http://45.196.239.41:55555
 
 检测：https://www.virscan.org
 
