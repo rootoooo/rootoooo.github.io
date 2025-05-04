@@ -54,7 +54,7 @@ LA-Video：mG7KgMA5YFsww7AvP7g9SqzyyI791QsD
 
 RustDesk-US：dN+h3EQ3mPxgEmqYFTvIsMkSdgoqXEsrDMsx20DrM9Y=
 
-RustDesk-TW：
+RustDesk-TW：V4P5rA5XEAlwJUSwnvve58yR6kiBO1JxpR78PENOyA8=
 
 https://psub.888005.xyz
 
@@ -64,11 +64,11 @@ vless://0946ab04-0d62-4510-a313-c5aaed2eb227@www.visa.com.tw:443?encryption=none
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20udHciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDk0NmFiMDQtMGQ2Mi00NTEwLWEzMTMtYzVhYWVkMmViMjI3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwZW5ueS1iaW8tc2JqY3QtZXhhbWluaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzLWFyZ28/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJwZW5ueS1iaW8tc2JqY3QtZXhhbWluaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
+vless://9706c6c9-c629-4006-89db-d2aa81c4b1c0@46.8.124.154:14885?encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=AHTKC3fJUhcn7PG-rrGcRiwU7hz-gEKDXX88kZEx80g&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#TW-Reality
+
 vless://0f978a09-6148-4b64-9296-3147ed556eb1@45.196.239.41:8228??encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=LH4FYhEzZtAEDdq80NxV2n3RdTDI90fFSA96LUDsOm4&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#TW-Reality
 
 http://45.196.239.41:12121/tv.m3u
-
-http://45.196.239.41:55555
 
 检测：https://www.virscan.org
 
