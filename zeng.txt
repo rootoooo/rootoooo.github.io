@@ -134,7 +134,7 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
-https://github.haoss.eu.org/https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
 Windows+Shift+S
 
@@ -187,11 +187,9 @@ bash <(curl -sL kejilion.sh)
 
 Argo：
 
-bash <(curl -sSL https://haoss.eu.org/argo.sh)
-
 bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/argo.sh)
 
-bash <(curl -sSL https://haoss.eu.org/argo2.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/argo2.sh)
 
 www.iij.ad.jp
 www.airbnb.com
