@@ -236,3 +236,13 @@ cp .env.example .env && vi .env
 ./deploy.sh
 
 
+
+VPS：
+
+wget https://raw.githubusercontent.com/rootoooo/vps/refs/heads/main/status.sh
+
+服务端：bash status.sh s
+
+客户端：bash status.sh c
+
+
