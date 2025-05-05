@@ -189,6 +189,8 @@ Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
+bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/argo.sh)
+
 bash <(curl -sSL https://haoss.eu.org/argo2.sh)
 
 www.iij.ad.jp
