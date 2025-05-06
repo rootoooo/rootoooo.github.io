@@ -134,6 +134,8 @@ https://github.com/icy37785/syncnextPlugin
 
 https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
+https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/ole.js
+
 Windows+Shift+S
 
 Win+R→shell:startup
