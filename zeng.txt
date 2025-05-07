@@ -258,6 +258,10 @@ git clone https://github.com/netptop/siteproxy.git
    "local_listen_port": 5006,
 }
 
+cd siteproxy
+
+node bundle.js
+
 npm install -g forever
 
 forever stopall && forever start bundle.js
