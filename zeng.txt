@@ -238,24 +238,3 @@ wget https://raw.githubusercontent.com/rootoooo/vps/refs/heads/main/status.sh
 客户端：bash status.sh c
 
 
-
-YouTube：
-
-http://1.1.1.1:5006→https://xxx.com
-
-git clone https://github.com/netptop/siteproxy.git
-
-/root/siteproxy/config.json
-{
-   "proxy_url": "https://your-proxy-domain.com", // 替换为你申请到的代理服务器域名
-   "token_prefix": "/user-SetYourPasswordHere/",  // 设置网站密码，用于防止非法访问，保留首尾的斜杠
-   "description": "注意：token_prefix 相当于网站密码，请谨慎设置。 proxy_url 和 token_prefix 合起来就是访问网址。"
-}
-
-cd /root/siteproxy/docker-node
-
-sudo docker compose up
-
-https://xxx.com/password/
-
-
