@@ -239,7 +239,7 @@ wget https://raw.githubusercontent.com/rootoooo/vps/refs/heads/main/status.sh
 
 
 
-Global：
+YouTube：
 
 Nginx Proxy Manager - X.X.X.X:5006
 
