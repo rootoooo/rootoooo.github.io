@@ -244,9 +244,7 @@ YouTube：
 Nginx Proxy Manager - X.X.X.X:5006
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-
 source ~/.bashrc
-
 nvm install v21
 
 git clone https://github.com/netptop/siteproxy.git
@@ -265,5 +263,14 @@ node bundle.js
 npm install -g forever
 
 forever stopall && forever start bundle.js
+
+forever stopall
+rm -rf ~/.forever
+npm uninstall -g forever
+rm -rf ~/siteproxy
+nvm uninstall v21
+rm -rf ~/.nvm
+sed -i '/nvm/d' ~/.bashrc
+source ~/.bashrc
 
 
