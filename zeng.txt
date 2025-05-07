@@ -241,6 +241,8 @@ wget https://raw.githubusercontent.com/rootoooo/vps/refs/heads/main/status.sh
 
 YouTube：
 
+http://1.1.1.1:5006→https://xxx.com
+
 git clone https://github.com/netptop/siteproxy.git
 
 打开并修改 config.json 文件，内容如下：
@@ -254,6 +256,6 @@ cd docker-node
 
 sudo docker compose up
 
-https://XXX.com/password/
+https://xxx.com/password/
 
 
