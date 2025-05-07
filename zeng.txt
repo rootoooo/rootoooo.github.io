@@ -100,10 +100,6 @@ RustDesk：https://github.com/rustdesk/rustdesk/releases
 
 Chrome：https://crxdl.com
 
-AccessToken：https://chatgpt.com/api/auth/session
-
-OpenAI-API：https://openai.com/index/openai-api
-
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
@@ -117,6 +113,8 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
+
+AccessToken：https://chatgpt.com/api/auth/session
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
