@@ -262,13 +262,4 @@ npm install -g forever
 
 forever stopall && forever start bundle.js
 
-forever stopall
-rm -rf ~/.forever
-npm uninstall -g forever
-rm -rf ~/siteproxy
-nvm uninstall v21
-rm -rf ~/.nvm
-sed -i '/nvm/d' ~/.bashrc
-source ~/.bashrc
-
 
