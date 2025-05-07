@@ -249,7 +249,7 @@ nvm install v21
 
 git clone https://github.com/netptop/siteproxy.git
 
-/root/www/config.json
+/root/siteproxy/config.json
 
 cd siteproxy
 
