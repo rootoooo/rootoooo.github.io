@@ -58,11 +58,7 @@ https://fan.764282.xyz/Alvin9999/https/www.youtube.com
 
 https://psub.888005.xyz
 
-vless://0946ab04-0d62-4510-a313-c5aaed2eb227@144.34.231.118:20985?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=rpGn02uZF9FEvv7ujjSXt6daBV3Mb9tsVGDMc4nreBI&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#US-Reality
-
-vless://0946ab04-0d62-4510-a313-c5aaed2eb227@www.visa.com.tw:443?encryption=none&security=tls&sni=penny-bio-sbjct-examining.trycloudflare.com&type=ws&host=penny-bio-sbjct-examining.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2048#US-Vless
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLVZtZXNzIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20udHciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDk0NmFiMDQtMGQ2Mi00NTEwLWEzMTMtYzVhYWVkMmViMjI3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwZW5ueS1iaW8tc2JqY3QtZXhhbWluaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzLWFyZ28/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJwZW5ueS1iaW8tc2JqY3QtZXhhbWluaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vless://2d909bf6-1839-4742-9cf0-17e45a0c8bc4@144.34.231.118:46897?encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=c58LSBTd87dDOhxVrLHs_Fw2D_YGDSPNZwhqVpAY5gs&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#US
 
 vless://0f978a09-6148-4b64-9296-3147ed556eb1@45.196.239.41:8228??encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=LH4FYhEzZtAEDdq80NxV2n3RdTDI90fFSA96LUDsOm4&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#TW-Reality
 
