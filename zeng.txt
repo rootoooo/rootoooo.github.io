@@ -251,6 +251,8 @@ nvm install v21
 
 git clone https://github.com/netptop/siteproxy.git
 
+git clone https://github.com/rootoooo/www.git
+
 /root/siteproxy/config.json
 {
    "proxy_url": "https://xxx.com",
