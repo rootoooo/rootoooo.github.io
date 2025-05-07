@@ -251,16 +251,16 @@ nvm install v21
 
 git clone https://github.com/netptop/siteproxy.git
 
+cd siteproxy
+
+node bundle.js
+
 /root/siteproxy/config.json
 {
    "proxy_url": "https://xxx.com",
    "token_prefix": "/xxx/",
    "local_listen_port": 5006,
 }
-
-cd siteproxy
-
-node bundle.js
 
 npm install -g forever
 
