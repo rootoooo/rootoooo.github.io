@@ -54,8 +54,6 @@ https://psub.888005.xyz
 
 vless://2d909bf6-1839-4742-9cf0-17e45a0c8bc4@144.34.231.118:46897?encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=c58LSBTd87dDOhxVrLHs_Fw2D_YGDSPNZwhqVpAY5gs&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#US
 
-vless://0f978a09-6148-4b64-9296-3147ed556eb1@45.196.239.41:8228??encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=LH4FYhEzZtAEDdq80NxV2n3RdTDI90fFSA96LUDsOm4&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#TW
-
 检测：https://www.virscan.org
 
 搜索：https://ningmengso.com
