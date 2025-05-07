@@ -242,21 +242,16 @@ YouTube：
 Nginx Proxy Manager - X.X.X.X:5006
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
 source ~/.bashrc
+
 nvm install v21
 
-git clone https://github.com/netptop/siteproxy.git
+git clone https://github.com/rootoooo/www.git
 
-cd siteproxy
+/root/www/config.json
 
-node bundle.js
-
-/root/siteproxy/config.json
-{
-   "proxy_url": "https://xxx.com",
-   "token_prefix": "/xxx/",
-   "local_listen_port": 5006,
-}
+cd www
 
 npm install -g forever
 
