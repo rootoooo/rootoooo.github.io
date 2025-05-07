@@ -247,11 +247,11 @@ source ~/.bashrc
 
 nvm install v21
 
-git clone https://github.com/rootoooo/www.git
+git clone https://github.com/netptop/siteproxy.git
 
 /root/www/config.json
 
-cd www
+cd siteproxy
 
 npm install -g forever
 
