@@ -220,7 +220,7 @@ cat > "${config_dir}" << EOF
       "sniffing": {"enabled": true, "destOverride": ["http", "tls", "quic"], "metadataOnly": false}
     },
     {
-      "listen":"::","port":$GRPC_PORT,"protocol":"vless","settings":{"clients":[{"id":"$UUID"}],"decryption":"none"},"streamSettings":{"network":"grpc","security":"reality","realitySettings":{"dest":"www.iij.ad.jp:443","serverNames":["www.iij.ad.jp"],"privateKey":"$private_key","shortIds":[""]},"grpcSettings":{"serviceName":"grpc"}},"sniffing":{"enabled":true,"destOverride":["http","tls","quic"]}}
+      "listen":"::","port":$GRPC_PORT,"protocol":"vless","settings":{"clients":[{"id":"$UUID"}],"decryption":"none"},"streamSettings":{"network":"grpc","security":"reality","realitySettings":{"dest":"www.airbnb.com:443","serverNames":["www.airbnb.com"],"privateKey":"$private_key","shortIds":[""]},"grpcSettings":{"serviceName":"grpc"}},"sniffing":{"enabled":true,"destOverride":["http","tls","quic"]}}
   ],
   "dns": { "servers": ["https+local://8.8.8.8/dns-query"] },
    "outbounds": [
@@ -342,7 +342,7 @@ get_info() {
   green "\nArgoDomain：${purple}$argodomain${re}\n"
 
   cat > ${work_dir}/url.txt <<EOF
-vless://${UUID}@${IP}:${GRPC_PORT}??encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=${public_key}&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#${isp}
+vless://${UUID}@${IP}:${GRPC_PORT}??encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=${public_key}&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#${isp}
 
 vless://${UUID}@${CFIP}:${CFPORT}?encryption=none&security=tls&sni=${argodomain}&type=ws&host=${argodomain}&path=%2Fvless-argo%3Fed%3D2048#${isp}
 
