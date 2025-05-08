@@ -104,6 +104,8 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
 
+Argo：https://github.com/eooce/xray-2go
+
 AccessToken：https://chatgpt.com/api/auth/session
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
@@ -168,12 +170,6 @@ bash <(curl -sL kejilion.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
-
-
-
-Argo：
-
-bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/argo.sh)
 
 
 
