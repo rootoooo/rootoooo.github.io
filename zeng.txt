@@ -171,8 +171,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 Argo：
 
-bash <(curl -sSL https://haoss.eu.org/argo.sh)
-
 bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/argo.sh)
 
 www.airbnb.com
