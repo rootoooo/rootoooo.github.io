@@ -52,16 +52,6 @@ https://fan.764282.xyz/Alvin9999/https/www.youtube.com
 
 https://psub.888005.xyz
 
-vless://ad454152-4d21-42ca-81ef-f50d2d7e0865@144.34.231.118:49999?encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=zCY0buuuoCBUVpY7Tg3LBWCIRZtG5HB3lksLvL4M8Fs&sid=ca8654fe499597&spx=%2F&type=grpc#US-3p1rq8ug
-
-vless://0afead2a-45b1-4c11-bcaa-c11a1e384e9d@144.34.231.118:48888?type=grpc&serviceName=&authority=&security=reality&pbk=a5SrVvzI39Z63g-9maSXkdXSLg5kMWu3C6cPbNGAIRQ&fp=chrome&sni=www.nvidia.com&sid=be&spx=%2F#US-xduepam1
-
-vless://1b51b0d5-d3af-4952-9e30-1a717f7bdea7@144.34.231.118:47777?type=grpc&serviceName=&authority=&security=reality&pbk=DWPncT4CRQGySP099N9qEvZqI0OTnmlC31lG1SBpJVY&fp=chrome&sni=www.tesla.com&sid=3039bad8&spx=%2F#US-3lq8j6ug
-
-vless://f4766122-f2a2-40cb-ab22-62ed640de251@144.34.231.118:46666?type=grpc&serviceName=&authority=&security=reality&pbk=3duBqA2gVaf1qi8O-JF7GZYE3uw2LSHFfR5G9Ahx6G0&fp=chrome&sni=www.sap.com&sid=9d580772045d8709&spx=%2F#US-3q69zcq1
-
-vless://653ae24b-010f-4ea0-9adf-9182caeb69df@45.196.239.41:56565?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=YcSw8XESLkFol8x2ZS628HhlNgipKymUBm4VImv1CGo&sid=a6e7&spx=%2F&type=grpc#TW
-
 检测：https://www.virscan.org
 
 搜索：https://ningmengso.com
