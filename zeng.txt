@@ -54,6 +54,10 @@ https://psub.888005.xyz
 
 vless://2d909bf6-1839-4742-9cf0-17e45a0c8bc4@144.34.231.118:46897?encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=c58LSBTd87dDOhxVrLHs_Fw2D_YGDSPNZwhqVpAY5gs&allowInsecure=1&type=grpc&authority=www.airbnb.com&serviceName=grpc&mode=gun#US
 
+vless://ad454152-4d21-42ca-81ef-f50d2d7e0865@144.34.231.118:49999?encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=zCY0buuuoCBUVpY7Tg3LBWCIRZtG5HB3lksLvL4M8Fs&sid=ca8654fe499597&spx=%2F&type=grpc#US-01
+
+vless://ad454152-4d21-42ca-81ef-f50d2d7e0865@144.34.231.118:49999?encryption=none&security=reality&sni=www.airbnb.com&fp=chrome&pbk=zCY0buuuoCBUVpY7Tg3LBWCIRZtG5HB3lksLvL4M8Fs&sid=ca8654fe499597&spx=%2F&type=grpc#US-01
+
 vless://a0a6b7c4-33e7-4ce1-9788-916a21598344@45.196.239.41:11117?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=nXVqE99P_65pFuXeJNBKHzAo5--tNS8HZo8z3g4d2FY&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#TW
 
 vless://653ae24b-010f-4ea0-9adf-9182caeb69df@45.196.239.41:56565?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=YcSw8XESLkFol8x2ZS628HhlNgipKymUBm4VImv1CGo&sid=a6e7&spx=%2F&type=grpc#TW-X1
@@ -169,13 +173,17 @@ bash <(curl -sL kejilion.sh)
 
 
 
+3X-ui：
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+
+
 Argo：
 
 bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
 bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/argo.sh)
-
-bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/argo2.sh)
 
 www.iij.ad.jp
 www.airbnb.com
