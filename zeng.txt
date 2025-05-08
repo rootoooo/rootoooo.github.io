@@ -175,17 +175,10 @@ bash <(curl -sSL https://haoss.eu.org/argo.sh)
 
 bash <(curl -sSL https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/argo.sh)
 
-www.iij.ad.jp
-www.lovelive-anime.jp
 www.airbnb.com
 www.tesla.com
 www.nvidia.com
 www.sap.com
-cdn-dynmedia-1.microsoft.com
-s0.awsstatic.com
-d1.awsstatic.com
-images-na.ssl-images-amazon.com
-m.media-amazon.com
 
 
 
