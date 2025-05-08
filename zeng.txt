@@ -60,7 +60,7 @@ vless://0afead2a-45b1-4c11-bcaa-c11a1e384e9d@144.34.231.118:48888?encryption=non
 
 vless://a0a6b7c4-33e7-4ce1-9788-916a21598344@45.196.239.41:11117?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=nXVqE99P_65pFuXeJNBKHzAo5--tNS8HZo8z3g4d2FY&allowInsecure=1&type=grpc&authority=www.iij.ad.jp&serviceName=grpc&mode=gun#TW
 
-vless://653ae24b-010f-4ea0-9adf-9182caeb69df@45.196.239.41:56565?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=YcSw8XESLkFol8x2ZS628HhlNgipKymUBm4VImv1CGo&sid=a6e7&spx=%2F&type=grpc#TW-X1
+vless://653ae24b-010f-4ea0-9adf-9182caeb69df@45.196.239.41:56565?encryption=none&security=reality&sni=www.iij.ad.jp&fp=chrome&pbk=YcSw8XESLkFol8x2ZS628HhlNgipKymUBm4VImv1CGo&sid=a6e7&spx=%2F&type=grpc#TW-01
 
 检测：https://www.virscan.org
 
