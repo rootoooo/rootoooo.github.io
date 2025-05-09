@@ -84,8 +84,6 @@ LocalSend：https://github.com/localsend/localsend/releases
 
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
-RustDesk：https://github.com/rustdesk/rustdesk/releases
-
 Chrome：https://crxdl.com
 
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
