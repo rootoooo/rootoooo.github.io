@@ -200,3 +200,13 @@ cd /home/ChatGPT-Mirror/
 ./deploy.sh
 
 
+
+VPS：
+
+wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
+
+bash status.sh s
+
+bash status.sh c
+
+
