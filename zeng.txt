@@ -155,10 +155,6 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 
 
-bash -c "$(curl -sL https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/NoobIPTV.sh)"
-
-
-
 Debian更新：
 
 apt update -y && apt install -y curl socat wget sudo
