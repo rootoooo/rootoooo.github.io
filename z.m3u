@@ -441,16 +441,10 @@ https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
 https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
 #EXTINF:-1 group-title="油管",凤凰卫视资讯台
 https://smart.pendy.dpdns.org/youtube.php?id=BLaQVW5oUGU
-#EXTINF:-1 group-title="油管",DJ MoonBaby
-https://smart.pendy.dpdns.org/youtube.php?id=F2tpshELd1o
-#EXTINF:-1 group-title="油管",Chinese Mix
-https://smart.pendy.dpdns.org/youtube.php?id=aQT8mUr445I
 #EXTINF:-1 group-title="国际",皇家马德里
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="国际",曼彻斯特联
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="国际",NHK World
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="国际",DW
@@ -485,9 +479,5 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="中国",CCTV-13
-http://8.138.7.223/tv/ptbtv.php?id=28
-#EXTINF:-1 group-title="中国",CCTV-1
-http://8.138.7.223/tv/ptbtv.php?id=27
 
 
