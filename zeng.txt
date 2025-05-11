@@ -149,9 +149,11 @@ df -h
 
 /Volumes/备份
 
-echo -3 "nameserver 154.12.177.22
+echo -e "nameserver 154.12.177.22
 
-nameserver 1.1.1.1" > /etc/resoly.conf
+nameserver 1.1.1.1" > /etc/resolv.conf
+
+echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 
 
