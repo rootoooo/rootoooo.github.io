@@ -64,8 +64,6 @@ Music：https://music.gdstudio.xyz
 
 M3u8：http://tonkiang.us
 
-Allinone：https://imgtool.v1.mk/allinone.html
-
 APTV：https://github.com/Kimentanm/aptv/tree/master/m3u
 
 JUDY：https://www.livednow.dpdns.org
