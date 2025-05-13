@@ -157,12 +157,6 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 
 
-docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=w2glr1ia4nn34m4c0sgd7nv9dxpaptsw -userid=8031343115 -token=821fa2ff0fa1bbc7e64142892b4a2fa4ea0558dc9d967406282d9934f37bc0a359dd15bcda03a63c385cbd5042dfc0c00f3005ecebb5cf5b9f729b493be00387833e243d3cf208
-
-http://x:35455/tv.m3u
-
-
-
 Debian更新：
 
 apt update -y && apt install -y curl socat wget sudo
