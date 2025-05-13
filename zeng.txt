@@ -68,8 +68,6 @@ M3u8：http://tonkiang.us
 
 APTV：https://github.com/Kimentanm/aptv/tree/master/m3u
 
-https://github.shehh.eu.org/https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u
-
 Allinone：https://imgtool.v1.mk/allinone.html
 
 https://t.me/newallinone_bot
