@@ -547,11 +547,17 @@ http://php.jdshipin.com/TVOD/iptv.php?id=as
 https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 #EXTINF:-1 group-title="港澳台",中天新闻
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+#EXTINF:-1 group-title="油管",TVBS-US
+http://144.34.231.118:10101/youtube/o_-hSMgpAzs
 #EXTINF:-1 group-title="油管",TVBS
 https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
+#EXTINF:-1 group-title="油管",中天新闻-US
+http://144.34.231.118:10101/youtube/vr3XyVCR4T0
 #EXTINF:-1 group-title="油管",中天新闻
 https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
-#EXTINF:-1 group-title="油管",凤凰卫视资讯台
+#EXTINF:-1 group-title="油管",凤凰资讯-US
+http://144.34.231.118:10101/youtube/BLaQVW5oUGU
+#EXTINF:-1 group-title="油管",凤凰资讯
 https://smart.pendy.dpdns.org/youtube.php?id=BLaQVW5oUGU
 #EXTINF:-1 group-title="国际",皇家马德里
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
