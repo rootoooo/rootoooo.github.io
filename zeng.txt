@@ -46,8 +46,6 @@ D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 Cloudreve：rpu2dbuympubk0oaz11n7w4kw8ounmht
 
-45.196.239.41:16888
-
 https://psub.888005.xyz
 
 检测：https://www.virscan.org
@@ -200,15 +198,5 @@ cp .env.example .env && vi .env
 cd /home/ChatGPT-Mirror/
 
 ./deploy.sh
-
-
-
-VPS：
-
-wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
-
-bash status.sh s
-
-bash status.sh c
 
 
