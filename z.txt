@@ -1,7 +1,7 @@
 酷9,#genre#
 CCTV-13,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv13
 广西卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002509
-東方卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002483
+东方卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002483
 浙江卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002520
 江苏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002521
 湖南卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002475
