@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="中国",CCTV-13
-http://8.138.7.223/tv/gzjs.m3u8
-#EXTINF:-1 group-title="中国",CCTV-13
-http://45.196.239.41:35455/bptv/10000100000000050000000004796248.m3u8
+http://8.138.7.223/tv/ptbtv.php?id=28
+#EXTINF:-1 group-title="中国",CCTV-1
+http://8.138.7.223/tv/ptbtv.php?id=27
 #EXTINF:-1 group-title="广西移动",CCTV-13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="广西移动",CCTV-13
