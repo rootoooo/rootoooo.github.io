@@ -3,18 +3,6 @@
 http://8.138.7.223/tv/ptbtv.php?id=28
 #EXTINF:-1 group-title="皮皮虾",CCTV-1
 http://8.138.7.223/tv/ptbtv.php?id=27
-#EXTINF:-1 group-title="酷9专用",CCTV-13
-http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv13
-#EXTINF:-1 group-title="酷9专用",广西卫视
-http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002509
-#EXTINF:-1 group-title="酷9专用",东方卫视
-http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002483
-#EXTINF:-1 group-title="酷9专用",浙江卫视
-http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002520
-#EXTINF:-1 group-title="酷9专用",江苏卫视
-http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002521
-#EXTINF:-1 group-title="酷9专用",湖南卫视
-http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002475
 #EXTINF:-1 group-title="广西移动",CCTV-13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="广西移动",CCTV-13
