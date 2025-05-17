@@ -3,6 +3,18 @@
 http://8.138.7.223/tv/ptbtv.php?id=28
 #EXTINF:-1 group-title="皮皮虾",CCTV-1
 http://8.138.7.223/tv/ptbtv.php?id=27
+#EXTINF:-1 group-title="酷9专用",CCTV-13
+http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv13
+#EXTINF:-1 group-title="酷9专用",广西卫视
+http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002509
+#EXTINF:-1 group-title="酷9专用",东方卫视
+http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002483
+#EXTINF:-1 group-title="酷9专用",浙江卫视
+http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002520
+#EXTINF:-1 group-title="酷9专用",江苏卫视
+http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002521
+#EXTINF:-1 group-title="酷9专用",湖南卫视
+http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002475
 #EXTINF:-1 group-title="广西移动",CCTV-13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="广西移动",CCTV-13
@@ -550,14 +562,10 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",澳门莲花
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="港澳台",TVBS
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-#EXTINF:-1 group-title="港澳台",中天新闻
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-#EXTINF:-1 group-title="油管",TVBS
 https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
-#EXTINF:-1 group-title="油管",中天新闻
+#EXTINF:-1 group-title="港澳台",中天新闻
 https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
-#EXTINF:-1 group-title="油管",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯
 https://smart.pendy.dpdns.org/youtube.php?id=BLaQVW5oUGU
 #EXTINF:-1 group-title="国际",皇家马德里
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
