@@ -3,6 +3,8 @@
 http://8.138.7.223/tv/ptbtv.php?id=28
 #EXTINF:-1 group-title="皮皮虾",CCTV-1
 http://8.138.7.223/tv/ptbtv.php?id=27
+#EXTINF:-1 group-title="皮皮虾",广西卫视
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
 #EXTINF:-1 group-title="广西移动",CCTV-13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="广西移动",CCTV-13
