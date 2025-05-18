@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="皮皮虾",CCTV-13
 http://8.138.7.223/tv/ptbtv.php?id=28
-#EXTINF:-1 group-title="皮皮虾",周杰伦
-http://huanqiuzhibo.cn/manifest/douyu.php?id=7537296
+#EXTINF:-1 group-title="皮皮虾",歌曲MV
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
 #EXTINF:-1 group-title="皮皮虾",开心小品
 http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
 #EXTINF:-1 group-title="皮皮虾",经典小品
