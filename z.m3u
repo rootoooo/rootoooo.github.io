@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="皮皮虾",CCTV-13
 http://8.138.7.223/tv/ptbtv.php?id=28
+#EXTINF:-1 group-title="皮皮虾",CCTV-1
+http://8.138.7.223/tv/ptbtv.php?id=27
 #EXTINF:-1 group-title="皮皮虾",开心小品
 http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
 #EXTINF:-1 group-title="皮皮虾",经典小品
 http://zzy789.xyz/douyu1.php?id=9067836
-#EXTINF:-1 group-title="皮皮虾",暴走漫画
-http://huanqiuzhibo.cn/manifest/douyu.php?id=1275878
 #EXTINF:-1 group-title="广西移动",CCTV-13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="广西移动",CCTV-13
