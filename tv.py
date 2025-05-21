@@ -1,0 +1,206 @@
+卿至如画
+卿至风来白卉香，四序因卿韶景长。
+山川万里皆图画，未及卿颜半分妆。
+
+孤舟渡
+半生风雨孤舟渡，苦尽甘来万象新。
+江畔烟霞留旧梦，山间松竹奏清音。
+云开月照天地朗，潮涌风停气象真。
+放眼天涯归路远，平生浩气贯四方。
+
+天命赋
+时也命也运也催，浮生若梦逐风回。
+长河不尽千秋过，孤月犹怜万古哀。
+志在高天云未散，心随流水去还来。
+任他造化弄人事，我自持樽笑百杯。
+
+人生如梦
+初到人世未识愁，半生荒草空留名。
+回首前尘泪满巾，方知人生为何哭。
+举杯邀月对千愁，前路荆棘难逢步。
+红尘泪眼皆是客，笑我何人可怜心。
+常看人生如戏梦，奈何身在局中迷。
+岁月如风吹过梦，白云苍狗转瞬空。
+浮生若梦空回望，满眼风霜泪未干。
+千年一梦浮生尽，谁与共白发青灯。
+
+浮世叹
+少年初见弓如月，未畏风霜志愈坚。
+东风吹醒凌云气，岁月消磨赤子天。
+山重水复人无迹，此去何时再共欢。
+一别竟成归路杳，梦回犹识旧时颜。
+花开花落空长叹，英雄迟暮美人残。
+光阴似水流如箭，最易蹉跎年少欢。
+世路崎岖悲喜半，浮沉荣枯两相安。
+但将遗恨随流水，不惑方知道自宽。
+
+https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg
+
+https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg
+
+Administrator
+
+AD1456-FREE-CMBE4RS2F2
+
+D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
+
+Cloudreve：rpu2dbuympubk0oaz11n7w4kw8ounmht
+
+https://psub.888005.xyz
+
+检测：https://www.virscan.org
+
+搜索：https://ningmengso.com
+
+算命：https://www.212222.xyz
+
+域名查询：https://whois.1ka.net
+
+https://bwh81.net
+
+https://account.lightlayer.net
+
+Image：https://im.gurl.eu.org
+
+Music：https://music.gdstudio.xyz
+
+M3u8：http://tonkiang.us
+
+APTV：https://github.com/Kimentanm/aptv/tree/master/m3u
+
+https://github.com/suxuang/myIPTV
+
+Allinone：https://imgtool.v1.mk/allinone.html
+
+https://t.me/newallinone_bot
+
+TVbox：https://raw.liucn.cc/box/m.json
+
+TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
+
+SMS：https://sms-activate.org/getNumber
+
+FinalShell：https://www.hostbuf.com
+
+LocalSend：https://github.com/localsend/localsend/releases
+
+Frpc：https://github.com/luckjiawei/frpc-desktop/releases
+
+Chrome：https://crxdl.com
+
+Live：https://github.com/xiaoyaocz/dart_simple_live/releases
+
+Gps：https://github.com/ZCShou/GoGoGo/releases
+
+Rcx：https://github.com/x0b/rcx/releases
+
+Zip：https://github.com/WirelessAlien/ZipXtract/releases
+
+V2rayN：https://github.com/2dust/v2rayn/releases
+
+V2rayNG：https://github.com/2dust/v2rayNG/releases
+
+Fancyss：https://hq450.github.io/fancyss
+
+ServerStatus：https://github.com/CokeMine/ServerStatus-Hotaru
+
+Argo：https://github.com/eooce/xray-2go
+
+AccessToken：https://chatgpt.com/api/auth/session
+
+AdGuard：https://github.com/privacy-protection-tools/anti-AD
+
+https://anti-ad.net/adguard.txt
+
+https://github.com/217heidai/adblockfilters
+
+Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
+
+https://whatshub.top/module/YouTubeAd.sgmodule
+
+Syncnext：https://github.com/Quinndark/syncnextPlugin
+
+https://github.com/icy37785/syncnextPlugin
+
+https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+
+Windows+Shift+S
+
+Win+R→shell:startup
+
+Alist：https://github.com/AlistGo/alist/releases
+
+Cloudreve：https://github.com/cloudreve/Cloudreve/releases
+
+alist.txt文件修改→alist.vbs
+
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run "cmd /k cd C:\Alist && alist server", 0, False
+
+Alist挂载：Cloudreve→Cookie→F12→Network网络→F5→config→session=XXX
+
+Alist插件：https://github.com/TheSmallHanCat/Better_Alist
+
+Alist-MAC：alist→应用程序
+
+/Applications/alist server
+
+/Applications/alist admin random
+
+df -h
+
+/Volumes/备份
+
+echo -e "nameserver 154.12.177.22
+
+nameserver 1.1.1.1" > /etc/resolv.conf
+
+echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
+
+
+
+Debian更新：
+
+apt update -y && apt install -y curl socat wget sudo
+
+
+
+科技lion：
+
+bash <(curl -sL kejilion.sh)
+
+
+
+3X-ui：
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
+
+
+
+Frps：
+
+wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
+chmod 700 ./install-frps.sh
+./install-frps.sh install
+
+nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+
+
+ChatGPT-Mirror：
+
+cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
+
+cd ChatGPT-Mirror/
+
+cp .env.example .env && vi .env
+
+:wq
+
+cd /home/ChatGPT-Mirror/
+
+./deploy.sh
+
+
