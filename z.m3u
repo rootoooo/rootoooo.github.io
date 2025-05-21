@@ -953,8 +953,12 @@ http://8.138.7.223/tv/lotustv.m3u8
 https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
 #EXTINF:-1 group-title="港澳台",中天新闻
 https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
+#EXTINF:-1 group-title="港澳台",中天新闻-US
+https://us.haoss.eu.org/youtube/vr3XyVCR4T0
 #EXTINF:-1 group-title="港澳台",凤凰资讯
 https://smart.pendy.dpdns.org/youtube.php?id=BLaQVW5oUGU
+#EXTINF:-1 group-title="港澳台",凤凰资讯-US
+https://us.haoss.eu.org/youtube/BLaQVW5oUGU
 #EXTINF:-1 group-title="国际",开心小品
 http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
 #EXTINF:-1 group-title="国际",经典小品
