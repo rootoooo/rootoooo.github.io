@@ -202,3 +202,11 @@ cd /home/ChatGPT-Mirror/
 ./deploy.sh
 
 
+
+Nezha：
+
+curl -L https://raw.githubusercontent.com/nezhahq/scripts/refs/heads/main/install.sh -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh
+
+./nezha.sh
+
+
