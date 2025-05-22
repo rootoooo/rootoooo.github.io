@@ -504,7 +504,5 @@ Formosa TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secre
 Formosa TV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-测试,#genre#
-CCTV-13,https://haoss.eu.org/webview.js?id=https://tv.cctv.com/live/cctv13
 
 
