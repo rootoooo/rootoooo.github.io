@@ -945,8 +945,6 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPla
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="澳门",澳门莲花
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="台湾",中天新闻
-http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 group-title="国际",开心小品
 http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
 #EXTINF:-1 group-title="国际",经典小品
