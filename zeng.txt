@@ -48,6 +48,10 @@ Cloudreve：rpu2dbuympubk0oaz11n7w4kw8ounmht
 
 https://psub.888005.xyz
 
+https://bwh81.net
+
+https://account.lightlayer.net
+
 检测：https://www.virscan.org
 
 搜索：https://ningmengso.com
@@ -55,10 +59,6 @@ https://psub.888005.xyz
 算命：https://www.212222.xyz
 
 域名：https://whois.1ka.net
-
-https://bwh81.net
-
-https://account.lightlayer.net
 
 Image：https://im.gurl.eu.org
 
@@ -97,8 +97,6 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 Fancyss：https://hq450.github.io/fancyss
-
-ServerStatus：https://github.com/CokeMine/ServerStatus-Hotaru
 
 Argo：https://github.com/eooce/xray-2go
 
