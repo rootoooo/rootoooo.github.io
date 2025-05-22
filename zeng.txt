@@ -118,6 +118,8 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
+https://github.com/qoli/syncnext-api/blob/main/sourcesv3.json
+
 https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
 Windows+Shift+S
