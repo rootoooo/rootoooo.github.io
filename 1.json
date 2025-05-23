@@ -1,18 +1,10 @@
 [
     {
-        "name": "低端影视",
-        "api": "https://ddys.pro/api.php/provide/vod/"
-    },
-    {
-        "name": "黑木耳",
+        "name": "oooo",
         "api": "https://xml02.heimuer.xyz/api.php/provide/vod/"
     },
     {
         "name": "欧乐影院",
         "api": "https://olevod.com/api.php/provide/vod/"
     },
-    {
-        "name": "在线之家",
-        "api": "https://www.zxzjhd.com/api.php/provide/vod/"
-    }
 ]
