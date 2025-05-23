@@ -867,13 +867,26 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="直播",斗鱼-开心小品
+#EXTINF:-1 group-title="直播" ,斗鱼-开心小品
 http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
-#EXTINF:-1 group-title="直播",斗鱼-经典小品
+#EXTINF:-1 group-title="直播" ,斗鱼-经典小品
 http://zzy789.xyz/douyu1.php?id=9067836
-#EXTINF:-1 group-title="直播",斗鱼-暴走漫画
-http://zzy789.xyz/douyu1.php?id=1275878
-#EXTINF:-1 group-title="直播",斗鱼-万合天宜
+#EXTINF:-1 group-title="直播" ,斗鱼-赵本山小品
+http://zzy789.xyz/douyu1.php?id=9817716
+#EXTINF:-1 group-title="直播" ,斗鱼-宋小宝小品
+http://zzy789.xyz/douyu1.php?id=9817729
+#EXTINF:-1 group-title="直播" ,斗鱼-龙门镖局
+http://zzy789.xyz/douyu1.php?id=10329719
+#EXTINF:-1 group-title="直播" ,斗鱼-牛叔说电影
+http://zzy789.xyz/douyu1.php?id=2758565
+#EXTINF:-1 group-title="直播" ,斗鱼-竹叶的熊猫
+http://zzy789.xyz/douyu1.php?id=3870925
+#EXTINF:-1 group-title="直播" ,斗鱼-秋月剪水
+http://zzy789.xyz/douyu1.php?id=9588891
+#EXTINF:-1 group-title="直播" ,斗鱼-万合天宜
 http://zzy789.xyz/douyu1.php?id=9220456
+#EXTINF:-1 group-title="直播" ,斗鱼-暴走漫画
+http://zzy789.xyz/douyu1.php?id=1275878
+
 
 
