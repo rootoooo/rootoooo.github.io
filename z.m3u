@@ -833,8 +833,14 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPla
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="澳门",澳门莲花
 http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="台湾",TVBS
+http://144.34.231.118:10101/youtube/o_-hSMgpAzs
 #EXTINF:-1 group-title="台湾",中天新闻
-https://k44991.kylintv.tv/live/cti_iphone.m3u8
+http://144.34.231.118:10101/youtube/vr3XyVCR4T0
+#EXTINF:-1 group-title="台湾",东森新闻
+http://144.34.231.118:10101/youtube/V1p33hqPrUk
+#EXTINF:-1 group-title="台湾",三立新闻
+http://144.34.231.118:10101/youtube/pIl_6QSGcX8
 #EXTINF:-1 group-title="国际",皇家马德里
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="国际",曼彻斯特联
@@ -879,10 +885,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
 http://zzy789.xyz/douyu1.php?id=9067836
 #EXTINF:-1 group-title="斗鱼",万合天宜
 http://zzy789.xyz/douyu1.php?id=9220456
-#EXTINF:-1 group-title="斗鱼",文西与阿漆
-http://zzy789.xyz/douyu1.php?id=8737695
-#EXTINF:-1 group-title="斗鱼",竹叶的熊猫
-http://zzy789.xyz/douyu1.php?id=3870925
 #EXTINF:-1 group-title="斗鱼",暴走漫画
 http://zzy789.xyz/douyu1.php?id=1275878
 
