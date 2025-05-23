@@ -118,12 +118,6 @@ Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules
 
 https://whatshub.top/module/YouTubeAd.sgmodule
 
-Syncnext：https://github.com/Quinndark/syncnextPlugin
-
-https://github.com/icy37785/syncnextPlugin
-
-https://github.haoss.eu.org/https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/tv.json
-
 Windows+Shift+S
 
 Win+R→shell:startup
