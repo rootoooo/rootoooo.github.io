@@ -478,6 +478,13 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门莲花,http://php.jdshipin.com/TVOD/iptv.php?id=as
 台湾,#genre#
 中天新闻,https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
+TVBS,https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
+TVBS NEWS,https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
+东森LIVE,https://smart.pendy.dpdns.org/youtube.php?id=V1p33hqPrUk
+东森新闻,https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
+LIVE三立,https://smart.pendy.dpdns.org/youtube.php?id=QmxYlXQ-cu4
+LIVE三立+,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
+三立新闻,https://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
 国际,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -497,14 +504,7 @@ Formosa TV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_4208
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 直播,#genre#
-斗鱼-开心小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
-斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
-斗鱼-赵本山小品,http://zzy789.xyz/douyu1.php?id=9817716
-斗鱼-宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729
-斗鱼-牛叔说电影,http://zzy789.xyz/douyu1.php?id=2758565
-斗鱼-竹叶的熊猫,http://zzy789.xyz/douyu1.php?id=3870925
-斗鱼-秋月剪水,http://zzy789.xyz/douyu1.php?id=9588891
+斗鱼-竹叶的熊猫,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
 斗鱼-万合天宜,http://zzy789.xyz/douyu1.php?id=9220456
-斗鱼-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
 
 
