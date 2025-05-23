@@ -482,8 +482,6 @@ TVBS,http://144.34.231.118:10101/youtube/o_-hSMgpAzs
 东森新闻,http://144.34.231.118:10101/youtube/V1p33hqPrUk
 三立新闻,http://144.34.231.118:10101/youtube/pIl_6QSGcX8
 国际,#genre#
-皇家马德里,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-曼彻斯特联,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
@@ -501,10 +499,12 @@ Formosa TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secre
 Formosa TV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-斗鱼,#genre#
-开心小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
-万合天宜,http://zzy789.xyz/douyu1.php?id=9220456
-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
+直播,#genre#
+哔哩哔哩-CCTV-13,http://148.135.93.213:81/live/bilibili/22142427?line=first
+虎牙-周星星,http://148.135.93.213:81/live/huya/11342412
+斗鱼-万合天宜,http://148.135.93.213:81/live/douyu/9220456
+斗鱼-开心小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=10153463
+斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
+斗鱼-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
 
 
