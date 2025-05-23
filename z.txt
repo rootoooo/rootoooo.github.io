@@ -499,5 +499,7 @@ Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
 斗鱼-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
 斗鱼-万合天宜,http://zzy789.xyz/douyu1.php?id=9220456
-
+电信,#genre#
+CCTV-13,http://113.15.109.216:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://113.15.109.216:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
