@@ -833,6 +833,8 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPla
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="澳门",澳门莲花
 http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="台湾",中天新闻
+https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="国际",DW
@@ -875,8 +877,6 @@ http://zzy789.xyz/douyu1.php?id=9067836
 http://zzy789.xyz/douyu1.php?id=9817716
 #EXTINF:-1 group-title="直播",斗鱼-宋小宝小品
 http://zzy789.xyz/douyu1.php?id=9817729
-#EXTINF:-1 group-title="直播",斗鱼-龙门镖局
-http://zzy789.xyz/douyu1.php?id=10329719
 #EXTINF:-1 group-title="直播",斗鱼-牛叔说电影
 http://zzy789.xyz/douyu1.php?id=2758565
 #EXTINF:-1 group-title="直播",斗鱼-竹叶的熊猫
