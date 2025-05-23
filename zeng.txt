@@ -153,7 +153,11 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 
 
-docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=8nbakmpisfftptfrkg2tvsqgv5in2a37 -userid=8031343115 -token=f54b5251eed54176b31046522090cc9180c3606b29e86b823d391431fd11bdbd4d563a4072155db975a4d756b0487b1f4a7e730881988b02aef747655a630922bae27c8135e169
+YouTube：
+
+docker run --name=Youtube -p 10101:5000 -e YOUTUBE_PROXY_API_KEY="judy" --restart=always mybtjson/youtube:0.0.2
+
+http://localhost:10101/video?id=YouTube视频ID⁠
 
 
 
