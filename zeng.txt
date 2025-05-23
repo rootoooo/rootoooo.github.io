@@ -155,9 +155,9 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 YouTube：
 
-docker run --name=Youtube -p 10101:5000 -e YOUTUBE_PROXY_API_KEY="judy" --restart=always mybtjson/youtube:0.0.2
+docker run --name=Youtube -p 10101:5000 -e YOUTUBE_PROXY_API_KEY="oooo" --restart=always mybtjson/youtube:0.0.2
 
-http://localhost:10101/video?id=YouTube视频ID⁠
+http://IP:10101/video?id=YouTube视频ID⁠
 
 
 
