@@ -122,9 +122,7 @@ Syncnext：https://github.com/Quinndark/syncnextPlugin
 
 https://github.com/icy37785/syncnextPlugin
 
-https://github.com/qoli/syncnext-api/blob/main/sourcesv3.json
-
-https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+https://github.haoss.eu.org/https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/tv.json
 
 Windows+Shift+S
 
