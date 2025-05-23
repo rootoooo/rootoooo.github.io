@@ -476,6 +476,8 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门,#genre#
 澳门莲花,http://php.jdshipin.com/TVOD/iptv.php?id=as
+台湾,#genre#
+中天新闻,https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
 国际,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -499,7 +501,6 @@ Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
 斗鱼-赵本山小品,http://zzy789.xyz/douyu1.php?id=9817716
 斗鱼-宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729
-斗鱼-龙门镖局,http://zzy789.xyz/douyu1.php?id=10329719
 斗鱼-牛叔说电影,http://zzy789.xyz/douyu1.php?id=2758565
 斗鱼-竹叶的熊猫,http://zzy789.xyz/douyu1.php?id=3870925
 斗鱼-秋月剪水,http://zzy789.xyz/douyu1.php?id=9588891
