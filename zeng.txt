@@ -153,14 +153,6 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 
 
-YouTube：
-
-docker run --name=Youtube -p 10101:5000 -e YOUTUBE_PROXY_API_KEY="oooo" --restart=always mybtjson/youtube:0.0.2
-
-http://IP:10101/video?id=YouTube视频ID⁠
-
-
-
 Debian更新：
 
 apt update -y && apt install -y curl socat wget sudo
