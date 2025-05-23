@@ -68,11 +68,9 @@ Music：https://music.gdstudio.xyz
 
 M3u8：http://tonkiang.us
 
-M3u：https://sankei.mo/z.html
+https://sankei.mo/z.html
 
-Allinone：https://imgtool.v1.mk/allinone.html
-
-https://t.me/newallinone_bot
+https://www.livednow.dpdns.org
 
 TVbox：https://raw.liucn.cc/box/m.json
 
