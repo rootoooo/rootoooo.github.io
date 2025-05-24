@@ -76,6 +76,8 @@ TVbox：https://raw.liucn.cc/box/m.json
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
+TrafficMonitor：https://github.com/zhongyang219/TrafficMonitor/releases
+
 SMS：https://sms-activate.org/getNumber
 
 FinalShell：https://www.hostbuf.com
