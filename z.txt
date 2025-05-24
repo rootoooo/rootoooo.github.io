@@ -482,9 +482,9 @@ TVBS,https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
 TVBS NEWS,https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
 东森LIVE,https://smart.pendy.dpdns.org/youtube.php?id=V1p33hqPrUk
 东森新闻,https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
-LIVE三立,https://smart.pendy.dpdns.org/youtube.php?id=QmxYlXQ-cu4
 LIVE三立+,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 三立新闻,https://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
+凤凰资讯,https://smart.pendy.dpdns.org/youtube.php?id=BLaQVW5oUGU
 国际,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
