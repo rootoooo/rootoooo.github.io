@@ -1,0 +1,62 @@
+addEventListener('fetch', event => {
+  event.respondWith(handleRequest(event.request))
+})
+
+async function handleRequest(request) {
+  return new Response(`
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>梦里啥都有</title>
+      <link rel="icon" type="image/jpg" href="https://i.haoss.eu.org/file/ba2dfcf9e8533837d9777.jpg" />
+      <style>
+        body {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 100vh;
+          margin: 0;
+          position: relative;
+          overflow: hidden;
+          font-family: "Arial", sans-serif;
+          color: #ffffff;
+        }
+
+        body::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: url("https://i.haoss.eu.org/file/9f27a11b8e7bc7c087415.jpg") center/cover no-repeat fixed;
+          z-index: -1;
+        }
+
+        .content {
+          text-align: center;
+          padding: 20px;
+          background-color: rgba(0, 0, 0, 0.5);
+          border-radius: 10px;
+          z-index: 1;
+        }
+
+        a {
+          color: #ffffff;
+        }
+      </style>
+    </head>
+    <body>
+      <div class="content">
+        曾经有一份真挚的爱情摆在我面前，但我没有珍惜，等到失去了我才后悔莫及，尘世间最痛苦的事莫过于此。
+        如果上天可以给我再来一次的机会，我会对那个女孩说三个字：“我爱你!”
+        如果非要在这份爱前加一个期限的话，我希望是<a href="https://haoss.eu.org" target="_blank">一万年</a>
+      </div>
+    </body>
+    </html>`, {
+    headers: { 'Content-Type': 'text/html; charset=utf-8' },
+    status: 200,
+  })
+}

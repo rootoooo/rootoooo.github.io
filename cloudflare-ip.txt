@@ -1,0 +1,84 @@
+addEventListener('fetch', event => {
+  event.respondWith(handleRequest(event.request));
+});
+
+async function handleRequest(request) {
+  const ip = request.headers.get('CF-Connecting-IP') || '未知';
+  const country = request.headers.get('CF-IPCountry') || '未知';
+  const detailURL = 'https://iplark.com'; // 将此URL替换为你指定的网页连接
+  const newDetailURL = 'https://ip.skk.moe'; // 新的点击链接URL
+
+  const html = `
+    <!DOCTYPE html>
+    <html lang="zh">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>皮皮虾</title>
+      <link rel="icon" type="image/jpg" href="https://i.haoss.eu.org/file/ba2dfcf9e8533837d9777.jpg" />
+      <style>
+        body {
+          font-family: Arial, sans-serif;
+          text-align: center;
+          margin: 0;
+          padding: 0;
+          height: 100vh;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background: url('https://i.haoss.eu.org/file/018fb0cfb7e35cdc1fe94.jpg') no-repeat center center fixed;
+          background-size: cover;
+        }
+        .container {
+          background: rgba(255, 255, 255, 0.7); /* Slightly more opaque white background */
+          padding: 20px;
+          border-radius: 10px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+          text-align: center;
+        }
+        h1 {
+          font-size: 24px;
+          margin-bottom: 20px;
+        }
+        p {
+          font-size: 18px;
+          margin: 10px 0;
+        }
+        .details-link {
+          font-size: 16px;
+          color: blue;
+          text-decoration: underline;
+          cursor: pointer;
+          margin-top: 10px;
+          display: inline-block;
+        }
+        .link-container {
+          margin-top: 10px;
+        }
+        .link-container a {
+          font-size: 16px;
+          color: blue;
+          text-decoration: underline;
+          cursor: pointer;
+          margin-left: 10px;
+        }
+      </style>
+    </head>
+    <body>
+      <div class="container">
+        <h1>皮皮虾我们走</h1>
+        <p><strong>IP 地址:</strong> ${ip}</p>
+        <p><strong>国家:</strong> ${country}</p>
+        <div class="link-container">
+          <a href="${detailURL}" class="details-link">IP数据</a>
+          <a href="${newDetailURL}" class="details-link">IP延时</a>
+        </div>
+      </div>
+    </body>
+    </html>
+  `;
+
+  return new Response(html, {
+    headers: { 'Content-Type': 'text/html' },
+  });
+}
