@@ -664,16 +664,5 @@ TVBS,https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
 东森新闻,https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
 LIVE三立+,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 三立新闻,https://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
-直播,#genre#
-斗鱼-短剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=11824307
-斗鱼-竹叶的熊猫,http://zzy789.xyz/douyu1.php?id=3870925
-斗鱼-十七岁的道姑,http://zzy789.xyz/douyu1.php?id=3186217
-斗鱼-万合天宜,http://zzy789.xyz/douyu1.php?id=9220456
-斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
-斗鱼-开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
-斗鱼-赵本山,http://zzy789.xyz/douyu1.php?id=9817716
-斗鱼-宋小宝,http://zzy789.xyz/douyu1.php?id=9817729
-斗鱼-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
-斗鱼-小小天才,http://zzy789.xyz/douyu1.php?id=9419678
 
 
