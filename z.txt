@@ -588,15 +588,22 @@ CCTV-17,http://148.135.93.213/live.php?id=CCTV17
 西藏卫视,http://148.135.93.213/live.php?id=西藏卫视
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+直播,#genre#
+斗鱼-竹叶的熊猫,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
+斗鱼-十七岁的道姑,http://zzy789.xyz/douyu1.php?id=3186217
+斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
+斗鱼-开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
+斗鱼-赵本山,http://zzy789.xyz/douyu1.php?id=9817716
+斗鱼-宋小宝,http://zzy789.xyz/douyu1.php?id=9817729
+斗鱼-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
+斗鱼-小小天才,http://zzy789.xyz/douyu1.php?id=9419678
+斗鱼-万合天宜,http://www.douzhicloud.site:35455/douyu/9220456
+虎牙-周星驰,http://www.douzhicloud.site:35455/huya/11342412
 皮皮虾,#genre#
 CCTV-13,http://8.138.7.223/tv/ptbtv.php?id=28
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
-斗鱼-竹叶的熊猫,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
-斗鱼-十七岁的道姑,http://zzy789.xyz/douyu1.php?id=3186217
-斗鱼-万合天宜,http://www.douzhicloud.site:35455/douyu/9220456
-虎牙-周星驰,http://www.douzhicloud.site:35455/huya/11342412
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
