@@ -74,10 +74,6 @@ IPTV：https://github.com/suxuang/myIPTV
 
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 
-https://www.livednow.dpdns.org
-
-https://smart.pendy.dpdns.org/judy.json
-
 https://sankei.mo/z.html
 
 TVbox：https://github.com/liu673cn/box
