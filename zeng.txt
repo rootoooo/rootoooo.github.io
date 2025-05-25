@@ -108,6 +108,8 @@ Fancyss：https://hq450.github.io/fancyss
 
 Rustdesk：https://github.com/rustdesk/rustdesk/releases
 
+V2ray：https://github.com/mack-a/v2ray-agent
+
 Argo：https://github.com/eooce/xray-2go
 
 AccessToken：https://chatgpt.com/api/auth/session
