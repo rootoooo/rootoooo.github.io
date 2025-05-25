@@ -500,6 +500,11 @@ TVBS,https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
 LIVE三立+,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 三立新闻,https://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
 国际,#genre#
+斗鱼-竹叶的熊猫,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
+斗鱼-十七岁的道姑,http://zzy789.xyz/douyu1.php?id=3186217
+斗鱼-万合天宜,http://www.douzhicloud.site:35455/douyu/9220456
+虎牙-周星驰,http://www.douzhicloud.site:35455/huya/11342412
+哔哩哔哩-CCTV-13,http://www.douzhicloud.site:35455/bilibili/8178490
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -521,12 +526,6 @@ Formosa TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secre
 Formosa TV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-直播,#genre#
-斗鱼-竹叶的熊猫,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
-斗鱼-十七岁的道姑,http://zzy789.xyz/douyu1.php?id=3186217
-斗鱼-万合天宜,http://www.douzhicloud.site:35455/douyu/9220456
-虎牙-周星驰,http://www.douzhicloud.site:35455/huya/11342412
-哔哩哔哩-CCTV-13,http://www.douzhicloud.site:35455/bilibili/8178490
 酷9专用,#genre#
 CCTV-13,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv13
 广西卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002509
