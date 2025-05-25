@@ -70,6 +70,8 @@ LookTV：https://faxiantv.com
 
 M3u8：http://tonkiang.us
 
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+
 https://sankei.mo/z.html
 
 https://www.livednow.dpdns.org
