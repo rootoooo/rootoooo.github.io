@@ -70,7 +70,7 @@ LookTV：https://faxiantv.com
 
 M3u8：http://tonkiang.us
 
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+IPTV：https://github.com/suxuang/myIPTV
 
 https://tv.iill.top/m3u/Gather
 
