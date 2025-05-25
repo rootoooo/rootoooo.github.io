@@ -499,7 +499,7 @@ TVBS,https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
 东森新闻,https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
 LIVE三立+,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 三立新闻,https://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
-国际,#genre#
+皮皮虾,#genre#
 CCTV-13,http://8.138.7.223/tv/ptbtv.php?id=28
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
