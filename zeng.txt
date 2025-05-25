@@ -54,13 +54,15 @@ https://bwh81.net
 
 https://account.lightlayer.net
 
-检测：https://www.virscan.org
+软件检测：https://www.virscan.org
 
-搜索：https://ningmengso.com
+磁力搜索：https://ningmengso.com
 
-算命：https://www.212222.xyz
+在线算命：https://www.212222.xyz
 
-域名：https://whois.1ka.net
+域名查询：https://whois.1ka.net
+
+发现TV：https://faxiantv.com
 
 Image：https://im.gurl.eu.org
 
@@ -83,6 +85,8 @@ TVbox：https://github.com/liu673cn/box
 https://raw.liucn.cc/box/m.json
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
+
+LibreTV：https://github.com/myfreeport/FaXianTV
 
 TrafficMonitor：https://github.com/zhongyang219/TrafficMonitor/releases
 
