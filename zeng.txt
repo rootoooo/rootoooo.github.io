@@ -72,8 +72,6 @@ M3u8：http://tonkiang.us
 
 IPTV：https://github.com/suxuang/myIPTV
 
-https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
-
 https://sankei.mo/z.html
 
 TVbox：https://github.com/liu673cn/box
