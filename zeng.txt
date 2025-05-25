@@ -70,7 +70,11 @@ LookTV：https://faxiantv.com
 
 M3u8：http://tonkiang.us
 
-IPTV：https://github.com/suxuang/myIPTV
+http://huanqiuzhibo.cn/manifest/douyu.php?id=
+
+http://zzy789.xyz/douyu1.php?id=
+
+https://github.com/suxuang/myIPTV
 
 https://sankei.mo/z.html
 
