@@ -660,9 +660,19 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门莲花,http://php.jdshipin.com/TVOD/iptv.php?id=as
 中天新闻,https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
 TVBS,https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
+TVBS News,https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
+TVBS新闻,https://smart.pendy.dpdns.org/youtube.php?id=2mCSYvcfhtc
 东森LIVE,https://smart.pendy.dpdns.org/youtube.php?id=V1p33hqPrUk
 东森新闻,https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
 LIVE三立+,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 三立新闻,https://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
+凤凰资讯,https://smart.pendy.dpdns.org/youtube.php?id=BLaQVW5oUGU
+凤凰资讯,https://smart.pendy.dpdns.org/youtube.php?id=LNux6O0Fj6A
+联合国,https://smart.pendy.dpdns.org/youtube.php?id=wfAa1GiNdgM
+DW,https://smart.pendy.dpdns.org/youtube.php?id=LuKwFajn37U
+FRANCE 24,https://smart.pendy.dpdns.org/youtube.php?id=Ap-UM1O9RBU
+Sky News,https://smart.pendy.dpdns.org/youtube.php?id=YDvsBbKfLPA
+Chinese Mix,https://smart.pendy.dpdns.org/youtube.php?id=aQT8mUr445I
+DJ MoonBaby,https://smart.pendy.dpdns.org/youtube.php?id=F2tpshELd1o
 
 
