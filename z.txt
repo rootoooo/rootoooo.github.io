@@ -698,12 +698,12 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
-斗鱼-秋月剪水,http://zzy789.xyz/douyu1.php?id=9588891
-斗鱼-万合天宜,http://zzy789.xyz/douyu1.php?id=9220456
+斗鱼-万合天宜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
 斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
 斗鱼-开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
 斗鱼-赵本山,http://zzy789.xyz/douyu1.php?id=9817716
 斗鱼-宋小宝,http://zzy789.xyz/douyu1.php?id=9817729
+斗鱼-小小天才,http://zzy789.xyz/douyu1.php?id=9419678
 斗鱼-牛叔说电影,http://zzy789.xyz/douyu1.php?id=2758565
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
