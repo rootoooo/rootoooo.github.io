@@ -98,6 +98,8 @@ https://sankei.mo/z.html
 
 TVbox：https://github.com/liu673cn/box
 
+https://raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
+
 https://raw.liucn.cc/box/m.json
 
 TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
