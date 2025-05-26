@@ -86,6 +86,10 @@ Chrome：https://crxdl.com
 
 M3u8：http://tonkiang.us
 
+https://sankei.mo/z.html
+
+https://github.com/suxuang/myIPTV
+
 https://jx.playerjy.com/?url=
 
 https://jx.m3u8.tv/jiexi/?url=
@@ -93,10 +97,6 @@ https://jx.m3u8.tv/jiexi/?url=
 http://huanqiuzhibo.cn/manifest/douyu.php?id=
 
 http://zzy789.xyz/douyu1.php?id=
-
-https://github.com/suxuang/myIPTV
-
-https://sankei.mo/z.html
 
 Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
