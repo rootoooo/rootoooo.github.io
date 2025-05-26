@@ -101,10 +101,6 @@ https://jx.playerjy.com/?url=
 
 https://jx.m3u8.tv/jiexi/?url=
 
-http://huanqiuzhibo.cn/manifest/douyu.php?id=
-
-http://zzy789.xyz/douyu1.php?id=
-
 Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 https://github.haoss.eu.org/https://raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
