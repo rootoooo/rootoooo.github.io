@@ -9,269 +9,379 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-13
+#EXTINF:-1 group-title="中国" ,CCTV-13
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,广西卫视
+#EXTINF:-1 group-title="中国" ,广西卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226681/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,东方卫视
+#EXTINF:-1 group-title="中国" ,东方卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,浙江卫视
+#EXTINF:-1 group-title="中国" ,浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,江苏卫视
+#EXTINF:-1 group-title="中国" ,江苏卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226692/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,湖南卫视
+#EXTINF:-1 group-title="中国" ,湖南卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-1
+#EXTINF:-1 group-title="中国" ,CCTV-1
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-2
+#EXTINF:-1 group-title="中国" ,CCTV-2
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-3
+#EXTINF:-1 group-title="中国" ,CCTV-3
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-4
+#EXTINF:-1 group-title="中国" ,CCTV-4
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-5
+#EXTINF:-1 group-title="中国" ,CCTV-5
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226731/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-5+
+#EXTINF:-1 group-title="中国" ,CCTV-5+
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-6
+#EXTINF:-1 group-title="中国" ,CCTV-6
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-7
+#EXTINF:-1 group-title="中国" ,CCTV-7
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226721/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-8
+#EXTINF:-1 group-title="中国" ,CCTV-8
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-9
+#EXTINF:-1 group-title="中国" ,CCTV-9
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226651/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-10
+#EXTINF:-1 group-title="中国" ,CCTV-10
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226708/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-11
+#EXTINF:-1 group-title="中国" ,CCTV-11
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-12
+#EXTINF:-1 group-title="中国" ,CCTV-12
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-14
+#EXTINF:-1 group-title="中国" ,CCTV-14
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-15
+#EXTINF:-1 group-title="中国" ,CCTV-15
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-16
+#EXTINF:-1 group-title="中国" ,CCTV-16
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-17
+#EXTINF:-1 group-title="中国" ,CCTV-17
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CETV-1
+#EXTINF:-1 group-title="中国" ,CETV-1
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CETV-2
+#EXTINF:-1 group-title="中国" ,CETV-2
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CETV-3
+#EXTINF:-1 group-title="中国" ,CETV-3
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CETV-4
+#EXTINF:-1 group-title="中国" ,CETV-4
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,北京卫视
+#EXTINF:-1 group-title="中国" ,北京卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,安徽卫视
+#EXTINF:-1 group-title="中国" ,安徽卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226664/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,兵团卫视
+#EXTINF:-1 group-title="中国" ,兵团卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226661/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,东南卫视
+#EXTINF:-1 group-title="中国" ,东南卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226670/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,甘肃卫视
+#EXTINF:-1 group-title="中国" ,甘肃卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226662/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,广东卫视
+#EXTINF:-1 group-title="中国" ,广东卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,贵州卫视
+#EXTINF:-1 group-title="中国" ,贵州卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226672/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,海南卫视
+#EXTINF:-1 group-title="中国" ,海南卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226683/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,河北卫视
+#EXTINF:-1 group-title="中国" ,河北卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226684/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,河南卫视
+#EXTINF:-1 group-title="中国" ,河南卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226687/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,湖北卫视
+#EXTINF:-1 group-title="中国" ,湖北卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,吉林卫视
+#EXTINF:-1 group-title="中国" ,吉林卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226671/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,江西卫视
+#EXTINF:-1 group-title="中国" ,江西卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226726/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,辽宁卫视
+#EXTINF:-1 group-title="中国" ,辽宁卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,宁夏卫视
+#EXTINF:-1 group-title="中国" ,宁夏卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226691/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,青海卫视
+#EXTINF:-1 group-title="中国" ,青海卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226696/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,厦门卫视
+#EXTINF:-1 group-title="中国" ,厦门卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226695/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,山东卫视
+#EXTINF:-1 group-title="中国" ,山东卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226693/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,山西卫视
+#EXTINF:-1 group-title="中国" ,山西卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226704/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,陕西卫视
+#EXTINF:-1 group-title="中国" ,陕西卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,深圳卫视
+#EXTINF:-1 group-title="中国" ,深圳卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,四川卫视
+#EXTINF:-1 group-title="中国" ,四川卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226659/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,天津卫视
+#EXTINF:-1 group-title="中国" ,天津卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226686/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,西藏卫视
+#EXTINF:-1 group-title="中国" ,西藏卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,新疆卫视
+#EXTINF:-1 group-title="中国" ,新疆卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226700/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,云南卫视
+#EXTINF:-1 group-title="中国" ,云南卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226709/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,重庆卫视
+#EXTINF:-1 group-title="中国" ,重庆卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226680/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,黑龙江卫视
+#EXTINF:-1 group-title="中国" ,黑龙江卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226716/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,内蒙古卫视
+#EXTINF:-1 group-title="中国" ,内蒙古卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,山东教育
+#EXTINF:-1 group-title="中国" ,山东教育
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226701/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,金鹰纪实
+#EXTINF:-1 group-title="中国" ,金鹰纪实
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,纪实科教
+#EXTINF:-1 group-title="中国" ,纪实科教
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226656/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,卡酷少儿
+#EXTINF:-1 group-title="中国" ,卡酷少儿
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,金鹰卡通
+#EXTINF:-1 group-title="中国" ,金鹰卡通
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,哈哈炫动
+#EXTINF:-1 group-title="中国" ,哈哈炫动
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226703/1.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,北京纪实科教
+#EXTINF:-1 group-title="中国" ,北京纪实科教
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226658/1.m3u8
-#EXTINF:-1 group-title="科学" ,凤凰中文
+#EXTINF:-1 group-title="国际" ,凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="科学" ,凤凰中文
+#EXTINF:-1 group-title="国际" ,凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="科学" ,凤凰资讯
+#EXTINF:-1 group-title="国际" ,凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="科学" ,凤凰资讯
+#EXTINF:-1 group-title="国际" ,凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="科学" ,凤凰香港
+#EXTINF:-1 group-title="国际" ,凤凰香港
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="科学" ,凤凰香港
+#EXTINF:-1 group-title="国际" ,凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="科学" ,无线新闻
+#EXTINF:-1 group-title="国际" ,无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="科学" ,无线新闻
+#EXTINF:-1 group-title="国际" ,无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="科学" ,无线新闻
+#EXTINF:-1 group-title="国际" ,无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="科学" ,有线综合
+#EXTINF:-1 group-title="国际" ,有线综合
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="科学" ,翡翠台
+#EXTINF:-1 group-title="国际" ,翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="科学" ,翡翠台
+#EXTINF:-1 group-title="国际" ,翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="科学" ,翡翠台
+#EXTINF:-1 group-title="国际" ,翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="科学" ,翡翠台
+#EXTINF:-1 group-title="国际" ,翡翠台
 http://php.jdshipin.com:8880/xsj.php?id=lotustv
-#EXTINF:-1 group-title="科学" ,翡翠台
+#EXTINF:-1 group-title="国际" ,翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="科学" ,翡翠台 4K
+#EXTINF:-1 group-title="国际" ,翡翠台 4K
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 group-title="科学" ,翡翠台 4K
+#EXTINF:-1 group-title="国际" ,翡翠台 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 group-title="科学" ,华丽翡翠台
+#EXTINF:-1 group-title="国际" ,华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="科学" ,华丽翡翠台
+#EXTINF:-1 group-title="国际" ,华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 group-title="科学" ,明珠台
+#EXTINF:-1 group-title="国际" ,明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 group-title="科学" ,明珠台
+#EXTINF:-1 group-title="国际" ,明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="科学" ,明珠台
+#EXTINF:-1 group-title="国际" ,明珠台
 http://php.jdshipin.com:8880/iptv.php?id=mzt
-#EXTINF:-1 group-title="科学" ,明珠台
+#EXTINF:-1 group-title="国际" ,明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 group-title="科学" ,星河台
+#EXTINF:-1 group-title="国际" ,星河台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="科学" ,星河台
+#EXTINF:-1 group-title="国际" ,星河台
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="科学" ,娱乐新闻台
+#EXTINF:-1 group-title="国际" ,娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="科学" ,千禧经典台
+#EXTINF:-1 group-title="国际" ,千禧经典台
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 group-title="科学" ,亚洲武侠
+#EXTINF:-1 group-title="国际" ,亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="科学" ,天映频道
+#EXTINF:-1 group-title="国际" ,天映频道
 http://php.jdshipin.com:8880/smt.php?id=Celestial
-#EXTINF:-1 group-title="科学" ,天映经典
+#EXTINF:-1 group-title="国际" ,天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
-#EXTINF:-1 group-title="科学" ,美亚电影台
+#EXTINF:-1 group-title="国际" ,美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="科学" ,八度空间
+#EXTINF:-1 group-title="国际" ,八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
-#EXTINF:-1 group-title="科学" ,Astro AOD
+#EXTINF:-1 group-title="国际" ,Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
-#EXTINF:-1 group-title="科学" ,Astro AEC
+#EXTINF:-1 group-title="国际" ,Astro AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC
-#EXTINF:-1 group-title="科学" ,爱奇艺
+#EXTINF:-1 group-title="国际" ,爱奇艺
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
-#EXTINF:-1 group-title="科学" ,Astro QJ
+#EXTINF:-1 group-title="国际" ,Astro QJ
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
-#EXTINF:-1 group-title="科学" ,Astro欢喜台
+#EXTINF:-1 group-title="国际" ,Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
-#EXTINF:-1 group-title="科学" ,TVB Plus J2
+#EXTINF:-1 group-title="国际" ,TVB Plus J2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="科学" ,TVB Plus J2
+#EXTINF:-1 group-title="国际" ,TVB Plus J2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="科学" ,TVB Plus J2
+#EXTINF:-1 group-title="国际" ,TVB Plus J2
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1 group-title="科学" ,TVB Jade
+#EXTINF:-1 group-title="国际" ,TVB Jade
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:-1 group-title="科学" ,VIU TV
+#EXTINF:-1 group-title="国际" ,VIU TV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="科学" ,VIU TV Six
+#EXTINF:-1 group-title="国际" ,VIU TV Six
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:-1 group-title="科学" ,HOY 77
+#EXTINF:-1 group-title="国际" ,HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="科学" ,HOY 78
+#EXTINF:-1 group-title="国际" ,HOY 78
 http://108.181.20.197/livehttpplay?channel_id=20191
-#EXTINF:-1 group-title="科学" ,RTHK31
+#EXTINF:-1 group-title="国际" ,RTHK31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-#EXTINF:-1 group-title="科学" ,RTHK32
+#EXTINF:-1 group-title="国际" ,RTHK32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-#EXTINF:-1 group-title="科学" ,RTHK33
+#EXTINF:-1 group-title="国际" ,RTHK33
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 group-title="科学" ,RTHK33
+#EXTINF:-1 group-title="国际" ,RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="科学" ,RTHK34
+#EXTINF:-1 group-title="国际" ,RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="科学" ,RTHK35
+#EXTINF:-1 group-title="国际" ,RTHK35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="科学" ,美亚C+
+#EXTINF:-1 group-title="国际" ,美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="科学" ,耀才财经
+#EXTINF:-1 group-title="国际" ,耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-#EXTINF:-1 group-title="科学" ,香港卫视
+#EXTINF:-1 group-title="国际" ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="科学" ,澳门莲花
+#EXTINF:-1 group-title="国际" ,澳门莲花
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="科学" ,凤凰资讯
-https://smart.pendy.dpdns.org/youtube.php?id=BLaQVW5oUGU
-#EXTINF:-1 group-title="科学" ,凤凰资讯
-https://smart.pendy.dpdns.org/youtube.php?id=LNux6O0Fj6A
-#EXTINF:-1 group-title="科学" ,中天新闻
-https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
-#EXTINF:-1 group-title="科学" ,TVBS
-https://smart.pendy.dpdns.org/youtube.php?id=o_-hSMgpAzs
-#EXTINF:-1 group-title="科学" ,TVBS News
-https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
-#EXTINF:-1 group-title="科学" ,TVBS新闻
-https://smart.pendy.dpdns.org/youtube.php?id=2mCSYvcfhtc
-#EXTINF:-1 group-title="科学" ,东森LIVE
-https://smart.pendy.dpdns.org/youtube.php?id=V1p33hqPrUk
-#EXTINF:-1 group-title="科学" ,东森新闻
-https://smart.pendy.dpdns.org/youtube.php?id=E0zhe2gkXBs
-#EXTINF:-1 group-title="科学" ,LIVE三立+
-https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
-#EXTINF:-1 group-title="科学" ,三立新闻
-https://smart.pendy.dpdns.org/youtube.php?id=pF507BLtbqU
-#EXTINF:-1 group-title="科学" ,联合国
-https://smart.pendy.dpdns.org/youtube.php?id=wfAa1GiNdgM
-#EXTINF:-1 group-title="科学" ,DW
-https://smart.pendy.dpdns.org/youtube.php?id=LuKwFajn37U
-#EXTINF:-1 group-title="科学" ,FRANCE 24
-https://smart.pendy.dpdns.org/youtube.php?id=Ap-UM1O9RBU
-#EXTINF:-1 group-title="科学" ,Sky News
-https://smart.pendy.dpdns.org/youtube.php?id=YDvsBbKfLPA
+#EXTINF:-1 group-title="国际" ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="国际" ,France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="国际" ,BBC
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="国际" ,RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="国际" ,Al Jazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 group-title="国际" ,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="国际" ,Global News
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 group-title="国际" ,Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="国际" ,Formosa TV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际" ,Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="国际" ,Bloomberg 4K
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="阿里云" ,CCTV13
+http://8.138.7.223/tv/hbyx.php?id=13
+#EXTINF:-1 group-title="阿里云" ,东方卫视
+http://8.138.7.223/tv/hbyx.php?id=19
+#EXTINF:-1 group-title="阿里云" ,浙江卫视
+http://8.138.7.223/tv/hbyx.php?id=20
+#EXTINF:-1 group-title="阿里云" ,江苏卫视
+http://8.138.7.223/tv/hbyx.php?id=21
+#EXTINF:-1 group-title="阿里云" ,湖南卫视
+http://8.138.7.223/tv/hbyx.php?id=22
+#EXTINF:-1 group-title="阿里云" ,CCTV1
+http://8.138.7.223/tv/hbyx.php?id=1
+#EXTINF:-1 group-title="阿里云" ,CCTV2
+http://8.138.7.223/tv/hbyx.php?id=2
+#EXTINF:-1 group-title="阿里云" ,CCTV3
+http://8.138.7.223/tv/hbyx.php?id=3
+#EXTINF:-1 group-title="阿里云" ,CCTV4
+http://8.138.7.223/tv/hbyx.php?id=4
+#EXTINF:-1 group-title="阿里云" ,CCTV5
+http://8.138.7.223/tv/hbyx.php?id=5
+#EXTINF:-1 group-title="阿里云" ,CCTV5+
+http://8.138.7.223/tv/hbyx.php?id=6
+#EXTINF:-1 group-title="阿里云" ,CCTV6
+http://8.138.7.223/tv/hbyx.php?id=7
+#EXTINF:-1 group-title="阿里云" ,CCTV7
+http://8.138.7.223/tv/hbyx.php?id=8
+#EXTINF:-1 group-title="阿里云" ,CCTV8
+http://8.138.7.223/tv/hbyx.php?id=9
+#EXTINF:-1 group-title="阿里云" ,CCTV9
+http://8.138.7.223/tv/hbyx.php?id=10
+#EXTINF:-1 group-title="阿里云" ,CCTV10
+http://8.138.7.223/tv/hbyx.php?id=11
+#EXTINF:-1 group-title="阿里云" ,CCTV12
+http://8.138.7.223/tv/hbyx.php?id=12
+#EXTINF:-1 group-title="阿里云" ,CCTV14
+http://8.138.7.223/tv/hbyx.php?id=14
+#EXTINF:-1 group-title="阿里云" ,CCTV15
+http://8.138.7.223/tv/hbyx.php?id=15
+#EXTINF:-1 group-title="阿里云" ,CCTV16
+http://8.138.7.223/tv/hbyx.php?id=16
+#EXTINF:-1 group-title="阿里云" ,CCTV17
+http://8.138.7.223/tv/hbyx.php?id=17
+#EXTINF:-1 group-title="阿里云" ,北京卫视
+http://8.138.7.223/tv/hbyx.php?id=18
+#EXTINF:-1 group-title="阿里云" ,广东卫视
+http://8.138.7.223/tv/hbyx.php?id=23
+#EXTINF:-1 group-title="阿里云" ,深圳卫视
+http://8.138.7.223/tv/hbyx.php?id=24
+#EXTINF:-1 group-title="阿里云" ,天津卫视
+http://8.138.7.223/tv/hbyx.php?id=25
+#EXTINF:-1 group-title="阿里云" ,安徽卫视
+http://8.138.7.223/tv/hbyx.php?id=26
+#EXTINF:-1 group-title="阿里云" ,山东卫视
+http://8.138.7.223/tv/hbyx.php?id=27
+#EXTINF:-1 group-title="阿里云" ,辽宁卫视
+http://8.138.7.223/tv/hbyx.php?id=28
+#EXTINF:-1 group-title="阿里云" ,河北卫视
+http://8.138.7.223/tv/hbyx.php?id=29
+#EXTINF:-1 group-title="阿里云" ,河南卫视
+http://8.138.7.223/tv/hbyx.php?id=30
+#EXTINF:-1 group-title="阿里云" ,湖北卫视
+http://8.138.7.223/tv/hbyx.php?id=31
+#EXTINF:-1 group-title="阿里云" ,四川卫视
+http://8.138.7.223/tv/hbyx.php?id=32
+#EXTINF:-1 group-title="阿里云" ,贵州卫视
+http://8.138.7.223/tv/hbyx.php?id=33
+#EXTINF:-1 group-title="阿里云" ,云南卫视
+http://8.138.7.223/tv/hbyx.php?id=34
+#EXTINF:-1 group-title="阿里云" ,东南卫视
+http://8.138.7.223/tv/hbyx.php?id=35
+#EXTINF:-1 group-title="阿里云" ,甘肃卫视
+http://8.138.7.223/tv/hbyx.php?id=36
+#EXTINF:-1 group-title="阿里云" ,青海卫视
+http://8.138.7.223/tv/hbyx.php?id=37
+#EXTINF:-1 group-title="阿里云" ,吉林卫视
+http://8.138.7.223/tv/hbyx.php?id=38
+#EXTINF:-1 group-title="阿里云" ,黑龙江视
+http://8.138.7.223/tv/hbyx.php?id=39
+#EXTINF:-1 group-title="阿里云" ,电视指南
+http://8.138.7.223/tv/hbyx.php?id=40
+#EXTINF:-1 group-title="阿里云" ,央视台球
+http://8.138.7.223/tv/hbyx.php?id=41
+#EXTINF:-1 group-title="阿里云" ,劲爆体育
+http://8.138.7.223/tv/hbyx.php?id=42
+#EXTINF:-1 group-title="阿里云" ,魅力足球
+http://8.138.7.223/tv/hbyx.php?id=43
+#EXTINF:-1 group-title="阿里云" ,重温经典
+http://8.138.7.223/tv/hbyx.php?id=44
+#EXTINF:-1 group-title="阿里云" ,动作电影
+http://8.138.7.223/tv/hbyx.php?id=45
+#EXTINF:-1 group-title="阿里云" ,家庭影院
+http://8.138.7.223/tv/hbyx.php?id=46
+#EXTINF:-1 group-title="阿里云" ,影迷电影
+http://8.138.7.223/tv/hbyx.php?id=47
+#EXTINF:-1 group-title="阿里云" ,生活时尚
+http://8.138.7.223/tv/hbyx.php?id=48
+#EXTINF:-1 group-title="阿里云" ,游戏风云
+http://8.138.7.223/tv/hbyx.php?id=49
+#EXTINF:-1 group-title="阿里云" ,都市剧场
+http://8.138.7.223/tv/hbyx.php?id=50
+#EXTINF:-1 group-title="阿里云" ,影视频道
+http://8.138.7.223/tv/hbyx.php?id=51
+#EXTINF:-1 group-title="阿里云" ,公共频道
+http://8.138.7.223/tv/hbyx.php?id=52
+#EXTINF:-1 group-title="阿里云" ,金鹰卡通
+http://8.138.7.223/tv/hbyx.php?id=53
+#EXTINF:-1 group-title="阿里云" ,动漫秀场
+http://8.138.7.223/tv/hbyx.php?id=54
+#EXTINF:-1 group-title="阿里云" ,乐游频道
+http://8.138.7.223/tv/hbyx.php?id=55
+#EXTINF:-1 group-title="阿里云" ,山东教育
+http://8.138.7.223/tv/hbyx.php?id=56
+#EXTINF:-1 group-title="阿里云" ,北京纪实
+http://8.138.7.223/tv/hbyx.php?id=57
+#EXTINF:-1 group-title="阿里云" ,东方财经
+http://8.138.7.223/tv/hbyx.php?id=58
 
 
