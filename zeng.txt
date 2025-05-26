@@ -73,6 +73,8 @@ https://bwh81.net
 
 https://account.lightlayer.net
 
+https://fan2.764282.xyz/Alvin9999/https/www.youtube.com
+
 软件检测：https://www.virscan.org
 
 磁力搜索：https://ningmengso.com
@@ -128,6 +130,8 @@ Gps：https://github.com/ZCShou/GoGoGo/releases
 Rcx：https://github.com/x0b/rcx/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
+
+YouTube：https://github.com/Alvin9999/new-pac
 
 V2rayN：https://github.com/2dust/v2rayn/releases
 
