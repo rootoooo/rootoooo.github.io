@@ -698,6 +698,9 @@ CCTV-17,http://8.138.7.223/tv/hbyx.php?id=17
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
+斗鱼-音乐,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
+斗鱼-万合天宜,http://zzy789.xyz/douyu1.php?id=9220456
+斗鱼-爱情公寓,http://zzy789.xyz/douyu1.php?id=6863367
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
