@@ -82,6 +82,8 @@ Image：https://im.gurl.eu.org
 
 Music：https://music.gdstudio.xyz
 
+Chrome：https://crxdl.com
+
 M3u8：http://tonkiang.us
 
 https://jx.playerjy.com/?url=
@@ -96,17 +98,9 @@ https://github.com/suxuang/myIPTV
 
 https://sankei.mo/z.html
 
-TVbox：https://github.com/liu673cn/box
+Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
-https://raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
-
-https://raw.liucn.cc/box/m.json
-
-http://www.饭太硬.net/tv
-
-TV：https://github.com/ngo5/IPTV?tab=readme-ov-file
-
-LibreTV：https://github.com/myfreeport/FaXianTV
+https://github.haoss.eu.org/https://raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
 
 TrafficMonitor：https://github.com/zhongyang219/TrafficMonitor/releases
 
@@ -114,11 +108,13 @@ SMS：https://sms-activate.org/getNumber
 
 FinalShell：https://www.hostbuf.com
 
-LocalSend：https://github.com/localsend/localsend/releases
-
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
-Chrome：https://crxdl.com
+Rustdesk：https://github.com/rustdesk/rustdesk/releases
+
+LocalSend：https://github.com/localsend/localsend/releases
+
+LibreTV：https://github.com/myfreeport/FaXianTV
 
 Live：https://github.com/xiaoyaocz/dart_simple_live/releases
 
@@ -132,11 +128,9 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
-Fancyss：https://hq450.github.io/fancyss
-
-Rustdesk：https://github.com/rustdesk/rustdesk/releases
-
 V2ray：https://github.com/mack-a/v2ray-agent
+
+Fancyss：https://hq450.github.io/fancyss
 
 Argo：https://github.com/eooce/xray-2go
 
