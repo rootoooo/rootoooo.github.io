@@ -563,7 +563,7 @@ CCTV-17,http://148.135.93.213/live.php?id=CCTV17
 
 
 
-中国,#genre#
+中国IPTV,#genre#
 CCTV-13,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
 广西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226681/1.m3u8
 东方卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
@@ -627,10 +627,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 金鹰卡通,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
 哈哈炫动,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226703/1.m3u8
 北京纪实科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226658/1.m3u8
-
-
-
-阿里云,#genre#
 CCTV-13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV-13,http://8.138.7.223/tv/hbyx.php?id=13
 东方卫视,http://8.138.7.223/tv/hbyx.php?id=19
