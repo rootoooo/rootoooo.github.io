@@ -697,12 +697,6 @@ CCTV-17,http://8.138.7.223/tv/hbyx.php?id=17
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-CCTV-13,https://h5cdn1.kylintv.tv/live/cctv13news_iphone.m3u8
-广西卫视,https://k09093.kylintv.tv/live/guangxitv_iphone.m3u8
-东方卫视,https://k09093.kylintv.tv/live/dragontvhd_iphone.m3u8
-浙江卫视,https://k09093.kylintv.tv/live/zhejtvhd_iphone.m3u8
-江苏卫视,https://k09093.kylintv.tv/live/jstvhd_iphone.m3u8
-湖南卫视,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
