@@ -799,3 +799,10 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门莲花,http://php.jdshipin.com/TVOD/iptv.php?id=as
 
 
+
+学习测试,#genre#
+中天新闻,http://A/ku9/js/webview.js?id=https://fan2.764282.xyz/Alvin9999/https/www.youtube.com/watch?v=vr3XyVCR4T0
+TVBS,http://A/ku9/js/webview.js?id=https://fan2.764282.xyz/Alvin9999/https/www.youtube.com/watch?v=o_-hSMgpAzs
+凤凰资讯,http://A/ku9/js/webview.js?id=https://fan2.764282.xyz/Alvin9999/https/www.youtube.com/watch?v=BLaQVW5oUGU
+
+
