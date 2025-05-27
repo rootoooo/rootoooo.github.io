@@ -188,7 +188,7 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 ssh root@X.X.X.X -p XXX
 
-kill XXX    kill -9 XXX    ps aux | grep XXX
+top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
 
 
