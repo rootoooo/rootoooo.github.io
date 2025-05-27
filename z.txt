@@ -697,7 +697,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
+中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 斗鱼-万合天宜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
 斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
 斗鱼-开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
