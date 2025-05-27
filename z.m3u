@@ -13,26 +13,6 @@ http://8.138.7.223/tv/hbyx.php?id=20
 http://8.138.7.223/tv/hbyx.php?id=21
 #EXTINF:-1 group-title="中国IPTV" ,湖南卫视
 http://8.138.7.223/tv/hbyx.php?id=22
-#EXTINF:-1 group-title="皮皮虾" ,凤凰中文
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰香港
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰香港
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-#EXTINF:-1 group-title="皮皮虾" ,斗鱼-万合天宜
-http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-#EXTINF:-1 group-title="皮皮虾" ,斗鱼-经典小品
-http://zzy789.xyz/douyu1.php?id=9067836
-#EXTINF:-1 group-title="皮皮虾" ,斗鱼-开心麻花
-http://zzy789.xyz/douyu1.php?id=10153463
-#EXTINF:-1 group-title="皮皮虾" ,斗鱼-赵本山
-http://zzy789.xyz/douyu1.php?id=9817716
-#EXTINF:-1 group-title="皮皮虾" ,斗鱼-宋小宝
-http://zzy789.xyz/douyu1.php?id=9817729
-#EXTINF:-1 group-title="皮皮虾" ,斗鱼-小小天才
-http://zzy789.xyz/douyu1.php?id=9419678
-#EXTINF:-1 group-title="皮皮虾" ,斗鱼-牛叔说电影
-http://zzy789.xyz/douyu1.php?id=2758565
 #EXTINF:-1 group-title="中国IPTV" ,CCTV-1
 http://8.138.7.223/tv/hbyx.php?id=1
 #EXTINF:-1 group-title="中国IPTV" ,CCTV-1
