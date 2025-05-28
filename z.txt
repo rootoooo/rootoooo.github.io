@@ -640,7 +640,6 @@ CCTV-17,http://8.138.7.223/tv/hbyx.php?id=17
 
 
 皮皮虾,#genre#
-翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 斗鱼-万合天宜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
 斗鱼-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
 斗鱼-开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
@@ -650,10 +649,13 @@ CCTV-17,http://8.138.7.223/tv/hbyx.php?id=17
 斗鱼-牛叔说电影,http://zzy789.xyz/douyu1.php?id=2758565
 Cti,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 Al Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 Red Bull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
