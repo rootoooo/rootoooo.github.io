@@ -644,9 +644,10 @@ CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
 凤凰资讯,http://cdn.hlspull.zbdsapp.top/live/stream_fhzx.m3u8
 凤凰香港,http://cdn.hlspull.zbdsapp.top/live/stream_fhxg.m3u8
 Cti,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+TVBA亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 皇马,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 曼联,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
