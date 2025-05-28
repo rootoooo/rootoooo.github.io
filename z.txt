@@ -640,6 +640,9 @@ CCTV-17,http://8.138.7.223/tv/hbyx.php?id=17
 皮皮虾,#genre#
 CCTV-13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
+凤凰卫视,http://cdn.hlspull.zbdsapp.top/live/stream_fhzw.m3u8
+凤凰资讯,http://cdn.hlspull.zbdsapp.top/live/stream_fhzx.m3u8
+凤凰香港,http://cdn.hlspull.zbdsapp.top/live/stream_fhxg.m3u8
 Cti,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
