@@ -239,125 +239,54 @@ http://175.22.226.131:888/hls/118/index.m3u8
 http://175.22.226.131:888/hls/119/index.m3u8
 #EXTINF:-1 group-title="吉林联通" ,文物宝库
 http://175.22.226.131:888/hls/120/index.m3u8
-#EXTINF:-1 group-title="阿里云" ,CCTV-13
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-13
 http://8.138.7.223/tv/ptbtv.php?id=28
-#EXTINF:-1 group-title="阿里云" ,CCTV-13
-http://8.138.7.223/tv/hbyx.php?id=13
-#EXTINF:-1 group-title="阿里云" ,东方卫视
-http://8.138.7.223/tv/hbyx.php?id=19
-#EXTINF:-1 group-title="阿里云" ,浙江卫视
-http://8.138.7.223/tv/hbyx.php?id=20
-#EXTINF:-1 group-title="阿里云" ,江苏卫视
-http://8.138.7.223/tv/hbyx.php?id=21
-#EXTINF:-1 group-title="阿里云" ,湖南卫视
-http://8.138.7.223/tv/hbyx.php?id=22
-#EXTINF:-1 group-title="阿里云" ,CCTV-1
-http://8.138.7.223/tv/hbyx.php?id=1
-#EXTINF:-1 group-title="阿里云" ,CCTV-1
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-1
 http://8.138.7.223/tv/ptbtv.php?id=27
-#EXTINF:-1 group-title="阿里云" ,CCTV-2
-http://8.138.7.223/tv/hbyx.php?id=2
-#EXTINF:-1 group-title="阿里云" ,CCTV-3
-http://8.138.7.223/tv/hbyx.php?id=3
-#EXTINF:-1 group-title="阿里云" ,CCTV-4
-http://8.138.7.223/tv/hbyx.php?id=4
-#EXTINF:-1 group-title="阿里云" ,CCTV-5
-http://8.138.7.223/tv/hbyx.php?id=5
-#EXTINF:-1 group-title="阿里云" ,CCTV-5+
-http://8.138.7.223/tv/hbyx.php?id=6
-#EXTINF:-1 group-title="阿里云" ,CCTV-6
-http://8.138.7.223/tv/hbyx.php?id=7
-#EXTINF:-1 group-title="阿里云" ,CCTV-7
-http://8.138.7.223/tv/hbyx.php?id=8
-#EXTINF:-1 group-title="阿里云" ,CCTV-8
-http://8.138.7.223/tv/hbyx.php?id=9
-#EXTINF:-1 group-title="阿里云" ,CCTV-9
-http://8.138.7.223/tv/hbyx.php?id=10
-#EXTINF:-1 group-title="阿里云" ,CCTV-10
-http://8.138.7.223/tv/hbyx.php?id=11
-#EXTINF:-1 group-title="阿里云" ,CCTV-12
-http://8.138.7.223/tv/hbyx.php?id=12
-#EXTINF:-1 group-title="阿里云" ,CCTV-14
-http://8.138.7.223/tv/hbyx.php?id=14
-#EXTINF:-1 group-title="阿里云" ,CCTV-15
-http://8.138.7.223/tv/hbyx.php?id=15
-#EXTINF:-1 group-title="阿里云" ,CCTV-16
-http://8.138.7.223/tv/hbyx.php?id=16
-#EXTINF:-1 group-title="阿里云" ,CCTV-17
-http://8.138.7.223/tv/hbyx.php?id=17
-#EXTINF:-1 group-title="阿里云" ,北京卫视
-http://8.138.7.223/tv/hbyx.php?id=18
-#EXTINF:-1 group-title="阿里云" ,广东卫视
-http://8.138.7.223/tv/hbyx.php?id=23
-#EXTINF:-1 group-title="阿里云" ,深圳卫视
-http://8.138.7.223/tv/hbyx.php?id=24
-#EXTINF:-1 group-title="阿里云" ,天津卫视
-http://8.138.7.223/tv/hbyx.php?id=25
-#EXTINF:-1 group-title="阿里云" ,安徽卫视
-http://8.138.7.223/tv/hbyx.php?id=26
-#EXTINF:-1 group-title="阿里云" ,山东卫视
-http://8.138.7.223/tv/hbyx.php?id=27
-#EXTINF:-1 group-title="阿里云" ,辽宁卫视
-http://8.138.7.223/tv/hbyx.php?id=28
-#EXTINF:-1 group-title="阿里云" ,河北卫视
-http://8.138.7.223/tv/hbyx.php?id=29
-#EXTINF:-1 group-title="阿里云" ,河南卫视
-http://8.138.7.223/tv/hbyx.php?id=30
-#EXTINF:-1 group-title="阿里云" ,湖北卫视
-http://8.138.7.223/tv/hbyx.php?id=31
-#EXTINF:-1 group-title="阿里云" ,四川卫视
-http://8.138.7.223/tv/hbyx.php?id=32
-#EXTINF:-1 group-title="阿里云" ,贵州卫视
-http://8.138.7.223/tv/hbyx.php?id=33
-#EXTINF:-1 group-title="阿里云" ,云南卫视
-http://8.138.7.223/tv/hbyx.php?id=34
-#EXTINF:-1 group-title="阿里云" ,东南卫视
-http://8.138.7.223/tv/hbyx.php?id=35
-#EXTINF:-1 group-title="阿里云" ,甘肃卫视
-http://8.138.7.223/tv/hbyx.php?id=36
-#EXTINF:-1 group-title="阿里云" ,青海卫视
-http://8.138.7.223/tv/hbyx.php?id=37
-#EXTINF:-1 group-title="阿里云" ,吉林卫视
-http://8.138.7.223/tv/hbyx.php?id=38
-#EXTINF:-1 group-title="阿里云" ,黑龙江视
-http://8.138.7.223/tv/hbyx.php?id=39
-#EXTINF:-1 group-title="阿里云" ,电视指南
-http://8.138.7.223/tv/hbyx.php?id=40
-#EXTINF:-1 group-title="阿里云" ,央视台球
-http://8.138.7.223/tv/hbyx.php?id=41
-#EXTINF:-1 group-title="阿里云" ,劲爆体育
-http://8.138.7.223/tv/hbyx.php?id=42
-#EXTINF:-1 group-title="阿里云" ,魅力足球
-http://8.138.7.223/tv/hbyx.php?id=43
-#EXTINF:-1 group-title="阿里云" ,重温经典
-http://8.138.7.223/tv/hbyx.php?id=44
-#EXTINF:-1 group-title="阿里云" ,动作电影
-http://8.138.7.223/tv/hbyx.php?id=45
-#EXTINF:-1 group-title="阿里云" ,家庭影院
-http://8.138.7.223/tv/hbyx.php?id=46
-#EXTINF:-1 group-title="阿里云" ,影迷电影
-http://8.138.7.223/tv/hbyx.php?id=47
-#EXTINF:-1 group-title="阿里云" ,生活时尚
-http://8.138.7.223/tv/hbyx.php?id=48
-#EXTINF:-1 group-title="阿里云" ,游戏风云
-http://8.138.7.223/tv/hbyx.php?id=49
-#EXTINF:-1 group-title="阿里云" ,都市剧场
-http://8.138.7.223/tv/hbyx.php?id=50
-#EXTINF:-1 group-title="阿里云" ,影视频道
-http://8.138.7.223/tv/hbyx.php?id=51
-#EXTINF:-1 group-title="阿里云" ,公共频道
-http://8.138.7.223/tv/hbyx.php?id=52
-#EXTINF:-1 group-title="阿里云" ,金鹰卡通
-http://8.138.7.223/tv/hbyx.php?id=53
-#EXTINF:-1 group-title="阿里云" ,动漫秀场
-http://8.138.7.223/tv/hbyx.php?id=54
-#EXTINF:-1 group-title="阿里云" ,乐游频道
-http://8.138.7.223/tv/hbyx.php?id=55
-#EXTINF:-1 group-title="阿里云" ,山东教育
-http://8.138.7.223/tv/hbyx.php?id=56
-#EXTINF:-1 group-title="阿里云" ,北京纪实
-http://8.138.7.223/tv/hbyx.php?id=57
-#EXTINF:-1 group-title="阿里云" ,东方财经
-http://8.138.7.223/tv/hbyx.php?id=58
+#EXTINF:-1 group-title="皮皮虾" ,斗鱼-万合天宜
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
+#EXTINF:-1 group-title="皮皮虾" ,斗鱼-经典小品
+http://zzy789.xyz/douyu1.php?id=9067836
+#EXTINF:-1 group-title="皮皮虾" ,斗鱼-开心麻花
+http://zzy789.xyz/douyu1.php?id=10153463
+#EXTINF:-1 group-title="皮皮虾" ,斗鱼-赵本山
+http://zzy789.xyz/douyu1.php?id=9817716
+#EXTINF:-1 group-title="皮皮虾" ,斗鱼-宋小宝
+http://zzy789.xyz/douyu1.php?id=9817729
+#EXTINF:-1 group-title="皮皮虾" ,斗鱼-小小天才
+http://zzy789.xyz/douyu1.php?id=9419678
+#EXTINF:-1 group-title="皮皮虾" ,斗鱼-牛叔说电影
+http://zzy789.xyz/douyu1.php?id=2758565
+#EXTINF:-1 group-title="皮皮虾" ,Cti
+http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
+#EXTINF:-1 group-title="皮皮虾" ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,BBC
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Al Jazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Global News
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Formosa TV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Bloomberg 4K
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 
 
