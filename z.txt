@@ -654,7 +654,7 @@ CCTV-17,http://8.138.7.223/tv/hbyx.php?id=17
 斗鱼-宋小宝,http://zzy789.xyz/douyu1.php?id=9817729
 斗鱼-小小天才,http://zzy789.xyz/douyu1.php?id=9419678
 斗鱼-牛叔说电影,http://zzy789.xyz/douyu1.php?id=2758565
-CTI,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
+Cti,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
