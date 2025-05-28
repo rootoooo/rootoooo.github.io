@@ -359,18 +359,6 @@ http://8.138.7.223/tv/hbyx.php?id=56
 http://8.138.7.223/tv/hbyx.php?id=57
 #EXTINF:-1 group-title="阿里云" ,东方财经
 http://8.138.7.223/tv/hbyx.php?id=58
-#EXTINF:-1 group-title="皮皮虾" ,凤凰中文
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰中文
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 group-title="皮皮虾" ,凤凰香港
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰香港
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 group-title="皮皮虾" ,翡翠台
 http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 #EXTINF:-1 group-title="皮皮虾" ,斗鱼-万合天宜
