@@ -647,6 +647,9 @@ CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
 斗鱼-宋小宝,http://zzy789.xyz/douyu1.php?id=9817729
 斗鱼-小小天才,http://zzy789.xyz/douyu1.php?id=9419678
 斗鱼-牛叔说电影,http://zzy789.xyz/douyu1.php?id=2758565
+斗鱼-竹叶的熊猫,http://zzy789.xyz/douyu1.php?id=3870925
+斗鱼-十七岁的道姑,http://zzy789.xyz/douyu1.php?id=3186217
+斗鱼-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
 Cti,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
