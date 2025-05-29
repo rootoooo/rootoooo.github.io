@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>在线频道播放器</title>
+  <title>直播频道播放器</title>
   <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
   <style>
     body {
@@ -26,18 +26,16 @@
 </head>
 <body>
 
-  <h1>在线频道播放器</h1>
+  <h1>直播频道播放器</h1>
 
   <label for="channelSelect">选择频道：</label>
   <select id="channelSelect">
     <option value="http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1">CCTV-1</option>
-    <option value="http://8.138.7.223/tv/ptbtv.php?id=28">CCTV-13</option>
-    <option value="http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw">凤凰中文（接口）</option>
-    <option value="http://cdn.hlspull.zbdsapp.top/live/stream_fhzw.m3u8">凤凰中文（直播）</option>
+    <option value="http://cdn.hlspull.zbdsapp.top/live/stream_fhzw.m3u8">凤凰中文</option>
   </select>
 
   <div class="video-container">
-    <video id="videoPlayer" class="video-js vjs-default-skin" controls preload="auto" width="100%" height="400" data-setup='{}'>
+    <video id="videoPlayer" class="video-js vjs-default-skin" controls preload="auto" width="100%" height="400" data-setup='{"liveui": true}'>
       <source src="http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1" type="application/x-mpegURL">
       您的浏览器不支持 HTML5 视频播放。
     </video>
@@ -50,7 +48,9 @@
 
     select.addEventListener('change', function () {
       const newSource = this.value;
-      player.src({ src: newSource, type: newSource.includes('.m3u8') ? 'application/x-mpegURL' : 'video/mp4' });
+      player.pause();
+      player.src({ src: newSource, type: 'application/x-mpegURL' });
+      player.load();
       player.play();
     });
   </script>
