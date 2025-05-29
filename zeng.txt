@@ -119,7 +119,7 @@ LocalSend：https://github.com/localsend/localsend/releases
 
 LibreTV：https://github.com/myfreeport/FaXianTV
 
-SimpleLive/：https://github.com/xiaoyaocz/dart_simple_live/releases
+SimpleLive：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
 
