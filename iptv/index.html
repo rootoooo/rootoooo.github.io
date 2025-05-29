@@ -1,138 +1,58 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>皮皮虾</title>
-	<link rel="icon" type="jpge"href="https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg" />
-  <meta name="description" content="TXT与M3U格式相互转换">
-  <meta name="keywords" content="txt转m3u, m3u转txt">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>在线频道播放器</title>
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
   <style>
     body {
-      text-align: center;
       font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-      margin: 0;
-      padding: 0;
+      background: #111;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
     }
-    h2 {
-      color: #333;
-    }
-    #inputContainer {
-      margin-top: 10px;
-    }
-    textarea {
-      width: 800px;
-      height: 368px;
-      box-sizing: border-box;
+    select {
       padding: 10px;
-      margin-top: 5px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      font-size: 12px;
-      background-color: #fff;
-      color: #333;
+      font-size: 16px;
+      margin-bottom: 20px;
     }
-    button, input[type="file"] {
-      margin-top: 10px;
-      padding: 10px 10px;
-      font-size: 14px;
-      cursor: pointer;
-      background-color: #4CAF50;
-      color: white;
-      border: none;
-      border-radius: 5px;
-    }
-    button:hover {
-      background-color: #45a049;
+    .video-container {
+      max-width: 800px;
+      margin: 0 auto;
     }
   </style>
 </head>
 <body>
-  <h2>TXT 与 M3U 格式互转工具</h2>
 
-  <div id="inputContainer">
-    <textarea id="txtInput" placeholder="可粘贴 TXT 或 M3U 内容，或选择文件导入"></textarea><br>
-    <input type="file" accept=".txt,.m3u" onchange="handleFileUpload(event)">
+  <h1>在线频道播放器</h1>
+
+  <label for="channelSelect">选择频道：</label>
+  <select id="channelSelect">
+    <option value="http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1">CCTV-1</option>
+    <option value="http://8.138.7.223/tv/ptbtv.php?id=28">CCTV-13</option>
+    <option value="http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw">凤凰中文（接口）</option>
+    <option value="http://cdn.hlspull.zbdsapp.top/live/stream_fhzw.m3u8">凤凰中文（直播）</option>
+  </select>
+
+  <div class="video-container">
+    <video id="videoPlayer" class="video-js vjs-default-skin" controls preload="auto" width="100%" height="400" data-setup='{}'>
+      <source src="http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1" type="application/x-mpegURL">
+      您的浏览器不支持 HTML5 视频播放。
+    </video>
   </div>
 
-  <button onclick="convertToM3U()">TXT 转 M3U</button>
-  <button onclick="convertToTXT()">M3U 转 TXT</button>
-  <button onclick="clearScreen()">清除屏幕</button>
-  <button onclick="copyContent()">拷贝结果</button>
-
-  <h3>输出结果:</h3>
-  <textarea id="m3uOutput" readonly></textarea>
-
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
   <script>
-    function convertToM3U() {
-      const txtInput = document.getElementById('txtInput').value;
-      const lines = txtInput.split('\n');
-      let m3uOutput = '#EXTM3U\n';
-      let currentGroup = null;
+    const player = videojs('videoPlayer');
+    const select = document.getElementById('channelSelect');
 
-      for (const line of lines) {
-        const trimmedLine = line.trim();
-        if (trimmedLine !== '') {
-          if (trimmedLine.includes('#genre#')) {
-            currentGroup = trimmedLine.replace(/,#genre#/, '').trim();
-          } else {
-            const [channelName, channelUrl] = trimmedLine.split(',').map(item => item.trim());
-            if (channelName && channelUrl) {
-              m3uOutput += `#EXTINF:-1`;
-              if (currentGroup) {
-                m3uOutput += ` group-title="${currentGroup}"`;
-              }
-              m3uOutput += `,${channelName}\n${channelUrl}\n`;
-            }
-          }
-        }
-      }
-
-      document.getElementById('m3uOutput').value = m3uOutput;
-    }
-
-    function convertToTXT() {
-      const m3uContent = document.getElementById('txtInput').value;
-      const lines = m3uContent.split('\n');
-      let txtOutput = '';
-
-      for (let i = 0; i < lines.length; i++) {
-        const line = lines[i].trim();
-        if (line.startsWith('#EXTINF')) {
-          const nameMatch = line.match(/,(.*)$/);
-          const name = nameMatch ? nameMatch[1].trim() : 'Unknown';
-          const url = lines[i + 1] ? lines[i + 1].trim() : '';
-          txtOutput += `${name},${url}\n`;
-          i++; // 跳过 URL 行
-        }
-      }
-
-      document.getElementById('m3uOutput').value = txtOutput.trim();
-    }
-
-    function clearScreen() {
-      document.getElementById('txtInput').value = '';
-      document.getElementById('m3uOutput').value = '';
-    }
-
-    function copyContent() {
-      const output = document.getElementById('m3uOutput');
-      output.select();
-      document.execCommand('copy');
-      alert('内容已复制到剪贴板！');
-    }
-
-    function handleFileUpload(event) {
-      const file = event.target.files[0];
-      if (!file) return;
-
-      const reader = new FileReader();
-      reader.onload = function(e) {
-        document.getElementById('txtInput').value = e.target.result.trim();
-      };
-      reader.readAsText(file);
-    }
+    select.addEventListener('change', function () {
+      const newSource = this.value;
+      player.src({ src: newSource, type: newSource.includes('.m3u8') ? 'application/x-mpegURL' : 'video/mp4' });
+      player.play();
+    });
   </script>
 </body>
 </html>
