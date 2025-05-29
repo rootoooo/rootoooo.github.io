@@ -95,8 +95,6 @@ M3u8：http://tonkiang.us
 
 https://haoss.eu.org/txtm3u/index.html
 
-https://github.com/suxuang/myIPTV
-
 https://jx.playerjy.com/?url=
 
 https://jx.m3u8.tv/jiexi/?url=
