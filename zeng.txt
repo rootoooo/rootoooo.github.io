@@ -119,7 +119,7 @@ LocalSend：https://github.com/localsend/localsend/releases
 
 LibreTV：https://github.com/myfreeport/FaXianTV
 
-Live：https://github.com/xiaoyaocz/dart_simple_live/releases
+SimpleLive/：https://github.com/xiaoyaocz/dart_simple_live/releases
 
 Gps：https://github.com/ZCShou/GoGoGo/releases
 
@@ -127,15 +127,9 @@ Rcx：https://github.com/x0b/rcx/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
-YouTube：https://github.com/Alvin9999/new-pac
-
 V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
-
-V2ray：https://github.com/mack-a/v2ray-agent
-
-Fancyss：https://hq450.github.io/fancyss
 
 ChatGPT：https://github.com/ryngonzalez/ChatGPT-for-Mac/releases
 
