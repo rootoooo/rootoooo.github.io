@@ -131,8 +131,6 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
-ChatGPT：https://github.com/ryngonzalez/ChatGPT-for-Mac/releases
-
 AccessToken：https://chatgpt.com/api/auth/session
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
