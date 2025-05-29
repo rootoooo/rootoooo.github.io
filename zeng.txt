@@ -105,6 +105,8 @@ Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 https://github.haoss.eu.org/https://raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
 
+https://github.haoss.eu.org/https://raw.githubusercontent.com/loopool/fan/refs/heads/main/a.json
+
 https://github.haoss.eu.org/https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.txt
 
 TrafficMonitor：https://github.com/zhongyang219/TrafficMonitor/releases
