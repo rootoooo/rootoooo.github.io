@@ -93,8 +93,6 @@ Chrome：https://crxdl.com
 
 M3u8：http://tonkiang.us
 
-https://sankei.mo/z.html
-
 https://haoss.eu.org/txtm3u/index.html
 
 https://github.com/suxuang/myIPTV
