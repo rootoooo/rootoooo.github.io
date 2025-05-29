@@ -1,138 +1,81 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>皮皮虾</title>
-	<link rel="icon" type="jpge"href="https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg" />
-  <meta name="description" content="TXT与M3U格式相互转换">
-  <meta name="keywords" content="txt转m3u, m3u转txt">
+  <link rel="icon" type="image/jpg" href="https://i.haoss.eu.org/file/ba2dfcf9e8533837d9777.jpg" />
   <style>
     body {
-      text-align: center;
       font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
+      text-align: center;
       margin: 0;
       padding: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: url('https://i.haoss.eu.org/file/018fb0cfb7e35cdc1fe94.jpg') no-repeat center center fixed;
+      background-size: cover;
     }
-    h2 {
-      color: #333;
+    .container {
+      background: rgba(255, 255, 255, 0.7);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
     }
-    #inputContainer {
-      margin-top: 10px;
+    h1 {
+      font-size: 24px;
+      margin-bottom: 20px;
     }
-    textarea {
-      width: 800px;
-      height: 368px;
-      box-sizing: border-box;
-      padding: 10px;
-      margin-top: 5px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      font-size: 12px;
-      background-color: #fff;
-      color: #333;
+    p {
+      font-size: 18px;
+      margin: 10px 0;
     }
-    button, input[type="file"] {
-      margin-top: 10px;
-      padding: 10px 10px;
-      font-size: 14px;
+    .details-link {
+      font-size: 16px;
+      color: blue;
+      text-decoration: underline;
       cursor: pointer;
-      background-color: #4CAF50;
-      color: white;
-      border: none;
-      border-radius: 5px;
+      margin-top: 10px;
+      display: inline-block;
     }
-    button:hover {
-      background-color: #45a049;
+    .link-container {
+      margin-top: 10px;
+    }
+    .link-container a {
+      font-size: 16px;
+      color: blue;
+      text-decoration: underline;
+      cursor: pointer;
+      margin-left: 10px;
     }
   </style>
 </head>
 <body>
-  <h2>TXT 与 M3U 格式互转工具</h2>
-
-  <div id="inputContainer">
-    <textarea id="txtInput" placeholder="可粘贴 TXT 或 M3U 内容，或选择文件导入"></textarea><br>
-    <input type="file" accept=".txt,.m3u" onchange="handleFileUpload(event)">
+  <div class="container">
+    <h1>皮皮虾我们走</h1>
+    <p><strong>IP 地址:</strong> <span id="ip">获取中...</span></p>
+    <p><strong>国家:</strong> <span id="country">获取中...</span></p>
+    <div class="link-container">
+      <a href="https://iplark.com" class="details-link">IP数据</a>
+      <a href="https://ip.skk.moe" class="details-link">IP延时</a>
+    </div>
   </div>
 
-  <button onclick="convertToM3U()">TXT 转 M3U</button>
-  <button onclick="convertToTXT()">M3U 转 TXT</button>
-  <button onclick="clearScreen()">清除屏幕</button>
-  <button onclick="copyContent()">拷贝结果</button>
-
-  <h3>输出结果:</h3>
-  <textarea id="m3uOutput" readonly></textarea>
-
   <script>
-    function convertToM3U() {
-      const txtInput = document.getElementById('txtInput').value;
-      const lines = txtInput.split('\n');
-      let m3uOutput = '#EXTM3U\n';
-      let currentGroup = null;
-
-      for (const line of lines) {
-        const trimmedLine = line.trim();
-        if (trimmedLine !== '') {
-          if (trimmedLine.includes('#genre#')) {
-            currentGroup = trimmedLine.replace(/,#genre#/, '').trim();
-          } else {
-            const [channelName, channelUrl] = trimmedLine.split(',').map(item => item.trim());
-            if (channelName && channelUrl) {
-              m3uOutput += `#EXTINF:-1`;
-              if (currentGroup) {
-                m3uOutput += ` group-title="${currentGroup}"`;
-              }
-              m3uOutput += `,${channelName}\n${channelUrl}\n`;
-            }
-          }
-        }
-      }
-
-      document.getElementById('m3uOutput').value = m3uOutput;
-    }
-
-    function convertToTXT() {
-      const m3uContent = document.getElementById('txtInput').value;
-      const lines = m3uContent.split('\n');
-      let txtOutput = '';
-
-      for (let i = 0; i < lines.length; i++) {
-        const line = lines[i].trim();
-        if (line.startsWith('#EXTINF')) {
-          const nameMatch = line.match(/,(.*)$/);
-          const name = nameMatch ? nameMatch[1].trim() : 'Unknown';
-          const url = lines[i + 1] ? lines[i + 1].trim() : '';
-          txtOutput += `${name},${url}\n`;
-          i++; // 跳过 URL 行
-        }
-      }
-
-      document.getElementById('m3uOutput').value = txtOutput.trim();
-    }
-
-    function clearScreen() {
-      document.getElementById('txtInput').value = '';
-      document.getElementById('m3uOutput').value = '';
-    }
-
-    function copyContent() {
-      const output = document.getElementById('m3uOutput');
-      output.select();
-      document.execCommand('copy');
-      alert('内容已复制到剪贴板！');
-    }
-
-    function handleFileUpload(event) {
-      const file = event.target.files[0];
-      if (!file) return;
-
-      const reader = new FileReader();
-      reader.onload = function(e) {
-        document.getElementById('txtInput').value = e.target.result.trim();
-      };
-      reader.readAsText(file);
-    }
+    // 使用第三方服务获取IP信息（例如 ipinfo.io 或其他）
+    fetch('https://ipapi.co/json/')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('ip').textContent = data.ip || '未知';
+        document.getElementById('country').textContent = data.country_name || '未知';
+      })
+      .catch(() => {
+        document.getElementById('ip').textContent = '未知';
+        document.getElementById('country').textContent = '未知';
+      });
   </script>
 </body>
 </html>
