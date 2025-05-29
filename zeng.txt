@@ -139,8 +139,6 @@ https://anti-ad.net/adguard.txt
 
 https://github.com/217heidai/adblockfilters
 
-https://upld.zone.id/uploads/q9iq9e5iq/huangse.txt
-
 Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
 
 https://whatshub.top/module/YouTubeAd.sgmodule
