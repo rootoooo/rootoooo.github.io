@@ -883,10 +883,10 @@ http://cdn.hlspull.zbdsapp.top/live/stream_fhzw.m3u8
 http://cdn.hlspull.zbdsapp.top/live/stream_fhzx.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰香港
 http://cdn.hlspull.zbdsapp.top/live/stream_fhxg.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,中天新闻
-http://144.34.231.118:8000/vr3XyVCR4T0
-#EXTINF:-1 group-title="皮皮虾" ,Chinese Mix
-http://144.34.231.118:8000/@FM190-ld7qz
+#EXTINF:-1 group-title="皮皮虾" ,万合天宜
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
+#EXTINF:-1 group-title="皮皮虾" ,阿七点歌台
+http://zzy789.xyz/douyu1.php?id=3186217
 #EXTINF:-1 group-title="皮皮虾" ,皇马
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,曼联
