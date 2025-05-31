@@ -125,7 +125,7 @@ LibreTV：https://github.com/myfreeport/FaXianTV
 
 SimpleLive：https://github.com/xiaoyaocz/dart_simple_live/releases
 
-SD Maid 2/SE：https://github.com/d4rken-org/sdmaid-se/releases
+SDMaid：https://github.com/d4rken-org/sdmaid-se/releases
 
 Downloader：https://github.com/JunkFood02/Seal/releases/tag/v1.13.1
 
