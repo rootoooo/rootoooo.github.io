@@ -111,6 +111,8 @@ FinalShell：https://www.hostbuf.com
 
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
+https://github.com/codemonkey-m/FrpClient-Win
+
 Rustdesk：https://github.com/rustdesk/rustdesk/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
