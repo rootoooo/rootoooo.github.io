@@ -93,8 +93,6 @@ M3u8：http://tonkiang.us
 
 https://haoss.eu.org/txtm3u/z.html
 
-https://haoss.eu.org/txtm3u/f.html
-
 https://jx.playerjy.com/?url=
 
 https://jx.m3u8.tv/jiexi/?url=
