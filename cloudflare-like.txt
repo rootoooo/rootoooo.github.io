@@ -10,7 +10,7 @@ async function handleRequest(request) {
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>梦里啥都有</title>
-      <link rel="icon" type="image/jpg" href="https://i.haoss.eu.org/file/ba2dfcf9e8533837d9777.jpg" />
+      <link rel="icon" type="image/jpg" href="https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg" />
       <style>
         body {
           display: flex;
@@ -31,7 +31,7 @@ async function handleRequest(request) {
           left: 0;
           width: 100%;
           height: 100%;
-          background: url("https://i.haoss.eu.org/file/9f27a11b8e7bc7c087415.jpg") center/cover no-repeat fixed;
+          background: url("https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg") center/cover no-repeat fixed;
           z-index: -1;
         }
 
