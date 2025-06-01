@@ -883,10 +883,6 @@ http://cdn.hlspull.zbdsapp.top/live/stream_fhzw.m3u8
 http://cdn.hlspull.zbdsapp.top/live/stream_fhzx.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰香港
 http://cdn.hlspull.zbdsapp.top/live/stream_fhxg.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,音乐1
-http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
-#EXTINF:-1 group-title="皮皮虾" ,音乐2
-http://zzy789.xyz/douyu1.php?id=3186217
 #EXTINF:-1 group-title="皮皮虾" ,皇马
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,曼联
