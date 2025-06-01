@@ -87,7 +87,7 @@ https://www.crxsoso.com/webstore/category/extensions
 
 APP：https://blackace.app
 
-Web客户端：https://github.com/tw93/Pake
+Web客户端：https://github.com/tw93/Pake/releases
 
 AccessToken：https://chatgpt.com/api/auth/session
 
