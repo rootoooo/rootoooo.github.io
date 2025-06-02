@@ -95,6 +95,10 @@ IP扫描：https://angryip.org/download
 
 声音克隆：https://github.com/jianchang512/clone-voice
 
+BBS：https://github.com/kidozh/DiscuzHub/releases/tag/v5.5
+
+LibreTV：https://github.com/myfreeport/FaXianTV
+
 Image：https://im.gurl.eu.org
 
 Music：https://music.gdstudio.xyz
@@ -130,8 +134,6 @@ https://github.com/codemonkey-m/FrpClient-Win
 Rustdesk：https://github.com/rustdesk/rustdesk/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
-
-LibreTV：https://github.com/myfreeport/FaXianTV
 
 SimpleLive：https://github.com/xiaoyaocz/dart_simple_live/releases
 
