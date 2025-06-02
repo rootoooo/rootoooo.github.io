@@ -159,6 +159,8 @@ Windows+Shift+S
 
 Win+R→shell:startup
 
+MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
+
 Alist：https://github.com/AlistGo/alist/releases
 
 Cloudreve：https://github.com/cloudreve/Cloudreve/releases
