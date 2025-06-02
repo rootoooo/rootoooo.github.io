@@ -1,0 +1,26 @@
+[
+    {
+        "name": "黑木耳（国内）",
+        "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+    },
+      {
+        "name": "黑木耳（国外）",
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+    },
+    {
+        "name": "低端影视",
+        "api": "cms://ddys",
+    },
+    {
+        "name": "在线之家",
+        "api": "cms://zxzj",
+    },
+      {
+        "name": "MD",
+        "api": "https://91md.me/api.php/provide/vod/",
+    },
+    {
+        "name": "CL",
+        "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/"
+    }
+]
