@@ -3,12 +3,22 @@
 http://8.138.7.223/tv/ptbtv.php?id=28
 #EXTINF:-1 group-title="皮皮虾" ,CCTV-1
 http://8.138.7.223/tv/ptbtv.php?id=27
+#EXTINF:-1 group-title="皮皮虾" ,广西卫视
+https://haoyunlai.serv00.net/Smartv-1.php?id=guangxi
+#EXTINF:-1 group-title="皮皮虾" ,东方卫视
+https://haoyunlai.serv00.net/Smartv-1.php?id=dongfangweishi_twn
+#EXTINF:-1 group-title="皮皮虾" ,浙江卫视
+https://haoyunlai.serv00.net/Smartv-1.php?id=zhejiang_twn
+#EXTINF:-1 group-title="皮皮虾" ,江苏卫视
+https://haoyunlai.serv00.net/Smartv-1.php?id=jiangsu_twn
+#EXTINF:-1 group-title="皮皮虾" ,湖南卫视
+https://haoyunlai.serv00.net/Smartv-1.php?id=hunan_twn
 #EXTINF:-1 group-title="皮皮虾" ,凤凰中文
-https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="皮皮虾" ,中天新闻
-https://k44991.kylintv.tv/live/cti_iphone.m3u8
+https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 #EXTINF:-1 group-title="皮皮虾" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CNA
