@@ -3,13 +3,11 @@
 http://8.138.7.223/tv/ptbtv.php?id=28
 #EXTINF:-1 group-title="皮皮虾" ,CCTV-1
 http://8.138.7.223/tv/ptbtv.php?id=27
-#EXTINF:-1 group-title="皮皮虾" ,万合天宜
-http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-#EXTINF:-1 group-title="皮皮虾" ,小品
-http://zzy789.xyz/douyu1.php?id=10153463
-#EXTINF:-1 group-title="皮皮虾" ,Red Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CTI
+#EXTINF:-1 group-title="皮皮虾" ,凤凰中文
+https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
+https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -31,6 +29,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Global News
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Formosa TV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Bloomberg
