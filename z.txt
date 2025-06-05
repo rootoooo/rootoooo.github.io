@@ -11,6 +11,7 @@ CCTV-1,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv1
 凤凰中文,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
 凤凰资讯,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
 中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 TVBS,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
