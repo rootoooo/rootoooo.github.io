@@ -180,8 +180,6 @@ Alist-MAC：alist→应用程序
 
 /Applications/alist server
 
-/Applications/cloudreve server
-
 /Applications/alist admin random
 
 df -h
