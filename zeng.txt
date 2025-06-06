@@ -63,6 +63,8 @@ AD1456-FREE-CMBE4RS2F2
 
 D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
+MAC：8AeUsXZSDMYML7lA1fxa6tCIFZSDKDCT
+
 Cloudreve：rpu2dbuympubk0oaz11n7w4kw8ounmht
 
 https://psub.888005.xyz
@@ -179,6 +181,8 @@ Alist插件：https://github.com/TheSmallHanCat/Better_Alist
 Alist-MAC：alist→应用程序
 
 /Applications/alist server
+
+/Applications/cloudreve server
 
 /Applications/alist admin random
 
