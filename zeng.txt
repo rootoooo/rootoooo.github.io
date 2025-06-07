@@ -99,6 +99,8 @@ BBS：https://github.com/kidozh/DiscuzHub/releases/tag/v5.5
 
 LibreTV：https://github.com/myfreeport/FaXianTV
 
+Camera：http://www.jendoscope.cn/en
+
 Image：https://im.gurl.eu.org
 
 Music：https://music.gdstudio.xyz
