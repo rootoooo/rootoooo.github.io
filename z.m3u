@@ -7,7 +7,7 @@ http://8.138.7.223/tv/ptbtv.php?id=27
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="皮皮虾" ,中天新闻
+#EXTINF:-1 group-title="皮皮虾" ,CTI
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
