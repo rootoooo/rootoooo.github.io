@@ -188,6 +188,8 @@ df -h
 
 /Volumes/备份
 
+stun.cloudflare.com
+
 echo -e "nameserver 154.12.177.22
 
 nameserver 1.1.1.1" > /etc/resolv.conf
