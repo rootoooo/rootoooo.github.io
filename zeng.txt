@@ -81,11 +81,27 @@ https://account.lightlayer.net
 
 https://fan2.764282.xyz/Alvin9999/https/www.youtube.com
 
+M3u8：http://tonkiang.us
+
+https://sankei.mo/z.html
+
+https://jx.playerjy.com/?url=
+
+https://jx.m3u8.tv/jiexi/?url=
+
+http://huanqiuzhibo.cn/manifest/douyu.php?id=
+
+http://zzy789.xyz/douyu1.php?id=
+
+IPTV：https://iptv345.com
+
+https://down.iptv333.com/down.php
+
 检测：https://www.virscan.org
 
 搜索：https://ningmengso.com
 
-IP扫描：https://angryip.org/download
+IP扫描软件：https://angryip.org/download
 
 声音克隆：https://github.com/jianchang512/clone-voice
 
@@ -108,20 +124,6 @@ Camera：http://www.jendoscope.cn/en
 Image：https://im.gurl.eu.org
 
 Music：https://music.gdstudio.xyz
-
-IPTV：https://iptv345.com
-
-M3u8：http://tonkiang.us
-
-https://sankei.mo/z.html
-
-https://jx.playerjy.com/?url=
-
-https://jx.m3u8.tv/jiexi/?url=
-
-http://huanqiuzhibo.cn/manifest/douyu.php?id=
-
-http://zzy789.xyz/douyu1.php?id=
 
 Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
