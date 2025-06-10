@@ -3,6 +3,16 @@
 http://8.138.7.223/tv/ptbtv.php?id=28
 #EXTINF:-1 group-title="皮皮虾" ,CCTV-1
 http://8.138.7.223/tv/ptbtv.php?id=27
+#EXTINF:-1 group-title="皮皮虾" ,广西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
+#EXTINF:-1 group-title="皮皮虾" ,东方卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
+#EXTINF:-1 group-title="皮皮虾" ,浙江卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
+#EXTINF:-1 group-title="皮皮虾" ,江苏卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
+#EXTINF:-1 group-title="皮皮虾" ,湖南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 #EXTINF:-1 group-title="皮皮虾" ,凤凰中文
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰中文
