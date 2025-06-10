@@ -81,12 +81,6 @@ https://account.lightlayer.net
 
 https://fan2.764282.xyz/Alvin9999/https/www.youtube.com
 
-肥羊：https://hub.docker.com/r/youshandefeiyang/allinone
-
-docker run -d --restart unless-stopped --net=host --privileged=true -p 40888:35455 --name allinone youshandefeiyang/allinone
-
-docker run -d \ --name watchtower \ --restart=always \ -v /var/run/docker.sock:/var/run/docker.sock \ containrrr/watchtower \ --cleanup --interval 3600
-
 检测：https://www.virscan.org
 
 搜索：https://ningmengso.com
