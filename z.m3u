@@ -12,113 +12,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
 https://fenghuang.tv12.xyz/168.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CTI
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-#EXTINF:-1 group-title="皮皮虾" ,CTI
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-1综合
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-2财经
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-3综艺
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-4中文国际
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-5体育
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-5+体育赛事
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-6电影
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-7国防军事
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-8电视剧
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-9纪录
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-10科教
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-11戏曲
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-12社会与法
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-13新闻
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-14少儿
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-15音乐
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-16奥林匹克
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
-#EXTINF:-1 group-title="皮皮虾" ,CCTV-17农业农村
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
-#EXTINF:-1 group-title="皮皮虾" ,广西卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
-#EXTINF:-1 group-title="皮皮虾" ,东方卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
-#EXTINF:-1 group-title="皮皮虾" ,浙江卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
-#EXTINF:-1 group-title="皮皮虾" ,江苏卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
-#EXTINF:-1 group-title="皮皮虾" ,湖南卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
-#EXTINF:-1 group-title="皮皮虾" ,北京卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
-#EXTINF:-1 group-title="皮皮虾" ,安徽卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
-#EXTINF:-1 group-title="皮皮虾" ,重庆卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
-#EXTINF:-1 group-title="皮皮虾" ,东南卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
-#EXTINF:-1 group-title="皮皮虾" ,甘肃卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
-#EXTINF:-1 group-title="皮皮虾" ,广东卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
-#EXTINF:-1 group-title="皮皮虾" ,贵州卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
-#EXTINF:-1 group-title="皮皮虾" ,海南卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
-#EXTINF:-1 group-title="皮皮虾" ,河北卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
-#EXTINF:-1 group-title="皮皮虾" ,河南卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
-#EXTINF:-1 group-title="皮皮虾" ,湖北卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
-#EXTINF:-1 group-title="皮皮虾" ,黑龙江卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
-#EXTINF:-1 group-title="皮皮虾" ,吉林卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
-#EXTINF:-1 group-title="皮皮虾" ,江西卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
-#EXTINF:-1 group-title="皮皮虾" ,辽宁卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
-#EXTINF:-1 group-title="皮皮虾" ,内蒙古卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
-#EXTINF:-1 group-title="皮皮虾" ,宁夏卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
-#EXTINF:-1 group-title="皮皮虾" ,青海卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
-#EXTINF:-1 group-title="皮皮虾" ,山东卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
-#EXTINF:-1 group-title="皮皮虾" ,山西卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
-#EXTINF:-1 group-title="皮皮虾" ,陕西卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
-#EXTINF:-1 group-title="皮皮虾" ,四川卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
-#EXTINF:-1 group-title="皮皮虾" ,深圳卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
-#EXTINF:-1 group-title="皮皮虾" ,三沙卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=三沙卫视
-#EXTINF:-1 group-title="皮皮虾" ,天津卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
-#EXTINF:-1 group-title="皮皮虾" ,西藏卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
-#EXTINF:-1 group-title="皮皮虾" ,厦门卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=厦门卫视
-#EXTINF:-1 group-title="皮皮虾" ,云南卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
-#EXTINF:-1 group-title="皮皮虾" ,延边卫视
-http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 #EXTINF:-1 group-title="皮皮虾" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CNA
@@ -147,6 +41,110 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="全网通" ,CCTV-1综合
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-1
+#EXTINF:-1 group-title="全网通" ,CCTV-2财经
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-2
+#EXTINF:-1 group-title="全网通" ,CCTV-3综艺
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-3
+#EXTINF:-1 group-title="全网通" ,CCTV-4中文国际
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-4
+#EXTINF:-1 group-title="全网通" ,CCTV-5体育
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-5
+#EXTINF:-1 group-title="全网通" ,CCTV-5+体育赛事
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-5+
+#EXTINF:-1 group-title="全网通" ,CCTV-6电影
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-6
+#EXTINF:-1 group-title="全网通" ,CCTV-7国防军事
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-7
+#EXTINF:-1 group-title="全网通" ,CCTV-8电视剧
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-8
+#EXTINF:-1 group-title="全网通" ,CCTV-9纪录
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-9
+#EXTINF:-1 group-title="全网通" ,CCTV-10科教
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-10
+#EXTINF:-1 group-title="全网通" ,CCTV-11戏曲
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-11
+#EXTINF:-1 group-title="全网通" ,CCTV-12社会与法
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-12
+#EXTINF:-1 group-title="全网通" ,CCTV-13新闻
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-13
+#EXTINF:-1 group-title="全网通" ,CCTV-14少儿
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-14
+#EXTINF:-1 group-title="全网通" ,CCTV-15音乐
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-15
+#EXTINF:-1 group-title="全网通" ,CCTV-16奥林匹克
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-16
+#EXTINF:-1 group-title="全网通" ,CCTV-17农业农村
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV-17
+#EXTINF:-1 group-title="全网通" ,广西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
+#EXTINF:-1 group-title="全网通" ,东方卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
+#EXTINF:-1 group-title="全网通" ,浙江卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
+#EXTINF:-1 group-title="全网通" ,江苏卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
+#EXTINF:-1 group-title="全网通" ,湖南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
+#EXTINF:-1 group-title="全网通" ,北京卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
+#EXTINF:-1 group-title="全网通" ,安徽卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
+#EXTINF:-1 group-title="全网通" ,重庆卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+#EXTINF:-1 group-title="全网通" ,东南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
+#EXTINF:-1 group-title="全网通" ,甘肃卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
+#EXTINF:-1 group-title="全网通" ,广东卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
+#EXTINF:-1 group-title="全网通" ,贵州卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
+#EXTINF:-1 group-title="全网通" ,海南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
+#EXTINF:-1 group-title="全网通" ,河北卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
+#EXTINF:-1 group-title="全网通" ,河南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
+#EXTINF:-1 group-title="全网通" ,湖北卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
+#EXTINF:-1 group-title="全网通" ,黑龙江卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
+#EXTINF:-1 group-title="全网通" ,吉林卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
+#EXTINF:-1 group-title="全网通" ,江西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
+#EXTINF:-1 group-title="全网通" ,辽宁卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
+#EXTINF:-1 group-title="全网通" ,内蒙古卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
+#EXTINF:-1 group-title="全网通" ,宁夏卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
+#EXTINF:-1 group-title="全网通" ,青海卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
+#EXTINF:-1 group-title="全网通" ,山东卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
+#EXTINF:-1 group-title="全网通" ,山西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
+#EXTINF:-1 group-title="全网通" ,陕西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
+#EXTINF:-1 group-title="全网通" ,四川卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
+#EXTINF:-1 group-title="全网通" ,深圳卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
+#EXTINF:-1 group-title="全网通" ,三沙卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=三沙卫视
+#EXTINF:-1 group-title="全网通" ,天津卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
+#EXTINF:-1 group-title="全网通" ,西藏卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
+#EXTINF:-1 group-title="全网通" ,厦门卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=厦门卫视
+#EXTINF:-1 group-title="全网通" ,云南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
+#EXTINF:-1 group-title="全网通" ,延边卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 #EXTINF:-1 group-title="广西移动" ,CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="广西移动" ,CCTV-1
@@ -943,83 +941,83 @@ http://39.134.65.106/PLTV/88888888/224/3221225556/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
 #EXTINF:-1 group-title="黑龙江移动" ,北京纪实科教
 http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕1
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕1
 http://39.134.65.106/PLTV/88888888/224/3221225611/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕2
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕2
 http://39.134.65.106/PLTV/88888888/224/3221225613/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕3
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕3
 http://39.134.65.106/PLTV/88888888/224/3221225619/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕4
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕4
 http://39.134.65.106/PLTV/88888888/224/3221225620/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕5
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕5
 http://39.134.65.106/PLTV/88888888/224/3221225639/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕6
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕6
 http://39.134.65.106/PLTV/88888888/224/3221225641/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕7
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕7
 http://39.134.65.106/PLTV/88888888/224/3221225643/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕8
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕8
 http://39.134.65.106/PLTV/88888888/224/3221225647/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕9
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕9
 http://39.134.65.106/PLTV/88888888/224/3221225648/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕10
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕10
 http://39.134.65.106/PLTV/88888888/224/3221225649/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕11
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕11
 http://39.134.65.106/PLTV/88888888/224/3221225650/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕12
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕12
 http://39.134.65.106/PLTV/88888888/224/3221225653/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕13
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕13
 http://39.134.65.106/PLTV/88888888/224/3221225645/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕14
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕14
 http://39.134.65.106/PLTV/88888888/224/3221225654/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕15
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕15
 http://39.134.65.106/PLTV/88888888/224/3221225652/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕16
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕16
 http://39.134.65.106/PLTV/88888888/224/3221225658/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕17
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕17
 http://39.134.65.106/PLTV/88888888/224/3221225660/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕18
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕18
 http://39.134.65.106/PLTV/88888888/224/3221225756/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕19
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕19
 http://39.134.65.106/PLTV/88888888/224/3221225754/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕20
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕20
 http://39.134.65.106/PLTV/88888888/224/3221225733/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕21
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕21
 http://39.134.65.106/PLTV/88888888/224/3221225737/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕22
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕22
 http://39.134.65.106/PLTV/88888888/224/3221225739/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕23
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕23
 http://39.134.65.106/PLTV/88888888/224/3221225758/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕24
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕24
 http://39.134.65.106/PLTV/88888888/224/3221225760/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕25
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕25
 http://39.134.65.106/PLTV/88888888/224/3221225903/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕26
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕26
 http://39.134.65.106/PLTV/88888888/224/3221225899/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕27
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕27
 http://39.134.65.106/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕28
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕28
 http://39.134.65.106/PLTV/88888888/224/3221225914/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕29
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕29
 http://39.134.65.106/PLTV/88888888/224/3221225905/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕30
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕30
 http://39.134.65.106/PLTV/88888888/224/3221225912/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕31
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕31
 http://39.134.65.106/PLTV/88888888/224/3221225910/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕32
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕32
 http://39.134.65.106/PLTV/88888888/224/3221226031/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,咪咕4K
+#EXTINF:-1 group-title="黑龙江移动" ,咪咕4K
 http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,晴彩广场舞
+#EXTINF:-1 group-title="黑龙江移动" ,晴彩广场舞
 http://39.134.65.106/PLTV/88888888/224/3221226143/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,晴彩广场舞
+#EXTINF:-1 group-title="黑龙江移动" ,晴彩广场舞
 http://39.134.65.106/PLTV/88888888/224/3221226046/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,晴彩青少
+#EXTINF:-1 group-title="黑龙江移动" ,晴彩青少
 http://39.134.65.106/PLTV/88888888/224/3221226053/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,晴彩篮球
+#EXTINF:-1 group-title="黑龙江移动" ,晴彩篮球
 http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,晴彩篮球
+#EXTINF:-1 group-title="黑龙江移动" ,晴彩篮球
 http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 group-title="咪咕移动" ,晴彩竞技
+#EXTINF:-1 group-title="黑龙江移动" ,晴彩竞技
 http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
 
 
