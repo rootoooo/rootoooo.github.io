@@ -204,6 +204,12 @@ top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
 
 
+docker run -d --restart unless-stopped --net=host --privileged=true -p 10101:35455 --name allinone youshandefeiyang/allinone
+
+docker run -d \ --name watchtower \ --restart=always \ -v /var/run/docker.sock:/var/run/docker.sock \ containrrr/watchtower \ --cleanup --interval 3600
+
+
+
 Debian更新：
 
 apt update -y && apt install -y curl socat wget sudo
