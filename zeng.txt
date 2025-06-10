@@ -173,24 +173,16 @@ Win+R→shell:startup
 
 MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
-Alist：https://github.com/AlistGo/alist/releases
-
 Cloudreve：https://github.com/cloudreve/Cloudreve/releases
 
-alist.txt文件修改→alist.vbs
+cloudreve.txt文件修改：cloudreve.vbs
 
 Set WshShell = CreateObject("WScript.Shell")
-WshShell.Run "cmd /k cd C:\Alist && alist server", 0, False
+WshShell.Run "cmd /k cd C:\Cloudreve && cloudreve server", 0, False
 
-Alist挂载：Cloudreve→Cookie→F12→Network网络→F5→config→session=XXX
+/Applications/cloudreve server
 
-Alist插件：https://github.com/TheSmallHanCat/Better_Alist
-
-Alist-MAC：alist→应用程序
-
-/Applications/alist server
-
-/Applications/alist admin random
+/Applications/cloudreve admin random
 
 df -h
 
