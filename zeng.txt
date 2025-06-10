@@ -178,11 +178,11 @@ Cloudreve：https://github.com/cloudreve/Cloudreve/releases
 cloudreve.txt文件修改：cloudreve.vbs
 
 Set WshShell = CreateObject("WScript.Shell")
-WshShell.Run "cmd /k cd C:\Cloudreve && cloudreve server", 0, False
+WshShell.Run "cmd /k cd C:\cloudreve\cloudreve && cloudreve server", 0, False
 
-/Applications/cloudreve server
+/Applications/cloudreve/cloudreve server
 
-/Applications/cloudreve admin random
+/Applications/cloudreve/cloudreve admin random
 
 df -h
 
