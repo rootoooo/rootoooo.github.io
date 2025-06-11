@@ -157,6 +157,8 @@ Rcx：https://github.com/x0b/rcx/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
+NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
+
 V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
