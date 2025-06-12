@@ -141,6 +141,8 @@ SMS：https://sms-activate.org/getNumber
 
 FinalShell：https://www.hostbuf.com
 
+Termius：https://github.com/ArcSurge/Termius-Pro-zh_CN/releases
+
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
 https://github.com/codemonkey-m/FrpClient-Win
