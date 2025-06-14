@@ -69,12 +69,6 @@ Cloudreve：n2w73kny3bb250ros1ew3c03gcj6z37a
 
 stun.cloudflare.com
 
-vless://ad454152-4d21-42ca-81ef-f50d2d7e0865@144.34.231.118:49999?type=grpc&serviceName=&authority=&security=reality&pbk=zCY0buuuoCBUVpY7Tg3LBWCIRZtG5HB3lksLvL4M8Fs&fp=chrome&sni=www.airbnb.com&sid=ca8654fe499597&spx=%2F#US
-
-vless://1e1fb673-705a-4e04-934a-670319510275@144.34.231.118:51888?type=grpc&serviceName=&authority=&security=reality&pbk=Qu7Hb2D3JhZaoX-u1kiPLmF2FZMqLpXBfCV3ruLHEk0&fp=chrome&sni=www.nvidia.com&sid=9e&spx=%2F#US
-
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUyIsCiAgImFkZCI6ICJzdHVuLmNsb3VkZmxhcmUuY29tIiwKICAicG9ydCI6ICI0NDMiLAogICJpZCI6ICI3NmE1OGQwMC0zOTRmLTQ3MDItOWM5Yy05YjMyZmNmNjdkMmUiLAogICJhaWQiOiAiMCIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICJ1cy5zaGVoaC5ldS5vcmciLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIiwKICAic25pIjogInVzLnNoZWhoLmV1Lm9yZyIsCiAgImFscG4iOiAiaDMsaDIsaHR0cC8xLjEiLAogICJmcCI6ICJjaHJvbWUiCn0=
-
 https://psub.888005.xyz
 
 https://bwh81.net
@@ -95,15 +89,9 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=
 
 http://zzy789.xyz/douyu1.php?id=
 
-IPTV：https://iptv345.com
-
-https://down.iptv333.com/down.php
-
 检测：https://www.virscan.org
 
 搜索：https://ningmengso.com
-
-IP查询：https://ip125.com
 
 IP扫描软件：https://angryip.org/download
 
