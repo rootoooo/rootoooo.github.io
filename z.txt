@@ -28,10 +28,6 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Formosa TV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-
-
-
-全网通,#genre#
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1  
 CCTV-2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2  
 CCTV-3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3  
@@ -94,10 +90,7 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 寰宇新闻,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
-
-
-
-广西移动,#genre#
+移动专用,#genre#
 CCTV-1,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
 CCTV-1,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
 CCTV-2,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
@@ -261,10 +254,6 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 精品体育,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
 潮妈辣婆,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 炫舞未来,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
-
-
-
-哈尔滨移动,#genre#
 CCTV-1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -338,10 +327,6 @@ CCTV-17,http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 武博世界,http://39.134.65.64/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 中国功夫,http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-
-
-
-黑龙江移动,#genre#
 CCTV-1,http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
 CCTV-1,http://39.134.65.106/PLTV/88888888/224/3221226075/1.m3u8
 CCTV-1,http://39.134.65.106/PLTV/88888888/224/3221225816/1.m3u8
@@ -543,5 +528,4 @@ CGTN西语,http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 晴彩竞技,http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-
 
