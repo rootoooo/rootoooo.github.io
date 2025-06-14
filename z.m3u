@@ -25,8 +25,8 @@ http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 group-title="皮皮虾" ,CTI
-https://k44991.kylintv.tv/live/cti_iphone.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻
+http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 #EXTINF:-1 group-title="皮皮虾" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CNA
@@ -57,879 +57,1001 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="广西移动" ,CCTV-1
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-1
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-2
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-3
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-4
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-5
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-5+
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-6电
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-7
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-8
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-9
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-10
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-11
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-12
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-13
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-14
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-15
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-16
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-17
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+#EXTINF:-1 group-title="皮皮虾" ,广西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
+#EXTINF:-1 group-title="皮皮虾" ,东方卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
+#EXTINF:-1 group-title="皮皮虾" ,浙江卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
+#EXTINF:-1 group-title="皮皮虾" ,江苏卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
+#EXTINF:-1 group-title="皮皮虾" ,湖南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
+#EXTINF:-1 group-title="皮皮虾" ,安徽卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
+#EXTINF:-1 group-title="皮皮虾" ,北京卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
+#EXTINF:-1 group-title="皮皮虾" ,重庆卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+#EXTINF:-1 group-title="皮皮虾" ,东南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
+#EXTINF:-1 group-title="皮皮虾" ,甘肃卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
+#EXTINF:-1 group-title="皮皮虾" ,广东卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
+#EXTINF:-1 group-title="皮皮虾" ,贵州卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
+#EXTINF:-1 group-title="皮皮虾" ,海南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
+#EXTINF:-1 group-title="皮皮虾" ,河北卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
+#EXTINF:-1 group-title="皮皮虾" ,河南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
+#EXTINF:-1 group-title="皮皮虾" ,湖北卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
+#EXTINF:-1 group-title="皮皮虾" ,黑龙江卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
+#EXTINF:-1 group-title="皮皮虾" ,吉林卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
+#EXTINF:-1 group-title="皮皮虾" ,江西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
+#EXTINF:-1 group-title="皮皮虾" ,辽宁卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
+#EXTINF:-1 group-title="皮皮虾" ,内蒙古卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
+#EXTINF:-1 group-title="皮皮虾" ,宁夏卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
+#EXTINF:-1 group-title="皮皮虾" ,青海卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
+#EXTINF:-1 group-title="皮皮虾" ,山东卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
+#EXTINF:-1 group-title="皮皮虾" ,山西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
+#EXTINF:-1 group-title="皮皮虾" ,陕西卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
+#EXTINF:-1 group-title="皮皮虾" ,四川卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
+#EXTINF:-1 group-title="皮皮虾" ,深圳卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
+#EXTINF:-1 group-title="皮皮虾" ,三沙卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=三沙卫视
+#EXTINF:-1 group-title="皮皮虾" ,天津卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
+#EXTINF:-1 group-title="皮皮虾" ,西藏卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
+#EXTINF:-1 group-title="皮皮虾" ,厦门卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=厦门卫视
+#EXTINF:-1 group-title="皮皮虾" ,云南卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
+#EXTINF:-1 group-title="皮皮虾" ,延边卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
+#EXTINF:-1 group-title="皮皮虾" ,CHC家庭影院
+http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
+#EXTINF:-1 group-title="皮皮虾" ,CHC影迷电影
+http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
+#EXTINF:-1 group-title="皮皮虾" ,CHC动作电影
+http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视
+http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
+http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰香港
+http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+#EXTINF:-1 group-title="皮皮虾" ,翡翠台
+http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
+#EXTINF:-1 group-title="皮皮虾" ,无线新闻
+http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻
+http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
+#EXTINF:-1 group-title="皮皮虾" ,寰宇新闻
+http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
+#EXTINF:-1 group-title="移动专用" ,CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-1
+#EXTINF:-1 group-title="移动专用" ,CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-2
+#EXTINF:-1 group-title="移动专用" ,CCTV-2
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-2
+#EXTINF:-1 group-title="移动专用" ,CCTV-2
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-3
+#EXTINF:-1 group-title="移动专用" ,CCTV-3
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-3
+#EXTINF:-1 group-title="移动专用" ,CCTV-3
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-4
+#EXTINF:-1 group-title="移动专用" ,CCTV-4
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-4
+#EXTINF:-1 group-title="移动专用" ,CCTV-4
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-5
+#EXTINF:-1 group-title="移动专用" ,CCTV-5
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-5
+#EXTINF:-1 group-title="移动专用" ,CCTV-5
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-5
+#EXTINF:-1 group-title="移动专用" ,CCTV-5
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV5+
+#EXTINF:-1 group-title="移动专用" ,CCTV5+
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV5+
+#EXTINF:-1 group-title="移动专用" ,CCTV5+
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-6
+#EXTINF:-1 group-title="移动专用" ,CCTV-6
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-6
+#EXTINF:-1 group-title="移动专用" ,CCTV-6
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-7
+#EXTINF:-1 group-title="移动专用" ,CCTV-7
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-7
+#EXTINF:-1 group-title="移动专用" ,CCTV-7
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-8
+#EXTINF:-1 group-title="移动专用" ,CCTV-8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-8
+#EXTINF:-1 group-title="移动专用" ,CCTV-8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-9
+#EXTINF:-1 group-title="移动专用" ,CCTV-9
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-9
+#EXTINF:-1 group-title="移动专用" ,CCTV-9
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-10
+#EXTINF:-1 group-title="移动专用" ,CCTV-10
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-10
+#EXTINF:-1 group-title="移动专用" ,CCTV-10
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-11
+#EXTINF:-1 group-title="移动专用" ,CCTV-11
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-11
+#EXTINF:-1 group-title="移动专用" ,CCTV-11
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-12
+#EXTINF:-1 group-title="移动专用" ,CCTV-12
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-12
+#EXTINF:-1 group-title="移动专用" ,CCTV-12
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-13
+#EXTINF:-1 group-title="移动专用" ,CCTV-13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-13
+#EXTINF:-1 group-title="移动专用" ,CCTV-13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-14
+#EXTINF:-1 group-title="移动专用" ,CCTV-14
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-14
+#EXTINF:-1 group-title="移动专用" ,CCTV-14
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-15
+#EXTINF:-1 group-title="移动专用" ,CCTV-15
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-15
+#EXTINF:-1 group-title="移动专用" ,CCTV-15
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-16
+#EXTINF:-1 group-title="移动专用" ,CCTV-16
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-16
+#EXTINF:-1 group-title="移动专用" ,CCTV-16
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-17
+#EXTINF:-1 group-title="移动专用" ,CCTV-17
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,CCTV-17
+#EXTINF:-1 group-title="移动专用" ,CCTV-17
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,纯享4K
+#EXTINF:-1 group-title="移动专用" ,纯享4K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,广西卫视
+#EXTINF:-1 group-title="移动专用" ,广西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,东方卫视
+#EXTINF:-1 group-title="移动专用" ,东方卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,东方卫视
+#EXTINF:-1 group-title="移动专用" ,东方卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,浙江卫视
+#EXTINF:-1 group-title="移动专用" ,浙江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,浙江卫视
+#EXTINF:-1 group-title="移动专用" ,浙江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,江苏卫视
+#EXTINF:-1 group-title="移动专用" ,江苏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,江苏卫视
+#EXTINF:-1 group-title="移动专用" ,江苏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,湖南卫视
+#EXTINF:-1 group-title="移动专用" ,湖南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,湖南卫视
+#EXTINF:-1 group-title="移动专用" ,湖南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,天津卫视
+#EXTINF:-1 group-title="移动专用" ,天津卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226022/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,天津卫视
+#EXTINF:-1 group-title="移动专用" ,天津卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,北京卫视
+#EXTINF:-1 group-title="移动专用" ,北京卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,北京卫视
+#EXTINF:-1 group-title="移动专用" ,北京卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,广东卫视
+#EXTINF:-1 group-title="移动专用" ,广东卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225913/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,广东卫视
+#EXTINF:-1 group-title="移动专用" ,广东卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,珠江卫视
+#EXTINF:-1 group-title="移动专用" ,珠江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,大湾区卫视
+#EXTINF:-1 group-title="移动专用" ,大湾区卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,深圳卫视
+#EXTINF:-1 group-title="移动专用" ,深圳卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225951/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,深圳卫视
+#EXTINF:-1 group-title="移动专用" ,深圳卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,山东卫视
+#EXTINF:-1 group-title="移动专用" ,山东卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226010/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,山东卫视
+#EXTINF:-1 group-title="移动专用" ,山东卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,湖北卫视
+#EXTINF:-1 group-title="移动专用" ,湖北卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225954/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,湖北卫视
+#EXTINF:-1 group-title="移动专用" ,湖北卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,安徽卫视
+#EXTINF:-1 group-title="移动专用" ,安徽卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,安徽卫视
+#EXTINF:-1 group-title="移动专用" ,安徽卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,东南卫视
+#EXTINF:-1 group-title="移动专用" ,东南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225904/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,江西卫视
+#EXTINF:-1 group-title="移动专用" ,江西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,四川卫视
+#EXTINF:-1 group-title="移动专用" ,四川卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,贵州卫视
+#EXTINF:-1 group-title="移动专用" ,贵州卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,重庆卫视
+#EXTINF:-1 group-title="移动专用" ,重庆卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225898/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,重庆卫视
+#EXTINF:-1 group-title="移动专用" ,重庆卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,海南卫视
+#EXTINF:-1 group-title="移动专用" ,海南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,河北卫视
+#EXTINF:-1 group-title="移动专用" ,河北卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,河南卫视
+#EXTINF:-1 group-title="移动专用" ,河南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,辽宁卫视
+#EXTINF:-1 group-title="移动专用" ,辽宁卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226007/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,辽宁卫视
+#EXTINF:-1 group-title="移动专用" ,辽宁卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,甘肃卫视
+#EXTINF:-1 group-title="移动专用" ,甘肃卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,青海卫视
+#EXTINF:-1 group-title="移动专用" ,青海卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,山西卫视
+#EXTINF:-1 group-title="移动专用" ,山西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,云南卫视
+#EXTINF:-1 group-title="移动专用" ,云南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,陕西卫视
+#EXTINF:-1 group-title="移动专用" ,陕西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,吉林卫视
+#EXTINF:-1 group-title="移动专用" ,吉林卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,宁夏卫视
+#EXTINF:-1 group-title="移动专用" ,宁夏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,内蒙古卫视
+#EXTINF:-1 group-title="移动专用" ,内蒙古卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,新疆卫视
+#EXTINF:-1 group-title="移动专用" ,新疆卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,西藏卫视
+#EXTINF:-1 group-title="移动专用" ,西藏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,南宁新闻综合
+#EXTINF:-1 group-title="移动专用" ,南宁新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,南宁文旅生活
+#EXTINF:-1 group-title="移动专用" ,南宁文旅生活
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226288/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,南宁公共
+#EXTINF:-1 group-title="移动专用" ,南宁公共
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,南宁影视娱乐
+#EXTINF:-1 group-title="移动专用" ,南宁影视娱乐
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,柳州新闻综合
+#EXTINF:-1 group-title="移动专用" ,柳州新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226304/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,柳州科教
+#EXTINF:-1 group-title="移动专用" ,柳州科教
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,桂林新闻综合
+#EXTINF:-1 group-title="移动专用" ,桂林新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226294/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,桂林科教旅游
+#EXTINF:-1 group-title="移动专用" ,桂林科教旅游
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226293/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,桂林公共频道
+#EXTINF:-1 group-title="移动专用" ,桂林公共频道
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226310/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,贺州综合
+#EXTINF:-1 group-title="移动专用" ,贺州综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,河池科教生活
+#EXTINF:-1 group-title="移动专用" ,河池科教生活
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226305/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,河池新闻综合
+#EXTINF:-1 group-title="移动专用" ,河池新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,玉林公共
+#EXTINF:-1 group-title="移动专用" ,玉林公共
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226319/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,玉林新闻综合
+#EXTINF:-1 group-title="移动专用" ,玉林新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226299/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,北海新闻
+#EXTINF:-1 group-title="移动专用" ,北海新闻
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,北海经济科教
+#EXTINF:-1 group-title="移动专用" ,北海经济科教
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,百色综合
+#EXTINF:-1 group-title="移动专用" ,百色综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226322/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,来宾电视台综合
+#EXTINF:-1 group-title="移动专用" ,来宾电视台综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226290/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,梧州新闻综合
+#EXTINF:-1 group-title="移动专用" ,梧州新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226313/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,梧州教育生活
+#EXTINF:-1 group-title="移动专用" ,梧州教育生活
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226316/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,防城港新闻综合
+#EXTINF:-1 group-title="移动专用" ,防城港新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226312/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,防城港公共
+#EXTINF:-1 group-title="移动专用" ,防城港公共
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226328/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,崇左综合
+#EXTINF:-1 group-title="移动专用" ,崇左综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226314/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,贵港新闻综合
+#EXTINF:-1 group-title="移动专用" ,贵港新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226300/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,贵港科教生活
+#EXTINF:-1 group-title="移动专用" ,贵港科教生活
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226303/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,钦州新闻综合
+#EXTINF:-1 group-title="移动专用" ,钦州新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226306/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,钦州公共影视
+#EXTINF:-1 group-title="移动专用" ,钦州公共影视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226325/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,广西卫视
+#EXTINF:-1 group-title="移动专用" ,广西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,广西综艺旅游
+#EXTINF:-1 group-title="移动专用" ,广西综艺旅游
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,广西都市
+#EXTINF:-1 group-title="移动专用" ,广西都市
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,广西新闻
+#EXTINF:-1 group-title="移动专用" ,广西新闻
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,广西影视
+#EXTINF:-1 group-title="移动专用" ,广西影视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,西藏卫视藏语频道
+#EXTINF:-1 group-title="移动专用" ,西藏卫视藏语频道
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,北京纪实
+#EXTINF:-1 group-title="移动专用" ,北京纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,厦门卫视
+#EXTINF:-1 group-title="移动专用" ,厦门卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225823/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,兵团卫视
+#EXTINF:-1 group-title="移动专用" ,兵团卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,康巴卫视
+#EXTINF:-1 group-title="移动专用" ,康巴卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226270/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,延边卫视
+#EXTINF:-1 group-title="移动专用" ,延边卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226273/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,安多卫视
+#EXTINF:-1 group-title="移动专用" ,安多卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226271/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,金鹰纪实
+#EXTINF:-1 group-title="移动专用" ,金鹰纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,金鹰卡通
+#EXTINF:-1 group-title="移动专用" ,金鹰卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,嘉佳卡通
+#EXTINF:-1 group-title="移动专用" ,嘉佳卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,炫动卡通
+#EXTINF:-1 group-title="移动专用" ,炫动卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,卡酷少儿
+#EXTINF:-1 group-title="移动专用" ,卡酷少儿
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,优漫卡通
+#EXTINF:-1 group-title="移动专用" ,优漫卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,中国教育-1
+#EXTINF:-1 group-title="移动专用" ,中国教育-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,中国教育2
+#EXTINF:-1 group-title="移动专用" ,中国教育2
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225881/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,中国教育4套
+#EXTINF:-1 group-title="移动专用" ,中国教育4套
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,山东教育
+#EXTINF:-1 group-title="移动专用" ,山东教育
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,高尔夫
+#EXTINF:-1 group-title="移动专用" ,高尔夫
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,精品萌宠
+#EXTINF:-1 group-title="移动专用" ,精品萌宠
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225979/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,黑莓电影
+#EXTINF:-1 group-title="移动专用" ,黑莓电影
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,黑莓动画
+#EXTINF:-1 group-title="移动专用" ,黑莓动画
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,哒啵赛事
+#EXTINF:-1 group-title="移动专用" ,哒啵赛事
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225760/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,哒啵电竞
+#EXTINF:-1 group-title="移动专用" ,哒啵电竞
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225880/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,睛彩竞技
+#EXTINF:-1 group-title="移动专用" ,睛彩竞技
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,睛彩篮球
+#EXTINF:-1 group-title="移动专用" ,睛彩篮球
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,睛彩青少
+#EXTINF:-1 group-title="移动专用" ,睛彩青少
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,睛彩广场舞
+#EXTINF:-1 group-title="移动专用" ,睛彩广场舞
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,古装剧场
+#EXTINF:-1 group-title="移动专用" ,古装剧场
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,动作电影
+#EXTINF:-1 group-title="移动专用" ,动作电影
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,军旅剧场
+#EXTINF:-1 group-title="移动专用" ,军旅剧场
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,家庭剧场
+#EXTINF:-1 group-title="移动专用" ,家庭剧场
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,惊悚悬疑
+#EXTINF:-1 group-title="移动专用" ,惊悚悬疑
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,热播精选
+#EXTINF:-1 group-title="移动专用" ,热播精选
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,精品综合
+#EXTINF:-1 group-title="移动专用" ,精品综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,爱情喜剧
+#EXTINF:-1 group-title="移动专用" ,爱情喜剧
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,精品大剧
+#EXTINF:-1 group-title="移动专用" ,精品大剧
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,中国功夫
+#EXTINF:-1 group-title="移动专用" ,中国功夫
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,金牌综艺
+#EXTINF:-1 group-title="移动专用" ,金牌综艺
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,军事评论
+#EXTINF:-1 group-title="移动专用" ,军事评论
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,农业致富
+#EXTINF:-1 group-title="移动专用" ,农业致富
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,精品纪录
+#EXTINF:-1 group-title="移动专用" ,精品纪录
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,怡伴健康
+#EXTINF:-1 group-title="移动专用" ,怡伴健康
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225684/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,精品体育
+#EXTINF:-1 group-title="移动专用" ,精品体育
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,潮妈辣婆
+#EXTINF:-1 group-title="移动专用" ,潮妈辣婆
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动" ,炫舞未来
+#EXTINF:-1 group-title="移动专用" ,炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-1
+#EXTINF:-1 group-title="移动专用" ,CCTV-1
 http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-2
+#EXTINF:-1 group-title="移动专用" ,CCTV-2
 http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-3
+#EXTINF:-1 group-title="移动专用" ,CCTV-3
 http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-4
+#EXTINF:-1 group-title="移动专用" ,CCTV-4
 http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-5
+#EXTINF:-1 group-title="移动专用" ,CCTV-5
 http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-5+
+#EXTINF:-1 group-title="移动专用" ,CCTV-5+
 http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-6
+#EXTINF:-1 group-title="移动专用" ,CCTV-6
 http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-7
+#EXTINF:-1 group-title="移动专用" ,CCTV-7
 http://39.135.135.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-8
+#EXTINF:-1 group-title="移动专用" ,CCTV-8
 http://39.135.135.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-9
+#EXTINF:-1 group-title="移动专用" ,CCTV-9
 http://39.135.135.38/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-10
+#EXTINF:-1 group-title="移动专用" ,CCTV-10
 http://39.135.135.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-11
+#EXTINF:-1 group-title="移动专用" ,CCTV-11
 http://39.135.135.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-12
+#EXTINF:-1 group-title="移动专用" ,CCTV-12
 http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-13
+#EXTINF:-1 group-title="移动专用" ,CCTV-13
 http://39.135.135.59/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-14
+#EXTINF:-1 group-title="移动专用" ,CCTV-14
 http://39.135.133.173/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-15
+#EXTINF:-1 group-title="移动专用" ,CCTV-15
 http://39.134.65.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-16
+#EXTINF:-1 group-title="移动专用" ,CCTV-16
 http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,CCTV-17
+#EXTINF:-1 group-title="移动专用" ,CCTV-17
 http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,广西卫视
+#EXTINF:-1 group-title="移动专用" ,广西卫视
 http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,东方卫视
+#EXTINF:-1 group-title="移动专用" ,东方卫视
 http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,浙江卫视
+#EXTINF:-1 group-title="移动专用" ,浙江卫视
 http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,江苏卫视
+#EXTINF:-1 group-title="移动专用" ,江苏卫视
 http://39.135.133.181/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,湖南卫视
+#EXTINF:-1 group-title="移动专用" ,湖南卫视
 http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,北京卫视
+#EXTINF:-1 group-title="移动专用" ,北京卫视
 http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,海南卫视
+#EXTINF:-1 group-title="移动专用" ,海南卫视
 http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,湖北卫视
+#EXTINF:-1 group-title="移动专用" ,湖北卫视
 http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,重庆卫视
+#EXTINF:-1 group-title="移动专用" ,重庆卫视
 http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,大湾区卫视
+#EXTINF:-1 group-title="移动专用" ,大湾区卫视
 http://39.135.133.153/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,深圳卫视
+#EXTINF:-1 group-title="移动专用" ,深圳卫视
 http://39.135.135.44/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,广东卫视
+#EXTINF:-1 group-title="移动专用" ,广东卫视
 http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,东南卫视
+#EXTINF:-1 group-title="移动专用" ,东南卫视
 http://39.134.65.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.135.133.173/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,四川卫视
+#EXTINF:-1 group-title="移动专用" ,四川卫视
 http://39.135.133.150/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,辽宁卫视
+#EXTINF:-1 group-title="移动专用" ,辽宁卫视
 http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,吉林卫视
+#EXTINF:-1 group-title="移动专用" ,吉林卫视
 http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,西藏卫视
+#EXTINF:-1 group-title="移动专用" ,西藏卫视
 http://39.134.65.72/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,安徽卫视
+#EXTINF:-1 group-title="移动专用" ,安徽卫视
 http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,河北卫视
+#EXTINF:-1 group-title="移动专用" ,河北卫视
 http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,青海卫视
+#EXTINF:-1 group-title="移动专用" ,青海卫视
 http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,河南卫视
+#EXTINF:-1 group-title="移动专用" ,河南卫视
 http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,云南卫视
+#EXTINF:-1 group-title="移动专用" ,云南卫视
 http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,延边卫视
+#EXTINF:-1 group-title="移动专用" ,延边卫视
 http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,天津卫视
+#EXTINF:-1 group-title="移动专用" ,天津卫视
 http://39.135.135.14/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,山西卫视
+#EXTINF:-1 group-title="移动专用" ,山西卫视
 http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,贵州卫视
+#EXTINF:-1 group-title="移动专用" ,贵州卫视
 http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,新疆卫视
+#EXTINF:-1 group-title="移动专用" ,新疆卫视
 http://39.135.133.147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,山东教育卫视
+#EXTINF:-1 group-title="移动专用" ,山东教育卫视
 http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,山东卫视
+#EXTINF:-1 group-title="移动专用" ,山东卫视
 http://39.135.133.144/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,江西卫视
+#EXTINF:-1 group-title="移动专用" ,江西卫视
 http://39.135.133.175/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,内蒙古卫视
+#EXTINF:-1 group-title="移动专用" ,内蒙古卫视
 http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,康巴卫视
+#EXTINF:-1 group-title="移动专用" ,康巴卫视
 http://39.134.65.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,安多卫视
+#EXTINF:-1 group-title="移动专用" ,安多卫视
 http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,甘肃卫视
+#EXTINF:-1 group-title="移动专用" ,甘肃卫视
 http://39.134.65.67/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,兵团卫视
+#EXTINF:-1 group-title="移动专用" ,兵团卫视
 http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,陕西卫视
+#EXTINF:-1 group-title="移动专用" ,陕西卫视
 http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,宁夏卫视
+#EXTINF:-1 group-title="移动专用" ,宁夏卫视
 http://39.134.65.7/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,动作电影
+#EXTINF:-1 group-title="移动专用" ,动作电影
 http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,家庭剧场
+#EXTINF:-1 group-title="移动专用" ,家庭剧场
 http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,古装剧场
+#EXTINF:-1 group-title="移动专用" ,古装剧场
 http://39.134.65.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,军旅剧场
+#EXTINF:-1 group-title="移动专用" ,军旅剧场
 http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,超级电视剧
+#EXTINF:-1 group-title="移动专用" ,超级电视剧
 http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,超级电影
+#EXTINF:-1 group-title="移动专用" ,超级电影
 http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,超级体育
+#EXTINF:-1 group-title="移动专用" ,超级体育
 http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,超级综艺
+#EXTINF:-1 group-title="移动专用" ,超级综艺
 http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,金牌综艺
+#EXTINF:-1 group-title="移动专用" ,金牌综艺
 http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,爱情喜剧
+#EXTINF:-1 group-title="移动专用" ,爱情喜剧
 http://39.134.65.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,惊悚悬疑
+#EXTINF:-1 group-title="移动专用" ,惊悚悬疑
 http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,东北热剧
+#EXTINF:-1 group-title="移动专用" ,东北热剧
 http://39.134.65.74/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,欢乐剧场
+#EXTINF:-1 group-title="移动专用" ,欢乐剧场
 http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,潮妈辣妹
+#EXTINF:-1 group-title="移动专用" ,潮妈辣妹
 http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,武博世界
+#EXTINF:-1 group-title="移动专用" ,武博世界
 http://39.134.65.64/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,中国功夫
+#EXTINF:-1 group-title="移动专用" ,中国功夫
 http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="哈尔滨移动" ,黑莓电影
+#EXTINF:-1 group-title="移动专用" ,黑莓电影
 http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-1
+#EXTINF:-1 group-title="移动专用" ,CCTV-1
 http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-1
+#EXTINF:-1 group-title="移动专用" ,CCTV-1
 http://39.134.65.106/PLTV/88888888/224/3221226075/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-1
+#EXTINF:-1 group-title="移动专用" ,CCTV-1
 http://39.134.65.106/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-2
+#EXTINF:-1 group-title="移动专用" ,CCTV-2
 http://39.134.65.106/PLTV/88888888/224/3221226079/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-2
+#EXTINF:-1 group-title="移动专用" ,CCTV-2
 http://39.134.65.106/PLTV/88888888/224/3221225599/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-3
+#EXTINF:-1 group-title="移动专用" ,CCTV-3
 http://39.134.65.106/PLTV/88888888/224/3221225799/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-4
+#EXTINF:-1 group-title="移动专用" ,CCTV-4
 http://39.134.65.106/PLTV/88888888/224/3221225797/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-4
+#EXTINF:-1 group-title="移动专用" ,CCTV-4
 http://39.134.65.106/PLTV/88888888/224/3221226092/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-5
+#EXTINF:-1 group-title="移动专用" ,CCTV-5
 http://39.134.65.106/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-5+
+#EXTINF:-1 group-title="移动专用" ,CCTV-5+
 http://39.134.65.106/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-6
+#EXTINF:-1 group-title="移动专用" ,CCTV-6
 http://39.134.65.106/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-7
+#EXTINF:-1 group-title="移动专用" ,CCTV-7
 http://39.134.65.106/PLTV/88888888/224/3221225671/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-8
+#EXTINF:-1 group-title="移动专用" ,CCTV-8
 http://39.134.65.106/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-9
+#EXTINF:-1 group-title="移动专用" ,CCTV-9
 http://39.134.65.106/PLTV/88888888/224/3221225676/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-10
+#EXTINF:-1 group-title="移动专用" ,CCTV-10
 http://39.134.65.106/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-10
+#EXTINF:-1 group-title="移动专用" ,CCTV-10
 http://39.134.65.106/PLTV/88888888/224/3221226128/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-11
+#EXTINF:-1 group-title="移动专用" ,CCTV-11
 http://39.134.65.106/PLTV/88888888/224/3221226123/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-11
+#EXTINF:-1 group-title="移动专用" ,CCTV-11
 http://39.134.65.106/PLTV/88888888/224/3221225517/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-12
+#EXTINF:-1 group-title="移动专用" ,CCTV-12
 http://39.134.65.106/PLTV/88888888/224/3221226130/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-12
+#EXTINF:-1 group-title="移动专用" ,CCTV-12
 http://39.134.65.106/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-13
+#EXTINF:-1 group-title="移动专用" ,CCTV-13
 http://39.134.65.106/PLTV/88888888/224/3221226125/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-13
+#EXTINF:-1 group-title="移动专用" ,CCTV-13
 http://39.134.65.106/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-13
+#EXTINF:-1 group-title="移动专用" ,CCTV-13
 http://39.134.65.106/PLTV/88888888/224/3221226077/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-14
+#EXTINF:-1 group-title="移动专用" ,CCTV-14
 http://39.134.65.106/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-14
+#EXTINF:-1 group-title="移动专用" ,CCTV-14
 http://39.134.65.106/PLTV/88888888/224/3221226132/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-15
+#EXTINF:-1 group-title="移动专用" ,CCTV-15
 http://39.134.65.106/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-15
+#EXTINF:-1 group-title="移动专用" ,CCTV-15
 http://39.134.65.106/PLTV/88888888/224/3221226127/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-16
+#EXTINF:-1 group-title="移动专用" ,CCTV-16
 http://39.134.65.106/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CCTV-17
+#EXTINF:-1 group-title="移动专用" ,CCTV-17
 http://39.134.65.106/PLTV/88888888/224/3221225708/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CETV1
+#EXTINF:-1 group-title="移动专用" ,CETV1
 http://39.134.65.106/PLTV/88888888/224/3221225563/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CETV2
+#EXTINF:-1 group-title="移动专用" ,CETV2
 http://39.134.65.106/PLTV/88888888/224/3221226064/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CETV4
+#EXTINF:-1 group-title="移动专用" ,CETV4
 http://39.134.65.106/PLTV/88888888/224/3221225750/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CGTN记录
+#EXTINF:-1 group-title="移动专用" ,CGTN记录
 http://39.134.65.106/PLTV/88888888/224/3221225509/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CGTN
+#EXTINF:-1 group-title="移动专用" ,CGTN
 http://39.134.65.106/PLTV/88888888/224/3221225510/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CGTN阿语
+#EXTINF:-1 group-title="移动专用" ,CGTN阿语
 http://39.134.65.106/PLTV/88888888/224/3221226081/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CGTN俄语
+#EXTINF:-1 group-title="移动专用" ,CGTN俄语
 http://39.134.65.106/PLTV/88888888/224/3221226096/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CGTN法语
+#EXTINF:-1 group-title="移动专用" ,CGTN法语
 http://39.134.65.106/PLTV/88888888/224/3221226083/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,CGTN西语
+#EXTINF:-1 group-title="移动专用" ,CGTN西语
 http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,广西卫视
+#EXTINF:-1 group-title="移动专用" ,广西卫视
 http://39.134.65.106/PLTV/88888888/224/3221226091/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,东方卫视
+#EXTINF:-1 group-title="移动专用" ,东方卫视
 http://39.134.65.106/PLTV/88888888/224/3221225672/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,浙江卫视
+#EXTINF:-1 group-title="移动专用" ,浙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221225514/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,江苏卫视
+#EXTINF:-1 group-title="移动专用" ,江苏卫视
 http://39.134.65.106/PLTV/88888888/224/3221225503/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,湖南卫视
+#EXTINF:-1 group-title="移动专用" ,湖南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225506/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,北京卫视
+#EXTINF:-1 group-title="移动专用" ,北京卫视
 http://39.134.65.106/PLTV/88888888/224/3221225678/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,北京卫视
+#EXTINF:-1 group-title="移动专用" ,北京卫视
 http://39.134.65.106/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,北京卫视
+#EXTINF:-1 group-title="移动专用" ,北京卫视
 http://39.134.65.106/PLTV/88888888/224/3221225931/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,辽宁卫视
+#EXTINF:-1 group-title="移动专用" ,辽宁卫视
 http://39.134.65.106/PLTV/88888888/224/3221225499/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,辽宁卫视
+#EXTINF:-1 group-title="移动专用" ,辽宁卫视
 http://39.134.65.106/PLTV/88888888/224/3221226089/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,康巴卫视
+#EXTINF:-1 group-title="移动专用" ,康巴卫视
 http://39.134.65.106/PLTV/88888888/224/3221225527/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,河北卫视
+#EXTINF:-1 group-title="移动专用" ,河北卫视
 http://39.134.65.106/PLTV/88888888/224/3221225495/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,东南卫视
+#EXTINF:-1 group-title="移动专用" ,东南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225500/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,重庆卫视
+#EXTINF:-1 group-title="移动专用" ,重庆卫视
 http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,海南卫视
+#EXTINF:-1 group-title="移动专用" ,海南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225530/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,山西卫视
+#EXTINF:-1 group-title="移动专用" ,山西卫视
 http://39.134.65.106/PLTV/88888888/224/3221225496/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,安多卫视
+#EXTINF:-1 group-title="移动专用" ,安多卫视
 http://39.134.65.106/PLTV/88888888/224/3221225531/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,山东教育卫视
+#EXTINF:-1 group-title="移动专用" ,山东教育卫视
 http://39.134.65.106/PLTV/88888888/224/3221225558/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,青海卫视
+#EXTINF:-1 group-title="移动专用" ,青海卫视
 http://39.134.65.106/PLTV/88888888/224/3221225573/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,陕西卫视
+#EXTINF:-1 group-title="移动专用" ,陕西卫视
 http://39.134.65.106/PLTV/88888888/224/3221225567/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,湖北卫视
+#EXTINF:-1 group-title="移动专用" ,湖北卫视
 http://39.134.65.106/PLTV/88888888/224/3221225569/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,甘肃卫视
+#EXTINF:-1 group-title="移动专用" ,甘肃卫视
 http://39.134.65.106/PLTV/88888888/224/3221225584/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,新疆卫视
+#EXTINF:-1 group-title="移动专用" ,新疆卫视
 http://39.134.65.106/PLTV/88888888/224/3221225582/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,宁夏卫视
+#EXTINF:-1 group-title="移动专用" ,宁夏卫视
 http://39.134.65.106/PLTV/88888888/224/3221225579/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,西藏卫视
+#EXTINF:-1 group-title="移动专用" ,西藏卫视
 http://39.134.65.106/PLTV/88888888/224/3221225570/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,内蒙古卫视
+#EXTINF:-1 group-title="移动专用" ,内蒙古卫视
 http://39.134.65.106/PLTV/88888888/224/3221225577/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,贵州卫视
+#EXTINF:-1 group-title="移动专用" ,贵州卫视
 http://39.134.65.106/PLTV/88888888/224/3221225576/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,天津卫视
+#EXTINF:-1 group-title="移动专用" ,天津卫视
 http://39.134.65.106/PLTV/88888888/224/3221225665/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,深圳卫视
+#EXTINF:-1 group-title="移动专用" ,深圳卫视
 http://39.134.65.106/PLTV/88888888/224/3221225668/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,东方卫视
+#EXTINF:-1 group-title="移动专用" ,东方卫视
 http://39.134.65.106/PLTV/88888888/224/3221225673/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,东方卫视
+#EXTINF:-1 group-title="移动专用" ,东方卫视
 http://39.134.65.106/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,东方卫视
+#EXTINF:-1 group-title="移动专用" ,东方卫视
 http://39.134.65.106/PLTV/88888888/224/3221225960/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,江苏卫视
+#EXTINF:-1 group-title="移动专用" ,江苏卫视
 http://39.134.65.106/PLTV/88888888/224/3221225929/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,江苏卫视
+#EXTINF:-1 group-title="移动专用" ,江苏卫视
 http://39.134.65.106/PLTV/88888888/224/3221225938/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,安徽卫视
+#EXTINF:-1 group-title="移动专用" ,安徽卫视
 http://39.134.65.106/PLTV/88888888/224/3221225925/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,安徽卫视
+#EXTINF:-1 group-title="移动专用" ,安徽卫视
 http://39.134.65.106/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,江西卫视
+#EXTINF:-1 group-title="移动专用" ,江西卫视
 http://39.134.65.106/PLTV/88888888/224/3221225935/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,青海卫视
+#EXTINF:-1 group-title="移动专用" ,青海卫视
 http://39.134.65.106/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,辽宁卫视
+#EXTINF:-1 group-title="移动专用" ,辽宁卫视
 http://39.134.65.106/PLTV/88888888/224/3221225944/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,辽宁卫视
+#EXTINF:-1 group-title="移动专用" ,辽宁卫视
 http://39.134.65.106/PLTV/88888888/224/3221226089/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,西藏卫视
+#EXTINF:-1 group-title="移动专用" ,西藏卫视
 http://39.134.65.106/PLTV/88888888/224/3221225951/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,广东卫视
+#EXTINF:-1 group-title="移动专用" ,广东卫视
 http://39.134.65.106/PLTV/88888888/224/3221225962/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,湖南卫视
+#EXTINF:-1 group-title="移动专用" ,湖南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225977/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,深圳卫视
+#EXTINF:-1 group-title="移动专用" ,深圳卫视
 http://39.134.65.106/PLTV/88888888/224/3221225943/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,云南卫视
+#EXTINF:-1 group-title="移动专用" ,云南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,浙江卫视
+#EXTINF:-1 group-title="移动专用" ,浙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221225959/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,天津卫视
+#EXTINF:-1 group-title="移动专用" ,天津卫视
 http://39.134.65.106/PLTV/88888888/224/3221225972/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,浙江卫视
+#EXTINF:-1 group-title="移动专用" ,浙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221225982/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,吉林卫视
+#EXTINF:-1 group-title="移动专用" ,吉林卫视
 http://39.134.65.106/PLTV/88888888/224/3221225981/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,陕西卫视
+#EXTINF:-1 group-title="移动专用" ,陕西卫视
 http://39.134.65.106/PLTV/88888888/224/3221225989/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,山东卫视
+#EXTINF:-1 group-title="移动专用" ,山东卫视
 http://39.134.65.106/PLTV/88888888/224/3221225952/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,四川卫视
+#EXTINF:-1 group-title="移动专用" ,四川卫视
 http://39.134.65.106/PLTV/88888888/224/3221225970/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,河北卫视
+#EXTINF:-1 group-title="移动专用" ,河北卫视
 http://39.134.65.106/PLTV/88888888/224/3221225991/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,河北卫视
+#EXTINF:-1 group-title="移动专用" ,河北卫视
 http://39.134.65.106/PLTV/88888888/224/3221225961/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,贵州卫视
+#EXTINF:-1 group-title="移动专用" ,贵州卫视
 http://39.134.65.106/PLTV/88888888/224/3221225974/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,湖北卫视
+#EXTINF:-1 group-title="移动专用" ,湖北卫视
 http://39.134.65.106/PLTV/88888888/224/3221225975/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,湖北卫视
+#EXTINF:-1 group-title="移动专用" ,湖北卫视
 http://39.134.65.106/PLTV/88888888/224/3221226015/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,江西卫视
+#EXTINF:-1 group-title="移动专用" ,江西卫视
 http://39.134.65.106/PLTV/88888888/224/3221225995/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,天津卫视
+#EXTINF:-1 group-title="移动专用" ,天津卫视
 http://39.134.65.106/PLTV/88888888/224/3221226003/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,东南卫视
+#EXTINF:-1 group-title="移动专用" ,东南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225950/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,新疆卫视
+#EXTINF:-1 group-title="移动专用" ,新疆卫视
 http://39.134.65.106/PLTV/88888888/224/3221225999/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,深圳卫视
+#EXTINF:-1 group-title="移动专用" ,深圳卫视
 http://39.134.65.106/PLTV/88888888/224/3221225997/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,兵团卫视
+#EXTINF:-1 group-title="移动专用" ,兵团卫视
 http://39.134.65.106/PLTV/88888888/224/3221226005/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221226006/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221226056/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221226068/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221226099/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221226115/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221226117/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221226122/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221226060/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑龙江卫视
+#EXTINF:-1 group-title="移动专用" ,黑龙江卫视
 http://39.134.65.106/PLTV/88888888/224/3221225985/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,重庆卫视
+#EXTINF:-1 group-title="移动专用" ,重庆卫视
 http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,四川卫视
+#EXTINF:-1 group-title="移动专用" ,四川卫视
 http://39.134.65.106/PLTV/88888888/224/3221226014/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,山西卫视
+#EXTINF:-1 group-title="移动专用" ,山西卫视
 http://39.134.65.106/PLTV/88888888/224/3221226009/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,湖南卫视
+#EXTINF:-1 group-title="移动专用" ,湖南卫视
 http://39.134.65.106/PLTV/88888888/224/3221226000/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,广西卫视
+#EXTINF:-1 group-title="移动专用" ,广西卫视
 http://39.134.65.106/PLTV/88888888/224/3221226024/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,海南卫视
+#EXTINF:-1 group-title="移动专用" ,海南卫视
 http://39.134.65.106/PLTV/88888888/224/3221226026/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,吉林卫视
+#EXTINF:-1 group-title="移动专用" ,吉林卫视
 http://39.134.65.106/PLTV/88888888/224/3221226028/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,山东卫视
+#EXTINF:-1 group-title="移动专用" ,山东卫视
 http://39.134.65.106/PLTV/88888888/224/3221226034/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,贵州卫视
+#EXTINF:-1 group-title="移动专用" ,贵州卫视
 http://39.134.65.106/PLTV/88888888/224/3221226030/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,内蒙古卫视
+#EXTINF:-1 group-title="移动专用" ,内蒙古卫视
 http://39.134.65.106/PLTV/88888888/224/3221226017/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,广东卫视
+#EXTINF:-1 group-title="移动专用" ,广东卫视
 http://39.134.65.106/PLTV/88888888/224/3221225966/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,东南卫视
+#EXTINF:-1 group-title="移动专用" ,东南卫视
 http://39.134.65.106/PLTV/88888888/224/3221226038/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,海南卫视
+#EXTINF:-1 group-title="移动专用" ,海南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225978/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,重庆卫视
+#EXTINF:-1 group-title="移动专用" ,重庆卫视
 http://39.134.65.106/PLTV/88888888/224/3221225963/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,甘肃卫视
+#EXTINF:-1 group-title="移动专用" ,甘肃卫视
 http://39.134.65.106/PLTV/88888888/224/3221226048/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,河南卫视
+#EXTINF:-1 group-title="移动专用" ,河南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225988/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,河南卫视
+#EXTINF:-1 group-title="移动专用" ,河南卫视
 http://39.134.65.106/PLTV/88888888/224/3221226023/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,延边卫视
+#EXTINF:-1 group-title="移动专用" ,延边卫视
 http://39.134.65.106/PLTV/88888888/224/3221226040/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,古装剧场
+#EXTINF:-1 group-title="移动专用" ,古装剧场
 http://39.134.65.106/PLTV/88888888/224/3221225524/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,金牌综艺
+#EXTINF:-1 group-title="移动专用" ,金牌综艺
 http://39.134.65.106/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,精品体育
+#EXTINF:-1 group-title="移动专用" ,精品体育
 http://39.134.65.106/PLTV/88888888/224/3221225526/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,超级体育
+#EXTINF:-1 group-title="移动专用" ,超级体育
 http://39.134.65.106/PLTV/88888888/224/3221225635/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,爱情喜剧
+#EXTINF:-1 group-title="移动专用" ,爱情喜剧
 http://39.134.65.106/PLTV/88888888/224/3221225533/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,精品大剧
+#EXTINF:-1 group-title="移动专用" ,精品大剧
 http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,家庭剧场
+#EXTINF:-1 group-title="移动专用" ,家庭剧场
 http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,潮妈辣婆
+#EXTINF:-1 group-title="移动专用" ,潮妈辣婆
 http://39.134.65.106/PLTV/88888888/224/3221225542/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,精品记录
+#EXTINF:-1 group-title="移动专用" ,精品记录
 http://39.134.65.106/PLTV/88888888/224/3221225545/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,动作电影
+#EXTINF:-1 group-title="移动专用" ,动作电影
 http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,军旅剧场
+#EXTINF:-1 group-title="移动专用" ,军旅剧场
 http://39.134.65.106/PLTV/88888888/224/3221225560/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,惊悚悬疑
+#EXTINF:-1 group-title="移动专用" ,惊悚悬疑
 http://39.134.65.106/PLTV/88888888/224/3221225553/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,怡伴健康
+#EXTINF:-1 group-title="移动专用" ,怡伴健康
 http://39.134.65.106/PLTV/88888888/224/3221225571/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,中国功夫
+#EXTINF:-1 group-title="移动专用" ,中国功夫
 http://39.134.65.106/PLTV/88888888/224/3221225604/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,超级电影
+#EXTINF:-1 group-title="移动专用" ,超级电影
 http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,超级综艺
+#EXTINF:-1 group-title="移动专用" ,超级综艺
 http://39.134.65.106/PLTV/88888888/224/3221225642/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,超级电视剧
+#EXTINF:-1 group-title="移动专用" ,超级电视剧
 http://39.134.65.106/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,欢乐剧场
+#EXTINF:-1 group-title="移动专用" ,欢乐剧场
 http://39.134.65.106/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,东北热剧
+#EXTINF:-1 group-title="移动专用" ,东北热剧
 http://39.134.65.106/PLTV/88888888/224/3221225679/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,精品萌宠
+#EXTINF:-1 group-title="移动专用" ,精品萌宠
 http://39.134.65.106/PLTV/88888888/224/3221226051/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,武博
+#EXTINF:-1 group-title="移动专用" ,武博
 http://39.134.65.106/PLTV/88888888/224/3221225547/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,哒波赛事
+#EXTINF:-1 group-title="移动专用" ,哒波赛事
 http://39.134.65.106/PLTV/88888888/224/3221225559/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,军事
+#EXTINF:-1 group-title="移动专用" ,军事
 http://39.134.65.106/PLTV/88888888/224/3221225535/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,纪录片1
+#EXTINF:-1 group-title="移动专用" ,纪录片1
 http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,纪录片2
+#EXTINF:-1 group-title="移动专用" ,纪录片2
 http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,纪录片3
+#EXTINF:-1 group-title="移动专用" ,纪录片3
 http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,求索记录
+#EXTINF:-1 group-title="移动专用" ,求索记录
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑莓动画
+#EXTINF:-1 group-title="移动专用" ,黑莓动画
 http://39.134.65.106/PLTV/88888888/224/3221225529/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,黑莓电影
+#EXTINF:-1 group-title="移动专用" ,黑莓电影
 http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,哈哈炫动
+#EXTINF:-1 group-title="移动专用" ,哈哈炫动
 http://39.134.65.106/PLTV/88888888/224/3221225534/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,卡酷少儿
+#EXTINF:-1 group-title="移动专用" ,卡酷少儿
 http://39.134.65.106/PLTV/88888888/224/3221225562/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,优漫卡通
+#EXTINF:-1 group-title="移动专用" ,优漫卡通
 http://39.134.65.106/PLTV/88888888/224/3221225556/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,金鹰卡通
+#EXTINF:-1 group-title="移动专用" ,金鹰卡通
 http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,北京纪实科教
+#EXTINF:-1 group-title="移动专用" ,北京纪实科教
 http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕1
+#EXTINF:-1 group-title="移动专用" ,咪咕1
 http://39.134.65.106/PLTV/88888888/224/3221225611/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕2
+#EXTINF:-1 group-title="移动专用" ,咪咕2
 http://39.134.65.106/PLTV/88888888/224/3221225613/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕3
+#EXTINF:-1 group-title="移动专用" ,咪咕3
 http://39.134.65.106/PLTV/88888888/224/3221225619/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕4
+#EXTINF:-1 group-title="移动专用" ,咪咕4
 http://39.134.65.106/PLTV/88888888/224/3221225620/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕5
+#EXTINF:-1 group-title="移动专用" ,咪咕5
 http://39.134.65.106/PLTV/88888888/224/3221225639/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕6
+#EXTINF:-1 group-title="移动专用" ,咪咕6
 http://39.134.65.106/PLTV/88888888/224/3221225641/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕7
+#EXTINF:-1 group-title="移动专用" ,咪咕7
 http://39.134.65.106/PLTV/88888888/224/3221225643/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕8
+#EXTINF:-1 group-title="移动专用" ,咪咕8
 http://39.134.65.106/PLTV/88888888/224/3221225647/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕9
+#EXTINF:-1 group-title="移动专用" ,咪咕9
 http://39.134.65.106/PLTV/88888888/224/3221225648/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕10
+#EXTINF:-1 group-title="移动专用" ,咪咕10
 http://39.134.65.106/PLTV/88888888/224/3221225649/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕11
+#EXTINF:-1 group-title="移动专用" ,咪咕11
 http://39.134.65.106/PLTV/88888888/224/3221225650/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕12
+#EXTINF:-1 group-title="移动专用" ,咪咕12
 http://39.134.65.106/PLTV/88888888/224/3221225653/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕13
+#EXTINF:-1 group-title="移动专用" ,咪咕13
 http://39.134.65.106/PLTV/88888888/224/3221225645/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕14
+#EXTINF:-1 group-title="移动专用" ,咪咕14
 http://39.134.65.106/PLTV/88888888/224/3221225654/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕15
+#EXTINF:-1 group-title="移动专用" ,咪咕15
 http://39.134.65.106/PLTV/88888888/224/3221225652/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕16
+#EXTINF:-1 group-title="移动专用" ,咪咕16
 http://39.134.65.106/PLTV/88888888/224/3221225658/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕17
+#EXTINF:-1 group-title="移动专用" ,咪咕17
 http://39.134.65.106/PLTV/88888888/224/3221225660/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕18
+#EXTINF:-1 group-title="移动专用" ,咪咕18
 http://39.134.65.106/PLTV/88888888/224/3221225756/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕19
+#EXTINF:-1 group-title="移动专用" ,咪咕19
 http://39.134.65.106/PLTV/88888888/224/3221225754/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕20
+#EXTINF:-1 group-title="移动专用" ,咪咕20
 http://39.134.65.106/PLTV/88888888/224/3221225733/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕21
+#EXTINF:-1 group-title="移动专用" ,咪咕21
 http://39.134.65.106/PLTV/88888888/224/3221225737/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕22
+#EXTINF:-1 group-title="移动专用" ,咪咕22
 http://39.134.65.106/PLTV/88888888/224/3221225739/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕23
+#EXTINF:-1 group-title="移动专用" ,咪咕23
 http://39.134.65.106/PLTV/88888888/224/3221225758/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕24
+#EXTINF:-1 group-title="移动专用" ,咪咕24
 http://39.134.65.106/PLTV/88888888/224/3221225760/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕25
+#EXTINF:-1 group-title="移动专用" ,咪咕25
 http://39.134.65.106/PLTV/88888888/224/3221225903/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕26
+#EXTINF:-1 group-title="移动专用" ,咪咕26
 http://39.134.65.106/PLTV/88888888/224/3221225899/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕27
+#EXTINF:-1 group-title="移动专用" ,咪咕27
 http://39.134.65.106/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕28
+#EXTINF:-1 group-title="移动专用" ,咪咕28
 http://39.134.65.106/PLTV/88888888/224/3221225914/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕29
+#EXTINF:-1 group-title="移动专用" ,咪咕29
 http://39.134.65.106/PLTV/88888888/224/3221225905/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕30
+#EXTINF:-1 group-title="移动专用" ,咪咕30
 http://39.134.65.106/PLTV/88888888/224/3221225912/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕31
+#EXTINF:-1 group-title="移动专用" ,咪咕31
 http://39.134.65.106/PLTV/88888888/224/3221225910/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕32
+#EXTINF:-1 group-title="移动专用" ,咪咕32
 http://39.134.65.106/PLTV/88888888/224/3221226031/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,咪咕4K
+#EXTINF:-1 group-title="移动专用" ,咪咕4K
 http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,晴彩广场舞
+#EXTINF:-1 group-title="移动专用" ,晴彩广场舞
 http://39.134.65.106/PLTV/88888888/224/3221226143/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,晴彩广场舞
+#EXTINF:-1 group-title="移动专用" ,晴彩广场舞
 http://39.134.65.106/PLTV/88888888/224/3221226046/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,晴彩青少
+#EXTINF:-1 group-title="移动专用" ,晴彩青少
 http://39.134.65.106/PLTV/88888888/224/3221226053/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,晴彩篮球
+#EXTINF:-1 group-title="移动专用" ,晴彩篮球
 http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,晴彩篮球
+#EXTINF:-1 group-title="移动专用" ,晴彩篮球
 http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 group-title="黑龙江移动" ,晴彩竞技
+#EXTINF:-1 group-title="移动专用" ,晴彩竞技
 http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-
-
