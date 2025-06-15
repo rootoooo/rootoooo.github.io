@@ -214,6 +214,14 @@ www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
 
 
+Hysteria 2：
+
+bash <(curl -L https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/hy2.sh)
+
+bash <(curl -fsSL https://get.hy2.sh/) –remove
+
+
+
 Frps：
 
 wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
