@@ -456,7 +456,9 @@ CGTN西语,http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 晴彩竞技,http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-YouTube,#genre#
+网页直播,#genre#
+CCTV-13,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/
+广西卫视,http://A/ku9/js/webview.js?id=https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 凤凰资讯,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=BLaQVW5oUGU
 凤凰卫视资讯台,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=LNux6O0Fj6A
 中天新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=vr3XyVCR4T0
