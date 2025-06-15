@@ -459,7 +459,7 @@ CGTN西语,http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
 YouTube,#genre#
 凤凰资讯,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=BLaQVW5oUGU
 凤凰卫视资讯台,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=LNux6O0Fj6A
-中天新闻YouTube,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=vr3XyVCR4T0
+中天新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=vr3XyVCR4T0
 TVBS,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=o_-hSMgpAzs
 东森新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=V1p33hqPrUk
 东森LIVE,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=E0zhe2gkXBs
