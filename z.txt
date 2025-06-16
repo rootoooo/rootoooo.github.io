@@ -461,15 +461,5 @@ CCTV-13,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/
 广西卫视,http://A/ku9/js/webview.js?id=https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 CCTV-5,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5/?spm=C28340.POZbQEOQYmoL.ExidtyEJcS5K.5
 CCTV-5+,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5plus/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.17
-凤凰资讯,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=BLaQVW5oUGU
-凤凰卫视资讯台,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=LNux6O0Fj6A
-中天新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=vr3XyVCR4T0
-TVBS,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=o_-hSMgpAzs
-东森新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=V1p33hqPrUk
-东森LIVE,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=E0zhe2gkXBs
-三立新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=CuDmMAEYDsc
-三立新闻+,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=MV9mI0GChwo
-DJ MoonBaby,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=F2tpshELd1o
-Chinese DJ,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=aQT8mUr445I
 
 
