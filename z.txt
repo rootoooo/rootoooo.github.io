@@ -456,6 +456,13 @@ CGTN西语,http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 晴彩竞技,http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
+网络直播,#genre#
+万合天宜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
+经典小品,http://zzy789.xyz/douyu1.php?id=9067836
+开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
+赵本山,http://zzy789.xyz/douyu1.php?id=9817716
+暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
+小小天才,http://zzy789.xyz/douyu1.php?id=9419678
 网页直播,#genre#
 CCTV-13,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/
 广西卫视,http://A/ku9/js/webview.js?id=https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
