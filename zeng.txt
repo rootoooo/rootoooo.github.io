@@ -115,8 +115,6 @@ APP：https://blackace.app
 
 AccessToken：https://chatgpt.com/api/auth/session
 
-BBS：https://github.com/kidozh/DiscuzHub/releases/tag/v5.5
-
 LibreTV：https://github.com/myfreeport/FaXianTV
 
 Camera：http://www.jendoscope.cn/en
@@ -195,8 +193,6 @@ echo -e "nameserver 154.12.177.22
 nameserver 1.1.1.1" > /etc/resolv.conf
 
 echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
-
-ssh root@X.X.X.X -p XXX
 
 top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
