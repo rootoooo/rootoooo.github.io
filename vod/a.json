@@ -7,6 +7,10 @@
         "name": "黑木耳（国外）",
         "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
     },
+      {
+        "name": "如意资源",
+        "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+    },
     {
         "name": "低端影视",
         "api": "cms://ddys",
