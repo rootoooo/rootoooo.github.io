@@ -25,6 +25,24 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="皮皮虾" ,中天新闻
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,万合天宜
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
+#EXTINF:-1 group-title="皮皮虾" ,经典小品
+http://zzy789.xyz/douyu1.php?id=9067836
+#EXTINF:-1 group-title="皮皮虾" ,开心麻花
+http://zzy789.xyz/douyu1.php?id=10153463
+#EXTINF:-1 group-title="皮皮虾" ,赵本山
+http://zzy789.xyz/douyu1.php?id=9817716
+#EXTINF:-1 group-title="皮皮虾" ,暴走漫画
+http://zzy789.xyz/douyu1.php?id=1275878
+#EXTINF:-1 group-title="皮皮虾" ,牛叔说电影
+http://zzy789.xyz/douyu1.php?id=2758565
+#EXTINF:-1 group-title="皮皮虾" ,小小天才
+http://zzy789.xyz/douyu1.php?id=9419678
+#EXTINF:-1 group-title="皮皮虾" ,中二日记
+http://zzy789.xyz/douyu1.php?id=9505575
+#EXTINF:-1 group-title="皮皮虾" ,贝爷
+http://zzy789.xyz/douyu1.php?id=4332
 #EXTINF:-1 group-title="皮皮虾" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Wion
@@ -921,23 +939,5 @@ http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 group-title="移动专用" ,晴彩竞技
 http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1 group-title="网络直播" ,万合天宜
-http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-#EXTINF:-1 group-title="网络直播" ,经典小品
-http://zzy789.xyz/douyu1.php?id=9067836
-#EXTINF:-1 group-title="网络直播" ,开心麻花
-http://zzy789.xyz/douyu1.php?id=10153463
-#EXTINF:-1 group-title="网络直播" ,赵本山
-http://zzy789.xyz/douyu1.php?id=9817716
-#EXTINF:-1 group-title="网络直播" ,暴走漫画
-http://zzy789.xyz/douyu1.php?id=1275878
-#EXTINF:-1 group-title="网络直播" ,牛叔说电影
-http://zzy789.xyz/douyu1.php?id=2758565
-#EXTINF:-1 group-title="网络直播" ,小小天才
-http://zzy789.xyz/douyu1.php?id=9419678
-#EXTINF:-1 group-title="网络直播" ,中二日记
-http://zzy789.xyz/douyu1.php?id=9505575
-#EXTINF:-1 group-title="网络直播" ,贝爷
-http://zzy789.xyz/douyu1.php?id=4332
 
 
