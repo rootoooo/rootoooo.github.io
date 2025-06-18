@@ -17,9 +17,9 @@ CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
 开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
 赵本山,http://zzy789.xyz/douyu1.php?id=9817716
 宋小宝,http://zzy789.xyz/douyu1.php?id=9817729
-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
 小小天才,http://zzy789.xyz/douyu1.php?id=9419678
 中二日记,http://zzy789.xyz/douyu1.php?id=9505575
+暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
 竹叶的熊猫,http://zzy789.xyz/douyu1.php?id=3870925
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
