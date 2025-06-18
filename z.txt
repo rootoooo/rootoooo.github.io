@@ -12,6 +12,15 @@ CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
+万合天宜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
+经典小品,http://zzy789.xyz/douyu1.php?id=9067836
+开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
+赵本山,http://zzy789.xyz/douyu1.php?id=9817716
+暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
+牛叔说电影,http://zzy789.xyz/douyu1.php?id=2758565
+小小天才,http://zzy789.xyz/douyu1.php?id=9419678
+中二日记,http://zzy789.xyz/douyu1.php?id=9505575
+贝爷,http://zzy789.xyz/douyu1.php?id=4332
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
@@ -461,21 +470,16 @@ CGTN西语,http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 晴彩竞技,http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-网络直播,#genre#
-万合天宜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-经典小品,http://zzy789.xyz/douyu1.php?id=9067836
-开心麻花,http://zzy789.xyz/douyu1.php?id=10153463
-赵本山,http://zzy789.xyz/douyu1.php?id=9817716
-暴走漫画,http://zzy789.xyz/douyu1.php?id=1275878
-牛叔说电影,http://zzy789.xyz/douyu1.php?id=2758565
-小小天才,http://zzy789.xyz/douyu1.php?id=9419678
-中二日记,http://zzy789.xyz/douyu1.php?id=9505575
-贝爷,http://zzy789.xyz/douyu1.php?id=4332
 网页直播,#genre#
-CCTV-13,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
-广西卫视,http://A/ku9/js/webview.js?id=https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-CCTV-1,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/
+CCTV-13,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/
+CCTV-1,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV-5,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5/?spm=C28340.POZbQEOQYmoL.ExidtyEJcS5K.5
 CCTV-5+,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5plus/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.17
+CCTV-16,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600098637
+广西卫视,http://A/ku9/js/webview.js?id=https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
+东方卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002483
+浙江卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002520
+江苏卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002521
+湖南卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002475
 
 
