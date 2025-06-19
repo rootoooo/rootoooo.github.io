@@ -481,10 +481,5 @@ CCTV-16,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=6000
 浙江卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002520
 江苏卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002521
 湖南卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002475
-凤凰资讯,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=BLaQVW5oUGU
-中天新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=vr3XyVCR4T0
-TVBS,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=o_-hSMgpAzs
-DJ MoonBaby,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=F2tpshELd1o
-Chinese Mix,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=aQT8mUr445I
 
 
