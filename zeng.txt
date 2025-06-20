@@ -121,6 +121,8 @@ https://github.haoss.eu.org/https://raw.githubusercontent.com/liu673cn/box/refs/
 
 https://github.haoss.eu.org/https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.txt
 
+http://www.饭太硬.net/tv
+
 HDPlayer：https://github.com/ddhap/HDPlayer-Release/releases/tag/v0.4.1
 
 SyncNext：https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
