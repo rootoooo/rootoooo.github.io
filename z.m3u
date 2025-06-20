@@ -25,6 +25,10 @@ https://ali.hlspull.yximgs.com/live/167_wxxw.flv
 https://ali.hlspull.yximgs.com/live/167_jade.flv
 #EXTINF:-1 group-title="皮皮虾" ,中天新闻
 https://ali.hlspull.yximgs.com/live/167_ztxw.flv
+#EXTINF:-1 group-title="皮皮虾" ,东森新闻
+https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,TVBS新闻
+https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CNA
