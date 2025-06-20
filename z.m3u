@@ -15,6 +15,12 @@ http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视中文台
+https://ali.hlspull.yximgs.com/live/167_fhzw.flv
+#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视资讯台
+https://ali.hlspull.yximgs.com/live/167_fhzx.flv
+#EXTINF:-1 group-title="皮皮虾" ,无线新闻
+https://ali.hlspull.yximgs.com/live/167_wxxw.flv
 #EXTINF:-1 group-title="皮皮虾" ,翡翠台
 https://ali.hlspull.yximgs.com/live/167_jade.flv
 #EXTINF:-1 group-title="皮皮虾" ,中天新闻
