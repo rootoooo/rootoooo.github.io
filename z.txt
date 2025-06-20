@@ -10,10 +10,15 @@ CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
 凤凰卫视中文台,https://ali.hlspull.yximgs.com/live/167_fhzw.flv
 凤凰卫视资讯台,https://ali.hlspull.yximgs.com/live/167_fhzx.flv
 无线新闻,https://ali.hlspull.yximgs.com/live/167_wxxw.flv
-翡翠台,https://ali.hlspull.yximgs.com/live/167_jade.flv
+翡翠,https://ali.hlspull.yximgs.com/live/167_jade.flv
 中天新闻,https://ali.hlspull.yximgs.com/live/167_ztxw.flv
-东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-TVBS新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+凤凰卫视中文台,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰卫视资讯台,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+无线新闻台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+东森新闻台,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+TVBS新闻台,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
