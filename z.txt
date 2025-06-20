@@ -7,8 +7,8 @@ CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
 凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-竹叶的熊猫,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
-阿七点歌台,http://zzy789.xyz/douyu1.php?id=3186217
+翡翠台,https://ali.hlspull.yximgs.com/live/167_jade.flv
+中天新闻,https://ali.hlspull.yximgs.com/live/167_ztxw.flv
 NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
