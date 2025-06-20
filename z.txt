@@ -7,6 +7,11 @@ CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
 凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰卫视中文台,https://ali.hlspull.yximgs.com/live/167_fhzw.flv
+凤凰卫视资讯台,https://ali.hlspull.yximgs.com/live/167_fhzx.flv
+无线新闻,https://ali.hlspull.yximgs.com/live/167_wxxw.flv
+翡翠台,https://ali.hlspull.yximgs.com/live/167_jade.flv
+中天新闻,https://ali.hlspull.yximgs.com/live/167_ztxw.flv
 翡翠台,https://ali.hlspull.yximgs.com/live/167_jade.flv
 中天新闻,https://ali.hlspull.yximgs.com/live/167_ztxw.flv
 NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
