@@ -3,41 +3,51 @@
 http://8.138.7.223/tv/ptbtv.php?id=28
 #EXTINF:-1 group-title="皮皮虾" ,CCTV-1
 http://8.138.7.223/tv/ptbtv.php?id=27
-#EXTINF:-1 group-title="皮皮虾" ,凤凰中文
+#EXTINF:-1 group-title="皮皮虾" ,凤凰中文-1
 http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰中文
+#EXTINF:-1 group-title="皮皮虾" ,凤凰中文-2
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰中文
+#EXTINF:-1 group-title="皮皮虾" ,凤凰中文-3
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视中文
+#EXTINF:-1 group-title="皮皮虾" ,凤凰中文-4
 https://ali.hlspull.yximgs.com/live/167_fhzw.flv
-#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视资讯
-https://ali.hlspull.yximgs.com/live/167_fhzx.flv
-#EXTINF:-1 group-title="皮皮虾" ,无线新闻
-https://ali.hlspull.yximgs.com/live/167_wxxw.flv
-#EXTINF:-1 group-title="皮皮虾" ,翡翠
-https://ali.hlspull.yximgs.com/live/167_jade.flv
-#EXTINF:-1 group-title="皮皮虾" ,中天新闻
-https://ali.hlspull.yximgs.com/live/167_ztxw.flv
-#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视中文台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰中文-5
 https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视资讯台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰中文-6
+http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯-1
+http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯-2
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯-3
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯-4
+https://ali.hlspull.yximgs.com/live/167_fhzx.flv
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯-5
 https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,无线新闻台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯-6
+http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+#EXTINF:-1 group-title="皮皮虾" ,无线新闻-1
+https://ali.hlspull.yximgs.com/live/167_wxxw.flv
+#EXTINF:-1 group-title="皮皮虾" ,无线新闻-2
 https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,翡翠台
+#EXTINF:-1 group-title="皮皮虾" ,无线新闻-3
+http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
+#EXTINF:-1 group-title="皮皮虾" ,翡翠台-1
+https://ali.hlspull.yximgs.com/live/167_jade.flv
+#EXTINF:-1 group-title="皮皮虾" ,翡翠台-2
 https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,中天新闻台
+#EXTINF:-1 group-title="皮皮虾" ,翡翠台-3
+http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻-1
+https://ali.hlspull.yximgs.com/live/167_ztxw.flv
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻-2
 https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,东森新闻台
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻-3
+http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
+#EXTINF:-1 group-title="皮皮虾" ,东森新闻
 https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,TVBS新闻台
+#EXTINF:-1 group-title="皮皮虾" ,TVBS新闻
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
