@@ -16,8 +16,6 @@
 中天新闻-1,https://ali.hlspull.yximgs.com/live/167_ztxw.flv
 中天新闻-2,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-TVBS新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
