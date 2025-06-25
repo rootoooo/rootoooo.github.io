@@ -9,10 +9,6 @@
     },
       {
         "name": "MD",
-        "api": "https://91md.me/api.php/provide/vod/",
-    },
-      {
-        "name": "CL",
-        "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/"
+        "api": "https://91md.me/api.php/provide/vod/"
     }
 ]
