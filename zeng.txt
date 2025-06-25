@@ -67,8 +67,6 @@ MAC：4l76dm0q9ck1ek5dyodj0jabeqndlxee
 
 Cloudreve：n2w73kny3bb250ros1ew3c03gcj6z37a
 
-CC：8hj2c03tmrmegb81x0hjvzzsubl6rani
-
 stun.cloudflare.com
 
 https://psub.888005.xyz
