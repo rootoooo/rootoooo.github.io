@@ -83,7 +83,7 @@ M3u8：http://tonkiang.us
 
 https://sankei.mo/z.html
 
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://github.haoss.eu.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
 https://jx.playerjy.com/?url=
 
@@ -119,15 +119,15 @@ Music：https://music.gdstudio.xyz
 
 Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
-https://github.haoss.eu.org/https://raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
+https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
 
-https://github.haoss.eu.org/https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.txt
+https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.txt
 
 http://www.饭太硬.net/tv
 
 HDPlayer：https://github.com/ddhap/HDPlayer-Release/releases/tag/v0.4.1
 
-SyncNext：https://raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
 TrafficMonitor：https://github.com/zhongyang219/TrafficMonitor/releases
 
