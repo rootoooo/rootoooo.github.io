@@ -8,7 +8,7 @@
         "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
     },
       {
-        "name": "MD",
+        "name": "X",
         "api": "https://91md.me/api.php/provide/vod/"
     }
 ]
