@@ -1,12 +1,6 @@
 皮皮虾,#genre#
-凤凰中文-1,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文-2,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文-3,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰中文-4,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰资讯-1,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯-2,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯-3,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-凤凰资讯-4,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 无线新闻,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
 中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
