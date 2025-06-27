@@ -460,16 +460,5 @@ CGTN西语,http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 晴彩篮球,http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 晴彩竞技,http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-网页直播,#genre#
-CCTV-13,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/
-CCTV-1,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
-CCTV-5,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5/?spm=C28340.POZbQEOQYmoL.ExidtyEJcS5K.5
-CCTV-5+,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5plus/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.17
-CCTV-16,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600098637
-广西卫视,http://A/ku9/js/webview.js?id=https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-东方卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002483
-浙江卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002520
-江苏卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002521
-湖南卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002475
 
 
