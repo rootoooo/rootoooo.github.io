@@ -81,8 +81,6 @@ M3u8：http://tonkiang.us
 
 https://sankei.mo/z.html
 
-https://github.haoss.eu.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-
 https://jx.playerjy.com/?url=
 
 https://jx.m3u8.tv/jiexi/?url=
@@ -119,7 +117,9 @@ Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
 
-https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.txt
+https://github.haoss.eu.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+
+http://aktv.space/live.m3u
 
 http://www.饭太硬.net/tv
 
