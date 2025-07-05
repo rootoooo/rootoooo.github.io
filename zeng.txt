@@ -176,6 +176,8 @@ cloudreve.txt文件修改：cloudreve.vbs
 Set WshShell = CreateObject("WScript.Shell")
 WshShell.Run "cmd /k cd C:\cloudreve\cloudreve && cloudreve server", 0, False
 
+/Applications/openlist server
+
 /Applications/cloudreve/cloudreve server
 
 /Applications/cloudreve/cloudreve admin random
