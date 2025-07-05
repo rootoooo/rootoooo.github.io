@@ -178,6 +178,8 @@ WshShell.Run "cmd /k cd C:\cloudreve\cloudreve && cloudreve server", 0, False
 
 /Applications/openlist server
 
+/Applications/Video
+
 /Applications/cloudreve/cloudreve server
 
 /Applications/cloudreve/cloudreve admin random
