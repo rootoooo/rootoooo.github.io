@@ -65,6 +65,8 @@ D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 Cloudreve：n2w73kny3bb250ros1ew3c03gcj6z37a
 
+smb://X:16999
+
 stun.cloudflare.com
 
 https://psub.888005.xyz
