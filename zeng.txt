@@ -119,8 +119,6 @@ Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
 
-https://github.haoss.eu.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-
 http://www.饭太硬.net/tv
 
 HDPlayer：https://github.com/ddhap/HDPlayer-Release/releases/tag/v0.4.1
