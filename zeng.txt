@@ -157,7 +157,7 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 BalenaEtcher：https://etcher.balena.io/#download-etcher
 
-OpenWrt：https://github.com/rtaserver/RTA-WRT/releases
+OpenWrt：https://firmware-selector.openwrt.org
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
