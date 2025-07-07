@@ -119,7 +119,7 @@ Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
 
-https://github.haoåss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
+https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
 
 http://aktv.space/live.m3u
 
@@ -140,6 +140,8 @@ Termius：https://github.com/ArcSurge/Termius-Pro-zh_CN/releases
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
 https://github.com/codemonkey-m/FrpClient-Win
+
+https://github.com/AceDroidX/frp-Android/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
 
