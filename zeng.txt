@@ -159,6 +159,8 @@ BalenaEtcher：https://etcher.balena.io/#download-etcher
 
 OpenWrt：https://firmware-selector.openwrt.org
 
+https://dl.openwrt.ai/releases/24.10/targets/armsr/armv8
+
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
