@@ -159,8 +159,6 @@ BalenaEtcher：https://etcher.balena.io/#download-etcher
 
 OpenWrt：https://firmware-selector.openwrt.org
 
-https://github.com/ophub/amlogic-s9xxx-openwrt?tab=readme-ov-file
-
 AdGuard：https://github.com/privacy-protection-tools/anti-AD
 
 https://anti-ad.net/adguard.txt
