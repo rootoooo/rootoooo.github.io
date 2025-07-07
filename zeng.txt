@@ -169,6 +169,8 @@ Win+R→shell:startup
 
 MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
+OpenList：https://github.com/OpenListTeam/OpenList/releases
+
 Cloudreve：https://github.com/cloudreve/Cloudreve/releases
 
 cloudreve.txt文件修改：cloudreve.vbs
