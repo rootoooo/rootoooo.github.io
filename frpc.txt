@@ -1,10 +1,22 @@
 [common]
-server_addr = "IP"
+server_addr = "X"
 server_port = 4444
-token = "177"
+token = "X"
 
-[mytcp]
+[rdp]
 type = "tcp"
-local_ip = "192.168.4.3"
+local_ip = "127.0.0.1"
+local_port = 3389
+remote_port = 17001
+
+[smb]
+type = "tcp"
+local_ip = "127.0.0.1"
 local_port = 445
-remote_port = 11111
+remote_port = 17002
+
+[ssh]
+type = "tcp"
+local_ip = "127.0.0.1"
+local_port = 22
+remote_port = 17003
