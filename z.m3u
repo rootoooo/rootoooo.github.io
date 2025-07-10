@@ -2,13 +2,13 @@
 #EXTINF:-1 group-title="皮皮虾" ,CCTV-13
 http://cz.crossec.com:35455/mgtv/608807423.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,中天新闻
-http://122.117.71.103:8661/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,东森新闻
-http://122.117.71.103:8660/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
+https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Wion
