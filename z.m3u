@@ -1,11 +1,17 @@
 #EXTM3U
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-13
+https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 #EXTINF:-1 group-title="皮皮虾" ,CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 group-title="皮皮虾" ,凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="皮皮虾" ,TVBS
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 #EXTINF:-1 group-title="皮皮虾" ,中天新闻
+https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻2
 http://122.117.71.103:8661/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,东森新闻
 http://122.117.71.103:8660/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
