@@ -1,24 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="皮皮虾" ,CCTV-13
+http://ygbh.site/php/bfgd.php?id=067
 #EXTINF:-1 group-title="皮皮虾" ,CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 group-title="皮皮虾" ,凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="皮皮虾" ,凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="皮皮虾" ,无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="皮皮虾" ,翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 group-title="皮皮虾" ,明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="皮皮虾" ,HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="皮皮虾" ,澳门卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="皮皮虾" ,澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 group-title="皮皮虾" ,中天新闻
 http://122.117.71.103:8661/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,东森新闻
