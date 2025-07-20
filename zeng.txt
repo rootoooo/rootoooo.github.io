@@ -129,6 +129,8 @@ http://www.饭太硬.net/tv
 
 https://github.haoss.eu.org/raw.githubusercontent.com/dlgt7/TVbox-interface/refs/heads/main/%E4%B9%9D%2B%E4%B9%9D.txt
 
+https://github.haoss.eu.org/raw.githubusercontent.com/guxiangbin/tvbox2/refs/heads/main/%F0%9F%A5%B0%E5%A4%A7%E4%BA%BA%E6%8E%A5%E5%8F%A3%E2%91%A0.txt
+
 HDPlayer：https://github.com/ddhap/HDPlayer-Release/releases/tag/v0.4.1
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
