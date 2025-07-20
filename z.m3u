@@ -3,14 +3,16 @@
 https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 #EXTINF:-1 group-title="皮皮虾" ,广西卫视
 https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-#EXTINF:-1 group-title="皮皮虾" ,凤凰中文
+#EXTINF:-1 group-title="皮皮虾" ,HK中文
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="皮皮虾" ,HK资讯
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="皮皮虾" ,凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="皮皮虾" ,翡翠台
 https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
 #EXTINF:-1 group-title="皮皮虾" ,明珠台
