@@ -127,6 +127,8 @@ http://aktv.space/live.m3u
 
 http://www.饭太硬.net/tv
 
+https://github.haoss.eu.org/raw.githubusercontent.com/dlgt7/TVbox-interface/refs/heads/main/%E4%B9%9D%2B%E4%B9%9D.txt
+
 HDPlayer：https://github.com/ddhap/HDPlayer-Release/releases/tag/v0.4.1
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
