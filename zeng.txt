@@ -103,8 +103,6 @@ Chrome：https://crxdl.com
 
 https://www.crxsoso.com/webstore/category/extensions
 
-APP：https://blackace.app
-
 https://github.com/tw93/Pake/releases
 
 AccessToken：https://chatgpt.com/api/auth/session
