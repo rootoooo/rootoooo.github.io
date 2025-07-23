@@ -155,8 +155,6 @@ https://github.com/AceDroidX/frp-Android/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
 
-SimpleLive：https://github.com/xiaoyaocz/dart_simple_live/releases
-
 Gps：https://github.com/ZCShou/GoGoGo/releases
 
 Wenjian：https://github.com/zhanghai/MaterialFiles/releases
