@@ -125,6 +125,8 @@ https://tv.iill.top/m3u/Gather
 
 http://aktv.space/live.m3u
 
+https://profile.aptv.app
+
 http://www.饭太硬.net/tv
 
 https://github.haoss.eu.org/raw.githubusercontent.com/dlgt7/TVbox-interface/refs/heads/main/%E4%B9%9D%2B%E4%B9%9D.txt
