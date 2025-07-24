@@ -115,6 +115,8 @@ Image：https://im.gurl.eu.org
 
 Music：https://music.gdstudio.xyz
 
+https://github.com/algerkong/AlgerMusicPlayer/releases
+
 Tvbox：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
