@@ -101,6 +101,8 @@ IP扫描软件：https://angryip.org/download
 
 WebRTC泄露：https://www.browserscan.net/zh/webrtc
 
+Camera：http://www.jendoscope.cn/en
+
 Chrome：https://crxdl.com
 
 https://www.crxsoso.com/webstore/category/extensions
@@ -110,8 +112,6 @@ https://github.com/tw93/Pake/releases
 AccessToken：https://chatgpt.com/api/auth/session
 
 LibreTV：https://github.com/myfreeport/FaXianTV
-
-Camera：http://www.jendoscope.cn/en
 
 Music：https://music.gdstudio.xyz
 
@@ -129,13 +129,9 @@ http://www.饭太硬.net/tv
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-TrafficMonitor：https://github.com/zhongyang219/TrafficMonitor/releases
-
 SMS：https://sms-activate.org/getNumber
 
 FinalShell：https://www.hostbuf.com
-
-Termius：https://github.com/ArcSurge/Termius-Pro-zh_CN/releases
 
 VNC：https://github.com/gujjwal00/avnc/releases
 
@@ -179,26 +175,7 @@ Win+R→shell:startup
 
 MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
-OpenList：https://github.com/OpenListTeam/OpenList/releases
 
-Cloudreve：https://github.com/cloudreve/Cloudreve/releases
-
-cloudreve.txt文件修改：cloudreve.vbs
-
-Set WshShell = CreateObject("WScript.Shell")
-WshShell.Run "cmd /k cd C:\cloudreve\cloudreve && cloudreve server", 0, False
-
-/Applications/openlist server
-
-/Applications/Video
-
-/Applications/cloudreve/cloudreve server
-
-/Applications/cloudreve/cloudreve admin random
-
-df -h
-
-/Volumes/备份
 
 echo -e "nameserver 154.12.177.22
 
