@@ -69,10 +69,6 @@ smb://X:16999
 
 vnc：17999
 
-https://91md.me/api.php/provide/vod/
-
-https://slapibf.com/api.php/provide/vod/
-
 https://psub.888005.xyz
 
 https://xfltd.cc
@@ -164,6 +160,14 @@ https://github.com/217heidai/adblockfilters
 Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
 
 https://whatshub.top/module/YouTubeAd.sgmodule
+
+https://91md.me/api.php/provide/vod/
+
+http://www.madouse.la/api.php/provide/vod/
+
+https://slapibf.com/api.php/provide/vod/
+
+https://www.caoliuzyw.com/api.php/prodao/vod/
 
 Windows+Shift+S
 
