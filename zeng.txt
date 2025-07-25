@@ -71,6 +71,8 @@ vnc：17999
 
 https://91md.me/api.php/provide/vod/
 
+https://slapibf.com/api.php/provide/vod/
+
 https://psub.888005.xyz
 
 https://xfltd.cc
