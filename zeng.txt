@@ -185,6 +185,26 @@ MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
 
 
+
+上游DNS服务器：
+
+223.5.5.5
+119.29.29.29
+114.114.114.114
+8.8.8.8
+https://cloudflare-dns.com/dns-query
+https://dns.google/dns-query
+
+并行请求
+
+Bootstrap DNS：
+
+114.114.114.114
+223.5.5.5
+119.29.29.29
+
+
+
 echo -e "nameserver 154.12.177.22
 
 nameserver 1.1.1.1" > /etc/resolv.conf
