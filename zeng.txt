@@ -105,6 +105,10 @@ AccessToken：https://chatgpt.com/api/auth/session
 
 LibreTV：https://github.com/myfreeport/FaXianTV
 
+MoonTV：https://github.com/senshinya/MoonTV
+
+OrionTV：https://github.com/zimplexing/OrionTV/releases
+
 Music：https://music.gdstudio.xyz
 
 https://github.com/algerkong/AlgerMusicPlayer/releases
