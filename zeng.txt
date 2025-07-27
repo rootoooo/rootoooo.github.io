@@ -192,6 +192,10 @@ MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
 
 
+iStoreOS：
+
+用户名: admin，密码: admin 或 1234 或 password
+
 上游DNS服务器：
 
 223.5.5.5
