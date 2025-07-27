@@ -119,6 +119,8 @@ https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/ma
 
 https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
 
+https://github.haoss.eu.org/raw.githubusercontent.com/cyao2q/files/master/m.json
+
 http://aktv.space/live.m3u
 
 https://profile.aptv.app
