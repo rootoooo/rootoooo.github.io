@@ -213,6 +213,34 @@ Bootstrap DNS：
 223.5.5.5
 119.29.29.29
 
+设置步骤概略如下：
+
+AdGuard Home 配置：
+
+启动 AdGuard Home，监听 本地 5335端口（避免和53端口冲突）。
+
+设置上游DNS为 127.0.0.1:7913（或 PassWall 的 DNS 端口）。
+
+PassWall 配置：
+
+启用 DNS 代理功能。
+
+设置为监听 127.0.0.1:7913（默认 PassWall DNS 端口）。
+
+不占用53端口（不要设置为主DNS）。
+
+系统 DNS 配置（或者 DHCP 分发）：
+
+设置主DNS为 127.0.0.1#5335（即 AdGuard Home 的监听地址）。
+
+这样：
+
+AdGuard Home 接收所有 DNS 请求，进行广告过滤；
+
+过滤后，把请求转给 PassWall；
+
+PassWall 再根据规则进行分流（国内解析、国外走代理）
+
 
 
 echo -e "nameserver 154.12.177.22
