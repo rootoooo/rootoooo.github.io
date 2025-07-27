@@ -121,11 +121,11 @@ https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.i
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
+https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json
+
 http://aktv.space/live.m3u
 
 https://profile.aptv.app
-
-http://www.饭太硬.net/tv
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
