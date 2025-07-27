@@ -119,8 +119,6 @@ https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/ma
 
 https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
 
-https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
-
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json
 
 http://aktv.space/live.m3u
