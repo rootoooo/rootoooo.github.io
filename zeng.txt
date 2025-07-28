@@ -189,8 +189,6 @@ MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
 iStoreOS：
 
-用户名: admin，密码: admin 或 1234 或 password
-
 opkg remove luci-app-openclash
 
 cd /tmp && wget https://github.com/AdguardTeam/AdGuardHome/releases/latest/download/AdGuardHome_linux_armv7.tar.gz && tar -zxvf AdGuardHome_linux_armv7.tar.gz && cd AdGuardHome && ./AdGuardHome -s install
@@ -211,15 +209,6 @@ Bootstrap DNS：
 114.114.114.114
 223.5.5.5
 119.29.29.29
-
-AdGuard Home 配置：
-启动 AdGuard Home，监听 本地 16111端口
-设置上游DNS为 127.0.0.1:16222
-
-PassWall 配置：
-启用 DNS 代理功能。
-设置为监听 127.0.0.1:16222
-设置主DNS为 127.0.0.1#16111
 
 
 
