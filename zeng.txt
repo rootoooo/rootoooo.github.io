@@ -189,6 +189,11 @@ MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
 iStoreOS：
 
+opkg update
+opkg install curl socat wget sudo
+
+curl -sL https://kejilion.sh -o kejilion.sh; chmod +x kejilion.sh; bash kejilion.sh
+
 上游DNS服务器：
 
 223.5.5.5
@@ -227,8 +232,6 @@ apt update -y && apt install -y curl socat wget sudo
 科技lion：
 
 bash <(curl -sL kejilion.sh)
-
-curl -sL https://kejilion.sh -o kejilion.sh; chmod +x kejilion.sh; bash kejilion.sh
 
 
 
