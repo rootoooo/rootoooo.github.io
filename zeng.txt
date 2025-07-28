@@ -65,7 +65,7 @@ D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 Cloudreve：n2w73kny3bb250ros1ew3c03gcj6z37a
 
-X：16888    smb://X:445    vnc：16999
+X：16888    smb://X:16999    vnc：17999
 
 OS-Webdav：6086    40401    40402  
 
