@@ -228,6 +228,8 @@ apt update -y && apt install -y curl socat wget sudo
 
 bash <(curl -sL kejilion.sh)
 
+curl -sL https://kejilion.sh -o kejilion.sh; chmod +x kejilion.sh; bash kejilion.sh
+
 
 
 3X-ui：
