@@ -189,8 +189,6 @@ MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
 iStoreOS：
 
-opkg remove luci-app-openclash
-
 上游DNS服务器：
 
 223.5.5.5
