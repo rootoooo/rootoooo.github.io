@@ -153,10 +153,6 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 BalenaEtcher：https://etcher.balena.io/#download-etcher
 
-iStoreOS：https://github.com/AUK9527/Are-u-ok/tree/main/x86
-
-https://github.com/AUK9527/Are-u-ok
-
 OpenWrt：https://firmware-selector.openwrt.org
 
 https://dl.openwrt.ai/releases/24.10/targets/armsr/armv8
@@ -198,23 +194,6 @@ opkg update
 opkg install curl socat wget sudo
 
 curl -sL https://kejilion.sh -o kejilion.sh; chmod +x kejilion.sh; bash kejilion.sh
-
-上游DNS服务器：
-
-223.5.5.5
-119.29.29.29
-114.114.114.114
-8.8.8.8
-https://cloudflare-dns.com/dns-query
-https://dns.google/dns-query
-
-并行请求
-
-Bootstrap DNS：
-
-114.114.114.114
-223.5.5.5
-119.29.29.29
 
 
 
