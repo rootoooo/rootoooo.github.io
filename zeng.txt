@@ -191,6 +191,9 @@ MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
 iStoreOS：
 
+opkg remove luci-app-openclash
+opkg remove openclash
+
 opkg update
 opkg install curl socat wget sudo
 
