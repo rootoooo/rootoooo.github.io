@@ -191,8 +191,6 @@ iStoreOS：
 
 opkg remove luci-app-openclash
 
-cd /tmp && wget https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.51/AdGuardHome_linux_arm64.tar.gz && tar -zxvf AdGuardHome_linux_arm64.tar.gz && cd AdGuardHome && ./AdGuardHome -s install
-
 上游DNS服务器：
 
 223.5.5.5
