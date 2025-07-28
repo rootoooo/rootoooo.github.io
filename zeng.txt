@@ -67,7 +67,7 @@ Cloudreve：n2w73kny3bb250ros1ew3c03gcj6z37a
 
 X：40101    vnc：40102    smb://X:40103
 
-OS：40401    40402    Webdav：40203
+OS：40401    40402    Webdav：X:40203
 
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
