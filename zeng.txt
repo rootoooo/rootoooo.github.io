@@ -191,6 +191,8 @@ iStoreOS：
 
 用户名: admin，密码: admin 或 1234 或 password
 
+opkg remove luci-app-openclash
+
 上游DNS服务器：
 
 223.5.5.5
