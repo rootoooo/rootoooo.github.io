@@ -69,7 +69,7 @@ smb://X:16999
 
 vnc：17999
 
-Webdav：6086
+OS-Webdav：6086
 
 https://psub.888005.xyz
 
