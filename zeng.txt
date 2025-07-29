@@ -191,6 +191,8 @@ MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
 
 iStoreOS：
 
+reboot
+
 opkg remove luci-app-openclash
 opkg remove openclash
 
