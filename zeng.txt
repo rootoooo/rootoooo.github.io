@@ -175,9 +175,7 @@ Windows+Shift+S
 
 Win+R→shell:startup
 
-MAC：Finder    Command + Shift + G    /Library/LaunchDaemons
-
-defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
+MAC：Finder    Command + Shift + G    /Library/LaunchDaemons    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 
 
