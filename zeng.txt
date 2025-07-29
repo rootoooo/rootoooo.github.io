@@ -167,8 +167,6 @@ https://anti-ad.net/adguard.txt
 
 Fancyss：https://github.com/hq450/fancyss
 
-V2Ray：https://github.com/wulabing/V2Ray_ws-tls_bash_onekey?tab=readme-ov-file
-
 Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
 
 https://whatshub.top/module/YouTubeAd.sgmodule
@@ -218,9 +216,5 @@ bash <(curl -sL kejilion.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
-
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
-
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/dev/install.sh" && chmod +x install.sh && bash install.sh
 
 
