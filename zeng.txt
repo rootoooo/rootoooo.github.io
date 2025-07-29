@@ -226,29 +226,3 @@ bash <(curl -L https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/ref
 bash <(curl -fsSL https://get.hy2.sh/) –remove
 
 
-
-Frps：
-
-wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
-chmod 700 ./install-frps.sh
-./install-frps.sh install
-
-nohup ./frps -c frps.ini >/dev/null 2>&1 &
-
-
-
-ChatGPT-Mirror：
-
-cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
-
-cd ChatGPT-Mirror/
-
-cp .env.example .env && vi .env
-
-:wq
-
-cd /home/ChatGPT-Mirror/
-
-./deploy.sh
-
-
