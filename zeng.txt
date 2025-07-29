@@ -193,6 +193,8 @@ apt update -y && apt install -y curl socat wget sudo
 
 bash <(curl -sL kejilion.sh)
 
+curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/kejilion.sh -o kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+
 
 
 3X-ui：
