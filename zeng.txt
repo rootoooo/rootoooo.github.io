@@ -65,9 +65,9 @@ D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 Cloudreve：n2w73kny3bb250ros1ew3c03gcj6z37a
 
-X：40101    vnc：40102    smb://X:40103
+AS：40101    OS：40102    Webdav：X:40103    vnc：40105    smb://X:40105
 
-OS：40401    40402    Webdav：X:40203
+AS：40201    OS：40202    Webdav：X:40203    vnc：40205    smb://X:40205
 
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
