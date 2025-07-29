@@ -165,6 +165,8 @@ https://github.com/217heidai/adblockfilters
 
 https://anti-ad.net/adguard.txt
 
+Fancyss：https://github.com/hq450/fancyss
+
 Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
 
 https://whatshub.top/module/YouTubeAd.sgmodule
