@@ -65,6 +65,8 @@ D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 Cloudreve：n2w73kny3bb250ros1ew3c03gcj6z37a
 
+F：8056    user_fee7f24f    991ce05d8d2afffc    e800e427774994ee2b75ca355b316236
+
 AS：40101    OS：40102    Webdav：X:40103    vnc：40105    smb://X:40105
 
 AS：40201    OS：40202    Webdav：X:40203    vnc：40205    smb://X:40205
