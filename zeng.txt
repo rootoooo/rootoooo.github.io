@@ -171,14 +171,6 @@ Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules
 
 https://whatshub.top/module/YouTubeAd.sgmodule
 
-https://91md.me/api.php/provide/vod/
-
-http://www.madouse.la/api.php/provide/vod/
-
-https://slapibf.com/api.php/provide/vod/
-
-https://www.caoliuzyw.com/api.php/prodao/vod/
-
 Windows+Shift+S
 
 Win+R→shell:startup
