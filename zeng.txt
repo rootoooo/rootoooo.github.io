@@ -63,7 +63,9 @@ AD1456-FREE-CMBE4RS2F2
 
 D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-vnc：5900    smb://X:445
+8056    0f4031c1ce2d8abee943ea0f8d72a3b3    user_de5e7595    ffea496922aa3414
+
+A：10101    OS：10102    vnc：5900-10103    smb://X:445-10104
 
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
@@ -153,13 +155,9 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 BalenaEtcher：https://etcher.balena.io/#download-etcher
 
-OpenWrt：https://firmware-selector.openwrt.org
+OpenWrt：https://firmware-selector.openwrt.org    https://dl.openwrt.ai/releases/24.10/targets/armsr/armv8
 
-https://dl.openwrt.ai/releases/24.10/targets/armsr/armv8
-
-AdGuard：https://github.com/privacy-protection-tools/anti-AD
-
-https://github.com/217heidai/adblockfilters
+AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
 https://anti-ad.net/adguard.txt
 
@@ -169,9 +167,7 @@ Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules
 
 https://whatshub.top/module/YouTubeAd.sgmodule
 
-Windows+Shift+S
-
-Win+R→shell:startup
+Windows+Shift+S    Win+R→shell:startup
 
 MAC：Finder    Command + Shift + G    /Library/LaunchDaemons    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
@@ -204,15 +200,5 @@ bash <(curl -sL kejilion.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
-
-
-
-Frp：
-
-wget https://gitee.com/mvscode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh
-chmod 700 ./install-frps.sh
-./install-frps.sh install
-
-nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 
