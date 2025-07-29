@@ -71,6 +71,10 @@ https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
 https://cp.ping8.top
 
+vless://30640a1e-0e3d-4d3e-bc6b-ff542ed07d21@144.34.231.118:49999?type=grpc&serviceName=&authority=&security=reality&pbk=tbRd8R9MbhfvvTJozGO6YmmK6pmDk57XJbORAwm9wSc&fp=chrome&sni=www.nvidia.com&sid=38bdd3d3f387&spx=%2F#US
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUyIsCiAgImFkZCI6ICJ1cy5zaGVoaC5ldS5vcmciLAogICJwb3J0IjogIjQ0MyIsCiAgImlkIjogIjlhODRlYzg3LWVmNzItNGEyMi1hNjFjLTNlZjA5NGY2NzUxZiIsCiAgImFpZCI6ICIwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogInVzLnNoZWhoLmV1Lm9yZyIsCiAgInBhdGgiOiAiL1VTIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJ1cy5zaGVoaC5ldS5vcmciLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIiwKICAiZnAiOiAiY2hyb21lIgp9
+
 https://psub.888005.xyz
 
 https://bwh81.net
