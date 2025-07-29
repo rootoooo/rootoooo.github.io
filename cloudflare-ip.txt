@@ -6,7 +6,7 @@ async function handleRequest(request) {
   const ip = request.headers.get('CF-Connecting-IP') || '未知';
   const country = request.headers.get('CF-IPCountry') || '未知';
   const detailURL = 'https://ping0.cc'; // 将此URL替换为你指定的网页连接
-  const newDetailURL = 'https://ip.skk.moe'; // 新的点击链接URL
+  const newDetailURL = 'https://zhale.me'; // 新的点击链接URL
 
   const html = `
     <!DOCTYPE html>
