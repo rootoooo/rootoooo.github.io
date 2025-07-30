@@ -9,6 +9,10 @@ async function handleRequest(request) {
   const newDetailURL = 'https://zhale.me'; // 跳转链接
   const tvURL = 'https://tv.haoss.eu.org'; // 跳转链接
   const cnURL = 'https://cn.haoss.eu.org'; // 跳转链接
+  const googleURL = 'https://www.google.com'; // 跳转链接
+  const youtubeURL = 'https://www.youtube.com'; // 跳转链接
+  const chatgptURL = 'https://chatgpt.com'; // 跳转链接
+  const bilibiliURL = 'https://www.bilibili.com'; // 跳转链接
 
   const html = `
     <!DOCTYPE html>
@@ -51,6 +55,7 @@ async function handleRequest(request) {
           display: flex;
           justify-content: center;
           gap: 15px;
+          flex-wrap: wrap;
         }
         .link-container a {
           font-size: 16px;
@@ -98,6 +103,10 @@ async function handleRequest(request) {
           <a href="${newDetailURL}" class="details-link">Delay</a>
           <a href="${tvURL}" class="details-link">Video</a>
           <a href="${cnURL}" class="details-link">Conversion</a>
+          <a href="${googleURL}" class="details-link">Google</a>
+          <a href="${youtubeURL}" class="details-link">YouTube</a>
+          <a href="${chatgptURL}" class="details-link">ChatGPT</a>
+          <a href="${bilibiliURL}" class="details-link">Bilibili</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP" />
