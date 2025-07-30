@@ -15,6 +15,7 @@ async function handleRequest(request) {
   const githubURL = 'https://github.com'; // GitHub链接
   const cloudflareURL = 'https://dash.cloudflare.com'; // Cloudflare链接
   const bilibiliURL = 'https://www.bilibili.com'; // 跳转链接
+  const customURL = 'https://github.haoss.eu.org/'; // 新增跳转链接
 
   const html = `
     <!DOCTYPE html>
@@ -93,6 +94,20 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
+        .custom-input-container {
+          margin-top: 20px;
+        }
+        .custom-input-container input {
+          font-size: 16px;
+          padding: 8px;
+          width: 200px;
+          margin-right: 10px;
+        }
+        .custom-input-container button {
+          font-size: 16px;
+          padding: 8px 16px;
+          cursor: pointer;
+        }
       </style>
     </head>
     <body>
@@ -113,12 +128,16 @@ async function handleRequest(request) {
           <a href="${bilibiliURL}" class="details-link">Bilibili</a>
         </div>
         <div class="input-container">
-          <input type="text" id="ip-input" placeholder="IP" />
+          <input type="text" id="ip-input" placeholder="IP or IP port" />
           <button onclick="goToPing()">Go</button>
         </div>
         <div class="video-input-container">
-          <input type="text" id="video-input" placeholder="Video" />
+          <input type="text" id="video-input" placeholder="Video URL" />
           <button onclick="goToVideo()">Go</button>
+        </div>
+        <div class="custom-input-container">
+          <input type="text" id="custom-input" placeholder="GitHub URL" />
+          <button onclick="goToCustom()">Go</button>
         </div>
       </div>
 
@@ -138,6 +157,15 @@ async function handleRequest(request) {
             window.location.href = 'https://jx.playerjy.com/?url=' + encodeURIComponent(videoUrl);
           } else {
             alert('请输入一个视频播放地址！');
+          }
+        }
+
+        function goToCustom() {
+          const customUrl = document.getElementById('custom-input').value;
+          if (customUrl) {
+            window.location.href = 'https://github.haoss.eu.org/' + encodeURIComponent(customUrl);
+          } else {
+            alert('请输入自定义地址！');
           }
         }
       </script>
