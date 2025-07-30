@@ -12,6 +12,8 @@ async function handleRequest(request) {
   const googleURL = 'https://www.google.com'; // 跳转链接
   const youtubeURL = 'https://www.youtube.com'; // 跳转链接
   const chatgptURL = 'https://chatgpt.com'; // 跳转链接
+  const githubURL = 'https://github.com'; // GitHub链接
+  const cloudflareURL = 'https://dash.cloudflare.com'; // Cloudflare链接
   const bilibiliURL = 'https://www.bilibili.com'; // 跳转链接
 
   const html = `
@@ -106,6 +108,8 @@ async function handleRequest(request) {
           <a href="${googleURL}" class="details-link">Google</a>
           <a href="${youtubeURL}" class="details-link">YouTube</a>
           <a href="${chatgptURL}" class="details-link">ChatGPT</a>
+          <a href="${githubURL}" class="details-link">GitHub</a>
+          <a href="${cloudflareURL}" class="details-link">Cloudflare</a>
           <a href="${bilibiliURL}" class="details-link">Bilibili</a>
         </div>
         <div class="input-container">
