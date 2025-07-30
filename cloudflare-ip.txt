@@ -94,19 +94,19 @@ async function handleRequest(request) {
     </head>
     <body>
       <div class="container">
-        <h1>皮皮虾我们走</h1>
-        <p><strong>IP 地址:</strong> ${ip}</p>
-        <p><strong>国家:</strong> ${country}</p>
+        <h1>Mantis shrimp</h1>
+        <p><strong>IP:</strong> ${ip}</p>
+        <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
-          <a href="${detailURL}" class="details-link">数据</a>
-          <a href="${newDetailURL}" class="details-link">延时</a>
+          <a href="${detailURL}" class="details-link">Data</a>
+          <a href="${newDetailURL}" class="details-link">Delay</a>
         </div>
         <div class="input-container">
-          <input type="text" id="ip-input" placeholder="输入IP地址" />
+          <input type="text" id="ip-input" placeholder="IP" />
           <button onclick="goToPing()">Go</button>
         </div>
         <div class="video-input-container">
-          <input type="text" id="video-input" placeholder="输入视频播放地址" />
+          <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
         </div>
       </div>
