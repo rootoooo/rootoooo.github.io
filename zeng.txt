@@ -163,6 +163,8 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 BalenaEtcher：https://etcher.balena.io/#download-etcher
 
+iStoreOS：https://github.com/AUK9527/Are-u-ok/blob/main/apps/README.md
+
 OpenWrt：https://firmware-selector.openwrt.org    https://dl.openwrt.ai/releases/24.10/targets/armsr/armv8
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
