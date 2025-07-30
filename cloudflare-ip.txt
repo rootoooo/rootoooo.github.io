@@ -15,7 +15,7 @@ async function handleRequest(request) {
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>皮皮虾</title>
-      <link rel="icon" type="image/jpg" href="https://i.haoss.eu.org/file/ba2dfcf9e8533837d9777.jpg" />
+      <link rel="icon" type="image/jpg" href="https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg" />
       <style>
         body {
           font-family: Arial, sans-serif;
@@ -26,7 +26,7 @@ async function handleRequest(request) {
           display: flex;
           justify-content: center;
           align-items: center;
-          background: url('https://i.haoss.eu.org/file/018fb0cfb7e35cdc1fe94.jpg') no-repeat center center fixed;
+          background: url('https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg') no-repeat center center fixed;
           background-size: cover;
         }
         .container {
@@ -62,6 +62,34 @@ async function handleRequest(request) {
           cursor: pointer;
           margin-left: 10px;
         }
+        .input-container {
+          margin-top: 20px;
+        }
+        .input-container input {
+          font-size: 16px;
+          padding: 8px;
+          width: 200px;
+          margin-right: 10px;
+        }
+        .input-container button {
+          font-size: 16px;
+          padding: 8px 16px;
+          cursor: pointer;
+        }
+        .video-input-container {
+          margin-top: 20px;
+        }
+        .video-input-container input {
+          font-size: 16px;
+          padding: 8px;
+          width: 200px;
+          margin-right: 10px;
+        }
+        .video-input-container button {
+          font-size: 16px;
+          padding: 8px 16px;
+          cursor: pointer;
+        }
       </style>
     </head>
     <body>
@@ -70,10 +98,38 @@ async function handleRequest(request) {
         <p><strong>IP 地址:</strong> ${ip}</p>
         <p><strong>国家:</strong> ${country}</p>
         <div class="link-container">
-          <a href="${detailURL}" class="details-link">IP数据</a>
-          <a href="${newDetailURL}" class="details-link">IP延时</a>
+          <a href="${detailURL}" class="details-link">数据</a>
+          <a href="${newDetailURL}" class="details-link">延时</a>
+        </div>
+        <div class="input-container">
+          <input type="text" id="ip-input" placeholder="输入IP地址" />
+          <button onclick="goToPing()">Go</button>
+        </div>
+        <div class="video-input-container">
+          <input type="text" id="video-input" placeholder="输入视频播放地址" />
+          <button onclick="goToVideo()">Go</button>
         </div>
       </div>
+
+      <script>
+        function goToPing() {
+          const ip = document.getElementById('ip-input').value;
+          if (ip) {
+            window.location.href = 'https://ping.pe/' + ip;
+          } else {
+            alert('请输入一个IP地址！');
+          }
+        }
+
+        function goToVideo() {
+          const videoUrl = document.getElementById('video-input').value;
+          if (videoUrl) {
+            window.location.href = 'https://jx.playerjy.com/?url=' + encodeURIComponent(videoUrl);
+          } else {
+            alert('请输入一个视频播放地址！');
+          }
+        }
+      </script>
     </body>
     </html>
   `;
