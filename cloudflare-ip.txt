@@ -108,6 +108,20 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
+        .baidu-input-container {
+          margin-top: 20px;
+        }
+        .baidu-input-container input {
+          font-size: 16px;
+          padding: 8px;
+          width: 200px;
+          margin-right: 10px;
+        }
+        .baidu-input-container button {
+          font-size: 16px;
+          padding: 8px 16px;
+          cursor: pointer;
+        }
       </style>
     </head>
     <body>
@@ -139,6 +153,10 @@ async function handleRequest(request) {
           <input type="text" id="custom-input" placeholder="GitHub URL" />
           <button onclick="goToCustom()">Go</button>
         </div>
+        <div class="baidu-input-container">
+          <input type="text" id="baidu-input" placeholder="Search" />
+          <button onclick="goToBaidu()">Go</button>
+        </div>
       </div>
 
       <script>
@@ -166,6 +184,15 @@ async function handleRequest(request) {
             window.location.href = 'https://github.haoss.eu.org/' + encodeURIComponent(customUrl);
           } else {
             alert('请输入自定义地址！');
+          }
+        }
+
+        function goToBaidu() {
+          const baiduQuery = document.getElementById('baidu-input').value;
+          if (baiduQuery) {
+            window.location.href = 'https://www.baidu.com/s?word=' + encodeURIComponent(baiduQuery);
+          } else {
+            alert('请输入要搜索的内容！');
           }
         }
       </script>
