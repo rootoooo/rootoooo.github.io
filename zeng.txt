@@ -212,3 +212,15 @@ www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
 
 
+
+ChatGPT Mirror：
+
+cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
+
+cd ChatGPT-Mirror/
+
+cp .env.example .env && vi .env
+
+./deploy.sh
+
+
