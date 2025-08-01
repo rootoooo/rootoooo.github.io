@@ -12,10 +12,14 @@ async function handleRequest(request) {
   const googleURL = 'https://www.google.com'; // 跳转链接
   const youtubeURL = 'https://www.youtube.com'; // 跳转链接
   const chatgptURL = 'https://chatgpt.com'; // 跳转链接
-  const githubURL = 'https://github.com'; // GitHub链接
-  const cloudflareURL = 'https://dash.cloudflare.com'; // Cloudflare链接
+  const githubURL = 'https://github.com'; // 跳转链接
+  const cloudflareURL = 'https://dash.cloudflare.com'; // 跳转链接
   const bilibiliURL = 'https://www.bilibili.com'; // 跳转链接
-  const customURL = 'https://github.haoss.eu.org/'; // 新增跳转链接
+  const musicURL = 'https://music.gdstudio.xyz'; // 跳转链接
+  const sportsURL = 'https://www.957001.tv'; // 跳转链接
+  const sshURL = 'https://ssh.haoss.eu.org'; // 跳转链接
+  const chatgptMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
+  const youtubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
 
   const html = `
     <!DOCTYPE html>
@@ -23,7 +27,7 @@ async function handleRequest(request) {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>皮皮虾</title>
+      <title>There is everything in dreams</title>
       <link rel="icon" type="image/jpg" href="https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg" />
       <style>
         body {
@@ -122,11 +126,25 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
+        .google-input-container {
+          margin-top: 20px;
+        }
+        .google-input-container input {
+          font-size: 16px;
+          padding: 8px;
+          width: 200px;
+          margin-right: 10px;
+        }
+        .google-input-container button {
+          font-size: 16px;
+          padding: 8px 16px;
+          cursor: pointer;
+        }
       </style>
     </head>
     <body>
       <div class="container">
-        <h1>Mantis shrimp</h1>
+        <h1>There is everything in dreams</h1>
         <p><strong>IP:</strong> ${ip}</p>
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
@@ -140,6 +158,11 @@ async function handleRequest(request) {
           <a href="${githubURL}" class="details-link">GitHub</a>
           <a href="${cloudflareURL}" class="details-link">Cloudflare</a>
           <a href="${bilibiliURL}" class="details-link">Bilibili</a>
+          <a href="${musicURL}" class="details-link">Music</a>
+          <a href="${sportsURL}" class="details-link">Sports</a>
+          <a href="${sshURL}" class="details-link">SSH</a>
+          <a href="${chatgptMirrorURL}" class="details-link">ChatGPT Mirror</a>
+          <a href="${youtubeMirrorURL}" class="details-link">YouTube Mirror</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP or IP port" />
@@ -154,8 +177,12 @@ async function handleRequest(request) {
           <button onclick="goToCustom()">Go</button>
         </div>
         <div class="baidu-input-container">
-          <input type="text" id="baidu-input" placeholder="Search" />
+          <input type="text" id="baidu-input" placeholder="Baidu Search" />
           <button onclick="goToBaidu()">Go</button>
+        </div>
+        <div class="google-input-container">
+          <input type="text" id="google-input" placeholder="Google Search" />
+          <button onclick="goToGoogle()">Go</button>
         </div>
       </div>
 
@@ -165,7 +192,7 @@ async function handleRequest(request) {
           if (ip) {
             window.location.href = 'https://ping.pe/' + ip;
           } else {
-            alert('请输入一个IP地址！');
+            alert('IP or IP port');
           }
         }
 
@@ -174,7 +201,7 @@ async function handleRequest(request) {
           if (videoUrl) {
             window.location.href = 'https://jx.playerjy.com/?url=' + encodeURIComponent(videoUrl);
           } else {
-            alert('请输入一个视频播放地址！');
+            alert('Video URL');
           }
         }
 
@@ -183,7 +210,7 @@ async function handleRequest(request) {
           if (customUrl) {
             window.location.href = 'https://github.haoss.eu.org/' + encodeURIComponent(customUrl);
           } else {
-            alert('请输入自定义地址！');
+            alert('GitHub URL');
           }
         }
 
@@ -192,7 +219,16 @@ async function handleRequest(request) {
           if (baiduQuery) {
             window.location.href = 'https://www.baidu.com/s?word=' + encodeURIComponent(baiduQuery);
           } else {
-            alert('请输入要搜索的内容！');
+            alert('Search');
+          }
+        }
+
+        function goToGoogle() {
+          const googleQuery = document.getElementById('google-input').value;
+          if (googleQuery) {
+            window.location.href = 'https://www.google.com/search?q=' + encodeURIComponent(googleQuery);
+          } else {
+            alert('Google Search');
           }
         }
       </script>
