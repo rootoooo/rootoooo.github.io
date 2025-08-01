@@ -219,7 +219,7 @@ async function handleRequest(request) {
           if (baiduQuery) {
             window.location.href = 'https://www.baidu.com/s?word=' + encodeURIComponent(baiduQuery);
           } else {
-            alert('Search');
+            alert('Baidu Search');
           }
         }
 
