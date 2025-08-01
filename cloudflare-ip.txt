@@ -148,8 +148,8 @@ async function handleRequest(request) {
         <p><strong>IP:</strong> ${ip}</p>
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
-          <a href="${detailURL}" class="details-link">Data</a>
-          <a href="${newDetailURL}" class="details-link">Delay</a>
+          <a href="${detailURL}" class="details-link">IP Data</a>
+          <a href="${newDetailURL}" class="details-link">IP Delay</a>
           <a href="${tvURL}" class="details-link">Free TV</a>
           <a href="${cnURL}" class="details-link">Conversion</a>
           <a href="${googleURL}" class="details-link">Google</a>
