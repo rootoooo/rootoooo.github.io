@@ -69,6 +69,8 @@ C：5244    3hdngm7v2wq5lipb0ajzd1n0b2npsrym
 
 A：10101    iStoreOS：10102    Webdav：6086-10103    vnc：5900-10104    smb://X:445-10105
 
+A：10201    iStoreOS：10202    Webdav：6086-10203    vnc：5900-10204    smb://X:445-10205
+
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
 https://cp.ping8.top
