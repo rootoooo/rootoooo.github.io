@@ -1,20 +1,128 @@
 {
-    "sites": [
-        { "name": "森林资源|AV", "type": 1, "api": "https://slapibf.com/api.php/provide/vod/" },
-        { "name": "探探资源|AV", "type": 1, "api": "https://apittzy.com/api.php/provide/vod/" },
-        { "name": "奥斯卡资源|AV", "type": 1, "api": "https://aosikazy.com/api.php/provide/vod/" },
-        { "name": "老鸭资源|AV", "type": 1, "api": "https://api.apilyzy.com/api.php/provide/vod/" },
-        { "name": "91麻豆|AV", "type": 1, "api": "https://91md.me/api.php/provide/vod/" },
-        { "name": "易看资源|AV", "type": 1, "api": "https://api.yikanapi.com/api.php/provide/vod/" },
-        { "name": "番号资源|AV", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/" },
-        { "name": "鲨鱼资源|AV", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/" },
-        { "name": "AIvin|AV", "type": 1, "api": "http://lbapiby.com/api.php/provide/vod/at/json" },
-        { "name": "黄瓜资源|AV", "type": 1, "api": "https://www.zy018.com/api.php/provide/vod/" },
-        { "name": "玉兔资源|AV", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod/" },
-        { "name": "辣椒资源|AV", "type": 1, "api": "https://apilj.com/api.php/provide/vod/" },
-        { "name": "奶香香|AV", "type": 1, "api": "https://Naixxzy.com/api.php/provide/vod/" },
-        { "name": "精品资源|AV", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod/" },
-        { "name": "草榴资源|AV", "type": 1, "api": "https://www.caoliuzyw.com/api.php/prodao/vod/" },
-        { "name": "老色逼资源|AV", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod/" }
-    ]
+  "ver": 1,
+  "title": "欧乐影院",
+  "site": "https://www.olehdtv.com",
+  "tabs": [
+    {
+      "name": "首页",
+      "ext": {
+        "url": "/index.php",
+        "hasMore": false
+      }
+    },
+    {
+      "name": "电影",
+      "ext": {
+        "url": "/index.php/vod/show/id/1.html"
+      }
+    },
+    {
+      "name": "电视剧",
+      "ext": {
+        "url": "/index.php/vod/show/id/2.html"
+      }
+    },
+    {
+      "name": "综艺",
+      "ext": {
+        "url": "/index.php/vod/show/id/3.html"
+      }
+    },
+    {
+      "name": "动漫",
+      "ext": {
+        "url": "/index.php/vod/show/id/4.html"
+      }
+    }
+  ],
+  "getCards": {
+    "url": "https://www.olehdtv.com",
+    "headers": {
+      "Referer": "https://www.olehdtv.com/",
+      "Origin": "https://www.olehdtv.com",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },
+    "ext": {
+      "url": "/index.php/vod/show/id/1.html",
+      "hasMore": true
+    },
+    "response": {
+      "list": [
+        {
+          "vod_id": "example-vod-id",
+          "vod_name": "电影名称",
+          "vod_pic": "https://example.com/image.jpg",
+          "vod_remarks": "2023",
+          "ext": {
+            "url": "https://www.olehdtv.com/index.php/vod/show/id/1.html"
+          }
+        }
+      ]
+    }
+  },
+  "getTracks": {
+    "url": "https://www.olehdtv.com",
+    "headers": {
+      "Referer": "https://www.olehdtv.com/",
+      "Origin": "https://www.olehdtv.com",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },
+    "response": {
+      "groups": [
+        {
+          "title": "在线",
+          "tracks": [
+            {
+              "name": "播放链接1",
+              "pan": "",
+              "ext": {
+                "url": "https://www.olehdtv.com/path/to/video1"
+              }
+            },
+            {
+              "name": "播放链接2",
+              "pan": "",
+              "ext": {
+                "url": "https://www.olehdtv.com/path/to/video2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "getPlayinfo": {
+    "url": "https://www.olehdtv.com/index.php/vod/show/id/1.html",
+    "headers": {
+      "Referer": "https://www.olehdtv.com/",
+      "Origin": "https://www.olehdtv.com",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },
+    "response": {
+      "urls": [
+        "https://example.com/path/to/m3u8"
+      ]
+    }
+  },
+  "search": {
+    "url": "https://www.olehdtv.com/index.php/vod/search.html?wd=${keyword}&submit=",
+    "headers": {
+      "Referer": "https://www.olehdtv.com/",
+      "Origin": "https://www.olehdtv.com",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },
+    "response": {
+      "list": [
+        {
+          "vod_id": "example-search-id",
+          "vod_name": "搜索结果影片",
+          "vod_pic": "https://example.com/search-image.jpg",
+          "vod_remarks": "2023",
+          "ext": {
+            "url": "https://www.olehdtv.com/index.php/vod/show/id/1.html"
+          }
+        }
+      ]
+    }
+  }
 }
