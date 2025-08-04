@@ -17,9 +17,11 @@ async function handleRequest(request) {
   const bilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const musicURL = 'https://music.gdstudio.xyz'; // 跳转链接
   const sportsURL = 'https://www.957001.tv'; // 跳转链接
-  const sshURL = 'https://zh.tradingeconomics.com'; // 跳转链接
+  const moneyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
   const chatgptMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
   const youtubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
+  const DeepSeekURL = 'https://chat.deepseek.com'; // 跳转链接
+  const TranslationURL = 'https://fanyi.qq.com/'; // 跳转链接
 
   const html = `
     <!DOCTYPE html>
@@ -160,9 +162,11 @@ async function handleRequest(request) {
           <a href="${bilibiliURL}" class="details-link">Bilibili</a>
           <a href="${musicURL}" class="details-link">Music</a>
           <a href="${sportsURL}" class="details-link">Sports</a>
-          <a href="${sshURL}" class="details-link">Trading Economics</a>
+          <a href="${moneyURL}" class="details-link">Trading Economics</a>
           <a href="${chatgptMirrorURL}" class="details-link">ChatGPT Mirror</a>
           <a href="${youtubeMirrorURL}" class="details-link">YouTube Mirror</a>
+          <a href="${DeepSeekURL}" class="details-link">DeepSeek</a>
+          <a href="${TranslationURL}" class="details-link">Translation</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP or IP port" />
