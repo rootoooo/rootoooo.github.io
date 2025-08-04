@@ -5,23 +5,26 @@ addEventListener('fetch', event => {
 async function handleRequest(request) {
   const ip = request.headers.get('CF-Connecting-IP') || '未知';
   const country = request.headers.get('CF-IPCountry') || '未知';
-  const detailURL = 'https://ping0.cc'; // 将此URL替换为你指定的网页连接
-  const newDetailURL = 'https://zhale.me'; // 跳转链接
-  const tvURL = 'https://tv.haoss.eu.org'; // 跳转链接
-  const cnURL = 'https://cn.haoss.eu.org'; // 跳转链接
-  const googleURL = 'https://www.google.com'; // 跳转链接
-  const youtubeURL = 'https://www.youtube.com'; // 跳转链接
-  const chatgptURL = 'https://chatgpt.com'; // 跳转链接
-  const githubURL = 'https://github.com'; // 跳转链接
-  const cloudflareURL = 'https://dash.cloudflare.com'; // 跳转链接
-  const bilibiliURL = 'https://www.bilibili.com'; // 跳转链接
-  const musicURL = 'https://music.gdstudio.xyz'; // 跳转链接
-  const sportsURL = 'https://www.957001.tv'; // 跳转链接
-  const moneyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
-  const chatgptMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
-  const youtubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
+  const DataURL = 'https://ping0.cc'; // 将此URL替换为你指定的网页连接
+  const DelayURL = 'https://zhale.me'; // 跳转链接
+  const WebRTCURL = 'https://www.browserscan.net/zh/webrtc'; // 跳转链接
+  const TVURL = 'https://tv.haoss.eu.org'; // 跳转链接
+  const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
+  const GoogleURL = 'https://www.google.com'; // 跳转链接
+  const YouTubeURL = 'https://www.youtube.com'; // 跳转链接
+  const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
+  const GithubURL = 'https://github.com'; // 跳转链接
+  const CloudflareURL = 'https://dash.cloudflare.com'; // 跳转链接
+  const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
+  const MusicURL = 'https://music.gdstudio.xyz'; // 跳转链接
+  const SportsURL = 'https://www.957001.tv'; // 跳转链接
+  const MoneyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
+  const DockerMirrorURL = 'https://docker.haoss.eu.org'; // 跳转链接
+  const ChatGPTMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
+  const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
   const DeepSeekURL = 'https://chat.deepseek.com'; // 跳转链接
   const TranslationURL = 'https://fanyi.qq.com/'; // 跳转链接
+  const DetectionURL = 'https://fanyi.qq.com/'; // 跳转链接
 
   const html = `
     <!DOCTYPE html>
@@ -150,23 +153,26 @@ async function handleRequest(request) {
         <p><strong>IP:</strong> ${ip}</p>
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
-          <a href="${detailURL}" class="details-link">IP Data</a>
-          <a href="${newDetailURL}" class="details-link">IP Delay</a>
-          <a href="${tvURL}" class="details-link">Free TV</a>
-          <a href="${cnURL}" class="details-link">Conversion</a>
-          <a href="${googleURL}" class="details-link">Google</a>
-          <a href="${youtubeURL}" class="details-link">YouTube</a>
-          <a href="${chatgptURL}" class="details-link">ChatGPT</a>
-          <a href="${githubURL}" class="details-link">GitHub</a>
-          <a href="${cloudflareURL}" class="details-link">Cloudflare</a>
-          <a href="${bilibiliURL}" class="details-link">Bilibili</a>
-          <a href="${musicURL}" class="details-link">Music</a>
-          <a href="${sportsURL}" class="details-link">Sports</a>
-          <a href="${moneyURL}" class="details-link">Trading Economics</a>
-          <a href="${chatgptMirrorURL}" class="details-link">ChatGPT Mirror</a>
-          <a href="${youtubeMirrorURL}" class="details-link">YouTube Mirror</a>
+          <a href="${DataURL}" class="details-link">IP Data</a>
+          <a href="${DelayURL}" class="details-link">IP Delay</a>
+          <a href="${WebRTCURL}" class="details-link">IP WebRTC</a>
+          <a href="${TVURL}" class="details-link">Free TV</a>
+          <a href="${CNURL}" class="details-link">Conversion</a>
+          <a href="${GoogleURL}" class="details-link">Google</a>
+          <a href="${YouTubeURL}" class="details-link">YouTube</a>
+          <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
+          <a href="${GithubURL}" class="details-link">GitHub</a>
+          <a href="${CloudflareURL}" class="details-link">Cloudflare</a>
+          <a href="${BilibiliURL}" class="details-link">Bilibili</a>
+          <a href="${MusicURL}" class="details-link">Music</a>
+          <a href="${SportsURL}" class="details-link">Sports</a>
+          <a href="${MoneyURL}" class="details-link">Trading Economics</a>
+          <a href="${DockerMirrorURL}" class="details-link">Docker Mirror</a>
+          <a href="${ChatGPTMirrorURL}" class="details-link">ChatGPT Mirror</a>
+          <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
           <a href="${DeepSeekURL}" class="details-link">DeepSeek</a>
           <a href="${TranslationURL}" class="details-link">Translation</a>
+          <a href="${DetectionURL}" class="details-link">Detection</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP or IP port" />
