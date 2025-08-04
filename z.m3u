@@ -69,40 +69,24 @@ https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 #EXTINF:-1 group-title="LIVE" ,非凡新闻
 https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-#EXTINF:-1 group-title="LIVE" ,华艺中文
-https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-#EXTINF:-1 group-title="LIVE" ,纬来电影
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1 group-title="LIVE" ,龙华电影
-https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-#EXTINF:-1 group-title="LIVE" ,龙华洋片
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-#EXTINF:-1 group-title="LIVE" ,龙华戏剧
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-#EXTINF:-1 group-title="LIVE" ,龙华经典
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-#EXTINF:-1 group-title="LIVE" ,龙详时代
-https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1 group-title="LIVE" ,龙华偶像
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-#EXTINF:-1 group-title="LIVE" ,民视新闻
-https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="LIVE" ,东森综合
-https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-#EXTINF:-1 group-title="LIVE" ,八大戏剧
-https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-#EXTINF:-1 group-title="LIVE" ,八大第一
-https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-#EXTINF:-1 group-title="LIVE" ,八大综合
-https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-#EXTINF:-1 group-title="LIVE" ,美食星球
-https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-#EXTINF:-1 group-title="LIVE" ,亚洲旅游
-https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-#EXTINF:-1 group-title="LIVE" ,亚洲旅游台
-https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-#EXTINF:-1 group-title="LIVE" ,Discovery HD
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="LIVE" ,APTV CCTV-13
+http://dns.yiandrive.com:13571/bilibili/8178490
+#EXTINF:-1 group-title="LIVE" ,APTV 音乐
+http://dns.yiandrive.com:13571/douyu/3870925
+#EXTINF:-1 group-title="LIVE" ,APTV 周星星
+http://dns.yiandrive.com:13571/huya/11342412
+#EXTINF:-1 group-title="LIVE" ,APTV 汇聚金曲
+https://live.iill.top/youtube/@Cantopopgreatesthits8090s
+#EXTINF:-1 group-title="LIVE" ,APTV Hot Douyin Studios
+https://live.iill.top/youtube/@hottrendsdouyin
+#EXTINF:-1 group-title="LIVE" ,APTV Chinese Mix
+https://live.iill.top/youtube/@FM190-ld7qz
+#EXTINF:-1 group-title="LIVE" ,APTV 凤凰资讯
+https://live.iill.top/youtube/@phoenixtvhk
+#EXTINF:-1 group-title="LIVE" ,APTV 中天新聞
+https://live.iill.top/youtube/vr3XyVCR4T0
+#EXTINF:-1 group-title="LIVE" ,APTV 东森新闻
+https://live.iill.top/youtube/V1p33hqPrUk
 #EXTINF:-1 group-title="LIVE" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="LIVE" ,Wion
