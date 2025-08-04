@@ -28,8 +28,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=ctient
 #EXTINF:-1 group-title="LIVE" ,翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 group-title="LIVE" ,翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 group-title="LIVE" ,翡翠台
 https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
 #EXTINF:-1 group-title="LIVE" ,明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
@@ -961,5 +959,6 @@ http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 group-title="移动" ,晴彩竞技
 http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
+
 
 
