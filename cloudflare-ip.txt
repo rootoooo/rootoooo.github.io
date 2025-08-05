@@ -23,9 +23,10 @@ async function handleRequest(request) {
   const DockerMirrorURL = 'https://docker.haoss.eu.org'; // 跳转链接
   const ChatGPTMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
   const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
+  const GoogleChromeURL = 'https://fanyi.qq.com'; // 跳转链接
+  const DetectionURL = 'https://www.virscan.org'; // 跳转链接
   const DeepSeekURL = 'https://chat.deepseek.com'; // 跳转链接
-  const TranslationURL = 'https://fanyi.qq.com/'; // 跳转链接
-  const DetectionURL = 'https://fanyi.qq.com/'; // 跳转链接
+  const TranslationURL = 'https://fanyi.qq.com'; // 跳转链接
 
   const html = `
     <!DOCTYPE html>
@@ -172,9 +173,10 @@ async function handleRequest(request) {
           <a href="${DockerMirrorURL}" class="details-link">Docker Mirror</a>
           <a href="${ChatGPTMirrorURL}" class="details-link">ChatGPT Mirror</a>
           <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
+          <a href="${GoogleChromeURL}" class="details-link">Google Chrome</a>
+          <a href="${DetectionURL}" class="details-link">Detection</a>
           <a href="${DeepSeekURL}" class="details-link">DeepSeek</a>
           <a href="${TranslationURL}" class="details-link">Translation</a>
-          <a href="${DetectionURL}" class="details-link">Detection</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP or IP port" />
