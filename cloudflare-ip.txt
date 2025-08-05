@@ -10,6 +10,7 @@ async function handleRequest(request) {
   const WebRTCURL = 'https://www.browserscan.net/zh/webrtc'; // 跳转链接
   const TVURL = 'https://tv.haoss.eu.org'; // 跳转链接
   const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
+  const PansouURL = 'https://pansou.haoss.eu.org'; // 跳转链接
   const GoogleURL = 'https://www.google.com'; // 跳转链接
   const YouTubeURL = 'https://www.youtube.com'; // 跳转链接
   const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
@@ -158,6 +159,7 @@ async function handleRequest(request) {
           <a href="${WebRTCURL}" class="details-link">IP WebRTC</a>
           <a href="${TVURL}" class="details-link">Free TV</a>
           <a href="${CNURL}" class="details-link">Conversion</a>
+          <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${GoogleURL}" class="details-link">Google</a>
           <a href="${YouTubeURL}" class="details-link">YouTube</a>
           <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
