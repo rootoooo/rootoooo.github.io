@@ -149,6 +149,8 @@ Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
+Pansou：https://github.com/fish2018/pansou
+
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
 
 V2rayN：https://github.com/2dust/v2rayn/releases
@@ -184,6 +186,12 @@ nameserver 1.1.1.1" > /etc/resolv.conf
 echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 top    kill XXX    kill -9 XXX    ps aux | grep XXX
+
+
+
+Pansou：
+
+docker run -d --name pansou -p 8888:80 ghcr.io/fish2018/pansou-web
 
 
 
