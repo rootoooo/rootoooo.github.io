@@ -63,15 +63,11 @@ Administrator
 
 AD1456-FREE-CMBE4RS2F2
 
-cs_selfservice_query_string_key="a=a&uc_param_str=einibicppfmivefrlantcunwsssvjbktchnnsnddds&instance=kkpcwp&pf=145&self_service=true&wxUid=AAQjfTzGuwfPakrFjPckvsG7&plain_utdid=aJGM4dsY8LEDAIcV4g6fV5Ab&system_ver=Darwin_15.5&channel_no=pckk@other_ch&ve=3.22.0&sv=release"; cs_xcustomer_switch_user_key=bb532f44-af21-4803-81cc-25483031b9c3; kkpcwpea=qs_clear_res=1&a=a&uc_param_str=einibicppfmivefrlantcunwsssvjbktchnnsnddds&instance=kkpcwp&pf=145&self_service=true&plain_utdid=aJGM4dsY8LEDAIcV4g6fV5Ab&system_ver=Darwin_15.5&channel_no=pckk%40other_ch&ve=3.22.0&sv=release; CwsSessionId=b4334454-2ccc-4a90-ae80-657148d111f4; b-user-id=1981a362-8f98-a551-5415-dc3e50e53ca9; __sdid=AAQ8zvjY6fOr/+NSl4gB3pgLnxvCIo9gNMdr4YzKA+2ZMe83/Aqvvkc65PGkRKGQ00Q=; _UP_F7E_8D_=04DCjtxWbauebgty4JTLqEPwKLOVbxJPcg0RzQPI6Knpe%2FVlExDLvwWk3%2BqxkwVyhdZ%2Bc09AyraclvYdENl26pP6NZpJjHSFAga2josF9WI5KqmBMZjstSyxXmZd2p0oVFkfbqd%2FhVjlt0AbNkJqehFHs%2BQ%2FpshPrgvAKVxvsq4i6PDzvwNnqu7rSXFm5RjbW1%2FmvBLvMwKTOk2wEvbokFCfwAd1vIZUP0uEnp%2FWk%2FWsE%2BlICX7X3bnSe%2BfKM3Zv2UZosU2CPO%2B1Iq86JO9nn6%2FFufEPvHRf%2BTWJwwrgkSoGRq%2F1DpN7C3tZAoK5PsvMPNL3cTgkDDej%2Bhm3mVYTBUo6%2BhNj2Brxs1YxLzJs52mICuiPI2PVlc4oCTgvjBzfs1YxLzJs52mV0QP5E5cDiwUzKge2mfdZ6ftiEKZOtyls2i%2BxKaGo8Xjef0zUpNsX; _UP_D_=pc; _UP_A4A_11_=wb9cc14de4be42a2af47c822e5e83c18; __pus=2eb9e3cebee9b86402cd16d86a443d7fAATlJmorvPy7KFP0JvSJELmxyGGPFhzYqV26OAMgEONA5ox3/uec+TTZcwJaQbmXO4CVnlgsaouCoyIm5TGDiuLx; __kp=e822b1a0-71c1-11f0-a2b8-b367d9fb15d3; __kps=AAQjfTzGuwfPakrFjPckvsG7; __ktd=41nLgwt6XQHkGNbtm3tfnA==; __uid=AAQjfTzGuwfPakrFjPckvsG7; isg=BKOji_S6zxv-_4MvW5JBfDDDMuFNmDfaeolqJ9UABoJ5FMc2XWp4K3SMC-Qa0I_S; __puus=3c57ae88f17e441fd188ce0fb39c0743AATp9It0W/eFK1wRtRnCNM07QBiF8ZQCNwd2gZhI7qR8Z44Zgaw+7wAy3BVCmR/C8dL5LDizZrKx9fbIx0lndbLWe5voFa51F9gHfd0gyX7Gcbez3CTAWDRhfjRuJnynqQsgoCZq2sU3E+qShUsrWYzwXVHyXzQIfPdyJs7qBWg+R/jE4GYHPLlEbVFLPdZKRukuXw79+pF+ZOrSb1WJ6lsh; Video-Auth=GTf7scsUyg2nNxEfTaGm+ScuomcaamLua6lxxg60vIRxQxQnECGW7RUQlkl3+FvA2DKZ6K0EE8vhZurRJr05T0WmAtaC96FVs1rIEIFu02lYHsZHHH1QVIUZHUWeNv/fXp6Nikq7jPXPAcNs1IlDxw==
-
 D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-C：5244    3hdngm7v2wq5lipb0ajzd1n0b2npsrym
+A：10101    iStoreOS：10102    Webdav：6086-10103    vnc：5900-10104
 
-A：10101    iStoreOS：10102    Webdav：6086-10103    vnc：5900-10104    smb://X:445-10105
-
-A：10201    iStoreOS：10202    Webdav：6086-10203    vnc：5900-10204    smb://X:445-10205
+A：10201    iStoreOS：10202    Webdav：6086-10203    vnc：5900-10204
 
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
