@@ -101,7 +101,7 @@ Chrome：https://crxdl.com
 
 https://github.com/tw93/Pake/releases
 
-AccessToken：https://chatgpt.com/api/auth/session
+ChatGPT AccessToken：https://chatgpt.com/api/auth/session
 
 LibreTV：https://github.com/myfreeport/FaXianTV
 
