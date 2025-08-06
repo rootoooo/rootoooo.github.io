@@ -25,7 +25,7 @@ async function handleRequest(request) {
   const DockerMirrorURL = 'https://docker.haoss.eu.org'; // 跳转链接
   const ChatGPTMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
   const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
-  const GoogleChromeURL = 'https://fanyi.qq.com'; // 跳转链接
+  const GoogleChromeURL = 'https://crxdl.com'; // 跳转链接
   const DetectionURL = 'https://www.virscan.org'; // 跳转链接
   const DeepSeekURL = 'https://chat.deepseek.com'; // 跳转链接
   const TranslationURL = 'https://fanyi.qq.com'; // 跳转链接
