@@ -8,9 +8,11 @@ async function handleRequest(request) {
   const DataURL = 'https://ping0.cc'; // 将此URL替换为你指定的网页连接
   const DelayURL = 'https://zhale.me'; // 跳转链接
   const WebRTCURL = 'https://www.browserscan.net/zh/webrtc'; // 跳转链接
+  const DomainNameURL = 'https://whois.chinaz.com'; // 跳转链接
   const TVURL = 'https://tv.haoss.eu.org'; // 跳转链接
   const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
   const PansouURL = 'https://pansou.haoss.eu.org'; // 跳转链接
+  const PanYQURL = 'https://panyq.com'; // 跳转链接
   const GoogleURL = 'https://www.google.com'; // 跳转链接
   const YouTubeURL = 'https://www.youtube.com'; // 跳转链接
   const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
@@ -27,6 +29,7 @@ async function handleRequest(request) {
   const DetectionURL = 'https://www.virscan.org'; // 跳转链接
   const DeepSeekURL = 'https://chat.deepseek.com'; // 跳转链接
   const TranslationURL = 'https://fanyi.qq.com'; // 跳转链接
+  const NewsURL = 'https://hot.imsyy.top'; // 跳转链接
 
   const html = `
     <!DOCTYPE html>
@@ -158,9 +161,11 @@ async function handleRequest(request) {
           <a href="${DataURL}" class="details-link">IP Data</a>
           <a href="${DelayURL}" class="details-link">IP Delay</a>
           <a href="${WebRTCURL}" class="details-link">IP WebRTC</a>
+          <a href="${DomainNameURL}" class="details-link">Domain Name</a>
           <a href="${TVURL}" class="details-link">Free TV</a>
           <a href="${CNURL}" class="details-link">Conversion</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
+          <a href="${PanYQURL}" class="details-link">PanYQ</a>
           <a href="${GoogleURL}" class="details-link">Google</a>
           <a href="${YouTubeURL}" class="details-link">YouTube</a>
           <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
@@ -177,6 +182,7 @@ async function handleRequest(request) {
           <a href="${DetectionURL}" class="details-link">Detection</a>
           <a href="${DeepSeekURL}" class="details-link">DeepSeek</a>
           <a href="${TranslationURL}" class="details-link">Translation</a>
+          <a href="${NewsURL}" class="details-link">News</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP or IP port" />
