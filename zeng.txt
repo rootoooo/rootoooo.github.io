@@ -67,8 +67,6 @@ D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 A：10101    iStoreOS：10102    Webdav：6086-10103    vnc：5900-10104
 
-A：10201    iStoreOS：10202    Webdav：6086-10203    vnc：5900-10204
-
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
 https://cp.ping8.top
