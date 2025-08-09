@@ -101,12 +101,18 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="LIVE" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="APTV" ,金曲
+#EXTINF:-1 group-title="APTV" ,KKBOX 华语新歌周榜
+https://live.iill.top/youtube/@KKBOX-baidu6868
+#EXTINF:-1 group-title="APTV" ,音乐天空
+https://live.iill.top/youtube/@YinyueTianKong
+#EXTINF:-1 group-title="APTV" ,粤语金曲
 https://live.iill.top/youtube/@Cantopopgreatesthits8090s
 #EXTINF:-1 group-title="APTV" ,Hot Douyin Studios
 https://live.iill.top/youtube/@hottrendsdouyin
 #EXTINF:-1 group-title="APTV" ,Chinese Mix
 https://live.iill.top/youtube/@FM190-ld7qz
+#EXTINF:-1 group-title="APTV" ,综艺大热门
+https://live.iill.top/youtube/@HotDoorNight
 #EXTINF:-1 group-title="APTV" ,凤凰资讯
 https://live.iill.top/youtube/@phoenixtvhk
 #EXTINF:-1 group-title="APTV" ,凤凰资讯
@@ -615,6 +621,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="移动" ,炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
+
 
 
 
