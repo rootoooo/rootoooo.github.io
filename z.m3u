@@ -1,300 +1,238 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE" ,CCTV-13
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-#EXTINF:-1 group-title="LIVE" ,HK中文
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="LIVE" ,HK资讯
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="LIVE" ,凤凰卫视中文台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="LIVE" ,凤凰卫视资讯台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="LIVE" ,凤凰资讯
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="LIVE" ,中天新闻
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-#EXTINF:-1 group-title="LIVE" ,TVBS
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-#EXTINF:-1 group-title="LIVE" ,TVBS News
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-#EXTINF:-1 group-title="LIVE" ,TVBS 亚洲
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
-#EXTINF:-1 group-title="LIVE" ,TVBS 欢乐
-https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-#EXTINF:-1 group-title="LIVE" ,中天亚洲
-https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-#EXTINF:-1 group-title="LIVE" ,中天娱乐
-https://smart.pendy.dpdns.org/Smart.php?id=ctient
-#EXTINF:-1 group-title="LIVE" ,翡翠台
-http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 group-title="LIVE" ,翡翠台
-https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-#EXTINF:-1 group-title="LIVE" ,明珠台
-http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 group-title="LIVE" ,明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="LIVE" ,星河台
-https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
-#EXTINF:-1 group-title="LIVE" ,无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="LIVE" ,无线新闻
-https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
-#EXTINF:-1 group-title="LIVE" ,HOY资讯台
-https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-#EXTINF:-1 group-title="LIVE" ,凤凰香港
-https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-#EXTINF:-1 group-title="LIVE" ,美亚电影
-https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="LIVE" ,VIUTV1
-https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
-#EXTINF:-1 group-title="LIVE" ,三立综合
-https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#EXTINF:-1 group-title="LIVE" ,三立台湾
-https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-#EXTINF:-1 group-title="LIVE" ,三立戏剧
-https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="LIVE" ,东森洋片
-https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-#EXTINF:-1 group-title="LIVE" ,华视
-https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-#EXTINF:-1 group-title="LIVE" ,民视
-https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1 group-title="LIVE" ,台视综合
-https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-#EXTINF:-1 group-title="LIVE" ,民视台湾
-https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-#EXTINF:-1 group-title="LIVE" ,台视新闻
-https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-#EXTINF:-1 group-title="LIVE" ,中视新闻
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="LIVE" ,非凡新闻
-https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-#EXTINF:-1 group-title="LIVE" ,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="LIVE" ,Wion
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="LIVE" ,ABC Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="LIVE" ,France 24
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="LIVE" ,BBC
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="LIVE" ,RT
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="LIVE" ,Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="LIVE" ,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="LIVE" ,Global News
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 group-title="LIVE" ,CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="LIVE" ,CBS News
-http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="LIVE" ,Sky Sports Mix
-https://x4new.newkso.ru/x4/skymix/mono.m3u8
-#EXTINF:-1 group-title="LIVE" ,Red Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="LIVE" ,Formosa TV 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIVE" ,Bloomberg
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 group-title="LIVE" ,Bloomberg 4K
-https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="APTV" ,KKBOX 华语新歌周榜
-https://live.iill.top/youtube/@KKBOX-baidu6868
-#EXTINF:-1 group-title="APTV" ,音乐天空
-https://live.iill.top/youtube/@YinyueTianKong
-#EXTINF:-1 group-title="APTV" ,粤语金曲
-https://live.iill.top/youtube/@Cantopopgreatesthits8090s
-#EXTINF:-1 group-title="APTV" ,Hot Douyin Studios
-https://live.iill.top/youtube/@hottrendsdouyin
-#EXTINF:-1 group-title="APTV" ,Chinese Mix
-https://live.iill.top/youtube/@FM190-ld7qz
-#EXTINF:-1 group-title="APTV" ,综艺大热门
-https://live.iill.top/youtube/@HotDoorNight
-#EXTINF:-1 group-title="APTV" ,凤凰资讯
-https://live.iill.top/youtube/@phoenixtvhk
-#EXTINF:-1 group-title="APTV" ,凤凰资讯
+#EXTINF:-1 group-title="皮皮虾" ,HK中文
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,HK资讯
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,KKBOX 华语新歌周榜
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,音乐天空
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,粤语金曲
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,Hot Douyin Studios
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,Chinese Mix
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,综艺大热门
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
 https://live.iill.top/youtube/HFib76ySpbU
-#EXTINF:-1 group-title="APTV" ,中天新闻
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻
 https://live.iill.top/youtube/vr3XyVCR4T0
-#EXTINF:-1 group-title="APTV" ,东森新闻
+#EXTINF:-1 group-title="皮皮虾" ,东森新闻
 https://live.iill.top/youtube/E0zhe2gkXBs
-#EXTINF:-1 group-title="APTV" ,TVBS
+#EXTINF:-1 group-title="皮皮虾" ,TVBS
 https://live.iill.top/youtube/o_-hSMgpAzs
-#EXTINF:-1 group-title="APTV" ,TVBS NEWS
+#EXTINF:-1 group-title="皮皮虾" ,TVBS NEWS
 https://live.iill.top/youtube/m_dhMSvUCIc
-#EXTINF:-1 group-title="APTV" ,TVBS 选新闻
-https://live.iill.top/youtube/@TVBSNEWS02
-#EXTINF:-1 group-title="APTV" ,TVBS 选新闻
+#EXTINF:-1 group-title="皮皮虾" ,TVBS 选新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,TVBS 选新闻
 https://live.iill.top/youtube/d1jUeoc3pio
-#EXTINF:-1 group-title="APTV" ,TVBS 选新闻
+#EXTINF:-1 group-title="皮皮虾" ,TVBS 选新闻
 https://live.iill.top/youtube/TVBSNEWS01
-#EXTINF:-1 group-title="APTV" ,东森LIVE
+#EXTINF:-1 group-title="皮皮虾" ,东森LIVE
 https://live.iill.top/youtube/newsebc
-#EXTINF:-1 group-title="APTV" ,东森LIVE
+#EXTINF:-1 group-title="皮皮虾" ,东森LIVE
 https://live.iill.top/youtube/quwqlazU-c8
-#EXTINF:-1 group-title="APTV" ,东森LIVE
+#EXTINF:-1 group-title="皮皮虾" ,东森LIVE
 https://live.iill.top/youtube/V1p33hqPrUk
-#EXTINF:-1 group-title="APTV" ,东森财经
-https://live.iill.top/youtube/@57ETFN
-#EXTINF:-1 group-title="APTV" ,东森财经
+#EXTINF:-1 group-title="皮皮虾" ,东森财经
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,东森财经
 https://live.iill.top/youtube/1I2iq41Akmo
-#EXTINF:-1 group-title="APTV" ,非凡新闻
-https://live.iill.top/youtube/@ustv
-#EXTINF:-1 group-title="APTV" ,公视新闻
-https://live.iill.top/youtube/@PNNPTS
-#EXTINF:-1 group-title="APTV" ,公视新闻
+#EXTINF:-1 group-title="皮皮虾" ,非凡新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,公视新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,公视新闻
 https://live.iill.top/youtube/quwqlazU-c8
-#EXTINF:-1 group-title="APTV" ,华视新闻
+#EXTINF:-1 group-title="皮皮虾" ,华视新闻
 https://live.iill.top/youtube/wM0g8EoUZ_E
-#EXTINF:-1 group-title="APTV" ,华视新闻
+#EXTINF:-1 group-title="皮皮虾" ,华视新闻
 https://live.iill.top/youtube/yRFZNnTkZBM
-#EXTINF:-1 group-title="APTV" ,寰宇财经
+#EXTINF:-1 group-title="皮皮虾" ,寰宇财经
 https://live.iill.top/youtube/WTRQiVWK1jY
-#EXTINF:-1 group-title="APTV" ,寰宇新闻
-https://live.iill.top/youtube/@globalnewstw
-#EXTINF:-1 group-title="APTV" ,寰宇新闻
+#EXTINF:-1 group-title="皮皮虾" ,寰宇新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,寰宇新闻
 https://live.iill.top/youtube/6IquAgfvYmc
-#EXTINF:-1 group-title="APTV" ,镜新闻
-https://live.iill.top/youtube/@mnews-tw
-#EXTINF:-1 group-title="APTV" ,镜新闻
+#EXTINF:-1 group-title="皮皮虾" ,镜新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,镜新闻
 https://live.iill.top/youtube/5n0y6b0Q25o
-#EXTINF:-1 group-title="APTV" ,民视新闻
-https://live.iill.top/youtube/@FTV_News
-#EXTINF:-1 group-title="APTV" ,民视新闻
+#EXTINF:-1 group-title="皮皮虾" ,民视新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,民视新闻
 https://live.iill.top/youtube/ylYJSBUgaMA
-#EXTINF:-1 group-title="APTV" ,三立INEWS
-https://live.iill.top/youtube/@setinews
-#EXTINF:-1 group-title="APTV" ,三立iNEWS
+#EXTINF:-1 group-title="皮皮虾" ,三立INEWS
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,三立iNEWS
 https://live.iill.top/youtube/BlKaF8og0jo
-#EXTINF:-1 group-title="APTV" ,三立INEWS
+#EXTINF:-1 group-title="皮皮虾" ,三立INEWS
 https://live.iill.top/youtube/pF507BLtbqU
-#EXTINF:-1 group-title="APTV" ,三立新闻
-https://live.iill.top/youtube/@setnews
-#EXTINF:-1 group-title="APTV" ,三立新闻
+#EXTINF:-1 group-title="皮皮虾" ,三立新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,三立新闻
 https://live.iill.top/youtube/MV9mI0GChwo
-#EXTINF:-1 group-title="APTV" ,台视新闻
-https://live.iill.top/youtube/@TTV_NEWS
-#EXTINF:-1 group-title="APTV" ,台视新闻
+#EXTINF:-1 group-title="皮皮虾" ,台视新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,台视新闻
 https://live.iill.top/youtube/xL0ch83RAK8
-#EXTINF:-1 group-title="APTV" ,新唐人亚太
+#EXTINF:-1 group-title="皮皮虾" ,新唐人亚太
 https://live.iill.top/youtube/WIhgU_mc05A
-#EXTINF:-1 group-title="APTV" ,中时新闻
-https://live.iill.top/youtube/@ChinaTimes
-#EXTINF:-1 group-title="APTV" ,中视经典
+#EXTINF:-1 group-title="皮皮虾" ,中时新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,中视经典
 https://live.iill.top/youtube/ADDSmXoPDY8
-#EXTINF:-1 group-title="APTV" ,中视新闻
-https://live.iill.top/youtube/@twctvnews
-#EXTINF:-1 group-title="APTV" ,中视新闻
+#EXTINF:-1 group-title="皮皮虾" ,中视新闻
+https://live.iill.top/youtube/
+#EXTINF:-1 group-title="皮皮虾" ,中视新闻
 https://live.iill.top/youtube/TCnaIE_SAtM
-#EXTINF:-1 group-title="APTV" ,AL JAZEERA
+#EXTINF:-1 group-title="皮皮虾" ,AL JAZEERA
 https://live.iill.top/youtube/gCNeDWCI0vo
-#EXTINF:-1 group-title="APTV" ,CNA Insider
+#EXTINF:-1 group-title="皮皮虾" ,CNA Insider
 https://live.iill.top/youtube/fSUMKrxPEd8
-#EXTINF:-1 group-title="APTV" ,FOX Live NOW
+#EXTINF:-1 group-title="皮皮虾" ,FOX Live NOW
 https://live.iill.top/youtube/YDfiTGGPYCk
-#EXTINF:-1 group-title="APTV" ,FRANCE 24
+#EXTINF:-1 group-title="皮皮虾" ,FRANCE 24
 https://live.iill.top/youtube/l8PMl7tUDIE
-#EXTINF:-1 group-title="AKTV" ,Animax (HK)
+#EXTINF:-1 group-title="皮皮虾" ,Animax (HK)
 http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,AXN
+#EXTINF:-1 group-title="皮皮虾" ,AXN
 http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,Channel 5 HD
+#EXTINF:-1 group-title="皮皮虾" ,Channel 5 HD
 http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,Channel 8 HD
+#EXTINF:-1 group-title="皮皮虾" ,Channel 8 HD
 http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,Channel U HD
+#EXTINF:-1 group-title="皮皮虾" ,Channel U HD
 http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,Love Nature HD
+#EXTINF:-1 group-title="皮皮虾" ,Love Nature HD
 http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,PopC
+#EXTINF:-1 group-title="皮皮虾" ,PopC
 http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,ROCK Action
+#EXTINF:-1 group-title="皮皮虾" ,ROCK Action
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,TVB Plus
+#EXTINF:-1 group-title="皮皮虾" ,TVB Plus
 http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,tvN
+#EXTINF:-1 group-title="皮皮虾" ,tvN
 http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,天映经典(1080)
+#EXTINF:-1 group-title="皮皮虾" ,天映经典(1080)
 http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,明珠剧集台(北美)
+#EXTINF:-1 group-title="皮皮虾" ,明珠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,明珠台
+#EXTINF:-1 group-title="皮皮虾" ,明珠台
 http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,无线新闻台
+#EXTINF:-1 group-title="皮皮虾" ,无线新闻台
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,美亚电影台(HK)
+#EXTINF:-1 group-title="皮皮虾" ,美亚电影台(HK)
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,翡翠剧集台(北美)
+#EXTINF:-1 group-title="皮皮虾" ,翡翠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,翡翠台
+#EXTINF:-1 group-title="皮皮虾" ,翡翠台
 http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,翡翠综合台(北美)
+#EXTINF:-1 group-title="皮皮虾" ,翡翠综合台(北美)
 http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,凤凰卫视中文台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视中文台
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,凤凰卫视资讯台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视资讯台
 http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,凤凰卫视香港台
+#EXTINF:-1 group-title="皮皮虾" ,凤凰卫视香港台
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,黄金翡翠台
+#EXTINF:-1 group-title="皮皮虾" ,黄金翡翠台
 http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,Sky Sports F1
+#EXTINF:-1 group-title="皮皮虾" ,Sky Sports F1
 http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,天映电影
+#EXTINF:-1 group-title="皮皮虾" ,天映电影
 http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,好莱坞电影台
+#EXTINF:-1 group-title="皮皮虾" ,好莱坞电影台
 http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,东森洋片
+#EXTINF:-1 group-title="皮皮虾" ,东森洋片
 http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,纬来体育台
+#EXTINF:-1 group-title="皮皮虾" ,纬来体育台
 http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,CNA
+#EXTINF:-1 group-title="皮皮虾" ,CNA
 http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,朝鲜恩情台
+#EXTINF:-1 group-title="皮皮虾" ,朝鲜恩情台
 http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,Japan News 24H LIVE
+#EXTINF:-1 group-title="皮皮虾" ,Japan News 24H LIVE
 http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,日テレNEWS LIVE
+#EXTINF:-1 group-title="皮皮虾" ,日テレNEWS LIVE
 http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,8TV
+#EXTINF:-1 group-title="皮皮虾" ,8TV
 http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,Astro Football
+#EXTINF:-1 group-title="皮皮虾" ,Astro Football
 http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,Astro Sport UHD
+#EXTINF:-1 group-title="皮皮虾" ,Astro Sport UHD
 http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,EuroSport 1
+#EXTINF:-1 group-title="皮皮虾" ,EuroSport 1
 http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,EuroSport 2
+#EXTINF:-1 group-title="皮皮虾" ,EuroSport 2
 http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,TNT SPORTS 1
+#EXTINF:-1 group-title="皮皮虾" ,TNT SPORTS 1
 http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,TNT SPORTS 2
+#EXTINF:-1 group-title="皮皮虾" ,TNT SPORTS 2
 http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,TNT SPORTS 3
+#EXTINF:-1 group-title="皮皮虾" ,TNT SPORTS 3
 http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,中天亚洲台
+#EXTINF:-1 group-title="皮皮虾" ,中天亚洲台
 http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,KLT-靖天国际台
+#EXTINF:-1 group-title="皮皮虾" ,KLT-靖天国际台
 http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,TVBS
+#EXTINF:-1 group-title="皮皮虾" ,TVBS
 http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,TVBS新闻
+#EXTINF:-1 group-title="皮皮虾" ,TVBS新闻
 http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,民视
+#EXTINF:-1 group-title="皮皮虾" ,民视
 http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,民视第一台
+#EXTINF:-1 group-title="皮皮虾" ,民视第一台
 http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,龙华日韩台
+#EXTINF:-1 group-title="皮皮虾" ,龙华日韩台
 http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,TVB 星河
+#EXTINF:-1 group-title="皮皮虾" ,TVB 星河
 http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,中天新闻台
+#EXTINF:-1 group-title="皮皮虾" ,中天新闻台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV" ,东森新闻
+#EXTINF:-1 group-title="皮皮虾" ,东森新闻
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Global News
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,CNBC
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,CBS News
+http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Sky Sports Mix
+https://x4new.newkso.ru/x4/skymix/mono.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Formosa TV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="皮皮虾" ,Bloomberg 4K
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="移动" ,CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="移动" ,CCTV-1
@@ -621,6 +559,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="移动" ,炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
+
 
 
 
