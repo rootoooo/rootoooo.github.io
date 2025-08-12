@@ -12,7 +12,6 @@ async function handleRequest(request) {
   const TVURL = 'https://tv.haoss.eu.org'; // 跳转链接
   const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
   const PansouURL = 'https://pansou.haoss.eu.org'; // 跳转链接
-  const OlevodURL = 'https://olevod.tv/nav/%E8%BF%9E%E7%BB%AD%E5%89%A7/%E5%A4%A7%E9%99%86/%E5%85%A8%E9%83%A8%E5%B9%B4%E4%BB%BD/%E5%85%A8%E9%83%A8%E7%B1%BB%E5%9E%8B/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E6%9C%80%E6%96%B0.html'; // 跳转链接
   const GoogleURL = 'https://www.google.com'; // 跳转链接
   const YouTubeURL = 'https://www.youtube.com'; // 跳转链接
   const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
@@ -22,10 +21,6 @@ async function handleRequest(request) {
   const MusicURL = 'https://music.gdstudio.xyz'; // 跳转链接
   const SportsURL = 'https://www.957001.tv'; // 跳转链接
   const MoneyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
-  const DockerMirrorURL = 'https://docker.haoss.eu.org'; // 跳转链接
-  const ChatGPTMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
-  const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
-  const GoogleChromeURL = 'https://crxdl.com'; // 跳转链接
   const DetectionURL = 'https://www.virscan.org'; // 跳转链接
   const DeepSeekURL = 'https://chat.deepseek.com'; // 跳转链接
   const TranslationURL = 'https://fanyi.qq.com'; // 跳转链接
@@ -165,7 +160,6 @@ async function handleRequest(request) {
           <a href="${TVURL}" class="details-link">Free TV</a>
           <a href="${CNURL}" class="details-link">Conversion</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
-          <a href="${OlevodURL}" class="details-link">Olevod</a>
           <a href="${GoogleURL}" class="details-link">Google</a>
           <a href="${YouTubeURL}" class="details-link">YouTube</a>
           <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
@@ -175,10 +169,6 @@ async function handleRequest(request) {
           <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${SportsURL}" class="details-link">Sports</a>
           <a href="${MoneyURL}" class="details-link">Trading Economics</a>
-          <a href="${DockerMirrorURL}" class="details-link">Docker Mirror</a>
-          <a href="${ChatGPTMirrorURL}" class="details-link">ChatGPT Mirror</a>
-          <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
-          <a href="${GoogleChromeURL}" class="details-link">Google Chrome</a>
           <a href="${DetectionURL}" class="details-link">Detection</a>
           <a href="${DeepSeekURL}" class="details-link">DeepSeek</a>
           <a href="${TranslationURL}" class="details-link">Translation</a>
