@@ -219,8 +219,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
-bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
-
 
 
 ChatGPT Mirror：
