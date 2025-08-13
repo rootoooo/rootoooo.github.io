@@ -111,8 +111,6 @@ LibreTV：https://github.com/myfreeport/FaXianTV
 
 MoonTV：https://github.com/senshinya/MoonTV
 
-OrionTV：https://github.com/zimplexing/OrionTV/releases
-
 Music：https://music.gdstudio.xyz
 
 https://github.com/algerkong/AlgerMusicPlayer/releases
@@ -126,8 +124,6 @@ https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/ma
 https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
 
 http://www.饭太硬.net/tv
-
-http://我不是.摸鱼儿.com
 
 http://aktv.space/live.m3u
 
