@@ -67,7 +67,7 @@ D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 C：jxr7l2l1r63l7cjtu0koqsct1wkniiox
 
-A：10101    iStoreOS：10102    Webdav：6086-10103    vnc：5900-10104
+A：10101    iStoreOS：10102    Alist：5244-10103    vnc：5900-10104
 
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
