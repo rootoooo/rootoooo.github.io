@@ -23,7 +23,7 @@ async function handleRequest(request) {
   const MoneyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
   const DetectionURL = 'https://www.virscan.org'; // 跳转链接
   const LotteryURL = 'https://cp.ping8.top'; // 跳转链接
-  const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
+  const FootballURL = 'http://117.72.172.8:8080'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
 
   const html = `
@@ -171,7 +171,7 @@ async function handleRequest(request) {
           <a href="${MoneyURL}" class="details-link">Trading Economics</a>
           <a href="${DetectionURL}" class="details-link">Detection</a>
           <a href="${LotteryURL}" class="details-link">Lottery</a>
-          <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
+          <a href="${FootballURL}" class="details-link">Football</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
         <div class="input-container">
