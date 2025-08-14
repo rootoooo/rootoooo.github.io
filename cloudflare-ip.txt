@@ -8,20 +8,25 @@ async function handleRequest(request) {
   const DataURL = 'https://ping0.cc'; // 将此URL替换为你指定的网页连接
   const DelayURL = 'https://zhale.me'; // 跳转链接
   const ScamalyticsURL = 'https://scamalytics.com'; // 跳转链接
+  const WebRTCURL = 'https://www.browserscan.net/zh/webrtc'; // 跳转链接
   const DomainNameURL = 'https://whois.chinaz.com'; // 跳转链接
   const TVURL = 'https://tv.haoss.eu.org'; // 跳转链接
   const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
   const PansouURL = 'https://pansou.haoss.eu.org'; // 跳转链接
-  const GoogleURL = 'https://www.google.com'; // 跳转链接
-  const YouTubeURL = 'https://www.youtube.com'; // 跳转链接
-  const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
+  const TradingEconomicsURL = 'https://zh.tradingeconomics.com'; // 跳转链接
   const GithubURL = 'https://github.com'; // 跳转链接
-  const CloudflareURL = 'https://dash.cloudflare.com'; // 跳转链接
+  const CloudflareURL = 'https://cloudflare.com'; // 跳转链接
+  const GoogleURL = 'https://www.google.com'; // 跳转链接
+  const GoogleChromeURL = 'https://crxdl.com'; // 跳转链接
+  const YouTubeURL = 'https://www.youtube.com'; // 跳转链接
+  const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
+  const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
+  const ChatGPTTokenURL = 'https://chatgpt.com/api/auth/session'; // 跳转链接
+  const ImageURL = 'https://thumbsnap.com'; // 跳转链接
+  const DetectionURL = 'https://www.virscan.org'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const MusicURL = 'https://music.gdstudio.xyz'; // 跳转链接
   const SportsURL = 'https://www.957001.tv'; // 跳转链接
-  const MoneyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
-  const DetectionURL = 'https://www.virscan.org'; // 跳转链接
   const LotteryURL = 'https://cp.ping8.top'; // 跳转链接
   const FootballURL = 'http://117.72.172.8:8080'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
@@ -156,20 +161,25 @@ async function handleRequest(request) {
           <a href="${DataURL}" class="details-link">IP Data</a>
           <a href="${DelayURL}" class="details-link">IP Delay</a>
           <a href="${ScamalyticsURL}" class="details-link">Scamalytics</a>
+          <a href="${WebRTCURL}" class="details-link">WebRTC</a>
           <a href="${DomainNameURL}" class="details-link">Domain Name</a>
           <a href="${TVURL}" class="details-link">Free TV</a>
           <a href="${CNURL}" class="details-link">Conversion</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
-          <a href="${GoogleURL}" class="details-link">Google</a>
-          <a href="${YouTubeURL}" class="details-link">YouTube</a>
-          <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
+          <a href="${TradingEconomicsURL}" class="details-link">Trading Economics</a>
           <a href="${GithubURL}" class="details-link">GitHub</a>
           <a href="${CloudflareURL}" class="details-link">Cloudflare</a>
+          <a href="${GoogleURL}" class="details-link">Google</a>
+          <a href="${GoogleChromeURL}" class="details-link">Google Chrome</a>
+          <a href="${YouTubeURL}" class="details-link">YouTube</a>
+          <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
+          <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
+          <a href="${ChatGPTTokenURL}" class="details-link">ChatGPT Token</a>
+          <a href="${ImageURL}" class="details-link">Image</a>
+          <a href="${DetectionURL}" class="details-link">Detection</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${SportsURL}" class="details-link">Sports</a>
-          <a href="${MoneyURL}" class="details-link">Trading Economics</a>
-          <a href="${DetectionURL}" class="details-link">Detection</a>
           <a href="${LotteryURL}" class="details-link">Lottery</a>
           <a href="${FootballURL}" class="details-link">Football</a>
           <a href="${NewsURL}" class="details-link">News</a>
