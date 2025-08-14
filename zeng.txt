@@ -83,15 +83,15 @@ M3u8：http://tonkiang.us
 
 https://sankei.mo/z.html
 
+图床：https://thumbsnap.com
+
 软件检测：https://www.virscan.org
 
-IP扫描软件：https://angryip.org/download
+IP扫描：https://angryip.org/download
 
 声音克隆：https://github.com/jianchang512/clone-voice
 
-WebRTC泄露：https://www.browserscan.net/zh/webrtc
-
-Cloudflare：https://dash.cloudflare.com
+WebRTC：https://www.browserscan.net/zh/webrtc
 
 Camera：http://www.jendoscope.cn/en
 
@@ -100,10 +100,6 @@ Chrome：https://crxdl.com
 https://github.com/tw93/Pake/releases
 
 ChatGPT AccessToken：https://chatgpt.com/api/auth/session
-
-LibreTV：https://github.com/myfreeport/FaXianTV
-
-MoonTV：https://github.com/senshinya/MoonTV
 
 Music：https://music.gdstudio.xyz
 
