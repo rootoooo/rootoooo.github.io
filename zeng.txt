@@ -89,6 +89,8 @@ IP扫描：https://angryip.org/download
 
 声音克隆：https://github.com/jianchang512/clone-voice
 
+App：https://blackace.app
+
 Image：https://thumbsnap.com
 
 WebRTC：https://www.browserscan.net/zh/webrtc
