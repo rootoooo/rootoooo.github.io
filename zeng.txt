@@ -189,7 +189,7 @@ docker run -d --name pansou -p 52000:80 --restart unless-stopped ghcr.io/fish201
 
 Libretv：
 
-docker run -d --name libretv --restart unless-stopped -p 8899:8080 -e PASSWORD=666666 bestzwei/libretv:latest
+docker run -d --name libretv --restart unless-stopped -p 52001:8080 -e PASSWORD=666666 bestzwei/libretv:latest
 
 docker rm -f libretv
 
