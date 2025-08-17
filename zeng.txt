@@ -251,3 +251,15 @@ local_port = 3389
 remote_port = 2
 
 
+
+Football
+
+curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && apt-get install -y nodejs
+
+node -v
+
+npm -v
+
+git clone https://github.com/rootoooo/football.git && cd football && npm install -g pm2 serve && npm install && npm run build && pm2 start "serve -s dist -l 8080" --name football && pm2 save && pm2 startup -u $(whoami) --hp $HOME
+
+
