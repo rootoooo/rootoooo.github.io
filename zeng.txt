@@ -183,7 +183,7 @@ top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
 Pansou：
 
-docker run -d --name pansou -p 52000:80 ghcr.io/fish2018/pansou-web
+docker run -d --name pansou -p 52000:80 --restart unless-stopped ghcr.io/fish2018/pansou-web
 
 
 
