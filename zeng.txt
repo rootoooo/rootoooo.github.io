@@ -143,6 +143,8 @@ Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
 Pansou：https://github.com/fish2018/pansou
 
+Ghosten Player：https://github.com/GhostenEditor/Ghosten-Player/releases
+
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
 
 V2rayN：https://github.com/2dust/v2rayn/releases
