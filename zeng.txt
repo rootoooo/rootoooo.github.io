@@ -179,6 +179,8 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
+查看服务器版本：arch
+
 系统更新：apt update -y && apt install -y curl socat wget sudo
 
 卸载libretv：docker rm -f libretv
