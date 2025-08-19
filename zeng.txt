@@ -95,6 +95,8 @@ IP扫描：https://angryip.org/download
 
 WebRTC：https://www.browserscan.net/zh/webrtc
 
+ChatGPT Mirror：https://mixaihub.com
+
 Camera：http://www.jendoscope.cn/en
 
 Chrome：https://crxdl.com
