@@ -22,13 +22,8 @@ async function handleRequest(request) {
   const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
   const ChatGPTTokenURL = 'https://chatgpt.com/api/auth/session'; // 跳转链接
   const ChatGPTMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
-  const ImageURL = 'https://thumbsnap.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const MusicURL = 'https://music.gdstudio.xyz'; // 跳转链接
-  const SportsURL = 'https://www.957001.tv'; // 跳转链接
-  const DigitalLotteryURL = 'https://cp.ping8.top'; // 跳转链接
-  const FootballLotteryURL = 'https://trade.500.com/jczq'; // 跳转链接
-  const FootballURL = 'http://117.72.172.8:8080'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
 
   const html = `
@@ -49,7 +44,7 @@ async function handleRequest(request) {
           display: flex;
           justify-content: center;
           align-items: center;
-          background: url('https://i0.hdslb.com/bfs/article/3e1f0fa3b2dfcc9b4b66e22c38ad2a00665610c4.jpg') no-repeat center center fixed;
+          background: url('https://youke1.picui.cn/s1/2025/08/19/68a401df647a0.jpg') no-repeat center center fixed;
           background-size: cover;
         }
         .container {
@@ -175,13 +170,8 @@ async function handleRequest(request) {
           <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
           <a href="${ChatGPTTokenURL}" class="details-link">ChatGPT Token</a>
           <a href="${ChatGPTMirrorURL}" class="details-link">ChatGPT Mirror</a>
-          <a href="${ImageURL}" class="details-link">Image</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${MusicURL}" class="details-link">Music</a>
-          <a href="${SportsURL}" class="details-link">Sports</a>
-          <a href="${DigitalLotteryURL}" class="details-link">Digital Lottery</a>
-          <a href="${FootballLotteryURL}" class="details-link">Football Lottery</a>
-          <a href="${FootballURL}" class="details-link">Football</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
         <div class="input-container">
@@ -260,4 +250,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
