@@ -137,6 +137,8 @@ Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
+PicGo：https://github.com/Molunerfinn/PicGo/releases
+
 Pansou：https://github.com/fish2018/pansou
 
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
