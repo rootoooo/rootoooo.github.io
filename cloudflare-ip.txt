@@ -38,7 +38,7 @@ async function handleRequest(request) {
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>皮皮虾</title>
-      <link rel="icon" type="image/jpg" href="https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUWd_xyKFSvPJ2QIkbc5QMCd79gWiAAL_rTEbl5EBRDBGmoz44374AQADAgADeAADNgQ.jpg" />
+      <link rel="icon" type="image/jpg" href="https://haoss.eu.org/ppx.jpg" />
       <style>
         body {
           font-family: Arial, sans-serif;
@@ -49,7 +49,7 @@ async function handleRequest(request) {
           display: flex;
           justify-content: center;
           align-items: center;
-          background: url('https://im.gurl.eu.org/file/AgACAgEAAxkDAAIUUmd_x3ALXGtpfCfa9QfuQP2exKuWAAOuMRuXkQFEYgV1mDrvSfwBAAMCAAN3AAM2BA.jpg') no-repeat center center fixed;
+          background: url('https://i0.hdslb.com/bfs/article/3e1f0fa3b2dfcc9b4b66e22c38ad2a00665610c4.jpg') no-repeat center center fixed;
           background-size: cover;
         }
         .container {
@@ -260,3 +260,4 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
+
