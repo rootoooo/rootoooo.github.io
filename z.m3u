@@ -3,19 +3,21 @@
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="皮皮虾" ,HongKong资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="皮皮虾" ,华语新歌
+#EXTINF:-1 group-title="皮皮虾" ,华语Music
 https://live.iill.top/youtube/@KKBOX-baidu6868
-#EXTINF:-1 group-title="皮皮虾" ,音乐天空
+#EXTINF:-1 group-title="皮皮虾" ,天空Music
 https://live.iill.top/youtube/@YinyueTianKong
-#EXTINF:-1 group-title="皮皮虾" ,抖音音乐
+#EXTINF:-1 group-title="皮皮虾" ,抖音Music
 https://live.iill.top/youtube/@douyinyinyuetai
-#EXTINF:-1 group-title="皮皮虾" ,粤语金曲
+#EXTINF:-1 group-title="皮皮虾" ,粤语Music
 https://live.iill.top/youtube/@Cantopopgreatesthits8090s
-#EXTINF:-1 group-title="皮皮虾" ,小日子音乐
+#EXTINF:-1 group-title="皮皮虾" ,日本Music
 https://live.iill.top/youtube/@FORFUNラジオタイムMusic
-#EXTINF:-1 group-title="皮皮虾" ,Chinese Mix DJ
+#EXTINF:-1 group-title="皮皮虾" ,韩国Music
+https://live.iill.top/youtube/@Music_LeLe
+#EXTINF:-1 group-title="皮皮虾" ,Chinese Mix
 https://live.iill.top/youtube/@FM190-ld7qz
-#EXTINF:-1 group-title="皮皮虾" ,风景
+#EXTINF:-1 group-title="皮皮虾" ,风景Music
 https://live.iill.top/youtube/@TheWorld4K316
 #EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
 https://live.iill.top/youtube/@phoenixtvhk
@@ -493,6 +495,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="移动" ,炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
+
 
 
 
