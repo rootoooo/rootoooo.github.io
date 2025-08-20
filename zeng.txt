@@ -103,7 +103,7 @@ Chrome：https://crxdl.com
 
 https://github.com/tw93/Pake/releases
 
-Music：https://music.gdstudio.xyz
+Music：https://music.gdstudio.xyz    http://music.92haohuo.cn
 
 https://github.com/algerkong/AlgerMusicPlayer/releases
 
