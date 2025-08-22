@@ -117,8 +117,6 @@ Tvbox：https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
-https://github.haoss.eu.org/raw.githubusercontent.com/liu673cn/box/refs/heads/main/m.json
-
 https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
 
 http://aktv.space/live.m3u
