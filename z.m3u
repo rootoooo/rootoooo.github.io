@@ -3,46 +3,6 @@
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="皮皮虾" ,HongKong资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="皮皮虾" ,华语Music
-https://live.iill.top/youtube/@KKBOX-baidu6868
-#EXTINF:-1 group-title="皮皮虾" ,天空Music
-https://live.iill.top/youtube/@YinyueTianKong
-#EXTINF:-1 group-title="皮皮虾" ,抖音Music
-https://live.iill.top/youtube/@douyinyinyuetai
-#EXTINF:-1 group-title="皮皮虾" ,粤语Music
-https://live.iill.top/youtube/@Cantopopgreatesthits8090s
-#EXTINF:-1 group-title="皮皮虾" ,日本Music
-https://live.iill.top/youtube/@FORFUNラジオタイムMusic
-#EXTINF:-1 group-title="皮皮虾" ,韩国Music
-https://live.iill.top/youtube/@Music_LeLe
-#EXTINF:-1 group-title="皮皮虾" ,Chinese DJ
-https://live.iill.top/youtube/@FM190-ld7qz
-#EXTINF:-1 group-title="皮皮虾" ,English DJ
-https://live.iill.top/youtube/@knightedmmusic
-#EXTINF:-1 group-title="皮皮虾" ,Spotify
-https://live.iill.top/youtube/@TheGoodLiferadio
-#EXTINF:-1 group-title="皮皮虾" ,风景Music
-https://live.iill.top/youtube/@TheWorld4K316
-#EXTINF:-1 group-title="皮皮虾" ,凤凰资讯
-https://live.iill.top/youtube/@phoenixtvhk
-#EXTINF:-1 group-title="皮皮虾" ,中天Nwes
-https://live.iill.top/youtube/vr3XyVCR4T0
-#EXTINF:-1 group-title="皮皮虾" ,TVBS HD
-https://live.iill.top/youtube/o_-hSMgpAzs
-#EXTINF:-1 group-title="皮皮虾" ,TVBS NEWS
-https://live.iill.top/youtube/m_dhMSvUCIc
-#EXTINF:-1 group-title="皮皮虾" ,东森Nwes
-https://live.iill.top/youtube/E0zhe2gkXBs
-#EXTINF:-1 group-title="皮皮虾" ,东森LIVE
-https://live.iill.top/youtube/newsebc
-#EXTINF:-1 group-title="皮皮虾" ,AL JAZEERA
-https://live.iill.top/youtube/gCNeDWCI0vo
-#EXTINF:-1 group-title="皮皮虾" ,CNA Insider
-https://live.iill.top/youtube/fSUMKrxPEd8
-#EXTINF:-1 group-title="皮皮虾" ,FOX Live NOW
-https://live.iill.top/youtube/YDfiTGGPYCk
-#EXTINF:-1 group-title="皮皮虾" ,FRANCE 24
-https://live.iill.top/youtube/l8PMl7tUDIE
 #EXTINF:-1 group-title="皮皮虾" ,Animax (HK)
 http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,AXN
@@ -163,8 +123,6 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="皮皮虾" ,Sky Sports Mix
-https://x4new.newkso.ru/x4/skymix/mono.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="皮皮虾" ,Formosa TV 4K
@@ -499,6 +457,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="移动" ,炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
+
 
 
 
