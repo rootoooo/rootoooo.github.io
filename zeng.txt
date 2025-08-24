@@ -213,7 +213,7 @@ www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
 Hysteria2：wget -O phy2.sh https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/phy2.sh && chmod +x phy2.sh && bash phy2.sh
 
-wget -O hy2.py https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/hysteria2.py && chmod +x hysteria2.py && python3 hysteria2.py
+wget -O hy2.py https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/hy2.py && chmod +x hy2.py && python3 hy2.py
 
 ChatGPT Mirror：cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
 
