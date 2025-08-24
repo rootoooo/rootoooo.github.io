@@ -211,9 +211,9 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
-Hysteria2：wget -O phy2.sh https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/phy2.sh && chmod +x phy2.sh && bash phy2.sh
+Hysteria2：curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
 
-wget -O hy2.py https://raw.githubusercontent.com/rootoooo/rootoooo.github.io/main/hy2.py && chmod +x hy2.py && python3 hy2.py
+sudo s-hy2
 
 ChatGPT Mirror：cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
 
