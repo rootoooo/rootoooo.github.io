@@ -207,9 +207,7 @@ www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
 Hysteria2：curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
 
-sudo s-hy2
-
-ta1c2NSS7MvudxJC    xxx:443    video.xx.fbcdn.net    salamander    Wb9PRjln196zbncr
+sudo s-hy2    xxx:443    video.xx.fbcdn.net
 
 ChatGPT Mirror：cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
 
