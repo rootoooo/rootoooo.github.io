@@ -209,7 +209,7 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 SSH：docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
 
-FileCodeBox：docker run -d --restart=always -p 10108:12345 -v /opt/FileCodeBox/:/app/data --name filecodebox lanol/filecodebox:beta
+FileCodeBox：docker run -d --restart=always -p 10888:12345 -v /opt/FileCodeBox/:/app/data --name filecodebox lanol/filecodebox:beta
 
 3X-ui：bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
