@@ -209,7 +209,7 @@ Hysteria2：curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/qui
 
 sudo s-hy2
 
-hysteria2：ta1c2NSS7MvudxJC    xxx:443    video.xx.fbcdn.net    salamander    Wb9PRjln196zbncr
+ta1c2NSS7MvudxJC    xxx:443    video.xx.fbcdn.net    salamander    Wb9PRjln196zbncr
 
 ChatGPT Mirror：cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
 
