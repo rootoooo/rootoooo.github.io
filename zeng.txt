@@ -207,6 +207,8 @@ Libretv：docker run -d --name libretv --restart unless-stopped -p 52001:8080 -e
 
 curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/kejilion.sh -o kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 
+SSH：docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
+
 3X-ui：bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
