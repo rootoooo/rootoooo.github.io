@@ -209,8 +209,6 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 SSH-5032：docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
 
-It-tools：docker run -d --name it-tools --restart unless-stopped -p 52002:80 corentinth/it-tools:latest
-
 3X-ui：bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
