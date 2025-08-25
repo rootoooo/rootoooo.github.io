@@ -207,7 +207,9 @@ Libretv：docker run -d --name libretv --restart unless-stopped -p 52001:8080 -e
 
 curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/kejilion.sh -o kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 
-SSH：docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
+SSH-5032：docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
+
+It-tools：docker run -d --name it-tools --restart unless-stopped -p 52002:80 corentinth/it-tools:latest
 
 3X-ui：bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
