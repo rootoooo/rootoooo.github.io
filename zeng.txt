@@ -99,11 +99,11 @@ IP扫描：https://angryip.org/download
 
 WebRTC：https://www.browserscan.net/zh/webrtc
 
-ChatGPT Mirror：https://mixaihub.com
-
 Music：https://music.gdstudio.xyz    http://music.92haohuo.cn
 
 https://github.com/algerkong/AlgerMusicPlayer/releases
+
+ChatGPT Mirror：https://mixaihub.com
 
 ChatGPT AccessToken：https://chatgpt.com/api/auth/session
 
@@ -140,6 +140,8 @@ Gps：https://github.com/ZCShou/GoGoGo/releases
 Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
+
+Stats：https://github.com/exelban/stats/releases
 
 Iina：https://github.com/iina/iina/releases
 
