@@ -93,9 +93,9 @@ https://github.com/tw93/Pake/releases
 
 软件检测：https://www.virscan.org
 
-IP扫描：https://angryip.org/download
-
 声音克隆：https://github.com/jianchang512/clone-voice
+
+Angry IP Scanner：https://angryip.org/download
 
 WebRTC：https://www.browserscan.net/zh/webrtc
 
