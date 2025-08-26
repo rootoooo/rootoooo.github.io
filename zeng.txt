@@ -161,7 +161,7 @@ OpenWrt：https://firmware-selector.openwrt.org    https://dl.openwrt.ai/release
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
-https://anti-ad.net/adguard.txt
+https://anti-ad.net/adguard.txt    https://github.haoss.eu.org/raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt    https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
 Fancyss：https://github.com/hq450/fancyss
 
