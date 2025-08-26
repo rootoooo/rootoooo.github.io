@@ -141,6 +141,8 @@ Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
+Iina：https://github.com/iina/iina/releases
+
 PicGo：https://github.com/Molunerfinn/PicGo/releases
 
 Pansou：https://github.com/fish2018/pansou
