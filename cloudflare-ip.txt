@@ -12,9 +12,9 @@ async function handleRequest(request) {
   const M3u8URL = 'http://tonkiang.us'; // 跳转链接
   const M3u8TXTURL = 'https://sankei.mo/z.html'; // 跳转链接
   const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
-  const AlistURL = 'https://alist.haoss.eu.org'; // 跳转链接
-  const PansouURL = 'https://pansou.haoss.eu.org'; // 跳转链接
-  const SSHURL = 'https://ssh.haoss.eu.org'; // 跳转链接
+  const OpenlistURL = 'http://144.34.231.118:10103'; // 跳转链接
+  const PansouURL = 'http://144.34.231.118:10105'; // 跳转链接
+  const SSHURL = 'http://144.34.231.118:10107'; // 跳转链接
   const TradingEconomicsURL = 'https://zh.tradingeconomics.com'; // 跳转链接
   const GithubURL = 'https://github.com'; // 跳转链接
   const CloudflareURL = 'https://cloudflare.com'; // 跳转链接
@@ -22,8 +22,6 @@ async function handleRequest(request) {
   const YouTubeURL = 'https://www.youtube.com'; // 跳转链接
   const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
   const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
-  const ChatGPTTokenURL = 'https://chatgpt.com/api/auth/session'; // 跳转链接
-  const ChatGPTMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const MusicURL = 'https://music.gdstudio.xyz'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
@@ -162,7 +160,7 @@ async function handleRequest(request) {
           <a href="${M3u8URL}" class="details-link">M3u8</a>
           <a href="${M3u8TXTURL}" class="details-link">M3u8 TXT</a>
           <a href="${CNURL}" class="details-link">Conversion</a>
-          <a href="${AlistURL}" class="details-link">Alist</a>
+          <a href="${OpenlistURL}" class="details-link">Openlist</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${SSHURL}" class="details-link">SSH</a>
           <a href="${TradingEconomicsURL}" class="details-link">Trading Economics</a>
@@ -172,8 +170,6 @@ async function handleRequest(request) {
           <a href="${YouTubeURL}" class="details-link">YouTube</a>
           <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
           <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
-          <a href="${ChatGPTTokenURL}" class="details-link">ChatGPT Token</a>
-          <a href="${ChatGPTMirrorURL}" class="details-link">ChatGPT Mirror</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${NewsURL}" class="details-link">News</a>
