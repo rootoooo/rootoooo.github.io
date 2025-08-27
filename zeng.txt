@@ -107,6 +107,8 @@ IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
+TVBox：https://github.com/o0HalfLife0o/TVBoxOSC/releases
+
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
