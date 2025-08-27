@@ -103,6 +103,8 @@ ChatGPT Mirror：https://mixaihub.com
 
 ChatGPT AccessToken：https://chatgpt.com/api/auth/session
 
+ChatAir：https://github.com/flyun/chatAir/releases
+
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
