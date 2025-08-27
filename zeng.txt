@@ -101,7 +101,7 @@ https://github.com/algerkong/AlgerMusicPlayer/releases
 
 ChatGPT Mirror：https://mixaihub.com
 
-ChatGPT AccessToken：https://chatgpt.com/api/auth/session
+ChatGPT Token：https://chatgpt.com/api/auth/session
 
 ChatAir：https://github.com/flyun/chatAir/releases
 
