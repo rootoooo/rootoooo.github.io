@@ -22,8 +22,6 @@ async function handleRequest(request) {
   const ChatGPTMirrorURL = 'https://mixaihub.com'; // 跳转链接
   const TradingEconomicsURL = 'https://zh.tradingeconomics.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
-  const MusicURL = 'https://music.gdstudio.xyz'; // 跳转链接
-  const LotteryURL = 'https://cp.ping8.top'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
 
   const html = `
@@ -170,8 +168,6 @@ async function handleRequest(request) {
           <a href="${ChatGPTMirrorURL}" class="details-link">ChatGPT Mirror</a>
           <a href="${TradingEconomicsURL}" class="details-link">Trading Economics</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
-          <a href="${MusicURL}" class="details-link">Music</a>
-          <a href="${LotteryURL}" class="details-link">Lottery</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
         <div class="input-container">
@@ -250,3 +246,4 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
+
