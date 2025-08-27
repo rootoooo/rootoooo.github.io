@@ -69,10 +69,6 @@ A：80-10101    iStoreOS：80-10102    Alist：5244-10103    vnc：5900-10104   
 
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
-https://cp.ping8.top
-
-http://117.72.172.8:8080
-
 https://psub.888005.xyz
 
 https://bwh81.net
@@ -109,9 +105,7 @@ ChatGPT AccessToken：https://chatgpt.com/api/auth/session
 
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
-OK TV：https://github.com/FongMi/Release/tree/okjack/apk/release
-
-Tvbox：https://github.com/o0HalfLife0o/TVBoxOSC/releases
+OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
@@ -156,8 +150,6 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 iStoreOS：https://github.com/AUK9527/Are-u-ok/blob/main/apps/README.md
-
-OpenWrt：https://firmware-selector.openwrt.org    https://dl.openwrt.ai/releases/24.10/targets/armsr/armv8
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
