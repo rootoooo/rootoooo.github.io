@@ -246,4 +246,22 @@ local_ip = 127.0.0.1
 local_port = 3389
 remote_port = 2
 
+Alist + Openlist：
+
+<link href="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/alist.css" rel="stylesheet" type="text/css">
+
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/jq.js"></script>
+<div class="st-Container">
+  <a style="display:none" class="st-Menu closed" id="st-Menu" href="javascript:void(0);"></a>
+</div>
+<div class="sw-Hennnyano" id="sw-Hennnyano">
+  <div class="layer body w100" data-depth="0.1"></div>
+  <div class="layer eyes w100" data-depth="0.2"></div>
+</div>
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/js/lib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/js/parallax.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/js/app.bundle.js"></script>
+<div id="jsi-flying-fish-container" class="fish-container"></div>
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js"></script>
+
 
