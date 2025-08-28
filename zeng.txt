@@ -135,6 +135,8 @@ Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
 Zip：https://github.com/WirelessAlien/ZipXtract/releases
 
+Termius：https://github.com/alongw/Termius-zh_CN/releases
+
 Stats：https://github.com/exelban/stats/releases
 
 Iina：https://github.com/iina/iina/releases
