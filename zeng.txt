@@ -101,6 +101,8 @@ ChatGPT Mirror：https://mixaihub.com
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
 
+ChatGPT API：https://github.com/popjane/free_chatgpt_api
+
 ChatAir：https://github.com/flyun/chatAir/releases
 
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
