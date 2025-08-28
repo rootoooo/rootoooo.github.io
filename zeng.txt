@@ -61,8 +61,6 @@ AD1456-FREE-CMBE4RS2F2
 
 D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-https://free.v36.cm    sk-NrsMixvQmeW0WpaRF9F17979F1Ab4e9a990c0832Ee0b0a22
-
 A：80-10101    Alist：5244-10102    vnc：5900-10103    iStoreOS：80-10201    openlist：5244-10202
 
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
@@ -102,8 +100,6 @@ https://github.com/algerkong/AlgerMusicPlayer/releases
 ChatGPT Mirror：https://mixaihub.com
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
-
-ChatGPT API：https://github.com/popjane/free_chatgpt_api
 
 ChatAir：https://github.com/flyun/chatAir/releases
 
