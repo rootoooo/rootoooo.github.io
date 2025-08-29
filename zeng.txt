@@ -101,6 +101,8 @@ ChatGPT Mirror：https://mixaihub.com
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
 
+Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini    Deploy to Cloudflare
+
 Gemini API：makersuite.google.com/app/apikey
 
 ChatAir：https://github.com/flyun/chatAir/releases
