@@ -18,8 +18,9 @@ async function handleRequest(request) {
   const AlistURL = 'https://alist.haoss.eu.org'; // 跳转链接
   const PansouURL = 'https://pansou.haoss.eu.org'; // 跳转链接
   const QuarkURL = 'https://pan.quark.cn'; // 跳转链接
-  const GithubURL = 'https://github.com'; // 跳转链接
   const CloudflareURL = 'https://cloudflare.com'; // 跳转链接
+  const GithubURL = 'https://github.com'; // 跳转链接
+  const GeminiURL = 'https://gemini.google.com'; // 跳转链接
   const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
   const ChatGPTTokenURL = 'https://chatgpt.com/api/auth/session'; // 跳转链接
   const ChatGPTMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
@@ -27,7 +28,6 @@ async function handleRequest(request) {
   const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
   const DockerMirrorURL = 'https://docker.haoss.eu.org'; // 跳转链接
   const TradingEconomicsURL = 'https://zh.tradingeconomics.com'; // 跳转链接
-  const TranslateURL = 'https://fanyi.qq.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
 
@@ -171,8 +171,9 @@ async function handleRequest(request) {
           <a href="${AlistURL}" class="details-link">Alist</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${QuarkURL}" class="details-link">Quark</a>
-          <a href="${GithubURL}" class="details-link">GitHub</a>
           <a href="${CloudflareURL}" class="details-link">Cloudflare</a>
+          <a href="${GithubURL}" class="details-link">GitHub</a>
+          <a href="${GeminiURL}" class="details-link">Gemini</a>
           <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
           <a href="${ChatGPTTokenURL}" class="details-link">ChatGPT Token</a>
           <a href="${ChatGPTMirrorURL}" class="details-link">ChatGPT Mirror</a>
@@ -180,7 +181,6 @@ async function handleRequest(request) {
           <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
           <a href="${DockerMirrorURL}" class="details-link">Docker Mirror</a>
           <a href="${TradingEconomicsURL}" class="details-link">Trading Economics</a>
-          <a href="${TranslateURL}" class="details-link">Translate</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
