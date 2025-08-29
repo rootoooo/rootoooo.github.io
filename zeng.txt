@@ -63,6 +63,8 @@ D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 G：AIzaSyDEoU0AcDZdpB6pEQuBKQpyThaR4sHHm2Y
 
+C：11r1gid0edggz2mevqg7vr1l5u6tt96q
+
 A：80-10101    Alist：5244-10102    VNC：5900-10103    SMB：smb://1:445-10104    iStoreOS：80-10201    Openlist：5244-10202
 
 https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
