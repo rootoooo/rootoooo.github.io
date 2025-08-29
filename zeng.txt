@@ -79,6 +79,8 @@ https://github.com/settings/personal-access-tokens
 
 https://github.com/search?q=&type=code
 
+https://web.chatboxai.app
+
 M3u8：http://tonkiang.us
 
 https://sankei.mo/z.html
@@ -107,7 +109,7 @@ ChatGPT Mirror：https://mixaihub.com
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
 
-Chatbox：https://web.chatboxai.app
+Chatbox：https://github.com/chatboxai/chatbox
 
 Openai-gemini：https://github.com/PublicAffairs/openai-gemini
 
