@@ -115,6 +115,8 @@ Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini    Deploy t
 
 Gemini API：https://aistudio.google.com
 
+Github Time：https://api.github.com/users/XXX
+
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
