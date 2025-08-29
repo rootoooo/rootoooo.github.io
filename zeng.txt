@@ -109,6 +109,8 @@ Chatbox：https://web.chatboxai.app
 
 Openai-gemini：https://github.com/PublicAffairs/openai-gemini
 
+Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
+
 Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini    Deploy to Cloudflare
 
 Gemini API：https://aistudio.google.com
