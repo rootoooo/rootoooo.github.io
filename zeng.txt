@@ -101,6 +101,8 @@ Music：https://music.gdstudio.xyz    http://music.92haohuo.cn
 
 https://github.com/algerkong/AlgerMusicPlayer/releases
 
+ClawCloud Alist：https://run.claw.cloud
+
 ChatGPT Mirror：https://mixaihub.com
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
