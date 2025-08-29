@@ -12,6 +12,7 @@ async function handleRequest(request) {
   const M3u8URL = 'http://tonkiang.us'; // 跳转链接
   const M3u8TXTURL = 'https://sankei.mo/z.html'; // 跳转链接
   const M3u8PlayerURL = 'https://m3u8.haoss.eu.org'; // 跳转链接
+  const FreeTVURL = 'https://tv.haoss.eu.org'; // 跳转链接
   const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
   const SSHURL = 'https://ssh.haoss.eu.org'; // 跳转链接
   const AlistURL = 'https://alist.haoss.eu.org'; // 跳转链接
@@ -24,7 +25,9 @@ async function handleRequest(request) {
   const ChatGPTMirrorURL = 'https://chatgpt.haoss.eu.org'; // 跳转链接
   const YouTubeURL = 'https://youtube.com'; // 跳转链接
   const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
+  const DockerMirrorURL = 'https://docker.haoss.eu.org'; // 跳转链接
   const TradingEconomicsURL = 'https://zh.tradingeconomics.com'; // 跳转链接
+  const TranslateURL = 'https://fanyi.qq.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
 
@@ -162,6 +165,7 @@ async function handleRequest(request) {
           <a href="${M3u8URL}" class="details-link">M3u8</a>
           <a href="${M3u8TXTURL}" class="details-link">M3u8 TXT</a>
           <a href="${M3u8PlayerURL}" class="details-link">M3u8 Player</a>
+          <a href="${FreeTVURL}" class="details-link">Free TV</a>
           <a href="${CNURL}" class="details-link">Conversion</a>
           <a href="${SSHURL}" class="details-link">SSH</a>
           <a href="${AlistURL}" class="details-link">Alist</a>
@@ -174,7 +178,9 @@ async function handleRequest(request) {
           <a href="${ChatGPTMirrorURL}" class="details-link">ChatGPT Mirror</a>
           <a href="${YouTubeURL}" class="details-link">YouTube</a>
           <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
+          <a href="${DockerMirrorURL}" class="details-link">Docker Mirror</a>
           <a href="${TradingEconomicsURL}" class="details-link">Trading Economics</a>
+          <a href="${TranslateURL}" class="details-link">Translate</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
