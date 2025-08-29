@@ -113,8 +113,6 @@ Openai-gemini：https://github.com/PublicAffairs/openai-gemini
 
 Gemini Chat：https://github.com/tech-shrimp/gemini-playground
 
-Gemini Turn：https://github.com/snailyp/gemini-balance
-
 Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
 
 Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini    Deploy to Cloudflare
@@ -238,10 +236,6 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
-
-Gemini：docker pull ghcr.io/bclswl0827/chatgemini
-
-docker run -d --name chatgemini --restart always -p 8080:8080 -e REACT_APP_GEMINI_API_KEY="您的密钥" ghcr.io/bclswl0827/chatgemini
 
 Frp：wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
 
