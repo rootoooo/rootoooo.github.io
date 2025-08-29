@@ -105,6 +105,8 @@ ChatGPT Token：https://chatgpt.com/api/auth/session
 
 Chatbox：https://web.chatboxai.app
 
+Openai-gemini：https://github.com/PublicAffairs/openai-gemini
+
 Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini    Deploy to Cloudflare
 
 Gemini API：https://aistudio.google.com
