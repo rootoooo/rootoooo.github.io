@@ -113,6 +113,8 @@ Openai-gemini：https://github.com/PublicAffairs/openai-gemini
 
 Gemini Chat：https://github.com/tech-shrimp/gemini-playground
 
+Gemini Turn：https://github.com/snailyp/gemini-balance
+
 Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
 
 Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini    Deploy to Cloudflare
