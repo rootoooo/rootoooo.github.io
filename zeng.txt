@@ -105,8 +105,6 @@ https://github.com/algerkong/AlgerMusicPlayer/releases
 
 ClawCloud Alist：https://run.claw.cloud
 
-Grok Mirror-50005：https://github.com/dairoot/Grok-Mirror
-
 ChatGPT Mirror-50002：https://github.com/dairoot/ChatGPT-Mirror
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
@@ -268,18 +266,6 @@ cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
 cd ChatGPT-Mirror/
 
 cp .env.example .env && vi .env
-
-./deploy.sh
-
-
-
-Grok-Mirror：
-
-cd /home/ && git clone https://github.com/dairoot/Grok-Mirror.git
-
-cd Grok-Mirror/
-
-cp .env.example .env
 
 ./deploy.sh
 
