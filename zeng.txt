@@ -105,7 +105,9 @@ https://github.com/algerkong/AlgerMusicPlayer/releases
 
 ClawCloud Alist：https://run.claw.cloud
 
-ChatGPT Mirror：https://mixaihub.com
+Grok Mirror-50005：https://github.com/dairoot/Grok-Mirror
+
+ChatGPT Mirror-50002：https://github.com/dairoot/ChatGPT-Mirror
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
 
