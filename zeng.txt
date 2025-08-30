@@ -341,4 +341,8 @@ Bootstrap DNS服务器
 119.29.29.29
 223.5.5.5
 
+netstat -tulnp | grep 53
+
+docker restart adguardhome
+
 
