@@ -67,41 +67,43 @@ C：11r1gid0edggz2mevqg7vr1l5u6tt96q
 
 A：80-10101    Alist：5244-10102    VNC：5900-10103    SMB：smb://1:445-10104    iStoreOS：80-10201    Openlist：5244-10202
 
-https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
+YouTube Mirror：https://fan5.171371.xyz/Alvin9999/https/www.youtube.com
 
-https://psub.888005.xyz
+Subscription Conversion：https://psub.888005.xyz
 
-https://bwh81.net
+BandwagonHost：https://bwh81.net
 
-https://account.lightlayer.net
+Lightlayer：https://account.lightlayer.net
 
-https://github.com/settings/personal-access-tokens
+Voice Cloning：https://github.com/jianchang512/clone-voice
 
-https://github.com/search?q=&type=code
+Looking Glass：http://www.jendoscope.cn/en
 
-https://web.chatboxai.app
+Detection APP：https://www.virscan.org
+
+IP Position：https://hyun.cc/i/ip
+
+IP Scanning：https://angryip.org/download
 
 M3u8：http://tonkiang.us
 
-https://sankei.mo/z.html
+M3u8 TXT：https://sankei.mo/z.html
 
-https://github.com/tw93/Pake/releases
+AKTV Subscription：http://aktv.space/live.m3u
 
-窥镜：http://www.jendoscope.cn/en
-
-软件检测：https://www.virscan.org
-
-声音克隆：https://github.com/jianchang512/clone-voice
-
-IP定位：https://hyun.cc/i/ip
-
-IP扫描：https://angryip.org/download
+APTV Subscription：https://profile.aptv.app
 
 WebRTC：https://www.browserscan.net/zh/webrtc
 
 Music：https://music.gdstudio.xyz    http://music.92haohuo.cn
 
-https://github.com/algerkong/AlgerMusicPlayer/releases
+Mirror APP：https://github.com/tw93/Pake/releases
+
+GitHub Tokens：https://github.com/settings/personal-access-tokens
+
+GitHub Code：https://github.com/search?q=&type=code
+
+Chatbox Web：https://web.chatboxai.app
 
 ClawCloud Alist：https://run.claw.cloud
 
@@ -139,19 +141,17 @@ Gemini API：https://aistudio.google.com
 
 Github Time：https://api.github.com/users/XXX
 
+Alger Music Playerhttps://github.com/algerkong/AlgerMusicPlayer/releases
+
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 TVBox：https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
-https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+TVBox Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
-https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
-
-http://aktv.space/live.m3u
-
-https://profile.aptv.app
+M3u Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
@@ -215,17 +215,15 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
-查看服务器版本：arch
+VPS Version：arch
 
-系统更新：apt update -y && apt install -y curl socat wget sudo
+Turn off the firewall：sudo ufw disable
 
-卸载libretv：docker rm -f libretv
-
-关闭防火墙：sudo ufw disable
+VPS System Update：apt update -y && apt install -y curl socat wget sudo
 
 
 
-安装Docker、Docker-Compose和NPM反向代理：
+Docker + Docker Compose + Nginx：
 
 sudo apt install git -y && git clone https://github.com/slobys/npm.git && cd npm && chmod +x npm.sh && ./npm.sh
 
