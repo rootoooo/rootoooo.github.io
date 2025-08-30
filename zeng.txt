@@ -326,15 +326,12 @@ AdGuard Home：
 
 Admin Web interface：3000
 
-ens3 - IP：53
-
 上游 DNS服务器
 
 223.5.5.5
 114.114.114.114
 8.8.8.8
 https://cloudflare-dns.com/dns-query
-https://dns-google/dns-query
 
 并行请求
 
