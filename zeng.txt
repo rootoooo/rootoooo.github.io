@@ -271,6 +271,18 @@ cp .env.example .env && vi .env
 
 
 
+Grok-Mirror：
+
+cd /home/ && git clone https://github.com/dairoot/Grok-Mirror.git
+
+cd Grok-Mirror/
+
+cp .env.example .env
+
+./deploy.sh
+
+
+
 Frp：
 
 wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
