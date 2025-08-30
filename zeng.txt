@@ -75,6 +75,8 @@ BandwagonHost：https://bwh81.net
 
 Lightlayer：https://account.lightlayer.net
 
+WeiXin：https://mp.weixin.qq.com
+
 Voice Cloning：https://github.com/jianchang512/clone-voice
 
 Looking Glass：http://www.jendoscope.cn/en
