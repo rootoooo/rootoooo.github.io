@@ -105,6 +105,22 @@ https://github.com/algerkong/AlgerMusicPlayer/releases
 
 ClawCloud Alist：https://run.claw.cloud
 
+OpenList：https://github.com/OpenListTeam/OpenList
+
+Kejilion：https://github.com/kejilion/sh
+
+3X-ui：https://github.com/mhsanaei/3x-ui
+
+Hysteria2：https://github.com/sindricn/s-hy2
+
+Pansou：https://github.com/fish2018/pansou
+
+SSH：https://github.com/Jrohy/webssh
+
+LibreTV：https://github.com/LibreSpark/LibreTV
+
+Frp：https://github.com/mvscode/frps-onekey
+
 ChatGPT Mirror-50002：https://github.com/dairoot/ChatGPT-Mirror
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
@@ -164,8 +180,6 @@ Stats：https://github.com/exelban/stats/releases
 Iina：https://github.com/iina/iina/releases
 
 PicGo：https://github.com/Molunerfinn/PicGo/releases
-
-Pansou：https://github.com/fish2018/pansou
 
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
 
