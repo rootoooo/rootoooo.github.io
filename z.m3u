@@ -325,6 +325,10 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="广西移动" ,炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="国际频道" ,凤凰卫视中文台
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="国际频道" ,凤凰卫视资讯台
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="国际频道" ,凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="国际频道" ,凤凰资讯
@@ -337,8 +341,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="国际频道" ,明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="国际频道" ,星河台
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="国际频道" ,美亚电影台
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="国际频道" ,娱乐新闻台
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="国际频道" ,TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="国际频道" ,HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="国际频道" ,RTHK-31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="国际频道" ,RTHK-32
@@ -347,26 +359,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 group-title="国际频道" ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="国际频道" ,环球电视台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="国际频道" ,澳门mac
 http://php.jdshipin.com/PLTV/iptv.php?id=as
 #EXTINF:-1 group-title="国际频道" ,澳视澳门
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
-#EXTINF:-1 group-title="国际频道" ,Cti
+#EXTINF:-1 group-title="国际频道" ,CTI
 http://tlive24.uk/livehttpplay?channel_id=20163
-#EXTINF:-1 group-title="国际频道" ,Phoenix News
-https://live.iill.top/youtube/@phoenixtvhk
-#EXTINF:-1 group-title="国际频道" ,Cti News
-https://live.iill.top/youtube/vr3XyVCR4T0
-#EXTINF:-1 group-title="国际频道" ,Cantonese Music
-https://live.iill.top/youtube/@Cantopopgreatesthits8090s
-#EXTINF:-1 group-title="国际频道" ,Chinese Mix DJ
-https://live.iill.top/youtube/@FM190-ld7qz
-#EXTINF:-1 group-title="国际频道" ,English Music
-https://live.iill.top/youtube/@FORFUNRADIOTIME-Relax
-#EXTINF:-1 group-title="国际频道" ,Japan Music
-https://live.iill.top/youtube/@FORFUNラジオタイムMusic
-#EXTINF:-1 group-title="国际频道" ,South Korea Music
-https://live.iill.top/youtube/@Music_LeLe
 #EXTINF:-1 group-title="国际频道" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际频道" ,Wion
@@ -397,6 +397,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="国际频道" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 
 
 
