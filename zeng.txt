@@ -83,8 +83,6 @@ Looking Glass：http://www.jendoscope.cn/en
 
 Detection APP：https://www.virscan.org
 
-IP Position：https://hyun.cc/i/ip
-
 IP Scanning：https://angryip.org/download
 
 M3u8：http://tonkiang.us
@@ -97,7 +95,7 @@ APTV Subscription：https://profile.aptv.app
 
 WebRTC：https://www.browserscan.net/zh/webrtc
 
-Music：https://music.gdstudio.xyz    http://music.92haohuo.cn
+Music：https://music.gdstudio.xyz
 
 Mirror APP：https://github.com/tw93/Pake/releases
 
