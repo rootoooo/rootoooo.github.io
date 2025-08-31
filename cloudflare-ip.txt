@@ -9,13 +9,10 @@ async function handleRequest(request) {
   const DelayURL = 'https://zhale.me'; // 跳转链接
   const ScamalyticsURL = 'https://scamalytics.com'; // 跳转链接
   const WebRTCURL = 'https://www.browserscan.net/zh/webrtc'; // 跳转链接
-  const M3u8URL = 'http://tonkiang.us'; // 跳转链接
-  const M3u8TXTURL = 'https://sankei.mo/z.html'; // 跳转链接
-  const M3u8PlayerURL = 'https://m3u8.haoss.eu.org'; // 跳转链接
   const FreeTVURL = 'https://tv.haoss.eu.org'; // 跳转链接
   const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
-  const SSHURL = 'https://ssh.haoss.eu.org'; // 跳转链接
   const AlistURL = 'https://alist.haoss.eu.org'; // 跳转链接
+  const SSHURL = 'https://ssh.haoss.eu.org'; // 跳转链接
   const PansouURL = 'https://pansou.haoss.eu.org'; // 跳转链接
   const QuarkURL = 'https://pan.quark.cn'; // 跳转链接
   const CloudflareURL = 'https://cloudflare.com'; // 跳转链接
@@ -162,13 +159,10 @@ async function handleRequest(request) {
           <a href="${DelayURL}" class="details-link">IP Delay</a>
           <a href="${ScamalyticsURL}" class="details-link">Scamalytics</a>
           <a href="${WebRTCURL}" class="details-link">WebRTC</a>
-          <a href="${M3u8URL}" class="details-link">M3u8</a>
-          <a href="${M3u8TXTURL}" class="details-link">M3u8 TXT</a>
-          <a href="${M3u8PlayerURL}" class="details-link">M3u8 Player</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
           <a href="${CNURL}" class="details-link">Conversion</a>
-          <a href="${SSHURL}" class="details-link">SSH</a>
           <a href="${AlistURL}" class="details-link">Alist</a>
+          <a href="${SSHURL}" class="details-link">SSH</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${QuarkURL}" class="details-link">Quark</a>
           <a href="${CloudflareURL}" class="details-link">Cloudflare</a>
@@ -260,4 +254,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
