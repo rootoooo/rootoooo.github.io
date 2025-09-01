@@ -199,7 +199,7 @@ https://whatshub.top/module/YouTubeAd.sgmodule
 
 Windows+Shift+S    Win+R→shell:startup
 
-MAC：Finder    Command + Shift + G    Shift + Command + 3    Shift + Command + 4    /Library/LaunchDaemons   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
+MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
