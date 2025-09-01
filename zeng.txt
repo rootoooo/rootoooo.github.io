@@ -327,23 +327,3 @@ Alist + Openlist：
 <script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js"></script>
 
 
-
-AdGuard Home：
-
-Admin Web interface：3000
-
-上游 DNS服务器
-
-223.5.5.5
-119.29.29.29
-114.114.114.114
-
-并行请求
-
-Bootstrap DNS服务器
-
-223.5.5.5
-119.29.29.29
-114.114.114.114
-
-
