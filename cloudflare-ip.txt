@@ -7,13 +7,9 @@ async function handleRequest(request) {
   const country = request.headers.get('CF-IPCountry') || '未知';
   const DataURL = 'https://ping0.cc'; // 将此URL替换为你指定的网页连接
   const DelayURL = 'https://zhale.me'; // 跳转链接
-  const ScamalyticsURL = 'https://scamalytics.com'; // 跳转链接
-  const WebRTCURL = 'https://www.browserscan.net/zh/webrtc'; // 跳转链接
   const FreeTVURL = 'https://tv.haoss.eu.org'; // 跳转链接
-  const CNURL = 'https://cn.haoss.eu.org'; // 跳转链接
   const AlistURL = 'https://alist.haoss.eu.org'; // 跳转链接
   const PansouURL = 'https://pansou.haoss.eu.org'; // 跳转链接
-  const QuarkURL = 'https://pan.quark.cn'; // 跳转链接
   const CloudflareURL = 'https://cloudflare.com'; // 跳转链接
   const GithubURL = 'https://github.com'; // 跳转链接
   const GeminiChatURL = 'https://chat.haoss.eu.org'; // 跳转链接
@@ -22,7 +18,6 @@ async function handleRequest(request) {
   const YouTubeURL = 'https://youtube.com'; // 跳转链接
   const YouTubeMirrorURL = 'https://fan5.171371.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
   const TradingEconomicsURL = 'https://zh.tradingeconomics.com'; // 跳转链接
-  const TranslateURL = 'https://fanyi.qq.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
 
@@ -155,13 +150,9 @@ async function handleRequest(request) {
         <div class="link-container">
           <a href="${DataURL}" class="details-link">IP Data</a>
           <a href="${DelayURL}" class="details-link">IP Delay</a>
-          <a href="${ScamalyticsURL}" class="details-link">Scamalytics</a>
-          <a href="${WebRTCURL}" class="details-link">WebRTC</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
-          <a href="${CNURL}" class="details-link">Conversion</a>
           <a href="${AlistURL}" class="details-link">Alist</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
-          <a href="${QuarkURL}" class="details-link">Quark</a>
           <a href="${CloudflareURL}" class="details-link">Cloudflare</a>
           <a href="${GithubURL}" class="details-link">GitHub</a>
           <a href="${GeminiChatURL}" class="details-link">Gemini Chat</a>
@@ -170,7 +161,6 @@ async function handleRequest(request) {
           <a href="${YouTubeURL}" class="details-link">YouTube</a>
           <a href="${YouTubeMirrorURL}" class="details-link">YouTube Mirror</a>
           <a href="${TradingEconomicsURL}" class="details-link">Trading Economics</a>
-          <a href="${TranslateURL}" class="details-link">Translate</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
