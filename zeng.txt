@@ -123,7 +123,7 @@ LibreTV：https://github.com/LibreSpark/LibreTV
 
 Frp：https://github.com/mvscode/frps-onekey
 
-ChatGPT Mirror-50002：https://github.com/dairoot/ChatGPT-Mirror
+ChatGPT Mirror：https://github.com/dairoot/ChatGPT-Mirror
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
 
@@ -262,18 +262,6 @@ Hysteria2：curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/qui
 sudo s-hy2
 
 hysteria2://1@1:51888?sni=edge-mqtt.facebook.com&insecure=1&obfs=salamander&obfs-password=1#Hysteria2-Server
-
-
-
-ChatGPT Mirror：
-
-cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
-
-cd ChatGPT-Mirror/
-
-cp .env.example .env && vi .env
-
-./deploy.sh
 
 
 
