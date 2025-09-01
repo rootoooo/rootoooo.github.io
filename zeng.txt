@@ -223,52 +223,6 @@ VPS System Update：apt update -y && apt install -y curl socat wget sudo
 
 
 
-Python：
-
-apt update
-
-apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev wget
-
-curl -O https://www.python.org/ftp/python/3.8.18/Python-3.8.18.tar.xz
-
-tar -xf Python-3.8.18.tar.xz
-
-cd Python-3.8.18
-
-./configure --enable-optimizations
-
-make && make install
-
-
-
-FFmpeg：
-
-apt install ffmpeg
-
-
-
-Git：
-
-apt install git
-
-
-
-WinXin ChatGPT：
-
-git clone https://github.com/zhayujie/chatgpt-on-wechat
-
-cd chatgpt-on-wechat/
-
-pip3 install -r requirements.txt
-
-cp config-template.json config.json
-
-touch nohup.out
-
-nohup python3 app.py & tail -f nohup.out
-
-
-
 Docker + Docker Compose + Nginx：
 
 sudo apt install git -y && git clone https://github.com/slobys/npm.git && cd npm && chmod +x npm.sh && ./npm.sh
@@ -278,12 +232,6 @@ sudo apt install git -y && git clone https://github.com/slobys/npm.git && cd npm
 Pansou：
 
 docker run -d --name pansou -p 52000:80 --restart unless-stopped ghcr.io/fish2018/pansou-web
-
-
-
-SSH-5032：
-
-docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
 
 
 
