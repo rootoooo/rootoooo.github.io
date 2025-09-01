@@ -253,14 +253,6 @@ www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
 
 
-Hysteria2：curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
-
-sudo s-hy2
-
-hysteria2://1@1:51888?sni=edge-mqtt.facebook.com&insecure=1&obfs=salamander&obfs-password=1#Hysteria2-Server
-
-
-
 Frp：
 
 wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
