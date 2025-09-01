@@ -253,6 +253,8 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
+bash <(curl -Ls https://raw.githubusercontent.com/rootoooo/3x-ui/refs/heads/main/install.sh)
+
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
 
@@ -268,6 +270,8 @@ hysteria2://1@1:51888?sni=edge-mqtt.facebook.com&insecure=1&obfs=salamander&obfs
 Frp：
 
 wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
+
+wget https://raw.githubusercontent.com/rootoooo/frps/refs/heads/master/install-frps.sh -O ./install-frps.sh
 
 chmod 700 ./install-frps.sh
 
