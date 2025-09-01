@@ -235,12 +235,6 @@ docker run -d --name pansou -p 52000:80 --restart unless-stopped ghcr.io/fish201
 
 
 
-Libretv：
-
-docker run -d --name libretv --restart unless-stopped -p 52001:8080 -e PASSWORD=666666 bestzwei/libretv:latest
-
-
-
 科技lion：
 
 bash <(curl -sL kejilion.sh)
