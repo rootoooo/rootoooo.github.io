@@ -209,7 +209,7 @@ nameserver 1.1.1.1" > /etc/resolv.conf
 
 echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
-top    kill XXX    kill -9 XXX    ps aux | grep XXX
+ssh  root@1.1.1.1 -p 22    top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
 VPS Version：arch
 
