@@ -325,47 +325,47 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="广西移动" ,炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="国际频道" ,凤凰卫视中文台
+#EXTINF:-1 group-title="国际频道" ,HongKong Chinese
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="国际频道" ,凤凰卫视资讯台
+#EXTINF:-1 group-title="国际频道" ,HongKong News
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="国际频道" ,凤凰中文
+#EXTINF:-1 group-title="国际频道" ,HK Chinese
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="国际频道" ,凤凰资讯
+#EXTINF:-1 group-title="国际频道" ,HK News
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="国际频道" ,凤凰香港
+#EXTINF:-1 group-title="国际频道" ,HK Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="国际频道" ,无线新闻
+#EXTINF:-1 group-title="国际频道" ,HK TVB News
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="国际频道" ,翡翠台
+#EXTINF:-1 group-title="国际频道" ,HK Jade Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="国际频道" ,明珠台
+#EXTINF:-1 group-title="国际频道" ,HK Pearl Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="国际频道" ,星河台
+#EXTINF:-1 group-title="国际频道" ,HK Star River Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="国际频道" ,美亚电影台
+#EXTINF:-1 group-title="国际频道" ,HK Meiya Movie Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="国际频道" ,娱乐新闻台
+#EXTINF:-1 group-title="国际频道" ,HK Entertainment News Channel
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="国际频道" ,TVB Plus
+#EXTINF:-1 group-title="国际频道" ,HK TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="国际频道" ,HOY77
+#EXTINF:-1 group-title="国际频道" ,HK HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="国际频道" ,RTHK-31
+#EXTINF:-1 group-title="国际频道" ,HK RTHK 31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="国际频道" ,RTHK-32
+#EXTINF:-1 group-title="国际频道" ,HK RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="国际频道" ,香港卫视
+#EXTINF:-1 group-title="国际频道" ,HK Satellite TV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="国际频道" ,环球电视台
+#EXTINF:-1 group-title="国际频道" ,HK Universal Television
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="国际频道" ,澳门mac
+#EXTINF:-1 group-title="国际频道" ,Macau Satellite TV
 http://php.jdshipin.com/PLTV/iptv.php?id=as
-#EXTINF:-1 group-title="国际频道" ,澳视澳门
+#EXTINF:-1 group-title="国际频道" ,Macau TV
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
-#EXTINF:-1 group-title="国际频道" ,CTI
+#EXTINF:-1 group-title="国际频道" ,TW CTI
 http://tlive24.uk/livehttpplay?channel_id=20163
-#EXTINF:-1 group-title="国际频道" ,CTI News
+#EXTINF:-1 group-title="国际频道" ,TW CTI News
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 group-title="国际频道" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -397,6 +397,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="国际频道" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 
 
 
