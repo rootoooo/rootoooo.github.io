@@ -91,7 +91,7 @@ APTV Subscription：https://profile.aptv.app
 
 WebRTC：https://www.browserscan.net/zh/webrtc
 
-Music：https://music.gdstudio.xyz
+Music：https://music.gdstudio.xyz    http://music.alger.fun
 
 Mirror APP：https://github.com/tw93/Pake/releases
 
@@ -137,7 +137,7 @@ Gemini API：https://aistudio.google.com
 
 Github Time：https://api.github.com/users/XXX
 
-Alger Music Playerhttps://github.com/algerkong/AlgerMusicPlayer/releases
+Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
