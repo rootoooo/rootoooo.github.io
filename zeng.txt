@@ -225,18 +225,6 @@ sudo apt install git -y && git clone https://github.com/slobys/npm.git && cd npm
 
 
 
-Pansou：
-
-docker run -d --name pansou -p 52000:80 --restart unless-stopped ghcr.io/fish2018/pansou-web
-
-
-
-SSH-5032：
-
-docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
-
-
-
 科技lion：
 
 bash <(curl -sL kejilion.sh)
