@@ -9,15 +9,15 @@ async function handleRequest(request) {
   const DelayURL = 'https://zhale.me'; // 跳转链接
   const WebRTCURL = 'https://www.browserscan.net/zh/webrtc'; // 跳转链接
   const FreeTVURL = 'https://tv.haoss.eu.org'; // 跳转链接
-  const OpenlistURL = 'https://openlist.haoss.eu.org'; // 跳转链接
-  const SSHURL = 'https://ssh.haoss.eu.org'; // 跳转链接
   const PansouURL = 'https://so.252035.xyz'; // 跳转链接
+  const QuarkURL = 'https://pan.quark.cn'; // 跳转链接 
   const CloudflareURL = 'https://cloudflare.com'; // 跳转链接
   const GithubURL = 'https://github.com'; // 跳转链接
   const GeminiChatURL = 'https://chat.haoss.eu.org'; // 跳转链接
   const ChatboxURL = 'https://web.chatboxai.app'; // 跳转链接
   const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
   const YouTubeURL = 'https://youtube.com'; // 跳转链接
+  const EconomyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
 
@@ -152,15 +152,15 @@ async function handleRequest(request) {
           <a href="${DelayURL}" class="details-link">IP Delay</a>
           <a href="${WebRTCURL}" class="details-link">WebRTC</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
-          <a href="${OpenlistURL}" class="details-link">Openlist</a>
-          <a href="${SSHURL}" class="details-link">SSH</a>          
           <a href="${PansouURL}" class="details-link">Pansou</a>
+          <a href="${QuarkURL}" class="details-link">Quark</a>
           <a href="${CloudflareURL}" class="details-link">Cloudflare</a>
           <a href="${GithubURL}" class="details-link">GitHub</a>
           <a href="${GeminiChatURL}" class="details-link">Gemini Chat</a>
           <a href="${ChatboxURL}" class="details-link">Chatbox</a>
           <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
           <a href="${YouTubeURL}" class="details-link">YouTube</a>
+          <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
@@ -240,6 +240,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
-
-
