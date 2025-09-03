@@ -15,11 +15,11 @@ async function handleRequest(request) {
   const GithubURL = 'https://github.com'; // 跳转链接
   const GeminiChatURL = 'https://chat.haoss.eu.org'; // 跳转链接
   const ChatboxURL = 'https://web.chatboxai.app'; // 跳转链接
-  const ChatGPTURL = 'https://chatgpt.com'; // 跳转链接
-  const YouTubeURL = 'https://youtube.com'; // 跳转链接
-  const EconomyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
+  const VideoURL = 'https://youtube.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
+  const MusicURL = 'http://music.alger.fun'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
+  const EconomyURL = 'https://zh.tradingeconomics.com'; // 跳转链接
 
   const html = `
     <!DOCTYPE html>
@@ -158,11 +158,11 @@ async function handleRequest(request) {
           <a href="${GithubURL}" class="details-link">GitHub</a>
           <a href="${GeminiChatURL}" class="details-link">Gemini Chat</a>
           <a href="${ChatboxURL}" class="details-link">Chatbox</a>
-          <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
-          <a href="${YouTubeURL}" class="details-link">YouTube</a>
-          <a href="${EconomyURL}" class="details-link">Economy</a>
+          <a href="${VideoURL}" class="details-link">Video</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
+          <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${NewsURL}" class="details-link">News</a>
+          <a href="${EconomyURL}" class="details-link">Economy</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP or IP port" />
