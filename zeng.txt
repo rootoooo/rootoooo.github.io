@@ -95,6 +95,8 @@ Music：https://music.gdstudio.xyz    http://music.alger.fun
 
 Mirror APP：https://github.com/tw93/Pake/releases
 
+Mirror SiteProxy 2.0：https://mirror.haoss.eu.org/oooo/https/github.com/netptop/siteproxy
+
 GitHub Tokens：https://github.com/settings/personal-access-tokens
 
 GitHub Code：https://github.com/search?q=&type=code
