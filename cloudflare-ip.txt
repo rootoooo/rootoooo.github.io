@@ -15,7 +15,7 @@ async function handleRequest(request) {
   const GithubURL = 'https://github.com'; // 跳转链接
   const GeminiChatURL = 'https://chat.haoss.eu.org'; // 跳转链接
   const ChatboxURL = 'https://web.chatboxai.app'; // 跳转链接
-  const VideoURL = 'https://youtube.com'; // 跳转链接
+  const VideoURL = 'https://fan3.872408.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const MusicURL = 'http://music.alger.fun'; // 跳转链接
   const NewsURL = 'https://news.163.com/domestic'; // 跳转链接
@@ -240,3 +240,4 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
+
