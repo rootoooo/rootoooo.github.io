@@ -13,7 +13,7 @@ async function handleRequest(request) {
   const FreeTVURL = 'https://tv.haoss.eu.org'; // 跳转链接
   const ChatURL = 'https://chat.haoss.eu.org'; // 跳转链接
   const ChatboxURL = 'https://web.chatboxai.app'; // 跳转链接
-  const VideoURL = 'https://fan3.872408.xyz/Alvin9999/https/www.youtube.com'; // 跳转链接
+  const VideoURL = 'https://mirror.haoss.eu.org/oooo/https/www.youtube.com'; // 跳转链接
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const MusicURL = 'http://music.alger.fun'; // 跳转链接
   const PansouURL = 'https://so.252035.xyz'; // 跳转链接
