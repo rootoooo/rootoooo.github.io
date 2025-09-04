@@ -257,23 +257,6 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 sudo ./install-frps.sh uninstall
 
-[common]
-server_addr = 127.0.0.1
-server_port = 4
-token = 1
-
-[A]
-type = tcp
-local_ip = 127.0.0.1
-local_port = 80
-remote_port = 1
-
-[PC]
-type = tcp
-local_ip = 127.0.0.1
-local_port = 3389
-remote_port = 2
-
 
 
 Alist + Openlist：
