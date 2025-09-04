@@ -193,7 +193,7 @@ Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules
 
 https://whatshub.top/module/YouTubeAd.sgmodule
 
-Windows+Shift+S    Win+R→shell:startup
+Windows+Shift+S    Win+R→shell:startup    https/cn.pornhub.com    https/91md.ws
 
 MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
