@@ -112,30 +112,30 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
-        .baidu-input-container {
+        .duckduckgo-input-container {
           margin-top: 20px;
         }
-        .baidu-input-container input {
+        .duckduckgo-input-container input {
           font-size: 16px;
           padding: 8px;
           width: 200px;
           margin-right: 10px;
         }
-        .baidu-input-container button {
+        .duckduckgo-input-container button {
           font-size: 16px;
           padding: 8px 16px;
           cursor: pointer;
         }
-        .google-input-container {
+        .startpage-input-container {
           margin-top: 20px;
         }
-        .google-input-container input {
+        .startpage-input-container input {
           font-size: 16px;
           padding: 8px;
           width: 200px;
           margin-right: 10px;
         }
-        .google-input-container button {
+        .startpage-input-container button {
           font-size: 16px;
           padding: 8px 16px;
           cursor: pointer;
@@ -176,13 +176,13 @@ async function handleRequest(request) {
           <input type="text" id="custom-input" placeholder="GitHub URL" />
           <button onclick="goToCustom()">Go</button>
         </div>
-        <div class="baidu-input-container">
-          <input type="text" id="baidu-input" placeholder="Baidu Search" />
-          <button onclick="goToBaidu()">Go</button>
+        <div class="duckduckgo-input-container">
+          <input type="text" id="duckduckgo-input" placeholder="DuckDuckGo Search" />
+          <button onclick="goToDuckDuckGo()">Go</button>
         </div>
-        <div class="google-input-container">
-          <input type="text" id="google-input" placeholder="Google Search" />
-          <button onclick="goToGoogle()">Go</button>
+        <div class="startpage-input-container">
+          <input type="text" id="startpage-input" placeholder="Startpage Search" />
+          <button onclick="goToStartpage()">Go</button>
         </div>
       </div>
 
@@ -214,21 +214,21 @@ async function handleRequest(request) {
           }
         }
 
-        function goToBaidu() {
-          const baiduQuery = document.getElementById('baidu-input').value;
-          if (baiduQuery) {
-            window.location.href = 'https://www.baidu.com/s?word=' + encodeURIComponent(baiduQuery);
+        function goToDuckDuckGo() {
+          const duckduckgoQuery = document.getElementById('duckduckgo-input').value;
+          if (duckduckgoQuery) {
+            window.location.href = 'https://mirror.haoss.eu.org/oooo/https/duckduckgo.com/?t=h_&q=' + encodeURIComponent(duckduckgoQuery);
           } else {
-            alert('Baidu Search');
+            alert('DuckDuckGo Search');
           }
         }
 
-        function goToGoogle() {
-          const googleQuery = document.getElementById('google-input').value;
-          if (googleQuery) {
-            window.location.href = 'https://www.google.com/search?q=' + encodeURIComponent(googleQuery);
+        function goToStartpage() {
+          const startpageQuery = document.getElementById('startpage-input').value;
+          if (startpageQuery) {
+            window.location.href = 'https://mirror.haoss.eu.org/oooo/https/www.startpage.com/search?q=' + encodeURIComponent(startpageQuery);
           } else {
-            alert('Google Search');
+            alert('Startpage Search');
           }
         }
       </script>
