@@ -107,12 +107,6 @@ ClawCloud Alist：https://run.claw.cloud
 
 OpenList：https://github.com/OpenListTeam/OpenList
 
-Kejilion：https://github.com/kejilion/sh
-
-3X-ui：https://github.com/mhsanaei/3x-ui
-
-Hysteria2：https://github.com/sindricn/s-hy2
-
 Pansou：https://github.com/fish2018/pansou
 
 SSH：https://github.com/Jrohy/webssh
