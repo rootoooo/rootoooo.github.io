@@ -177,6 +177,8 @@ PicGo：https://github.com/Molunerfinn/PicGo/releases
 
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
 
+ZyPlayer：https://github.com/Hiram-Wong/ZyPlayer/releases
+
 V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
