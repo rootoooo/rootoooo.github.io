@@ -205,10 +205,6 @@ async function handleRequest(request) {
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
         </div>
-        <div class="translate-input-container">
-          <input type="text" id="translate-input" placeholder="Translate" />
-          <button onclick="goToTranslate()">Go</button>
-        </div>
         <div class="custom-input-container">
           <input type="text" id="custom-input" placeholder="GitHub" />
           <button onclick="goToCustom()">Go</button>
@@ -216,6 +212,10 @@ async function handleRequest(request) {
         <div class="docker-search-input-container">
           <input type="text" id="docker-search-input" placeholder="Docker" />
           <button onclick="goToDockerSearch()">Go</button>
+        </div>
+        <div class="translate-input-container">
+        <input type="text" id="translate-input" placeholder="Translate" />
+        <button onclick="goToTranslate()">Go</button>
         </div>
         <div class="duckduckgo-input-container">
           <input type="text" id="duckduckgo-input" placeholder="DuckDuckGo" />
@@ -246,15 +246,6 @@ async function handleRequest(request) {
           }
         }
 
-        function goToTranslate() {
-          const translateText = document.getElementById('translate-input').value;
-          if (translateText) {
-            window.location.href = 'https://mirror.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&text=' + encodeURIComponent(translateText);
-          } else {
-            alert('Translate');
-          }
-        }
-
         function goToCustom() {
           const customUrl = document.getElementById('custom-input').value;
           if (customUrl) {
@@ -270,6 +261,15 @@ async function handleRequest(request) {
             window.location.href = 'https://docker.haoss.eu.org/search?q=' + encodeURIComponent(dockerImageName);
           } else {
             alert('Docker');
+          }
+        }
+
+        function goToTranslate() {
+          const translateText = document.getElementById('translate-input').value;
+          if (translateText) {
+            window.location.href = 'https://mirror.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&text=' + encodeURIComponent(translateText);
+          } else {
+            alert('Translate');
           }
         }
 
