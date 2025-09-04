@@ -233,8 +233,6 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
-bash <(curl -Ls https://raw.githubusercontent.com/rootoooo/3x-ui/refs/heads/main/install.sh)
-
 www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
 
