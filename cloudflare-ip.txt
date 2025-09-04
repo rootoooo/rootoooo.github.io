@@ -17,6 +17,7 @@ async function handleRequest(request) {
   const DockerSearchLinkURL = 'https://docker.haoss.eu.org'; // Docker Search 链接
   const VideoURL = 'https://fan2.515519.xyz/Alvin9999/https/www.youtube.com'; // Video link (re-added for consistency, though not directly used by the input box)
   const VideoPlayerURL = 'https://jx.playerjy.com'; // Video Player base URL
+  const TranslateURL = 'https://mirror.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&text='; // Translate URL
   const BilibiliURL = 'https://www.bilibili.com'; // 跳转链接
   const PansouURL = 'https://so.252035.xyz'; // 跳转链接
   const QuarkURL = 'https://pan.quark.cn'; // 跳转链接
@@ -86,16 +87,30 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
-        .video-input-container { /* Added for Video input */
+        .video-input-container {
           margin-top: 20px;
         }
-        .video-input-container input { /* Added for Video input */
+        .video-input-container input {
           font-size: 16px;
           padding: 8px;
           width: 200px;
           margin-right: 10px;
         }
-        .video-input-container button { /* Added for Video input */
+        .video-input-container button {
+          font-size: 16px;
+          padding: 8px 16px;
+          cursor: pointer;
+        }
+        .translate-input-container { /* Added for Translate input */
+          margin-top: 20px;
+        }
+        .translate-input-container input { /* Added for Translate input */
+          font-size: 16px;
+          padding: 8px;
+          width: 200px;
+          margin-right: 10px;
+        }
+        .translate-input-container button { /* Added for Translate input */
           font-size: 16px;
           padding: 8px 16px;
           cursor: pointer;
@@ -173,7 +188,8 @@ async function handleRequest(request) {
           <a href="${SearchURL}" class="details-link">Search</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
           <a href="${ChatboxURL}" class="details-link">Chatbox</a>
-          <a href="${VideoURL}" class="details-link">Video</a> <!-- Re-added Video link -->
+          <a href="${VideoURL}" class="details-link">Video</a>
+          <a href="${TranslateURL}" class="details-link">Translate</a> <!-- Added Translate link -->
           <a href="${DockerSearchLinkURL}" class="details-link">Docker Search</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
@@ -185,9 +201,13 @@ async function handleRequest(request) {
           <input type="text" id="ip-input" placeholder="IP Port" />
           <button onclick="goToPing()">Go</button>
         </div>
-        <div class="video-input-container"> <!-- Added Video input container -->
+        <div class="video-input-container">
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
+        </div>
+        <div class="translate-input-container"> <!-- Added Translate input container -->
+          <input type="text" id="translate-input" placeholder="Translate" />
+          <button onclick="goToTranslate()">Go</button>
         </div>
         <div class="custom-input-container">
           <input type="text" id="custom-input" placeholder="GitHub" />
@@ -217,12 +237,21 @@ async function handleRequest(request) {
           }
         }
 
-        function goToVideo() { // Added Video function
+        function goToVideo() {
           const videoUrl = document.getElementById('video-input').value;
           if (videoUrl) {
             window.location.href = 'https://jx.playerjy.com/?url=' + encodeURIComponent(videoUrl);
           } else {
             alert('Video');
+          }
+        }
+
+        function goToTranslate() { // Added Translate function
+          const translateText = document.getElementById('translate-input').value;
+          if (translateText) {
+            window.location.href = 'https://mirror.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&text=' + encodeURIComponent(translateText);
+          } else {
+            alert('Translate');
           }
         }
 
