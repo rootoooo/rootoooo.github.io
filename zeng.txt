@@ -241,7 +241,7 @@ www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
 Hysteria2：
 
-curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/rootoooo/hysteria2/refs/heads/main/quick-install.sh | sudo bash
 
 sudo s-hy2
 
