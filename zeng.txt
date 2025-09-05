@@ -199,7 +199,7 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
-ssh  root@1.1.1.1 -p 22    ssh-keygen -R 1.1.1.1    top    kill XXX    kill -9 XXX    ps aux | grep XXX
+ssh  root@1.1.1.1 -p 22    ssh-keygen -R "[154.12.85.112]:65535"    top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
 VPS Version：arch
 
