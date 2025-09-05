@@ -209,8 +209,6 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 ssh  root@1.1.1.1 -p 22    top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
-bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
-
 VPS Version：arch
 
 Turn off the firewall：sudo ufw disable
@@ -278,5 +276,13 @@ Alist + Openlist：
 <script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/js/app.bundle.js"></script>
 <div id="jsi-flying-fish-container" class="fish-container"></div>
 <script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js"></script>
+
+
+
+IPTV：
+
+bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
+
+curl -sL https://yang-1989.eu.org/NoobIPTV.sh | bash
 
 
