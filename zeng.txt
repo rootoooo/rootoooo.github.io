@@ -295,7 +295,7 @@ git clone https://github.com/rootoooo/mirror.git
 
 {
    "proxy_url": "https://z.com", // 替换为你申请到的代理服务器域名
-   "token_prefix": "/oooo/",  // 设置网站密码，用于防止非法访问，保留首尾的斜杠
+   "token_prefix": "/z/",  // 设置网站密码，用于防止非法访问，保留首尾的斜杠
    "description": "注意：token_prefix 相当于网站密码，请谨慎设置。 proxy_url 和 token_prefix 合起来就是访问网址。"
 }
 
