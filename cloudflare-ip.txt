@@ -13,8 +13,8 @@ async function handleRequest(request) {
   const ConversionURL = 'https://cn.haoss.eu.org';
   const FreeTVURL = 'https://tv.haoss.eu.org';
   const ChatURL = 'https://chat.haoss.eu.org';
-  const ChatboxURL = 'https://web.chatboxai.app';
-  const VideoURL = 'https://fan2.515519.xyz/Alvin9999/https/www.youtube.com';
+  const GeminiURL = 'https://gemini.google.com';
+  const YouTubeURL = 'https://www.youtube.com';
   const VideoPlayerURL = 'https://jx.playerjy.com';
   const BilibiliURL = 'https://www.bilibili.com';
   const PansouURL = 'https://so.252035.xyz';
@@ -99,34 +99,6 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
-        .translate-input-container {
-          margin-top: 20px;
-        }
-        .translate-input-container input {
-          font-size: 16px;
-          padding: 8px;
-          width: 200px;
-          margin-right: 10px;
-        }
-        .translate-input-container button {
-          font-size: 16px;
-          padding: 8px 16px;
-          cursor: pointer;
-        }
-        .docker-search-input-container {
-          margin-top: 20px;
-        }
-        .docker-search-input-container input {
-          font-size: 16px;
-          padding: 8px;
-          width: 200px;
-          margin-right: 10px;
-        }
-        .docker-search-input-container button {
-          font-size: 16px;
-          padding: 8px 16px;
-          cursor: pointer;
-        }
         .custom-input-container {
           margin-top: 20px;
         }
@@ -141,16 +113,16 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
-        .duckduckgo-input-container {
+        .docker-search-input-container {
           margin-top: 20px;
         }
-        .duckduckgo-input-container input {
+        .docker-search-input-container input {
           font-size: 16px;
           padding: 8px;
           width: 200px;
           margin-right: 10px;
         }
-        .duckduckgo-input-container button {
+        .docker-search-input-container button {
           font-size: 16px;
           padding: 8px 16px;
           cursor: pointer;
@@ -185,8 +157,8 @@ async function handleRequest(request) {
           <a href="${ConversionURL}" class="details-link">Conversion</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
-          <a href="${ChatboxURL}" class="details-link">Chatbox</a>
-          <a href="${VideoURL}" class="details-link">Video</a>
+          <a href="${GeminiURL}" class="details-link">Gemini</a>
+          <a href="${YouTubeURL}" class="details-link">YouTube</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${MusicURL}" class="details-link">Music</a>
@@ -208,14 +180,6 @@ async function handleRequest(request) {
         <div class="docker-search-input-container">
           <input type="text" id="docker-search-input" placeholder="Docker" />
           <button onclick="goToDockerSearch()">Go</button>
-        </div>
-        <div class="translate-input-container">
-        <input type="text" id="translate-input" placeholder="Translate" />
-        <button onclick="goToTranslate()">Go</button>
-        </div>
-        <div class="duckduckgo-input-container">
-          <input type="text" id="duckduckgo-input" placeholder="DuckDuckGo" />
-          <button onclick="goToDuckDuckGo()">Go</button>
         </div>
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
@@ -257,24 +221,6 @@ async function handleRequest(request) {
             window.location.href = 'https://docker.haoss.eu.org/search?q=' + encodeURIComponent(dockerImageName);
           } else {
             alert('Docker');
-          }
-        }
-
-        function goToTranslate() {
-          const translateText = document.getElementById('translate-input').value;
-          if (translateText) {
-            window.location.href = 'https://mirror.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&text=' + encodeURIComponent(translateText);
-          } else {
-            alert('Translate');
-          }
-        }
-
-        function goToDuckDuckGo() {
-          const duckduckgoQuery = document.getElementById('duckduckgo-input').value;
-          if (duckduckgoQuery) {
-            window.location.href = 'https://mirror.haoss.eu.org/oooo/https/duckduckgo.com/?t=h_&q=' + encodeURIComponent(duckduckgoQuery);
-          } else {
-            alert('DuckDuckGo');
           }
         }
 
