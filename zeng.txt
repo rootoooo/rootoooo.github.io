@@ -69,7 +69,7 @@ Subscription Conversion：https://psub.888005.xyz    https://mr.mk    edge-mqtt.
 
 vless://c8c5f2ed-f723-46d1-b651-5358af50328b@154.12.85.112:52140?type=grpc&serviceName=&authority=&security=reality&pbk=hAwxI7IperurAhzckUVv5eRXpoKY52opR0c-fAZrlVA&fp=chrome&sni=www.airbnb.com&sid=66&spx=%2F#HK
 
-hysteria2://1@154.12.85.112:11111?sni=ajax.cloudflare.com&insecure=1&obfs=salamander&obfs-password=1#HK
+hysteria2://1@154.12.85.112:1?sni=ajax.cloudflare.com&insecure=1&obfs=salamander&obfs-password=1#HK
 
 BandwagonHost：https://bwh81.net
 
