@@ -283,6 +283,10 @@ IPTV：
 
 bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
 
-curl -sL https://yang-1989.eu.org/NoobIPTV.sh | bash
+curl -L https://yang-1989.eu.org/NoobIPTV.sh -o NoobIPTV.sh
+
+chmod +x NoobIPTV.sh
+
+./NoobIPTV.sh
 
 
