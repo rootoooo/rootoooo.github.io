@@ -201,7 +201,7 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
-ssh  root@1.1.1.1 -p 22    ssh-keygen -R "[1.1.1.1]:22"    top    kill XXX    kill -9 XXX    ps aux | grep XXX。  rm -r mirror
+ssh  root@1.1.1.1 -p 22    ssh-keygen -R "[1.1.1.1]:22"    top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
 VPS Version：arch
 
@@ -214,6 +214,8 @@ VPS System Update：apt update -y && apt install -y curl socat wget sudo
 Docker + Docker Compose + Nginx：
 
 sudo apt install git -y && git clone https://github.com/slobys/npm.git && cd npm && chmod +x npm.sh && ./npm.sh
+
+
 
 
 
@@ -282,29 +284,5 @@ docker run -d --name pansou -p 52000:80 ghcr.io/fish2018/pansou-web
 SSH-5032：
 
 docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
-
-
-
-Mirror SiteProxy：
-
-配置 SSL 证书和 Nginx：配置域名对应的 SSL 证书和 Nginx，将其指向本地的 5006 端口。
-
-git clone https://github.com/rootoooo/mirror.git
-
-打开并修改 config.json 文件，内容如下：
-
-{
-   "proxy_url": "https://z.com", // 替换为你申请到的代理服务器域名
-   "token_prefix": "/z/",  // 设置网站密码，用于防止非法访问，保留首尾的斜杠
-   "description": "注意：token_prefix 相当于网站密码，请谨慎设置。 proxy_url 和 token_prefix 合起来就是访问网址。"
-}
-
-cd mirror
-
-sudo docker build -t mirror-app .
-
-sudo docker run -p 5006:80 mirror-app
-
-sudo docker compose up
 
 
