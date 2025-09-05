@@ -99,7 +99,7 @@ Music：https://music.gdstudio.xyz    http://music.alger.fun
 
 Mirror APP：https://github.com/tw93/Pake/releases
 
-Mirror SiteProxy：https/github.com/netptop/siteproxy
+Mirror SiteProxy：https://github.com/netptop/siteproxy
 
 GitHub Tokens：https://github.com/settings/personal-access-tokens
 
