@@ -255,11 +255,17 @@ server_port = 4444
 auth_token = 1234567890
 protocol = tcp
 
-[web_server]
+[A]
 type = tcp
 local_ip = 192.168.4.1
 local_port = 80
 remote_port = 10001
+
+[B]
+type = tcp
+local_ip = 192.168.4.2
+local_port = 80
+remote_port = 10002
 
 
 
