@@ -8,6 +8,8 @@ async function handleRequest(request) {
   const DataURL = 'https://ping0.cc';
   const DelayURL = 'https://zhale.me';
   const WebRTCURL = 'https://www.browserscan.net/zh/webrtc';
+  const M3u8URL = 'http://tonkiang.us';
+  const M3u8PlaybackURL = 'https://m3u8.haoss.eu.org';
   const ConversionURL = 'https://cn.haoss.eu.org';
   const FreeTVURL = 'https://tv.haoss.eu.org';
   const ChatURL = 'https://chat.haoss.eu.org';
@@ -16,7 +18,6 @@ async function handleRequest(request) {
   const VideoPlayerURL = 'https://jx.playerjy.com';
   const BilibiliURL = 'https://www.bilibili.com';
   const PansouURL = 'https://so.252035.xyz';
-  const QuarkURL = 'https://pan.quark.cn';
   const MusicURL = 'http://music.alger.fun';
   const NewsURL = 'https://news.163.com/domestic';
   const EconomyURL = 'https://zh.tradingeconomics.com';
@@ -179,6 +180,8 @@ async function handleRequest(request) {
           <a href="${DataURL}" class="details-link">IP Data</a>
           <a href="${DelayURL}" class="details-link">IP Delay</a>
           <a href="${WebRTCURL}" class="details-link">WebRTC</a>
+          <a href="${M3u8URL}" class="details-link">M3u8</a>
+          <a href="${M3u8PlaybackURL}" class="details-link">M3u8 Playback</a>
           <a href="${ConversionURL}" class="details-link">Conversion</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
@@ -186,7 +189,6 @@ async function handleRequest(request) {
           <a href="${VideoURL}" class="details-link">Video</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
-          <a href="${QuarkURL}" class="details-link">Quark</a>
           <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${NewsURL}" class="details-link">News</a>
           <a href="${EconomyURL}" class="details-link">Economy</a>
