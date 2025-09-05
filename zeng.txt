@@ -249,19 +249,16 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 sudo ./install-frps.sh uninstall
 
+[common]
 serverAddr = "154.12.85.112"
 serverPort = 4444
-auth.token = "1234567890"
+auth_token = "1234567890"
 
-log.level = "info"
-log.to = "console"
-
-[[proxies]]
-name = "A"
-type = "tcp"
-localIP = "192.168.4.1"
-localPort = 80
-remotePort = 10001
+[A]
+type = tcp
+local_ip = 192.168.4.1
+local_port = 80
+remote_port = 10001
 
 
 
