@@ -280,3 +280,15 @@ Alist + Openlist：
 <script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js"></script>
 
 
+
+Pansou：
+
+docker run -d --name pansou -p 52000:80 ghcr.io/fish2018/pansou-web
+
+
+
+SSH-5032：
+
+docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
+
+
