@@ -67,6 +67,8 @@ A：80-10101-10201    iStoreOS：80-10102-10202    Openlist：5244-10103-10203  
 
 Subscription Conversion：https://psub.888005.xyz    https://mr.mk    edge-mqtt.facebook.com    4949    ajax.cloudflare.com
 
+Kooya：https://www.kooya.hk
+
 BandwagonHost：https://bwh81.net
 
 Lightlayer：https://account.lightlayer.net
