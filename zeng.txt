@@ -250,11 +250,12 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 sudo ./install-frps.sh uninstall
 
 [common]
-serverAddr = "154.12.85.112"
-serverPort = 4444
-auth_token = "1234567890"
+server_addr = 154.12.85.112
+server_port = 4444
+auth_token = 1234567890
+protocol = tcp
 
-[A]
+[web_server]
 type = tcp
 local_ip = 192.168.4.1
 local_port = 80
