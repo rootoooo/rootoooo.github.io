@@ -153,8 +153,6 @@ FinalShell：https://www.hostbuf.com
 
 Frps：https://github.com/luckjiawei/frpc-desktop/releases
 
-Frp-Android：https://github.com/AceDroidX/frp-Android/releases
-
 VNC：https://github.com/gujjwal00/avnc/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
@@ -248,24 +246,6 @@ sudo ./install-frps.sh install
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 sudo ./install-frps.sh uninstall
-
-[common]
-server_addr = 154.12.85.112
-server_port = 4444
-auth_token = 1234567890
-protocol = tcp
-
-[A]
-type = tcp
-local_ip = 192.168.4.1
-local_port = 80
-remote_port = 10001
-
-[B]
-type = tcp
-local_ip = 192.168.4.2
-local_port = 80
-remote_port = 10002
 
 
 
