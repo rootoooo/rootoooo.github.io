@@ -249,6 +249,21 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 sudo ./install-frps.sh uninstall
 
+serverAddr = "1"
+serverPort = 4
+token = "1"
+dnsServer = "114.114.114.114"
+
+[log]
+level = "debug"
+disablePrintColor = true
+
+[A]
+type = "tcp"
+local_ip = "192.168.4.1"
+local_port = 80
+remote_port = 10001
+
 
 
 Alist + Openlist：
