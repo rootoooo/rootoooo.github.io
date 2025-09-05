@@ -65,11 +65,9 @@ AIzaSyDEoU0AcDZdpB6pEQuBKQpyThaR4sHHm2Y    AIzaSyAZpSQU7n-trkxkchV4vR2I4TS73mviq
 
 A：80-10101-10201    iStoreOS：80-10102-10202    Openlist：5244-10103-10203    128G：6086-10104-10204    VNC：5900-10105-10205
 
-Subscription Conversion：https://psub.888005.xyz    https://mr.mk    edge-mqtt.facebook.com    ajax.cloudflare.com
+Subscription Conversion：https://psub.888005.xyz    https://mr.mk    edge-mqtt.facebook.com
 
 vless://d9c5eab8-5770-44fd-a465-435b863e81a1@1:1?type=grpc&serviceName=&authority=&security=reality&pbk=sluIiXp7tTwMVf1X4ESW6u36vt6JJWuZcgsGArRy0Hw&fp=chrome&sni=www.tesla.com&sid=29582022&spx=%2F#US
-
-vless://c8c5f2ed-f723-46d1-b651-5358af50328b@1:1?type=grpc&serviceName=&authority=&security=reality&pbk=ed8njSKf4AGenZeksDLcdi5QeFjW7Z6ZEMDlOmwoFiM&fp=chrome&sni=www.tesla.com&sid=66&spx=%2F#HK
 
 BandwagonHost：https://bwh81.net
 
