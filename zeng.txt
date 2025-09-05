@@ -193,19 +193,11 @@ Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules
 
 https://whatshub.top/module/YouTubeAd.sgmodule
 
-Windows+Shift+S    Win+R→shell:startup    https/cn.pornhub.com    https/91md.ws    https/javrate.com
+Windows+Shift+S    Win+R→shell:startup
 
 MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
-
-
-
-echo -e "nameserver 154.12.177.22
-
-nameserver 1.1.1.1" > /etc/resolv.conf
-
-echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 ssh  root@1.1.1.1 -p 22    ssh-keygen -R 1.1.1.1    top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
