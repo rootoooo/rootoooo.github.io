@@ -278,15 +278,3 @@ Alist + Openlist：
 <script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js"></script>
 
 
-
-IPTV：
-
-bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
-
-curl -L https://yang-1989.eu.org/NoobIPTV.sh -o NoobIPTV.sh
-
-chmod +x NoobIPTV.sh
-
-./NoobIPTV.sh
-
-
