@@ -65,11 +65,11 @@ AIzaSyDEoU0AcDZdpB6pEQuBKQpyThaR4sHHm2Y    AIzaSyAZpSQU7n-trkxkchV4vR2I4TS73mviq
 
 A：80-10101-10201    iStoreOS：80-10102-10202    Openlist：5244-10103-10203    128G：6086-10104-10204    VNC：5900-10105-10205
 
-Subscription Conversion：https://psub.888005.xyz    https://mr.mk    edge-mqtt.facebook.com    4949    ajax.cloudflare.com
+Subscription Conversion：https://psub.888005.xyz    https://mr.mk    edge-mqtt.facebook.com    ajax.cloudflare.com
 
-vless://c8c5f2ed-f723-46d1-b651-5358af50328b@154.12.85.112:49999?type=grpc&serviceName=&authority=&security=reality&pbk=y9PeOuLZ-uMrA4MAR-92X5GpwrpYULh7bVAjas9VjAk&fp=chrome&sni=www.airbnb.com&sid=66&spx=%2F#HK
+vless://c8c5f2ed-f723-46d1-b651-5358af50328b@154.12.85.112:52140?type=grpc&serviceName=&authority=&security=reality&pbk=hAwxI7IperurAhzckUVv5eRXpoKY52opR0c-fAZrlVA&fp=chrome&sni=www.airbnb.com&sid=66&spx=%2F#HK
 
-hysteria2://1234567890@154.12.85.112:4949?sni=ajax.cloudflare.com&insecure=1&obfs=salamander&obfs-password=1234567890#HK
+hysteria2://1@154.12.85.112:11111?sni=ajax.cloudflare.com&insecure=1&obfs=salamander&obfs-password=1#HK
 
 BandwagonHost：https://bwh81.net
 
