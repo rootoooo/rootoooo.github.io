@@ -286,3 +286,29 @@ SSH-5032：
 docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
 
 
+
+Mirror SiteProxy-5006：
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+source ~/.bashrc
+nvm install v22
+
+git clone https://github.com/netptop/siteproxy.git
+
+cd siteproxy
+
+node bundle.cjs
+
+config.json：
+{
+   "proxy_url": "https://your-proxy.domain.name", // 替换为HTTPS加你的代理服务器域名，确保使用 https
+   "token_prefix": "/user-SetYourPasswordHere/",  // 设置网站密码，用于防止非法访问，首尾的斜杠必须保留。为空表示不设置密码
+   "local_listen_port": 5006, // 不要修改，以确保与 nginx 配置一致
+   "description": "注意：token_prefix 相当于网站密码，请谨慎设置。 proxy_url 和 token_prefix 合起来就是访问网址。"
+}
+
+npm install -g forever
+
+forever stopall && forever start bundle.cjs
+
+
