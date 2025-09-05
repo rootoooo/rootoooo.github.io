@@ -215,7 +215,7 @@ Docker + Docker Compose + Nginx：
 
 sudo apt install git -y && git clone https://github.com/slobys/npm.git && cd npm && chmod +x npm.sh && ./npm.sh
 
-
+admin@example.com    changeme
 
 
 
