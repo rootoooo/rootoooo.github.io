@@ -67,9 +67,9 @@ A：80-10101-10201    iStoreOS：80-10102-10202    Openlist：5244-10103-10203  
 
 Subscription Conversion：https://psub.888005.xyz    https://mr.mk    edge-mqtt.facebook.com    ajax.cloudflare.com
 
-vless://c8c5f2ed-f723-46d1-b651-5358af50328b@154.12.85.112:52140?type=grpc&serviceName=&authority=&security=reality&pbk=hAwxI7IperurAhzckUVv5eRXpoKY52opR0c-fAZrlVA&fp=chrome&sni=www.airbnb.com&sid=66&spx=%2F#HK
+vless://c8c5f2ed-f723-46d1-b651-5358af50328b@1:52140?type=grpc&serviceName=&authority=&security=reality&pbk=hAwxI7IperurAhzckUVv5eRXpoKY52opR0c-fAZrlVA&fp=chrome&sni=www.airbnb.com&sid=66&spx=%2F#HK
 
-hysteria2://1@154.12.85.112:1?sni=ajax.cloudflare.com&insecure=1&obfs=salamander&obfs-password=1#HK
+hysteria2://1@1:1?sni=ajax.cloudflare.com&insecure=1&obfs=salamander&obfs-password=1#HK
 
 BandwagonHost：https://bwh81.net
 
@@ -201,7 +201,7 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
-ssh  root@154.12.85.112 -p 22    ssh-keygen -R "[154.12.85.112]:22"    top    kill XXX    kill -9 XXX    ps aux | grep XXX
+ssh  root@1.1.1.1 -p 22    ssh-keygen -R "[1.1.1.1]:22"    top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
 VPS Version：arch
 
