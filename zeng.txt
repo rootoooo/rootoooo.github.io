@@ -209,6 +209,8 @@ echo -e "nameserver 1.1.1.1" > /etc/resolv.conf
 
 ssh  root@1.1.1.1 -p 22    top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
+bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
+
 VPS Version：arch
 
 Turn off the firewall：sudo ufw disable
