@@ -5,12 +5,7 @@ addEventListener('fetch', event => {
 async function handleRequest(request) {
   const ip = request.headers.get('CF-Connecting-IP') || '未知';
   const country = request.headers.get('CF-IPCountry') || '未知';
-  const DataURL = 'https://ping0.cc';
-  const DelayURL = 'https://zhale.me';
-  const WebRTCURL = 'https://www.browserscan.net/zh/webrtc';
-  const M3u8URL = 'http://tonkiang.us';
-  const M3u8PlaybackURL = 'https://m3u8.haoss.eu.org';
-  const ConversionURL = 'https://cn.haoss.eu.org';
+  const EconomyURL = 'https://zh.tradingeconomics.com';
   const FreeTVURL = 'https://tv.haoss.eu.org';
   const ChatURL = 'https://chat.haoss.eu.org';
   const GeminiURL = 'https://gemini.google.com';
@@ -20,7 +15,6 @@ async function handleRequest(request) {
   const PansouURL = 'https://so.252035.xyz';
   const MusicURL = 'http://music.alger.fun';
   const NewsURL = 'https://news.163.com/domestic';
-  const EconomyURL = 'https://zh.tradingeconomics.com';
 
   const html = `
     <!DOCTYPE html>
@@ -149,12 +143,7 @@ async function handleRequest(request) {
         <p><strong>IP:</strong> ${ip}</p>
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
-          <a href="${DataURL}" class="details-link">IP Data</a>
-          <a href="${DelayURL}" class="details-link">IP Delay</a>
-          <a href="${WebRTCURL}" class="details-link">WebRTC</a>
-          <a href="${M3u8URL}" class="details-link">M3u8</a>
-          <a href="${M3u8PlaybackURL}" class="details-link">M3u8 Playback</a>
-          <a href="${ConversionURL}" class="details-link">Conversion</a>
+          <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
           <a href="${GeminiURL}" class="details-link">Gemini</a>
@@ -163,7 +152,6 @@ async function handleRequest(request) {
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${NewsURL}" class="details-link">News</a>
-          <a href="${EconomyURL}" class="details-link">Economy</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP Port" />
@@ -241,4 +229,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
