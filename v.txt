@@ -1,2 +1,2 @@
-vless://af02c6fc-a51a-48b5-b823-a3424da814cd@154.12.85.112:168?type=grpc&serviceName=&authority=&security=reality&pbk=TsYVJm8-SicQBK1PN6x6Z8U-HwawohKErxyimQbrL14&fp=chrome&sni=www.tesla.com&sid=e921a463&spx=%2F#HK
+AIzaSyAZpSQU7n-trkxkchV4vR2I4TS73mviqZM
 
