@@ -93,30 +93,16 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
-        .custom-input-container {
+        .translate-input-container {
           margin-top: 20px;
         }
-        .custom-input-container input {
+        .translate-input-container input {
           font-size: 16px;
           padding: 8px;
           width: 200px;
           margin-right: 10px;
         }
-        .custom-input-container button {
-          font-size: 16px;
-          padding: 8px 16px;
-          cursor: pointer;
-        }
-        .docker-search-input-container {
-          margin-top: 20px;
-        }
-        .docker-search-input-container input {
-          font-size: 16px;
-          padding: 8px;
-          width: 200px;
-          margin-right: 10px;
-        }
-        .docker-search-input-container button {
+        .translate-input-container button {
           font-size: 16px;
           padding: 8px 16px;
           cursor: pointer;
@@ -161,13 +147,9 @@ async function handleRequest(request) {
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
         </div>
-        <div class="custom-input-container">
-          <input type="text" id="custom-input" placeholder="GitHub" />
-          <button onclick="goToCustom()">Go</button>
-        </div>
-        <div class="docker-search-input-container">
-          <input type="text" id="docker-search-input" placeholder="Docker" />
-          <button onclick="goToDockerSearch()">Go</button>
+        <div class="translate-input-container">
+          <input type="text" id="translate-input" placeholder="Translate" />
+          <button onclick="goToTranslate()">Go</button>
         </div>
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
@@ -194,21 +176,12 @@ async function handleRequest(request) {
           }
         }
 
-        function goToCustom() {
-          const customUrl = document.getElementById('custom-input').value;
-          if (customUrl) {
-            window.location.href = 'https://github.haoss.eu.org/' + encodeURIComponent(customUrl);
+        function goToTranslate() {
+          const translateText = document.getElementById('translate-input').value;
+          if (translateText) {
+            window.location.href = 'https://cf.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&text=' + encodeURIComponent(translateText);
           } else {
-            alert('GitHub');
-          }
-        }
-
-        function goToDockerSearch() {
-          const dockerImageName = document.getElementById('docker-search-input').value;
-          if (dockerImageName) {
-            window.location.href = 'https://docker.haoss.eu.org/search?q=' + encodeURIComponent(dockerImageName);
-          } else {
-            alert('Docker');
+            alert('Translate');
           }
         }
 
