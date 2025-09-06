@@ -8,12 +8,9 @@ async function handleRequest(request) {
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const FreeTVURL = 'https://tv.haoss.eu.org';
   const ChatURL = 'https://chat.haoss.eu.org';
-  const GeminiURL = 'https://gemini.google.com';
-  const YouTubeURL = 'https://www.youtube.com';
-  const VideoPlayerURL = 'https://jx.playerjy.com';
-  const BilibiliURL = 'https://www.bilibili.com';
   const PansouURL = 'https://so.252035.xyz';
   const MusicURL = 'http://music.alger.fun';
+  const BilibiliURL = 'https://www.bilibili.com';
   const NewsURL = 'https://news.163.com/domestic';
 
   const html = `
@@ -132,11 +129,9 @@ async function handleRequest(request) {
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
-          <a href="${GeminiURL}" class="details-link">Gemini</a>
-          <a href="${YouTubeURL}" class="details-link">YouTube</a>
-          <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${MusicURL}" class="details-link">Music</a>
+          <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
         <div class="input-container">
