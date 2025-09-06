@@ -227,7 +227,7 @@ async function handleRequest(request) {
         function goToStartpage() {
           const startpageQuery = document.getElementById('startpage-input').value;
           if (startpageQuery) {
-            window.location.href = 'https://mirror.haoss.eu.org/oooo/https/www.startpage.com/search?q=' + encodeURIComponent(startpageQuery);
+            window.location.href = 'https://cf.haoss.eu.org/oooo/https/www.startpage.com/search?q=' + encodeURIComponent(startpageQuery);
           } else {
             alert('Startpage');
           }
@@ -241,3 +241,4 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
+
