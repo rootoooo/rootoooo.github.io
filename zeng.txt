@@ -67,8 +67,6 @@ A：80-10101-10201    iStoreOS：80-10102-10202    Openlist：5244-10103-10203  
 
 Subscription Conversion：https://psub.888005.xyz    https://mr.mk
 
-vless://d9c5eab8-5770-44fd-a465-435b863e81a1@1:1?type=grpc&serviceName=&authority=&security=reality&pbk=sluIiXp7tTwMVf1X4ESW6u36vt6JJWuZcgsGArRy0Hw&fp=chrome&sni=www.tesla.com&sid=29582022&spx=%2F#US
-
 BandwagonHost：https://bwh81.net
 
 Lightlayer：https://account.lightlayer.net
