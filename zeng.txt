@@ -259,6 +259,18 @@ docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt m
 
 
 
+ChatGPT Mirror-50002：
+
+cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
+
+cd ChatGPT-Mirror/
+
+cp .env.example .env && vi .env
+
+./deploy.sh
+
+
+
 Mirror SiteProxy-5006：
 
 git clone https://github.com/rootoooo/siteproxy.git
