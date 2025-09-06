@@ -345,6 +345,8 @@ http://bxtv.3a.ink/api.php?id=tvbp
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 group-title="Global" ,周星驰
 http://cfss.cc/cdn/hy/11342412.m3u8
+#EXTINF:-1 group-title="Global" ,赵本山
+http://iptv.jxpan.vip:18888/aio/douyu/9817716
 #EXTINF:-1 group-title="Global" ,HongKong Chinese
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="Global" ,HongKong News
@@ -415,6 +417,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="Global" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 
 
 
