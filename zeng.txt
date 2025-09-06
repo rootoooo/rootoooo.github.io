@@ -217,14 +217,6 @@ www.airbnb.com www.tesla.com www.nvidia.com www.sap.com
 
 
 
-Hysteria2：
-
-curl -fsSL https://raw.githubusercontent.com/rootoooo/hysteria2/refs/heads/main/quick-install.sh | sudo bash
-
-sudo s-hy2
-
-
-
 Frp：
 
 wget https://raw.githubusercontent.com/rootoooo/frp/refs/heads/main/install-frps.sh -O ./install-frps.sh
