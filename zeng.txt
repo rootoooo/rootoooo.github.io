@@ -270,13 +270,3 @@ cp .env.example .env && vi .env
 ./deploy.sh
 
 
-
-Mirror SiteProxy-5006：
-
-git clone https://github.com/rootoooo/siteproxy.git
-
-cd siteproxy/docker-node
-
-sudo docker compose up
-
-
