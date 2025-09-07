@@ -91,13 +91,9 @@ GitHub Tokens：https://github.com/settings/personal-access-tokens
 
 GitHub Code：https://github.com/search?q=&type=code
 
-ClawCloud Alist：https://run.claw.cloud
-
-OpenList：https://github.com/OpenListTeam/OpenList
+SSH：https://github.com/Jrohy/webssh
 
 Pansou：https://github.com/fish2018/pansou
-
-SSH：https://github.com/Jrohy/webssh
 
 LibreTV：https://github.com/LibreSpark/LibreTV
 
@@ -148,6 +144,8 @@ Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 Termius：https://github.com/alongw/Termius-zh_CN/releases
 
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
+
+NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
 
 V2rayN：https://github.com/2dust/v2rayn/releases
 
@@ -237,15 +235,21 @@ Alist + Openlist：
 
 
 
+SSH-5032：
+
+docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
+
+
+
 Pansou：
 
 docker run -d --name pansou -p 52000:80 ghcr.io/fish2018/pansou-web
 
 
 
-SSH-5032：
+LibreTV：
 
-docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
+docker run -d --name libretv --restart unless-stopped -p 52001:8080 -e PASSWORD=666666 bestzwei/libretv:latest
 
 
 
