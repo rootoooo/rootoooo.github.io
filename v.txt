@@ -1,2 +1,4 @@
-AIzaSyAZpSQU7n-trkxkchV4vR2I4TS73mviqZM
+vless://d9c5eab8-5770-44fd-a465-435b863e81a1@40:40?type=grpc&serviceName=&authority=&security=reality&pbk=sluIiXp7tTwMVf1X4ESW6u36vt6JJWuZcgsGArRy0Hw&fp=chrome&sni=www.tesla.com&sid=29582022&spx=%2F#US
+
+vless://af02c6fc-a51a-48b5-b823-a3424da814cd@154.12.85.112:168?type=grpc&serviceName=&authority=&security=reality&pbk=TsYVJm8-SicQBK1PN6x6Z8U-HwawohKErxyimQbrL14&fp=chrome&sni=www.tesla.com&sid=e921a463&spx=%2F#HK
 
