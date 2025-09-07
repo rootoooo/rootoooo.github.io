@@ -65,7 +65,7 @@ AIzaSyDEoU0AcDZdpB6pEQuBKQpyThaR4sHHm2Y    AIzaSyAZpSQU7n-trkxkchV4vR2I4TS73mviq
 
 A：80-10101-10201    iStoreOS：80-10102-10202    Openlist：5244-10103-10203    128G：6086-10104-10204    VNC：5900-10105-10205
 
-*.cloudflare.182682.xyz    115155.xyz    cdn.2020111.xyz
+*.cloudflare.182682.xyz    115155.xyz
 
 https://ping0.cc    https://zhale.me    https://www.browserscan.net/zh/webrtc    http://tonkiang.us    https://sankei.mo/z.html    https://profile.aptv.app
 
