@@ -109,6 +109,8 @@ Chatbox：https://github.com/chatboxai/chatbox
 
 Openai-gemini：https://github.com/PublicAffairs/openai-gemini
 
+VPS：https://github.com/komari-monitor/komari/tree/main
+
 Gemini Chat：https://github.com/tech-shrimp/gemini-playground
 
 Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
