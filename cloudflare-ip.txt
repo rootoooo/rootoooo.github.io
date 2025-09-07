@@ -7,7 +7,9 @@ async function handleRequest(request) {
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const FreeTVURL = 'https://tv.haoss.eu.org';
+  const ProxyRL = 'https://proxy.haoss.eu.org/oooo/https/youtube.com';
   const ChatURL = 'https://chat.haoss.eu.org';
+  const ChatBoxURL = 'https://web.chatboxai.app';
   const PansouURL = 'https://so.252035.xyz';
   const MusicURL = 'http://music.alger.fun';
   const BilibiliURL = 'https://www.bilibili.com';
@@ -128,7 +130,9 @@ async function handleRequest(request) {
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
+          <a href="${ProxyRL}" class="details-link">Proxy</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
+          <a href="${ChatBoxURL}" class="details-link">ChatBox</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
@@ -174,7 +178,7 @@ async function handleRequest(request) {
         function goToTranslate() {
           const translateText = document.getElementById('translate-input').value;
           if (translateText) {
-            window.location.href = 'https://proxy.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&op=translate' + encodeURIComponent(translateText);
+            window.location.href = 'https://cf.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&op=translate' + encodeURIComponent(translateText);
           } else {
             alert('Translate');
           }
