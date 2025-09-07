@@ -271,8 +271,14 @@ Mirror SiteProxy：：
 
 git clone https://github.com/rootoooo/siteproxy.git
 
-cd siteproxy/docker-node
+{
+  "proxy_url": "https://proxy.haoss.eu.org",
+  "token_prefix": "/oooo/",
+  "local_listen_port": 5006,
+  "local_listen_ip": "0.0.0.0",
+  "description": "注意：token_prefix 相当于网站密码，请谨慎设置。 proxy_url 和 token_prefix 合起来就是访问网址。"
+}
 
-sudo docker compose up
+cd siteproxy && sudo docker compose up
 
 
