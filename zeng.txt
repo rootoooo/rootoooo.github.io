@@ -276,3 +276,11 @@ git clone https://github.com/rootoooo/siteproxy.git
 cd siteproxy && sudo docker compose up
 
 
+
+VPS-8083：
+
+curl -fsSL https://raw.githubusercontent.com/rootoooo/vps/refs/heads/main/install.sh -o install.sh
+chmod +x install-komari.sh
+sudo ./install-komari.sh
+
+
