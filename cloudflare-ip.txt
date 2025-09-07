@@ -7,9 +7,7 @@ async function handleRequest(request) {
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const FreeTVURL = 'https://tv.haoss.eu.org';
-  const ProxyRL = 'https://proxy.haoss.eu.org/oooo/https/youtube.com';
   const ChatURL = 'https://chat.haoss.eu.org';
-  const ChatBoxURL = 'https://web.chatboxai.app';
   const PansouURL = 'https://so.252035.xyz';
   const MusicURL = 'http://music.alger.fun';
   const BilibiliURL = 'https://www.bilibili.com';
@@ -92,16 +90,16 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
-        .translate-input-container {
+        .content-input-container {
           margin-top: 20px;
         }
-        .translate-input-container input {
+        .content-input-container input {
           font-size: 16px;
           padding: 8px;
           width: 200px;
           margin-right: 10px;
         }
-        .translate-input-container button {
+        .content-input-container button {
           font-size: 16px;
           padding: 8px 16px;
           cursor: pointer;
@@ -130,9 +128,7 @@ async function handleRequest(request) {
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${FreeTVURL}" class="details-link">Free TV</a>
-          <a href="${ProxyRL}" class="details-link">Proxy</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
-          <a href="${ChatBoxURL}" class="details-link">ChatBox</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
@@ -146,9 +142,9 @@ async function handleRequest(request) {
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
         </div>
-        <div class="translate-input-container">
-          <input type="text" id="translate-input" placeholder="Translate" />
-          <button onclick="goToTranslate()">Go</button>
+        <div class="content-input-container">
+          <input type="text" id="content-input" placeholder="Content" />
+          <button onclick="goToContent()">Go</button>
         </div>
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
@@ -175,12 +171,12 @@ async function handleRequest(request) {
           }
         }
 
-        function goToTranslate() {
-          const translateText = document.getElementById('translate-input').value;
-          if (translateText) {
-            window.location.href = 'https://cf.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&op=translate' + encodeURIComponent(translateText);
+        function goToContent() {
+          const contentText = document.getElementById('content-input').value;
+          if (contentText) {
+            window.location.href = 'https://proxy.haoss.eu.org/oooo/https/youtube.com/results?search_query=' + encodeURIComponent(contentText);
           } else {
-            alert('Translate');
+            alert('Content');
           }
         }
 
