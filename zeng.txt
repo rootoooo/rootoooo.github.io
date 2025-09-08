@@ -155,10 +155,6 @@ Termius：https://github.com/alongw/Termius-zh_CN/releases
 
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
 
-NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
-
-FreeTube：https://github.com/FreeTubeApp/FreeTube/releases
-
 V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
