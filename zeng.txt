@@ -123,8 +123,6 @@ Github Time：https://api.github.com/users/XXX
 
 VPS：https://github.com/komari-monitor/komari/tree/main
 
-Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
-
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
@@ -134,6 +132,10 @@ TVBox Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/qist/
 M3u Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+
+Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
+
+TikTok：https://github.com/mentalblank/Tiktok-Revanced/releases
 
 SMS：https://sms-activate.org/getNumber
 
