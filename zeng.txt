@@ -115,6 +115,8 @@ Openai-gemini：https://github.com/PublicAffairs/openai-gemini
 
 Gemini Chat：https://github.com/tech-shrimp/gemini-playground
 
+Gemini-balance：https://github.com/snailyp/gemini-balance
+
 Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
 
 Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini
@@ -280,5 +282,17 @@ Mirror SiteProxy：：
 git clone https://github.com/rootoooo/siteproxy.git
 
 cd siteproxy && sudo docker compose up
+
+
+
+Gemini-balance：
+
+docker pull ghcr.io/snailyp/gemini-balance:latest
+
+cd gemini-balance/
+
+cp .env.example .env && vi .env
+
+docker run -d -p 8000:8000 --name gemini-balance -v ./data:/app/data --env-file .env ghcr.io/snailyp/gemini-balance:latest
 
 
