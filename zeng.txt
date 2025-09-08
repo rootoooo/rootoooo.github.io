@@ -103,6 +103,8 @@ Pansou：https://github.com/fish2018/pansou
 
 LibreTV：https://github.com/LibreSpark/LibreTV
 
+VPS：https://github.com/komari-monitor/komari/tree/main
+
 Frp：https://github.com/mvscode/frps-onekey
 
 ChatGPT Mirror：https://github.com/dairoot/ChatGPT-Mirror
@@ -124,8 +126,6 @@ Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini
 Gemini API：https://aistudio.google.com
 
 Github Time：https://api.github.com/users/XXX
-
-VPS：https://github.com/komari-monitor/komari/tree/main
 
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
