@@ -67,8 +67,6 @@ AIzaSyAZpSQU7n-trkxkchV4vR2I4TS73mviqZM    AIzaSyBl_HT1vB5TTvmHCIcLxZ_yFBr7J41Cy
 
 A：80-10101-10201    iStoreOS：80-10102-10202    Openlist：5244-10103-10203    128G：6086-10104-10204    VNC：5900-10105-10205
 
-115155.xyz    cloudflare.182682.xyz    http://iptv.jxpan.vip:18888/aio/douyu/9817716    http://cfss.cc/cdn/hy/11342412.m3u8
-
 https://ping0.cc    https://zhale.me    https://www.browserscan.net/zh/webrtc    http://tonkiang.us    https://sankei.mo/z.html    https://profile.aptv.app
 
 Subscription Conversion：https://psub.888005.xyz
@@ -97,11 +95,7 @@ GitHub Tokens：https://github.com/settings/personal-access-tokens
 
 GitHub Code：https://github.com/search?q=&type=code
 
-SSH：https://github.com/Jrohy/webssh
-
 Pansou：https://github.com/fish2018/pansou
-
-LibreTV：https://github.com/LibreSpark/LibreTV
 
 VPS：https://github.com/komari-monitor/komari/tree/main
 
@@ -243,21 +237,9 @@ Alist + Openlist：
 
 
 
-SSH-5032：
-
-docker run -d --net=host --log-driver json-file --log-opt max-file=1 --log-opt max-size=100m --restart always --name webssh -e TZ=Asia/Shanghai jrohy/webssh
-
-
-
 Pansou：
 
 docker run -d --name pansou -p 52000:80 ghcr.io/fish2018/pansou-web
-
-
-
-LibreTV：
-
-docker run -d --name libretv --restart unless-stopped -p 52001:8080 -e PASSWORD=666666 bestzwei/libretv:latest
 
 
 
@@ -273,7 +255,7 @@ cp .env.example .env && vi .env
 
 
 
-Mirror SiteProxy：：
+Mirror SiteProxy：
 
 git clone https://github.com/rootoooo/siteproxy.git
 
