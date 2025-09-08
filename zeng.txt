@@ -135,8 +135,6 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 
-X：https://github.com/crimera/twitter-apk/releases
-
 SMS：https://sms-activate.org/getNumber
 
 FinalShell：https://www.hostbuf.com
