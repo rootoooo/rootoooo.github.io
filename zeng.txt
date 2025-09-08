@@ -89,6 +89,8 @@ Mirror APP：https://github.com/tw93/Pake/releases
 
 Mirror SiteProxy：https://github.com/netptop/siteproxy
 
+K-9 Mail：https://github.com/thunderbird/thunderbird-android/releases
+
 GitHub Tokens：https://github.com/settings/personal-access-tokens
 
 GitHub Code：https://github.com/search?q=&type=code
@@ -109,17 +111,19 @@ Chatbox：https://github.com/chatboxai/chatbox
 
 Openai-gemini：https://github.com/PublicAffairs/openai-gemini
 
-VPS：https://github.com/komari-monitor/komari/tree/main
-
 Gemini Chat：https://github.com/tech-shrimp/gemini-playground
+
+Gemini-balance：https://github.com/snailyp/gemini-balance
 
 Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
 
-Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini    Deploy to Cloudflare
+Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini
 
 Gemini API：https://aistudio.google.com
 
 Github Time：https://api.github.com/users/XXX
+
+VPS：https://github.com/komari-monitor/komari/tree/main
 
 Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 
