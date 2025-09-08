@@ -6,10 +6,8 @@ async function handleRequest(request) {
   const ip = request.headers.get('CF-Connecting-IP') || '未知';
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
-  const FreeTVURL = 'https://tv.haoss.eu.org';
   const ChatURL = 'https://chat.haoss.eu.org';
   const PansouURL = 'https://so.252035.xyz';
-  const MusicURL = 'http://music.alger.fun';
   const BilibiliURL = 'https://www.bilibili.com';
   const NewsURL = 'https://news.163.com/domestic';
 
@@ -127,10 +125,8 @@ async function handleRequest(request) {
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
-          <a href="${FreeTVURL}" class="details-link">Free TV</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
-          <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
