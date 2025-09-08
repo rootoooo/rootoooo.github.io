@@ -284,20 +284,3 @@ git clone https://github.com/rootoooo/siteproxy.git
 cd siteproxy && sudo docker compose up
 
 
-
-Gemini-balance：
-
-git clone https://github.com/snailyp/gemini-balance.git
-
-cd gemini-balance
-
-cp .env.example .env && vi .env
-
-API_KEYS=["xxx", "xxx", "xxx"]
-ALLOWED_TOKENS=["123456"]
-DATABASE_TYPE=sqlite
-SQLITE_DATABASE=default_db
-
-docker run -d -p 8000:8000 --name gemini-balance -v ./data:/app/data --env-file .env ghcr.io/snailyp/gemini-balance:latest
-
-
