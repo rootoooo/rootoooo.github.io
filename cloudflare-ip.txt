@@ -9,7 +9,6 @@ async function handleRequest(request) {
   const ChatURL = 'https://chat.haoss.eu.org';
   const PansouURL = 'https://so.252035.xyz';
   const BilibiliURL = 'https://www.bilibili.com';
-  const NewsURL = 'https://news.163.com/domestic';
 
   const html = `
     <!DOCTYPE html>
@@ -88,20 +87,6 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
-        .content-input-container {
-          margin-top: 20px;
-        }
-        .content-input-container input {
-          font-size: 16px;
-          padding: 8px;
-          width: 200px;
-          margin-right: 10px;
-        }
-        .content-input-container button {
-          font-size: 16px;
-          padding: 8px 16px;
-          cursor: pointer;
-        }
         .translate-input-container {
           margin-top: 20px;
         }
@@ -142,7 +127,6 @@ async function handleRequest(request) {
           <a href="${ChatURL}" class="details-link">Chat</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
-          <a href="${NewsURL}" class="details-link">News</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP Port" />
@@ -151,10 +135,6 @@ async function handleRequest(request) {
         <div class="video-input-container">
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
-        </div>
-        <div class="content-input-container">
-          <input type="text" id="content-input" placeholder="Content" />
-          <button onclick="goToContent()">Go</button>
         </div>
         <div class="translate-input-container">
           <input type="text" id="translate-input" placeholder="Translate" />
@@ -182,15 +162,6 @@ async function handleRequest(request) {
             window.location.href = 'https://jx.playerjy.com/?url=' + encodeURIComponent(videoUrl);
           } else {
             alert('Video');
-          }
-        }
-
-        function goToContent() {
-          const contentText = document.getElementById('content-input').value;
-          if (contentText) {
-            window.location.href = 'https://fan2.591118.xyz/Alvin9999/https/www.youtube.com/results?search_query=' + encodeURIComponent(contentText);
-          } else {
-            alert('Content');
           }
         }
         
