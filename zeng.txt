@@ -255,10 +255,10 @@ cp .env.example .env && vi .env
 
 
 
-Mirror SiteProxy：
+Mirror SiteProxy-5006：
 
-git clone https://github.com/rootoooo/siteproxy.git
+git clone https://github.com/rootoooo/cf.git
 
-cd siteproxy && sudo docker compose up
+cd cf && sudo docker compose up
 
 
