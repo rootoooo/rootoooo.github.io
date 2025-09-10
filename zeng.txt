@@ -99,10 +99,6 @@ VPS：https://github.com/komari-monitor/komari/tree/main
 
 Frp：https://github.com/mvscode/frps-onekey
 
-ChatGPT Mirror：https://github.com/dairoot/ChatGPT-Mirror
-
-ChatGPT Token：https://chatgpt.com/api/auth/session
-
 Chatbox：https://github.com/chatboxai/chatbox
 
 Openai-gemini：https://github.com/PublicAffairs/openai-gemini
@@ -242,18 +238,6 @@ Alist + Openlist：
 Pansou：
 
 docker run -d --name pansou -p 52000:80 ghcr.io/fish2018/pansou-web
-
-
-
-ChatGPT Mirror-50002：
-
-cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
-
-cd ChatGPT-Mirror/
-
-cp .env.example .env && vi .env
-
-./deploy.sh
 
 
 
