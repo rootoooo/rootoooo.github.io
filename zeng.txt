@@ -89,8 +89,6 @@ Mirror APP：https://github.com/tw93/Pake/releases
 
 Mirror SiteProxy：https://github.com/netptop/siteproxy
 
-K-9 Mail：https://github.com/thunderbird/thunderbird-android/releases
-
 GitHub Tokens：https://github.com/settings/personal-access-tokens
 
 GitHub Code：https://github.com/search?q=&type=code
@@ -124,6 +122,8 @@ Github Time：https://api.github.com/users/XXX
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
+
+TVBox：https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 TVBox Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
