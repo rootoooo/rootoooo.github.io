@@ -7,6 +7,7 @@ async function handleRequest(request) {
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const ChatURL = 'https://chat.haoss.eu.org';
+  const ChatboxURL = 'https://web.chatboxai.app';
   const PansouURL = 'https://so.252035.xyz';
   const BilibiliURL = 'https://www.bilibili.com';
 
@@ -115,6 +116,21 @@ async function handleRequest(request) {
           padding: 8px 16px;
           cursor: pointer;
         }
+        /* New style for Content input container */
+        .content-input-container {
+          margin-top: 20px;
+        }
+        .content-input-container input {
+          font-size: 16px;
+          padding: 8px;
+          width: 200px;
+          margin-right: 10px;
+        }
+        .content-input-container button {
+          font-size: 16px;
+          padding: 8px 16px;
+          cursor: pointer;
+        }
       </style>
     </head>
     <body>
@@ -125,6 +141,7 @@ async function handleRequest(request) {
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
+          <a href="${ChatboxURL}" class="details-link">Chatbox</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
         </div>
@@ -143,6 +160,11 @@ async function handleRequest(request) {
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
           <button onclick="goToStartpage()">Go</button>
+        </div>
+        <!-- New Content input container added below Startpage -->
+        <div class="content-input-container">
+          <input type="text" id="content-input" placeholder="Content" />
+          <button onclick="goToContent()">Go</button>
         </div>
       </div>
 
@@ -180,6 +202,16 @@ async function handleRequest(request) {
             window.location.href = 'https://cf.haoss.eu.org/oooo/https/www.startpage.com/search?q=' + encodeURIComponent(startpageQuery);
           } else {
             alert('Startpage');
+          }
+        }
+
+        // New function for Content input added below goToStartpage
+        function goToContent() {
+          const contentQuery = document.getElementById('content-input').value;
+          if (contentQuery) {
+            window.location.href = 'https://ppx.haoss.eu.org/oooo/https/www.youtube.com/results?search_query=' + encodeURIComponent(contentQuery);
+          } else {
+            alert('Content');
           }
         }
       </script>
