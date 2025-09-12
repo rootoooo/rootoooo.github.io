@@ -325,34 +325,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="Guangxi Mobile" ,炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="Global" ,凤凰卫视中文台
-http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 group-title="Global" ,凤凰卫视资讯台
-http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 group-title="Global" ,凤凰卫视香港台
-http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1 group-title="Global" ,翡翠台
-http://bxtv.3a.ink/api.php?id=fct
-#EXTINF:-1 group-title="Global" ,明珠台
-http://bxtv.3a.ink/api.php?id=mz
-#EXTINF:-1 group-title="Global" ,无线新闻
-http://bxtv.3a.ink/api.php?id=wxxw
-#EXTINF:-1 group-title="Global" ,TVB Plus
-http://bxtv.3a.ink/api.php?id=tvbp
-#EXTINF:-1 group-title="Global" ,VIUTV
-http://bxtv.3a.ink/api.php?id=viutv
-#EXTINF:-1 group-title="Global" ,NOW News
-http://bxtv.3a.ink/api.php?id=now
-#EXTINF:-1 group-title="Global" ,美亚电影台
-http://bxtv.3a.ink/api.php?id=meiya
-#EXTINF:-1 group-title="Global" ,千禧经典台
-http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 group-title="Global" ,PopC
-http://bxtv.3a.ink/api.php?id=popc
-#EXTINF:-1 group-title="Global" ,myTV SUPER
-http://bxtv.3a.ink/api.php?id=18
-#EXTINF:-1 group-title="Global" ,TW CTI
-http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 group-title="Global" ,HK Chinese
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="Global" ,HK News
@@ -419,6 +391,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="Global" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 
 
 
