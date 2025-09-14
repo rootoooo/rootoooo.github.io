@@ -1,4 +1,8 @@
-AIzaSyBl_HT1vB5TTvmHCIcLxZ_yFBr7J41CyH0
+AIzaSyCoXjbviaQslEbOwL9GoLgz5sw2VH1eZfw
+
+https://aistudio.google.com
+
+https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
 
 https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
 
