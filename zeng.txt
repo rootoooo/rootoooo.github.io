@@ -99,9 +99,9 @@ Gemini Chat：https://github.com/tech-shrimp/gemini-playground
 
 Gemini-balance：https://github.com/snailyp/gemini-balance
 
-Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
-
 Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini
+
+Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
 
 Gemini API：https://aistudio.google.com
 
