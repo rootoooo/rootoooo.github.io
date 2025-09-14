@@ -7,8 +7,8 @@ async function handleRequest(request) {
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const ChatURL = 'https://chat.haoss.eu.org';
-  const ChatboxURL = 'https://web.chatboxai.app';
   const PansouURL = 'https://so.252035.xyz';
+  const MusicURL = 'https://music.gdstudio.xyz'; 
   const BilibiliURL = 'https://www.bilibili.com';
 
   const html = `
@@ -141,8 +141,8 @@ async function handleRequest(request) {
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
-          <a href="${ChatboxURL}" class="details-link">Chatbox</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
+          <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
         </div>
         <div class="input-container">
@@ -209,7 +209,7 @@ async function handleRequest(request) {
         function goToContent() {
           const contentQuery = document.getElementById('content-input').value;
           if (contentQuery) {
-            window.location.href = 'https://ppx.haoss.eu.org/oooo/https/www.youtube.com/results?search_query=' + encodeURIComponent(contentQuery);
+            window.location.href = 'https://us.haoss.eu.org/oooo/https/www.youtube.com/results?search_query=' + encodeURIComponent(contentQuery);
           } else {
             alert('Content');
           }
