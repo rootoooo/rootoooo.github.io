@@ -8,7 +8,6 @@ async function handleRequest(request) {
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const ChatURL = 'https://chat.haoss.eu.org';
   const PansouURL = 'https://so.252035.xyz';
-  const MusicURL = 'https://music.gdstudio.xyz'; 
   const BilibiliURL = 'https://www.bilibili.com';
 
   const html = `
@@ -60,73 +59,19 @@ async function handleRequest(request) {
           text-decoration: underline;
           cursor: pointer;
         }
-        .input-container {
-          margin-top: 20px;
-        }
-        .input-container input {
-          font-size: 16px;
-          padding: 8px;
-          width: 200px;
-          margin-right: 10px;
-        }
-        .input-container button {
-          font-size: 16px;
-          padding: 8px 16px;
-          cursor: pointer;
-        }
-        .video-input-container {
-          margin-top: 20px;
-        }
-        .video-input-container input {
-          font-size: 16px;
-          padding: 8px;
-          width: 200px;
-          margin-right: 10px;
-        }
-        .video-input-container button {
-          font-size: 16px;
-          padding: 8px 16px;
-          cursor: pointer;
-        }
-        .translate-input-container {
-          margin-top: 20px;
-        }
-        .translate-input-container input {
-          font-size: 16px;
-          padding: 8px;
-          width: 200px;
-          margin-right: 10px;
-        }
-        .translate-input-container button {
-          font-size: 16px;
-          padding: 8px 16px;
-          cursor: pointer;
-        }
-        .startpage-input-container {
-          margin-top: 20px;
-        }
-        .startpage-input-container input {
-          font-size: 16px;
-          padding: 8px;
-          width: 200px;
-          margin-right: 10px;
-        }
-        .startpage-input-container button {
-          font-size: 16px;
-          padding: 8px 16px;
-          cursor: pointer;
-        }
-        /* New style for Content input container */
+        .input-container,
+        .video-input-container,
+        .startpage-input-container,
         .content-input-container {
           margin-top: 20px;
         }
-        .content-input-container input {
+        input {
           font-size: 16px;
           padding: 8px;
           width: 200px;
           margin-right: 10px;
         }
-        .content-input-container button {
+        button {
           font-size: 16px;
           padding: 8px 16px;
           cursor: pointer;
@@ -142,7 +87,6 @@ async function handleRequest(request) {
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
-          <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
         </div>
         <div class="input-container">
@@ -153,15 +97,10 @@ async function handleRequest(request) {
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
         </div>
-        <div class="translate-input-container">
-          <input type="text" id="translate-input" placeholder="Translate" />
-          <button onclick="goToTranslate()">Go</button>
-        </div>
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
           <button onclick="goToStartpage()">Go</button>
         </div>
-        <!-- New Content input container added below Startpage -->
         <div class="content-input-container">
           <input type="text" id="content-input" placeholder="Content" />
           <button onclick="goToContent()">Go</button>
@@ -186,15 +125,6 @@ async function handleRequest(request) {
             alert('Video');
           }
         }
-        
-        function goToTranslate() {
-          const translateText = document.getElementById('translate-input').value;
-          if (translateText) {
-            window.location.href = 'https://cf.haoss.eu.org/oooo/https/translate.google.com/?sl=auto&tl=zh-CN&text=' + encodeURIComponent(translateText);
-          } else {
-            alert('Translate');
-          }
-        }
 
         function goToStartpage() {
           const startpageQuery = document.getElementById('startpage-input').value;
@@ -205,7 +135,6 @@ async function handleRequest(request) {
           }
         }
 
-        // New function for Content input added below goToStartpage
         function goToContent() {
           const contentQuery = document.getElementById('content-input').value;
           if (contentQuery) {
