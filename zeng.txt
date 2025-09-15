@@ -242,17 +242,3 @@ git clone https://github.com/rootoooo/cf.git
 cd cf && sudo docker compose up
 
 
-
-DD：
-
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh
-
-https://dl.lamp.sh/vhd
-
-bash reinstall.sh dd --img "https://dl.lamp.sh/vhd/tiny10_23h2.xz" --rdp-port 3820
-
-reboot
-
-Administrator   Teddysun.com
-
-
