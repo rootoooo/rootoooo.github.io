@@ -149,7 +149,7 @@ iStoreOS：https://github.com/AUK9527/Are-u-ok/blob/main/apps/README.md
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
-https://anti-ad.net/adguard.txt    https://github.haoss.eu.org/raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt    https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+https://anti-ad.net/adguard.txt    https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
 Fancyss：https://github.com/hq450/fancyss
 
