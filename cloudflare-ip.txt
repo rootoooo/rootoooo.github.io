@@ -7,10 +7,10 @@ async function handleRequest(request) {
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const ChatURL = 'https://chat.haoss.eu.org';
-  const LobeChatURL = 'https://lobechat.com/';
   const QuarkURL = 'https://pan.quark.cn';
   const PansouURL = 'https://so.252035.xyz';
   const BilibiliURL = 'https://www.bilibili.com';
+  const MusicURL = 'https://music.gdstudio.xyz';
   const NewsURL = 'https://news.163.com/domestic';
 
   const html = `
@@ -89,10 +89,10 @@ async function handleRequest(request) {
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
-          <a href="${LobeChatURL}" class="details-link">LobeChat</a>
           <a href="${QuarkURL}" class="details-link">Quark</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
+          <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
         <div class="input-container">
@@ -158,4 +158,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
