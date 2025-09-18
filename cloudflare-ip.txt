@@ -6,7 +6,7 @@ async function handleRequest(request) {
   const ip = request.headers.get('CF-Connecting-IP') || '未知';
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
-  const OleCinemaURL = 'https://cf.haoss.eu.org/oooo/https/www.olevod.com/nav/%E8%BF%9E%E7%BB%AD%E5%89%A7/%E5%85%A8%E9%83%A8%E5%9C%B0%E5%8C%BA/%E5%85%A8%E9%83%A8%E5%B9%B4%E4%BB%BD/%E5%9B%BD%E4%BA%A7%E5%89%A7/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E6%9C%80%E6%96%B0.html';
+  const OleURL = 'https://cf.haoss.eu.org/oooo/https/www.olevod.com';
   const ChatURL = 'https://chat.haoss.eu.org';
   const AiURL = 'https://ai.haoss.eu.org';
   const OpenlistURL = 'https://video.haoss.eu.org';
@@ -90,7 +90,7 @@ async function handleRequest(request) {
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
-          <a href="${OleCinemaURL}" class="details-link">Ole Cinema</a>
+          <a href="${OleURL}" class="details-link">Ole</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
           <a href="${AiURL}" class="details-link">Ai</a>
           <a href="${OpenlistURL}" class="details-link">Openlist</a>
@@ -162,3 +162,4 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
+
