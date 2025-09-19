@@ -105,6 +105,8 @@ Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#fre
 
 Gemini API：https://aistudio.google.com
 
+ChatGPT Token：https://chatgpt.com/api/auth/session
+
 Github Time：https://api.github.com/users/XXX
 
 Voice Cloning：https://github.com/jianchang512/clone-voice
