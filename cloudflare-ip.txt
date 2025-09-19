@@ -31,7 +31,7 @@ async function handleRequest(request) {
           display: flex;
           justify-content: center;
           align-items: center;
-          background: url('https://github.com/rootoooo/rootoooo.github.io/blob/main/ppx01.jpg?raw=true') no-repeat center center fixed;
+          background: url('https://cf.haoss.eu.org/oooo/https/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/ppx01.jpg') no-repeat center center fixed;
           background-size: cover;
         }
         .container {
@@ -158,3 +158,4 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
+
