@@ -199,9 +199,9 @@ sudo s-hy2
 
 Frp：
 
-wget https://raw.githubusercontent.com/rootoooo/frp/refs/heads/main/install-frps.sh -O ./install-frps.sh
+wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
 chmod 700 ./install-frps.sh
-sudo ./install-frps.sh install
+./install-frps.sh install
 
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
