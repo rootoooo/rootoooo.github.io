@@ -5,11 +5,11 @@ addEventListener('fetch', event => {
 async function handleRequest(request) {
   const ip = request.headers.get('CF-Connecting-IP') || '未知';
   const country = request.headers.get('CF-IPCountry') || '未知';
-  const EconomyURL = 'https://zh.tradingeconomics.com';
+  const ChatGPTURL = 'https://chatgpt.haoss.eu.org';
   const ChatURL = 'https://chat.haoss.eu.org';
   const PansouURL = 'https://so.252035.xyz';
-  const BilibiliURL = 'https://www.bilibili.com';
-  const NewsURL = 'https://news.163.com/domestic';
+  const MusicURL = 'https://music.gdstudio.xyz';
+  const EconomyURL = 'https://zh.tradingeconomics.com';
 
   const html = `
     <!DOCTYPE html>
@@ -86,11 +86,11 @@ async function handleRequest(request) {
         <p><strong>IP:</strong> ${ip}</p>
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
-          <a href="${EconomyURL}" class="details-link">Economy</a>
+          <a href="${ChatGPTURL}" class="details-link">ChatGPT</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
-          <a href="${BilibiliURL}" class="details-link">Bilibili</a>
-          <a href="${NewsURL}" class="details-link">News</a>
+          <a href="${MusicURL}" class="details-link">Music</a>
+          <a href="${EconomyURL}" class="details-link">Economy</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP Port" />
