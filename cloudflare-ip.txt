@@ -7,10 +7,8 @@ async function handleRequest(request) {
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const ChatURL = 'https://chat.haoss.eu.org';
-  const QuarkURL = 'https://pan.quark.cn';
   const PansouURL = 'https://so.252035.xyz';
   const BilibiliURL = 'https://www.bilibili.com';
-  const MusicURL = 'https://music.gdstudio.xyz';
   const NewsURL = 'https://news.163.com/domestic';
 
   const html = `
@@ -64,6 +62,7 @@ async function handleRequest(request) {
         }
         .input-container,
         .video-input-container,
+        .translate-input-container,
         .startpage-input-container,
         .content-input-container {
           margin-top: 20px;
@@ -89,10 +88,8 @@ async function handleRequest(request) {
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${ChatURL}" class="details-link">Chat</a>
-          <a href="${QuarkURL}" class="details-link">Quark</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${BilibiliURL}" class="details-link">Bilibili</a>
-          <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${NewsURL}" class="details-link">News</a>
         </div>
         <div class="input-container">
@@ -102,6 +99,10 @@ async function handleRequest(request) {
         <div class="video-input-container">
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
+        </div>
+        <div class="translate-input-container">
+          <input type="text" id="translate-input" placeholder="Translate" />
+          <button onclick="goToTranslate()">Go</button>
         </div>
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
@@ -131,6 +132,15 @@ async function handleRequest(request) {
             alert('Video');
           }
         }
+        
+        function goToTranslate() {
+          const translateQuery = document.getElementById('translate-input').value;
+          if (translateQuery) {
+            window.location.href = 'https://cf.haoss.eu.org/oooo/https/translate.google.com?sl=auto&tl=zh-CN&text=' + encodeURIComponent(translateQuery);
+          } else {
+            alert('Translate');
+          }
+        }
 
         function goToStartpage() {
           const startpageQuery = document.getElementById('startpage-input').value;
@@ -158,4 +168,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
