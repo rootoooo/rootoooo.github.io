@@ -59,13 +59,9 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea
 
-742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
+D：742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-A：80-10101-10201    VNC：5900-10102
-
-https://ping0.cc    https://zhale.me    https://www.itdog.cn    https://whois.chinaz.com    https://scamalytics.com    https://www.browserscan.net/zh/webrtc
-
-http://tonkiang.us    https://sankei.mo/z.html    https://profile.aptv.app
+https://www.browserscan.net/zh/webrtc    http://tonkiang.us    https://sankei.mo/z.html    https://profile.aptv.app
 
 https://psub.888005.xyz    https://bwh81.net    https://account.lightlayer.net
 
@@ -87,11 +83,9 @@ GitHub Code：https://github.com/search?q=&type=code
 
 Pansou：https://github.com/fish2018/pansou
 
-VPS：https://github.com/komari-monitor/komari/tree/main
+VPS Komari：https://github.com/komari-monitor/komari/tree/main
 
 Frp：https://github.com/mvscode/frps-onekey
-
-Chatbox：https://github.com/chatboxai/chatbox
 
 Openai-gemini：https://github.com/PublicAffairs/openai-gemini
 
@@ -113,9 +107,7 @@ Voice Cloning：https://github.com/jianchang512/clone-voice
 
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
-OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
-
-TVBox：https://github.com/o0HalfLife0o/TVBoxOSC/releases
+OK TV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 TVBox Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
@@ -164,8 +156,6 @@ Windows+Shift+S    Win+R→shell:startup
 MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
-
-ssh  root@1.1.1.1 -p 22    ssh-keygen -R "[1.1.1.1]:22"    top    kill XXX    kill -9 XXX    ps aux | grep XXX
 
 VPS Version：arch
 
