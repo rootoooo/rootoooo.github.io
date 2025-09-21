@@ -237,6 +237,12 @@ docker run -d --name pansou -p 52000:80 ghcr.io/fish2018/pansou-web
 
 
 
+LibreTV：
+
+docker run -d --name libretv --restart unless-stopped -p 666:8080 -e PASSWORD=666 bestzwei/libretv:latest
+
+
+
 Mirror SiteProxy-5006：
 
 git clone https://github.com/rootoooo/cf.git
