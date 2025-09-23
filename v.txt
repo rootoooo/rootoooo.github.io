@@ -1,7 +1,3 @@
-vless://d9c5eab8-5770-44fd-a465-435b863e81a1@144.34.231.118:49999?type=grpc&serviceName=&authority=&security=reality&pbk=LnIQ7jjFW26LpaqZB1fwotcdBCXCbF3KO4jCAMmTBnU&fp=chrome&sni=www.sap.com&sid=29582022&spx=%2F#US
-
-
-
 hysteria2://666666@144.34.231.118:40168?sni=ajax.cloudflare.com&insecure=1&obfs=salamander&obfs-password=666666#US
 
 
