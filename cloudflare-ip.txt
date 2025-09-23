@@ -8,8 +8,6 @@ async function handleRequest(request) {
   const ChatURL = 'https://chat.haoss.eu.org';
   const PansouURL = 'https://so.252035.xyz';
   const MusicURL = 'https://music.gdstudio.xyz';
-  const BilibiliURL = 'https://bilibili.com';
-  const EconomyURL = 'https://zh.tradingeconomics.com';
 
   const html = `
     <!DOCTYPE html>
@@ -62,9 +60,7 @@ async function handleRequest(request) {
         }
         .input-container,
         .video-input-container,
-        .translate-input-container,
-        .startpage-input-container,
-        .content-input-container {
+        .startpage-input-container {
           margin-top: 20px;
         }
         input {
@@ -89,8 +85,6 @@ async function handleRequest(request) {
           <a href="${ChatURL}" class="details-link">Chat</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${MusicURL}" class="details-link">Music</a>
-          <a href="${BilibiliURL}" class="details-link">Bilibili</a>
-          <a href="${EconomyURL}" class="details-link">Economy</a>
         </div>
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP Port" />
@@ -100,17 +94,9 @@ async function handleRequest(request) {
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
         </div>
-        <div class="translate-input-container">
-          <input type="text" id="translate-input" placeholder="Translate" />
-          <button onclick="goToTranslate()">Go</button>
-        </div>
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
           <button onclick="goToStartpage()">Go</button>
-        </div>
-        <div class="content-input-container">
-          <input type="text" id="content-input" placeholder="Content" />
-          <button onclick="goToContent()">Go</button>
         </div>
       </div>
 
@@ -133,30 +119,12 @@ async function handleRequest(request) {
           }
         }
         
-        function goToTranslate() {
-          const translateQuery = document.getElementById('translate-input').value;
-          if (translateQuery) {
-            window.location.href = 'https://cf.haoss.eu.org/oooo/https/translate.google.com?sl=auto&tl=zh-CN&text=' + encodeURIComponent(translateQuery);
-          } else {
-            alert('Translate');
-          }
-        }
-
         function goToStartpage() {
           const startpageQuery = document.getElementById('startpage-input').value;
           if (startpageQuery) {
             window.location.href = 'https://cf.haoss.eu.org/oooo/https/www.startpage.com/search?q=' + encodeURIComponent(startpageQuery);
           } else {
             alert('Startpage');
-          }
-        }
-
-        function goToContent() {
-          const contentQuery = document.getElementById('content-input').value;
-          if (contentQuery) {
-            window.location.href = 'https://fan3.515519.xyz/Alvin9999/https/www.youtube.com/results?search_query=' + encodeURIComponent(contentQuery);
-          } else {
-            alert('Content');
           }
         }
       </script>
