@@ -131,6 +131,8 @@ VNC：https://github.com/gujjwal00/avnc/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
 
+LIVE：https://github.com/liuchuancong/pure_live/releases
+
 Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
 Termius：https://github.com/alongw/Termius-zh_CN/releases
