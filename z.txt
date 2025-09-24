@@ -6,6 +6,10 @@ https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
 
 
 
+https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
+
+
+
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 
