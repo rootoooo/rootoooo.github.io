@@ -123,6 +123,8 @@ Emotn UI：https://app.emotn.com/ui
 
 SMS：https://sms-activate.org/getNumber
 
+SkyTube：https://github.com/SkyTubeTeam/SkyTube/releases
+
 FinalShell：https://www.hostbuf.com
 
 Frps：https://github.com/luckjiawei/frpc-desktop/releases
