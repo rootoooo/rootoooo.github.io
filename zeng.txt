@@ -119,6 +119,8 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 
+Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
+
 Emotn UI：https://app.emotn.com/ui
 
 SMS：https://sms-activate.org/getNumber
