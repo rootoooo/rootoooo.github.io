@@ -141,6 +141,8 @@ Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
 Termius：https://github.com/alongw/Termius-zh_CN/releases
 
+LibreTube：https://github.com/libre-tube/LibreTube/releases
+
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
 
 OpenList：https://github.com/OpenListTeam/OpenList/releases
