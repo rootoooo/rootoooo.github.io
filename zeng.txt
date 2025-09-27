@@ -121,6 +121,8 @@ Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
+Bilibili：https://github.com/guozhigq/pilipala/releases
+
 Emotn UI：https://app.emotn.com/ui
 
 SMS：https://sms-activate.org/getNumber
