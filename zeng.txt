@@ -87,16 +87,6 @@ VPS Komari：https://github.com/komari-monitor/komari/tree/main
 
 Frp：https://github.com/mvscode/frps-onekey
 
-Openai-gemini：https://github.com/PublicAffairs/openai-gemini
-
-Gemini Chat：https://github.com/tech-shrimp/gemini-playground
-
-Gemini-balance：https://github.com/snailyp/gemini-balance
-
-Gemini Transfer API：https://github.com/PublicAffairs/openai-gemini
-
-Gemini Free API：https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn#free-tier
-
 Gemini API：https://aistudio.google.com
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
@@ -120,6 +110,8 @@ Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
 K9-mail：https://github.com/thunderbird/thunderbird-android/releases
+
+TikTok：https://tiktok.cn.uptodown.com/android/dw
 
 Emotn UI：https://app.emotn.com/ui
 
