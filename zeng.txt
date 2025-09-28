@@ -119,7 +119,7 @@ Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
-Bilibili：https://github.com/guozhigq/pilipala/releases
+K9-mail：https://github.com/thunderbird/thunderbird-android/releases
 
 Emotn UI：https://app.emotn.com/ui
 
