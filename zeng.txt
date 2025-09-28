@@ -73,6 +73,8 @@ IP Scanning：https://angryip.org/download
 
 Music：https://music.gdstudio.xyz    http://music.alger.fun
 
+Gb-studio：https://github.com/chrismaltby/gb-studio/releases
+
 Mirror APP：https://github.com/tw93/Pake/releases
 
 Mirror SiteProxy：https://github.com/netptop/siteproxy
