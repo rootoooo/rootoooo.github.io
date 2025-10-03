@@ -111,6 +111,8 @@ Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
+PipePipe：https://github.com/InfinityLoop1308/PipePipe/releases
+
 K9-mail：https://github.com/thunderbird/thunderbird-android/releases
 
 TikTok：https://tiktok.cn.uptodown.com/android/dw
