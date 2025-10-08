@@ -111,8 +111,6 @@ Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
 
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
-PipePipe：https://github.com/InfinityLoop1308/PipePipe/releases
-
 K9-mail：https://github.com/thunderbird/thunderbird-android/releases
 
 TikTok：https://tiktok.cn.uptodown.com/android/dw
@@ -134,10 +132,6 @@ LIVE：https://github.com/liuchuancong/pure_live/releases
 Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
 Termius：https://github.com/alongw/Termius-zh_CN/releases
-
-LibreTube：https://github.com/libre-tube/LibreTube/releases
-
-NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
 
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 
