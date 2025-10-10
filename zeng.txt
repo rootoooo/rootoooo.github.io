@@ -71,6 +71,8 @@ Detection APP：https://www.virscan.org
 
 IP Scanning：https://angryip.org/download
 
+Currency：https://currency.kejilion.pro
+
 Music：https://music.gdstudio.xyz    http://music.alger.fun
 
 Gb-studio：https://github.com/chrismaltby/gb-studio/releases
