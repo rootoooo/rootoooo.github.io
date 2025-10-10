@@ -131,6 +131,8 @@ LIVE：https://github.com/liuchuancong/pure_live/releases
 
 Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
+MacTube：https://github.com/diontron/MacTube
+
 Termius：https://github.com/alongw/Termius-zh_CN/releases
 
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
