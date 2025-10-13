@@ -135,6 +135,8 @@ LIVE：https://github.com/liuchuancong/pure_live/releases
 
 Wenjian：https://github.com/zhanghai/MaterialFiles/releases
 
+Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
+
 MacTube：https://github.com/diontron/MacTube
 
 Termius：https://github.com/alongw/Termius-zh_CN/releases
