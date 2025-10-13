@@ -119,6 +119,8 @@ TikTok：https://tiktok.cn.uptodown.com/android/dw
 
 Emotn UI：https://app.emotn.com/ui
 
+FaceMoji：https://github.com/Steve-Mr/EmojiFace/releases
+
 SMS：https://sms-activate.org/getNumber
 
 FinalShell：https://www.hostbuf.com
