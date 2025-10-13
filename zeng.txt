@@ -115,7 +115,7 @@ Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
 K9-mail：https://github.com/thunderbird/thunderbird-android/releases
 
-TikTok：https://tiktok.cn.uptodown.com/android/dw
+TikTok：https://github.com/uyez/TikTok/releases/tag/tiktok-apk
 
 Emotn UI：https://app.emotn.com/ui
 
