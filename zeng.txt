@@ -71,8 +71,6 @@ Detection APP：https://www.virscan.org
 
 IP Scanning：https://angryip.org/download
 
-Subway：https://subway.cuvii.dev
-
 Currency：https://currency.kejilion.pro
 
 Music：https://music.gdstudio.xyz
@@ -86,6 +84,8 @@ Mirror SiteProxy：https://github.com/netptop/siteproxy
 GitHub Tokens：https://github.com/settings/personal-access-tokens
 
 GitHub Code：https://github.com/search?q=&type=code
+
+Subway：https://github.com/thecuvii/subway
 
 Pansou：https://github.com/fish2018/pansou
 
