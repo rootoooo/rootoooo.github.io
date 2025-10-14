@@ -71,6 +71,8 @@ Detection APP：https://www.virscan.org
 
 IP Scanning：https://angryip.org/download
 
+Subway：https://subway.cuvii.dev
+
 Currency：https://currency.kejilion.pro
 
 Music：https://music.gdstudio.xyz
