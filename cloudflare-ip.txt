@@ -8,6 +8,8 @@ async function handleRequest(request) {
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const PansouURL = 'https://so.252035.xyz';
   const MusicURL = 'https://music.gdstudio.xyz';
+  const LIVEURL = 'https://lemonlive.pages.dev';
+  const PPXURL = 'https://ppx.haoss.eu.org/oooo/https/www.youtube.com';
 
   const html = `
     <!DOCTYPE html>
@@ -60,7 +62,9 @@ async function handleRequest(request) {
         }
         .input-container,
         .video-input-container,
-        .startpage-input-container {
+        .startpage-input-container,
+        .duckduckgo-input-container,
+        .wikipedia-input-container {
           margin-top: 20px;
         }
         input {
@@ -85,18 +89,33 @@ async function handleRequest(request) {
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${MusicURL}" class="details-link">Music</a>
+          <a href="${LIVEURL}" class="details-link">LIVE</a>
+          <a href="${PPXURL}" class="details-link">PPX</a>
         </div>
+
         <div class="input-container">
           <input type="text" id="ip-input" placeholder="IP Port" />
           <button onclick="goToPing()">Go</button>
         </div>
+
         <div class="video-input-container">
           <input type="text" id="video-input" placeholder="Video" />
           <button onclick="goToVideo()">Go</button>
         </div>
+
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
           <button onclick="goToStartpage()">Go</button>
+        </div>
+
+        <div class="duckduckgo-input-container">
+          <input type="text" id="duckduckgo-input" placeholder="DuckDuckGo" />
+          <button onclick="goToDuckDuckGo()">Go</button>
+        </div>
+
+        <div class="wikipedia-input-container">
+          <input type="text" id="wikipedia-input" placeholder="Wikipedia" />
+          <button onclick="goToWikipedia()">Go</button>
         </div>
       </div>
 
@@ -127,6 +146,24 @@ async function handleRequest(request) {
             alert('Startpage');
           }
         }
+
+        function goToDuckDuckGo() {
+          const query = document.getElementById('duckduckgo-input').value;
+          if (query) {
+            window.location.href = 'https://cf.haoss.eu.org/oooo/https/duckduckgo.com/?q=' + encodeURIComponent(query);
+          } else {
+            alert('DuckDuckGo');
+          }
+        }
+
+        function goToWikipedia() {
+          const query = document.getElementById('wikipedia-input').value;
+          if (query) {
+            window.location.href = 'https://cf.haoss.eu.org/oooo/https/zh.wikipedia.org/wiki/' + encodeURIComponent(query);
+          } else {
+            alert('Wikipedia');
+          }
+        }
       </script>
     </body>
     </html>
@@ -136,4 +173,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
