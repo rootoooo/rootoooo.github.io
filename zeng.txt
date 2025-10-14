@@ -85,8 +85,6 @@ GitHub Tokens：https://github.com/settings/personal-access-tokens
 
 GitHub Code：https://github.com/search?q=&type=code
 
-Subway：https://github.com/thecuvii/subway
-
 Pansou：https://github.com/fish2018/pansou
 
 VPS Komari：https://github.com/komari-monitor/komari/tree/main
