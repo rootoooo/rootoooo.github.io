@@ -117,6 +117,8 @@ K9-mail：https://github.com/thunderbird/thunderbird-android/releases
 
 TikTok：https://github.com/uyez/TikTok/releases/tag/tiktok-apk
 
+NewPipe：https://github.com/teamnewpipe/newpipe/releases
+
 Emotn UI：https://app.emotn.com/ui
 
 FaceMoji：https://github.com/Steve-Mr/EmojiFace/releases
