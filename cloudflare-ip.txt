@@ -9,7 +9,6 @@ async function handleRequest(request) {
   const PansouURL = 'https://so.252035.xyz';
   const MusicURL = 'https://music.gdstudio.xyz';
   const LIVEURL = 'https://lemonlive.pages.dev';
-  const PPXURL = 'https://ppx.haoss.eu.org/oooo/https/www.youtube.com';
 
   const html = `
     <!DOCTYPE html>
@@ -63,7 +62,6 @@ async function handleRequest(request) {
         .input-container,
         .video-input-container,
         .startpage-input-container,
-        .duckduckgo-input-container,
         .wikipedia-input-container {
           margin-top: 20px;
         }
@@ -90,7 +88,6 @@ async function handleRequest(request) {
           <a href="${PansouURL}" class="details-link">Pansou</a>
           <a href="${MusicURL}" class="details-link">Music</a>
           <a href="${LIVEURL}" class="details-link">LIVE</a>
-          <a href="${PPXURL}" class="details-link">PPX</a>
         </div>
 
         <div class="input-container">
@@ -106,11 +103,6 @@ async function handleRequest(request) {
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
           <button onclick="goToStartpage()">Go</button>
-        </div>
-
-        <div class="duckduckgo-input-container">
-          <input type="text" id="duckduckgo-input" placeholder="DuckDuckGo" />
-          <button onclick="goToDuckDuckGo()">Go</button>
         </div>
 
         <div class="wikipedia-input-container">
@@ -144,15 +136,6 @@ async function handleRequest(request) {
             window.location.href = 'https://cf.haoss.eu.org/oooo/https/www.startpage.com/search?q=' + encodeURIComponent(startpageQuery);
           } else {
             alert('Startpage');
-          }
-        }
-
-        function goToDuckDuckGo() {
-          const query = document.getElementById('duckduckgo-input').value;
-          if (query) {
-            window.location.href = 'https://cf.haoss.eu.org/oooo/https/duckduckgo.com/?q=' + encodeURIComponent(query);
-          } else {
-            alert('DuckDuckGo');
           }
         }
 
