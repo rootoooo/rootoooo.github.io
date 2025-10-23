@@ -73,6 +73,8 @@ IP Scanning：https://angryip.org/download
 
 Currency：https://currency.kejilion.pro
 
+SMS：https://sms-activate.org/getNumber
+
 Music：https://music.gdstudio.xyz
 
 Gb-studio：https://github.com/chrismaltby/gb-studio/releases
@@ -115,13 +117,9 @@ Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
 K9-mail：https://github.com/thunderbird/thunderbird-android/releases
 
-TikTok：https://github.com/uyez/TikTok/releases/tag/tiktok-apk
-
 Emotn UI：https://app.emotn.com/ui
 
 FaceMoji：https://github.com/Steve-Mr/EmojiFace/releases
-
-SMS：https://sms-activate.org/getNumber
 
 FinalShell：https://www.hostbuf.com
 
@@ -142,6 +140,10 @@ Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/relea
 MacTube：https://github.com/diontron/MacTube
 
 NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
+
+TikTok：https://github.com/uyez/TikTok/releases/tag/tiktok-apk
+
+Telegram-X：https://github.com/TGX-Android/Telegram-X/releases
 
 Termius：https://github.com/alongw/Termius-zh_CN/releases
 
