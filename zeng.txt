@@ -75,12 +75,6 @@ SMS：https://sms-activate.org/getNumber
 
 Mirror APP：https://github.com/tw93/Pake/releases
 
-Mirror SiteProxy：https://github.com/netptop/siteproxy
-
-GitHub Tokens：https://github.com/settings/personal-access-tokens
-
-GitHub Code：https://github.com/search?q=&type=code
-
 Pansou：https://github.com/fish2018/pansou
 
 VPS Komari：https://github.com/komari-monitor/komari/tree/main
