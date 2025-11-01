@@ -73,10 +73,6 @@ Currency：https://currency.kejilion.pro
 
 SMS：https://sms-activate.org/getNumber
 
-Music：https://music.gdstudio.xyz
-
-Gb-studio：https://github.com/chrismaltby/gb-studio/releases
-
 Mirror APP：https://github.com/tw93/Pake/releases
 
 Mirror SiteProxy：https://github.com/netptop/siteproxy
