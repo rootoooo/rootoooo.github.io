@@ -6,8 +6,8 @@ async function handleRequest(request) {
   const ip = request.headers.get('CF-Connecting-IP') || '未知';
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
+  const PanSouURL = 'https://so.252035.xyz';
   const TranslateURL = 'https://cf.haoss.eu.org/oooo/https/translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&op=translate';
-  const DeepAIURL = 'https://cf.haoss.eu.org/oooo/https/deepai.org/chat';
 
   const html = `
     <!DOCTYPE html>
@@ -84,8 +84,8 @@ async function handleRequest(request) {
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
+          <a href="${PanSouURL}" class="details-link">PanSou</a>
           <a href="${TranslateURL}" class="details-link">Translate</a>
-          <a href="${DeepAIURL}" class="details-link">DeepAI</a>
         </div>
 
         <div class="input-container">
@@ -154,4 +154,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
