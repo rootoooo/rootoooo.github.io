@@ -105,10 +105,6 @@ Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
 ANeko：https://github.com/pass-with-high-score/ANeko/releases
 
-K9-mail：https://github.com/thunderbird/thunderbird-android/releases
-
-NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
-
 Emotn UI：https://app.emotn.com/ui
 
 FaceMoji：https://github.com/Steve-Mr/EmojiFace/releases
