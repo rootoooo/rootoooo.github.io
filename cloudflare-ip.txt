@@ -7,6 +7,7 @@ async function handleRequest(request) {
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
   const PanSouURL = 'https://so.252035.xyz';
+  const OleVODURL = 'https://cf.haoss.eu.org/oooo/https/www.olevod.com';
   const TranslateURL = 'https://cf.haoss.eu.org/oooo/https/translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&op=translate';
 
   const html = `
@@ -85,6 +86,7 @@ async function handleRequest(request) {
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
           <a href="${PanSouURL}" class="details-link">PanSou</a>
+          <a href="${OleVODURL}" class="details-link">OleVOD</a>
           <a href="${TranslateURL}" class="details-link">Translate</a>
         </div>
 
