@@ -75,6 +75,8 @@ Mirror APP：https://github.com/tw93/Pake/releases
 
 Pansou：https://github.com/fish2018/pansou
 
+WebSSH：https://github.com/Jrohy/webssh
+
 VPS Komari：https://github.com/komari-monitor/komari/tree/main
 
 Frp：https://github.com/mvscode/frps-onekey
