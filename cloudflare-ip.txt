@@ -59,7 +59,6 @@ async function handleRequest(request) {
           cursor: pointer;
         }
         .input-container,
-        .video-input-container,
         .startpage-input-container,
         .wikipedia-input-container {
           margin-top: 20px;
@@ -93,11 +92,6 @@ async function handleRequest(request) {
           <button onclick="goToPing()">Go</button>
         </div>
 
-        <div class="video-input-container">
-          <input type="text" id="video-input" placeholder="Video" />
-          <button onclick="goToVideo()">Go</button>
-        </div>
-
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
           <button onclick="goToStartpage()">Go</button>
@@ -119,15 +113,6 @@ async function handleRequest(request) {
           }
         }
 
-        function goToVideo() {
-          const videoUrl = document.getElementById('video-input').value;
-          if (videoUrl) {
-            window.location.href = 'https://jx.playerjy.com/?url=' + encodeURIComponent(videoUrl);
-          } else {
-            alert('Video');
-          }
-        }
-        
         function goToStartpage() {
           const startpageQuery = document.getElementById('startpage-input').value;
           if (startpageQuery) {
@@ -154,4 +139,3 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/html' },
   });
 }
-
