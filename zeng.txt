@@ -129,8 +129,6 @@ MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
 
-NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
-
 TikTok：https://github.com/uyez/TikTok/releases/tag/tiktok-apk
 
 Telegram-X：https://github.com/TGX-Android/Telegram-X/releases
