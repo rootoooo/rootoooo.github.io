@@ -6,7 +6,6 @@ async function handleRequest(request) {
   const ip = request.headers.get('CF-Connecting-IP') || '未知';
   const country = request.headers.get('CF-IPCountry') || '未知';
   const EconomyURL = 'https://zh.tradingeconomics.com';
-  const OleVODURL = 'https://cf.haoss.eu.org/oooo/https/www.olevod.com';
   const TranslateURL = 'https://cf.haoss.eu.org/oooo/https/translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&op=translate';
 
   const html = `
@@ -59,8 +58,7 @@ async function handleRequest(request) {
           cursor: pointer;
         }
         .input-container,
-        .startpage-input-container,
-        .wikipedia-input-container {
+        .startpage-input-container {
           margin-top: 20px;
         }
         input {
@@ -83,7 +81,6 @@ async function handleRequest(request) {
         <p><strong>Nation:</strong> ${country}</p>
         <div class="link-container">
           <a href="${EconomyURL}" class="details-link">Economy</a>
-          <a href="${OleVODURL}" class="details-link">OleVOD</a>
           <a href="${TranslateURL}" class="details-link">Translate</a>
         </div>
 
@@ -95,11 +92,6 @@ async function handleRequest(request) {
         <div class="startpage-input-container">
           <input type="text" id="startpage-input" placeholder="Startpage" />
           <button onclick="goToStartpage()">Go</button>
-        </div>
-
-        <div class="wikipedia-input-container">
-          <input type="text" id="wikipedia-input" placeholder="Wikipedia" />
-          <button onclick="goToWikipedia()">Go</button>
         </div>
       </div>
 
@@ -119,15 +111,6 @@ async function handleRequest(request) {
             window.location.href = 'https://cf.haoss.eu.org/oooo/https/www.startpage.com/search?q=' + encodeURIComponent(startpageQuery);
           } else {
             alert('Startpage');
-          }
-        }
-
-        function goToWikipedia() {
-          const query = document.getElementById('wikipedia-input').value;
-          if (query) {
-            window.location.href = 'https://cf.haoss.eu.org/oooo/https/zh.wikipedia.org/wiki/' + encodeURIComponent(query);
-          } else {
-            alert('Wikipedia');
           }
         }
       </script>
