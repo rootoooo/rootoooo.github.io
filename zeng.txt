@@ -95,8 +95,6 @@ OK：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 TVBox Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
-M3u Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/z.m3u
-
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
