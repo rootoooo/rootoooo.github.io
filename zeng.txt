@@ -97,8 +97,6 @@ M3u Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/rootooo
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-Alger Music Player：https://github.com/algerkong/AlgerMusicPlayer/releases
-
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
 ANeko：https://github.com/pass-with-high-score/ANeko/releases
