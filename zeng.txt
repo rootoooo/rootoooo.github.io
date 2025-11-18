@@ -79,6 +79,8 @@ SMS：https://sms-activate.org/getNumber
 
 WebSSH：https://github.com/Jrohy/webssh
 
+Solara：https://github.com/akudamatata/Solara?tab=readme-ov-file
+
 Frp：https://github.com/mvscode/frps-onekey
 
 ChatGPT Token：https://chatgpt.com/api/auth/session
