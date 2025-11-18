@@ -89,7 +89,7 @@ Voice Cloning：https://github.com/jianchang512/clone-voice
 
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
-OK TV：https://github.com/FongMi/Release/tree/okjack/apk/release
+OK：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 TVBox Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
@@ -116,8 +116,6 @@ VNC：https://github.com/gujjwal00/avnc/releases
 Seal：https://github.com/JunkFood02/Seal/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
-
-NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
 
 Image-Toolbox：https://github.com/T8RIN/ImageToolbox/releases
 
