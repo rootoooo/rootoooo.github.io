@@ -91,7 +91,9 @@ IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OK：https://github.com/FongMi/Release/tree/okjack/apk/release
 
-TVBox Subscription：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+
+https://github.haoss.eu.org/raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
