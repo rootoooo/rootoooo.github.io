@@ -201,9 +201,9 @@ http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZH
 http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
 #EXTINF:-1 group-title="Global" ,湖南卫视-4K
 http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
-#EXTINF:-1 group-title="Global" ,凤凰卫视中文台
+#EXTINF:-1 group-title="Global" ,凤凰中文
 http://58.215.92.51:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
-#EXTINF:-1 group-title="Global" ,凤凰卫视资讯台
+#EXTINF:-1 group-title="Global" ,凤凰资讯
 http://58.215.92.51:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
 #EXTINF:-1 group-title="Global" ,HK Chinese
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -269,6 +269,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="Global" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 
 
 
