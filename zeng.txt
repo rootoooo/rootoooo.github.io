@@ -61,7 +61,7 @@ AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2
 
 A：80    OS：80    VNC：5900    WebDAV：6086    SSH：5032
 
-https://psub.888005.xyz    https://account.lightlayer.net    https://0be.net    https://tmxk.pp.ua/smart-cn.m3u
+https://psub.888005.xyz    https://account.lightlayer.net    https://0be.net
 
 https://www.browserscan.net/zh/webrtc    http://tonkiang.us    https://sankei.mo/z.html    https://music.gdstudio.xyz
 
