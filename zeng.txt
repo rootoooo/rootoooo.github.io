@@ -477,7 +477,7 @@ AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2
 
 A：80    OS：80    VNC：5900    WebDAV：6086    SSH：5032
 
-https://psub.888005.xyz    https://account.lightlayer.net    https://0be.net    https://www.browserscan.net/zh/webrtc    http://tonkiang.us    https://sankei.mo/z.html    https://music.gdstudio.xyz
+https://psub.888005.xyz    https://account.lightlayer.net    https://www.browserscan.net/zh/webrtc    http://tonkiang.us    https://sankei.mo/z.html    https://music.gdstudio.xyz
 
 Looking Glass：http://www.jendoscope.cn/en
 
@@ -794,3 +794,4 @@ Formosa TV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_4208
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
 Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
