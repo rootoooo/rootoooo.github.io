@@ -471,6 +471,24 @@
 
 葛根花+枳椇子+陈皮+山楂-15g+15g+6g+6g    车前草+猫须草+金钱草-1:1:1
 
+
+
+屏蔽广告：https://greasyfork.org/zh-CN/scripts/460743-屏蔽广告-屏蔽谷歌广告-百度广告-知乎广告-隐藏谷歌和百度搜索增强百度搜索结果的各种广告等等-过滤所有采用谷歌联盟和百度联盟等广告联盟的广告
+
+文本复制：https://greasyfork.org/zh-CN/scripts/405130-文本选中复制
+
+阅读全文：https://greasyfork.org/zh-CN/scripts/414010-阅读全文-自动展开全文-自动移除万恶弹框
+
+骚扰拦截：https://greasyfork.org/zh-CN/scripts/440871-骚扰拦截
+
+东方永页机：https://greasyfork.org/zh-CN/scripts/438684-pagetual
+
+WebRTC禁用脚本：https://greasyfork.org/zh-CN/scripts/495166-webrtc禁用脚本
+
+GitHub中文化：https://greasyfork.org/zh-CN/scripts/435208-github-中文化插件
+
+
+
 Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
@@ -794,4 +812,5 @@ Formosa TV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_4208
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
 Bloomberg 4K,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 
