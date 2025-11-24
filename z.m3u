@@ -183,7 +183,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="Global" ,CCTV-13
 http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="Global" ,CCTV-5 4K
+#EXTINF:-1 group-title="Global" ,CCTV-5
 http://183.214.23.27:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 group-title="Global" ,CCTV-5+
 http://183.214.23.27:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228492/index.m3u8
@@ -261,6 +261,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="Global" ,Bloomberg 4K
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 
 
 
