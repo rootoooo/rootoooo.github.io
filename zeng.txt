@@ -483,8 +483,6 @@
 
 东方永页机：https://greasyfork.org/zh-CN/scripts/438684-pagetual
 
-WebRTC禁用脚本：https://greasyfork.org/zh-CN/scripts/495166-webrtc禁用脚本
-
 GitHub中文化：https://greasyfork.org/zh-CN/scripts/435208-github-中文化插件
 
 
@@ -690,6 +688,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
