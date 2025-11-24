@@ -495,7 +495,23 @@ AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2
 
 A：80    OS：80    VNC：5900    WebDAV：6086    SSH：5032
 
-https://psub.888005.xyz    https://account.lightlayer.net    https://www.browserscan.net/zh/webrtc    http://tonkiang.us    https://sankei.mo/z.html    https://music.gdstudio.xyz
+https://psub.888005.xyz
+
+https://account.lightlayer.net
+
+https://www.browserscan.net/zh/webrtc
+
+http://tonkiang.us
+
+https://sankei.mo/z.html
+
+https://music.gdstudio.xyz
+
+https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+
+https://anti-ad.net/adguard.txt
+
+https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
 Looking Glass：http://www.jendoscope.cn/en
 
@@ -520,10 +536,6 @@ Voice Cloning：https://github.com/jianchang512/clone-voice
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OK：https://github.com/FongMi/Release/tree/okjack/apk/release
-
-https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
-
-https://github.haoss.eu.org/raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
@@ -570,8 +582,6 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 iStoreOS：https://github.com/AUK9527/Are-u-ok/blob/main/apps/README.md
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
-
-https://anti-ad.net/adguard.txt    https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
 Fancyss：https://github.com/hq450/fancyss
 
@@ -680,5 +690,6 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
