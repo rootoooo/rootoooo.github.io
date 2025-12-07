@@ -501,6 +501,8 @@ https://www.browserscan.net/zh/webrtc
 
 http://renshi.people.com.cn/GB/index.html
 
+https://chat.cherrychat.org
+
 https://so.252035.xyz
 
 https://quark4k.com
@@ -694,6 +696,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
