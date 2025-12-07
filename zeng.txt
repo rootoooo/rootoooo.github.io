@@ -491,6 +491,8 @@ AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2
 
 https://github.com/byJoey/cfnew
 
+https://1024tools.com/uuid
+
 https://psub.888005.xyz
 
 https://account.lightlayer.net
@@ -696,6 +698,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
