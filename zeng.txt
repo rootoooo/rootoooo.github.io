@@ -483,13 +483,13 @@
 
 东方永页机：https://greasyfork.org/zh-CN/scripts/438684-pagetual
 
-GitHub中文化：https://greasyfork.org/zh-CN/scripts/435208-github-中文化插件
-
 
 
 Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
+
+https://github.com/byJoey/cfnew
 
 https://psub.888005.xyz
 
@@ -696,6 +696,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
