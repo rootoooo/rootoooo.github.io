@@ -493,12 +493,6 @@ https://psub.888005.xyz
 
 https://account.lightlayer.net
 
-https://www.vpsjyz.com/tag/lightlayer-vps
-
-https://github.com/byJoey/cfnew
-
-https://1024tools.com/uuid
-
 https://www.browserscan.net/zh/webrtc
 
 http://renshi.people.com.cn/GB/index.html
@@ -698,6 +692,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
