@@ -499,8 +499,6 @@ https://www.browserscan.net/zh/webrtc
 
 http://renshi.people.com.cn/GB/index.html
 
-https://chat.cherrychat.org
-
 https://so.252035.xyz
 
 https://quark4k.com
@@ -568,8 +566,6 @@ WeatherMaster：https://github.com/PranshulGG/WeatherMaster/releases
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
-
-TikTok：https://github.com/uyez/TikTok/releases/tag/tiktok-apk
 
 Telegram-X：https://github.com/TGX-Android/Telegram-X/releases
 
@@ -694,6 +690,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
