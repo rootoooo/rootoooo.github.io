@@ -653,6 +653,8 @@ sudo ./install-frps.sh uninstall
 
 Alist + Openlist：
 
+https://haoss.eu.org/ppx.jpg
+
 <link href="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/alist.css" rel="stylesheet" type="text/css">
 
 <script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/jq.js"></script>
@@ -688,6 +690,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
