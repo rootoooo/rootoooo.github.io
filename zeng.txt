@@ -569,8 +569,6 @@ MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
 
-NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
-
 Telegram-X：https://github.com/TGX-Android/Telegram-X/releases
 
 Termius：https://github.com/alongw/Termius-zh_CN/releases
@@ -690,6 +688,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
