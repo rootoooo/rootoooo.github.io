@@ -473,18 +473,6 @@
 
 
 
-屏蔽广告：https://greasyfork.org/zh-CN/scripts/460743-屏蔽广告-屏蔽谷歌广告-百度广告-知乎广告-隐藏谷歌和百度搜索增强百度搜索结果的各种广告等等-过滤所有采用谷歌联盟和百度联盟等广告联盟的广告
-
-文本复制：https://greasyfork.org/zh-CN/scripts/405130-文本选中复制
-
-阅读全文：https://greasyfork.org/zh-CN/scripts/414010-阅读全文-自动展开全文-自动移除万恶弹框
-
-骚扰拦截：https://greasyfork.org/zh-CN/scripts/440871-骚扰拦截
-
-东方永页机：https://greasyfork.org/zh-CN/scripts/438684-pagetual
-
-
-
 Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
@@ -688,6 +676,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
