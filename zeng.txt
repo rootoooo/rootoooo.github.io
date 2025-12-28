@@ -693,6 +693,8 @@ nano ~/Library/LaunchAgents/com.openlist.server.plist
 </dict>
 </plist>
 
+Ctrl + O → Ctrl + X
+
 launchctl load ~/Library/LaunchAgents/com.openlist.server.plist
 launchctl start com.openlist.server
 
@@ -720,6 +722,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
