@@ -503,6 +503,8 @@ https://anti-ad.net/adguard.txt
 
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
+CF：https://github.com/byJoey/cfnew
+
 APP：https://github.com/tw93/Pake/releases
 
 Looking Glass：http://www.jendoscope.cn/en
@@ -722,6 +724,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
