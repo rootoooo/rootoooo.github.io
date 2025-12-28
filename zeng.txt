@@ -659,6 +659,48 @@ https://haoss.eu.org/ppx.jpg
 <div id="jsi-flying-fish-container" class="fish-container"></div>
 <script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js"></script>
 
+mkdir -p ~/Library/LaunchAgents
+nano ~/Library/LaunchAgents/com.openlist.server.plist
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.openlist.server</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Applications/openlist/openlist</string>
+        <string>server</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Applications/openlist</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/openlist.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/openlist.err</string>
+</dict>
+</plist>
+
+launchctl load ~/Library/LaunchAgents/com.openlist.server.plist
+launchctl start com.openlist.server
+
+launchctl list | grep openlist
+
+launchctl unload ~/Library/LaunchAgents/com.openlist.server.plist
+rm ~/Library/LaunchAgents/com.openlist.server.plist
+
 
 
 Mirror SiteProxy-5006：
@@ -678,6 +720,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
