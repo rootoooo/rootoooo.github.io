@@ -495,6 +495,8 @@ https://sankei.mo/z.html
 
 https://music.gdstudio.xyz
 
+https://github.com/byJoey/cfnew/releases
+
 https://www.onlyoffice.com/download-desktop
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
@@ -724,6 +726,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
