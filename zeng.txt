@@ -1,8 +1,6 @@
 为人民服务
 
-我志愿加入中国共产党，拥护党的纲领，遵守党的章程，履行党员义务，执行党的决定，严守党的纪律，保守党的秘密，对党忠诚，积极工作，为共产主义奋斗终身，随时准备为党和人民牺牲一切，永不叛党。
-
-深刻领悟“两个确立”，增强“四个意识”、坚定“四个自信”、做到“两个维护”
+深刻领悟“两个确立”，增强“四个意识”、坚定“四个自信”、坚决做到“两个维护”
 
 1、两个确立：确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位。
 
@@ -497,6 +495,8 @@ https://sankei.mo/z.html
 
 https://music.gdstudio.xyz
 
+https://www.onlyoffice.com/download-desktop
+
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 https://github.haoss.eu.org/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
@@ -724,6 +724,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
