@@ -535,6 +535,8 @@ OK：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
+AlistList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
+
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
 ANeko：https://github.com/pass-with-high-score/ANeko/releases
@@ -566,8 +568,6 @@ Telegram-X：https://github.com/TGX-Android/Telegram-X/releases
 Termius：https://github.com/alongw/Termius-zh_CN/releases
 
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
-
-OpenList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
 V2rayN：https://github.com/2dust/v2rayn/releases
 
@@ -726,6 +726,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
