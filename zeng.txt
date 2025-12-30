@@ -567,7 +567,7 @@ Termius：https://github.com/alongw/Termius-zh_CN/releases
 
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 
-OpenList：https://github.com/OpenListTeam/OpenList/releases
+OpenList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
 V2rayN：https://github.com/2dust/v2rayn/releases
 
@@ -726,6 +726,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
