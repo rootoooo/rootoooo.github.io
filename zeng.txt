@@ -481,8 +481,6 @@ https://psub.888005.xyz
 
 https://account.lightlayer.net
 
-https://www.browserscan.net/zh/webrtc
-
 https://s3.dualstack.us-west-2.amazonaws.com/zhifan2/ytb.html
 
 https://so.252035.xyz
@@ -494,8 +492,6 @@ https://profile.aptv.app
 http://tonkiang.us
 
 https://sankei.mo/z.html
-
-https://music.gdstudio.xyz
 
 https://www.onlyoffice.com/download-desktop
 
@@ -513,13 +509,21 @@ Looking Glass：http://www.jendoscope.cn/en
 
 Detection APP：https://www.virscan.org
 
+WebRTC：https://www.browserscan.net/zh/webrtc
+
+Music：https://music.gdstudio.xyz
+
 IP Scanning：https://angryip.org/download
 
 Currency：https://currency.kejilion.pro
 
 SMS：https://sms-activate.org/getNumber
 
-WebSSH：https://github.com/Jrohy/webssh
+Emotn UI：https://app.emotn.com/ui
+
+FinalShell：https://www.hostbuf.com
+
+Fancyss：https://github.com/hq450/fancyss
 
 Frp：https://github.com/mvscode/frps-onekey
 
@@ -531,21 +535,19 @@ Voice Cloning：https://github.com/jianchang512/clone-voice
 
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
-OK：https://github.com/FongMi/Release/tree/okjack/apk/release
+OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
-
-AlistList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
 Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
 
 ANeko：https://github.com/pass-with-high-score/ANeko/releases
 
-Emotn UI：https://app.emotn.com/ui
+AlistList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
+
+OpenList：https://github.com/OpenListTeam/OpenList/releases
 
 FaceMoji：https://github.com/Steve-Mr/EmojiFace/releases
-
-FinalShell：https://www.hostbuf.com
 
 Frps：https://github.com/luckjiawei/frpc-desktop/releases
 
@@ -554,6 +556,8 @@ VNC：https://github.com/gujjwal00/avnc/releases
 Seal：https://github.com/JunkFood02/Seal/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
+
+Live：https://github.com/liuchuancong/pure_live/releases
 
 Image-Toolbox：https://github.com/T8RIN/ImageToolbox/releases
 
@@ -573,11 +577,7 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
-iStoreOS：https://github.com/AUK9527/Are-u-ok/blob/main/apps/README.md
-
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
-
-Fancyss：https://github.com/hq450/fancyss
 
 Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
 
@@ -726,25 +726,5 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
