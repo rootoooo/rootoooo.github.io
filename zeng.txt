@@ -513,10 +513,6 @@ Music：https://music.gdstudio.xyz
 
 IP Scanning：https://angryip.org/download
 
-Currency：https://currency.kejilion.pro
-
-SMS：https://sms-activate.org/getNumber
-
 Emotn UI：https://app.emotn.com/ui
 
 FinalShell：https://www.hostbuf.com
@@ -724,14 +720,5 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
-
-
-
-
-
-
-
-
-
 
 
