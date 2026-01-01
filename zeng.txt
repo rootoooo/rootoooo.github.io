@@ -705,10 +705,6 @@ launchctl list | grep openlist
 launchctl unload ~/Library/LaunchAgents/com.openlist.server.plist
 rm ~/Library/LaunchAgents/com.openlist.server.plist
 
-Windows－CMD：start /d "C:\openlist" openlist.exe
-
-Windows－PowerShell：Start-Process -FilePath "C:\openlist\openlist.exe" -WorkingDirectory "C:\openlist"
-
 
 
 Mirror SiteProxy-5006：
@@ -728,6 +724,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
