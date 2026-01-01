@@ -501,17 +501,9 @@ https://anti-ad.net/adguard.txt
 
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
-APTV：https://profile.aptv.app
-
 Looking Glass：http://www.jendoscope.cn/en
 
-Detection APP：https://www.virscan.org
-
-WebRTC：https://www.browserscan.net/zh/webrtc
-
 Music：https://music.gdstudio.xyz
-
-IP Scanning：https://angryip.org/download
 
 Emotn UI：https://app.emotn.com/ui
 
@@ -720,5 +712,6 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
