@@ -481,8 +481,6 @@ https://psub.888005.xyz
 
 https://account.lightlayer.net
 
-https://s3.dualstack.us-west-2.amazonaws.com/zhifan2/ytb.html
-
 https://so.252035.xyz
 
 https://quark4k.com
@@ -712,6 +710,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
