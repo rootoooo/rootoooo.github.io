@@ -478,13 +478,9 @@ https://psub.888005.xyz
 
 https://account.lightlayer.net
 
-https://github.com/byJoey/cfnew/releases
-
 https://so.252035.xyz
 
 https://quark4k.com
-
-https://www.czzy.site
 
 http://tonkiang.us
 
@@ -711,6 +707,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
