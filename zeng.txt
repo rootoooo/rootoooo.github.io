@@ -473,10 +473,7 @@
 
 Administrator
 
-AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C    39906212-e6a0-41a5-a119-402cc2e9e983    156245234167    Teddysun.com
-
-7fc11971-4588-4ed3-a609-a0bf0c9ab735    g    www.sap.com    UYP5ozn9LAKOgTZeLqxXZEpatMRbnUmucPGH12jo2C8    a7
-
+AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C    39906212-e6a0-41a5-a119-402cc2e9e983
 https://psub.888005.xyz
 
 https://account.lightlayer.net
@@ -714,6 +711,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
