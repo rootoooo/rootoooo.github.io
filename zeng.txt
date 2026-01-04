@@ -475,7 +475,6 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C    edge-mqtt.facebook.com    true
 
-
 https://account.lightlayer.net
 
 https://so.252035.xyz
@@ -489,8 +488,6 @@ https://sankei.mo/z.html
 https://www.onlyoffice.com/download-desktop
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
-
-https://github.haoss.eu.org/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 https://anti-ad.net/adguard.txt
 
@@ -516,19 +513,9 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 APP：https://github.com/tw93/Pake/releases
 
-Airplay：https://github.com/xfirefly/Airplay-SDK/releases/tag/1.5.16
-
-ANeko：https://github.com/pass-with-high-score/ANeko/releases
-
 AlistList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
 OpenList：https://github.com/OpenListTeam/OpenList/releases
-
-FaceMoji：https://github.com/Steve-Mr/EmojiFace/releases
-
-Frp：https://github.com/mvscode/frps-onekey
-
-Frps：https://github.com/luckjiawei/frpc-desktop/releases
 
 Fancyss：https://github.com/hq450/fancyss
 
@@ -539,10 +526,6 @@ Seal：https://github.com/JunkFood02/Seal/releases
 LocalSend：https://github.com/localsend/localsend/releases
 
 Live：https://github.com/liuchuancong/pure_live/releases
-
-Image-Toolbox：https://github.com/T8RIN/ImageToolbox/releases
-
-WeatherMaster：https://github.com/PranshulGG/WeatherMaster/releases
 
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
@@ -707,6 +690,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
