@@ -481,6 +481,8 @@ https://so.252035.xyz
 
 https://quark4k.com
 
+https://xmac.app
+
 http://tonkiang.us
 
 https://sankei.mo/z.html
@@ -690,6 +692,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
