@@ -603,6 +603,16 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 sudo ./install-frps.sh uninstall
 
+serverAddr = "777"
+serverPort = 7000
+
+[[proxies]]
+name = "a"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 22
+remotePort = 777
+
 
 
 Alist + Openlist：
@@ -690,3 +700,4 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
