@@ -517,6 +517,8 @@ AlistList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
+Frpc：https://github.com/luckjiawei/frpc-desktop/releases
+
 Fancyss：https://github.com/hq450/fancyss
 
 VNC：https://github.com/gujjwal00/avnc/releases
@@ -602,17 +604,6 @@ chmod 700 ./install-frps.sh
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 sudo ./install-frps.sh uninstall
-
-[common]
-server_addr = 1
-server_port = 4
-token = 1
-
-[a]
-type = tcp
-local_ip = 192.168.4.1
-local_port = 80
-remote_port = 888
 
 
 
@@ -701,6 +692,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
