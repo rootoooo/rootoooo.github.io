@@ -1,4 +1,4 @@
-为人民服务
+  为人民服务
 
 深刻领悟“两个确立”，增强“四个意识”、坚定“四个自信”、坚决做到“两个维护”
 
@@ -603,15 +603,16 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 sudo ./install-frps.sh uninstall
 
-serverAddr = "777"
-serverPort = 7000
+[common]
+server_addr = 1
+server_port = 4
+token = 1
 
-[[proxies]]
-name = "a"
-type = "tcp"
-localIP = "127.0.0.1"
-localPort = 22
-remotePort = 777
+[a]
+type = tcp
+local_ip = 127.0.0.1
+local_port = 5244
+remote_port = 5
 
 
 
@@ -700,4 +701,5 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
