@@ -565,11 +565,9 @@ VPS System Update：apt update -y && apt install -y curl socat wget sudo
 
 
 
-Windows 7：
+Windows Server 2012 R2：
 
-wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/teddysun/across/master/InstallNET.sh' && chmod +x InstallNET.sh
-
-./InstallNET.sh -dd 'https://dl.lamp.sh/vhd/zh-cn_windows_7_professional_sp1_x64_lite.vhd.gz'
+wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/teddysun/across/master/InstallNET.sh' && chmod +x InstallNET.sh && ./InstallNET.sh -dd 'https://dl.lamp.sh/vhd/zh-cn_windows_server_2012_r2_standard_sp1_x64_lite.vhd.gz'
 
 
 
@@ -704,6 +702,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
