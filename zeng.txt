@@ -613,6 +613,8 @@ Alist + Openlist：
 
 cd /Applications/openlist && ./openlist server
 
+& "C:\openlist-windows-amd64-lite\openlist.exe" server
+
 https://haoss.eu.org/ppx.jpg
 
 <link href="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/alist.css" rel="stylesheet" type="text/css">
@@ -694,6 +696,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
