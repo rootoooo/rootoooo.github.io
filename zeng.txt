@@ -471,7 +471,7 @@
 
 
 
-Administrator    Teddysun.com
+Administrator    Teddysun.com   nat.ee
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C    www.mozilla.org    true
 
@@ -562,6 +562,14 @@ VPS Version：arch
 Turn off the firewall：sudo ufw disable
 
 VPS System Update：apt update -y && apt install -y curl socat wget sudo
+
+
+
+Windows 7：
+
+wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/teddysun/across/master/InstallNET.sh' && chmod +x InstallNET.sh
+
+./InstallNET.sh -dd 'https://dl.lamp.sh/vhd/zh-cn_windows_7_professional_sp1_x64_lite.vhd.gz'
 
 
 
@@ -696,6 +704,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
