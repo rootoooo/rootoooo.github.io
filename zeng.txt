@@ -489,8 +489,6 @@ https://sankei.mo/z.html
 
 https://www.onlyoffice.com/download-desktop
 
-https://www.vpsjyz.com/2093.html
-
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 https://anti-ad.net/adguard.txt
@@ -564,12 +562,6 @@ VPS Version：arch
 Turn off the firewall：sudo ufw disable
 
 VPS System Update：apt update -y && apt install -y curl socat wget sudo
-
-
-
-DD Windows：
-
-wget --no-check-certificate -O NewReinstall.sh https://git.io/newbetags && chmod a+x NewReinstall.sh && bash NewReinstall.sh
 
 
 
@@ -704,6 +696,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
