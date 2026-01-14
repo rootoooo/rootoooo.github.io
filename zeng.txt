@@ -71,7 +71,7 @@ https://quark4k.com
 
 https://www.czzy.site
 
-https://ddys.run
+https://ddys.diy
 
 http://tonkiang.us
 
@@ -286,6 +286,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
