@@ -555,7 +555,7 @@ Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activat
 
 MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
-Homebrew：/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"    brew -v   brew install e2fsprogs    diskutil list     diskutil unmountDisk /dev/disk4    sudo $(brew --prefix e2fsprogs)/sbin/mkfs.ext4 /dev/disk4
+Homebrew：/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/mac/.zprofile    eval "$(/opt/homebrew/bin/brew shellenv)"    brew -v   brew install e2fsprogs    diskutil list     diskutil unmountDisk /dev/disk4    sudo $(brew --prefix e2fsprogs)/sbin/mkfs.ext4 /dev/disk4
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
@@ -698,6 +698,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
