@@ -69,7 +69,7 @@ https://so.252035.xyz
 
 https://quark4k.com
 
-https://www.czzy.site
+https://czzy.site
 
 https://ddys.diy
 
@@ -286,6 +286,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
