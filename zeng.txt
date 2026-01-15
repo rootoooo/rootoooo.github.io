@@ -61,6 +61,8 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
+vless://21e8a013-fdc9-49a6-9423-6bea41e3cbe5@156.245.234.167:49999?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=Q5ghGi0zep6mYCJZRRJmz54D7lWsTk7QK1dnVGI5lzc&fp=chrome&sni=www.sap.com&sid=00b825&spx=%2F#HK
+
 https://account.lightlayer.net
 
 https://so.252035.xyz
@@ -132,12 +134,6 @@ Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
-
-3x-ui：https://github.com/MHSanaei/3x-ui/releases
-
-V2ray：https://github.com/v2fly/v2ray-core/releases
-
-UUID：https://1024tools.com/uuid
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
@@ -290,38 +286,5 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
-
-
-
-Vmess+tcp：
-
-{
-  "inbounds": [
-    {
-      "port": 12345, 
-      "protocol": "vmess",    
-      "settings": {
-        "clients": [
-          {
-            "id": "a4167d32-410f-4118-909d-35b22da4a292",  
-            "alterId": 0
-          }
-        ]
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "protocol": "freedom",  
-      "settings": {}
-    }
-  ]
-}
-
-PowerShell：
-
-C:\v2ray-windows-64\v2ray.exe run
-
-
 
 
