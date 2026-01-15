@@ -135,6 +135,8 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 V2ray：https://github.com/v2fly/v2ray-core/releases
 
+UUID：https://1024tools.com/uuid
+
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
 Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
@@ -289,6 +291,30 @@ cp .env.example .env && vi .env
 
 
 
+Vmess+tcp：
+
+{
+  "inbounds": [
+    {
+      "port": 8388, 
+      "protocol": "vmess",    
+      "settings": {
+        "clients": [
+          {
+            "id": "c98ee1c3-5ea3-4fbf-a458-4c8393149f2a",  
+            "alterId": 0
+          }
+        ]
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom",  
+      "settings": {}
+    }
+  ]
+}
 
 
 
