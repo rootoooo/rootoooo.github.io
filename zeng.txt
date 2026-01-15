@@ -296,12 +296,12 @@ Vmess+tcp：
 {
   "inbounds": [
     {
-      "port": 8388, 
+      "port": 12345, 
       "protocol": "vmess",    
       "settings": {
         "clients": [
           {
-            "id": "c98ee1c3-5ea3-4fbf-a458-4c8393149f2a",  
+            "id": "a4167d32-410f-4118-909d-35b22da4a292",  
             "alterId": 0
           }
         ]
@@ -315,6 +315,7 @@ Vmess+tcp：
     }
   ]
 }
+
 
 
 
