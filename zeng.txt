@@ -133,6 +133,8 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
+3x-ui：https://github.com/MHSanaei/3x-ui/releases
+
 V2ray：https://github.com/v2fly/v2ray-core/releases
 
 UUID：https://1024tools.com/uuid
@@ -319,5 +321,6 @@ Vmess+tcp：
 PowerShell：
 
 C:\v2ray-windows-64\v2ray.exe run
+
 
 
