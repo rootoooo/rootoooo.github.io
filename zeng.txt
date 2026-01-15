@@ -133,7 +133,7 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
-V2ray：https://github.com/v2fly/v2ray-core/releases/tag/v5.43.0
+V2ray：https://github.com/v2fly/v2ray-core/releases
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
@@ -286,6 +286,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
