@@ -85,7 +85,7 @@ https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/m
 
 Looking Glass：http://www.jendoscope.cn/en
 
-Music：https://music.gdstudio.xyz
+Music：https://music.gdstudio.org
 
 Emotn UI：https://app.emotn.com/ui
 
@@ -284,6 +284,7 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
 
