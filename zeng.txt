@@ -316,4 +316,6 @@ Vmess+tcp：
   ]
 }
 
+C:\v2ray-windows-64\v2ray.exe run
+
 
