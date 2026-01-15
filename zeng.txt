@@ -59,7 +59,7 @@
 
 Administrator
 
-AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C    www.mozilla.org    true
+AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 https://account.lightlayer.net
 
@@ -321,6 +321,7 @@ Vmess+tcp：
 PowerShell：
 
 C:\v2ray-windows-64\v2ray.exe run
+
 
 
 
