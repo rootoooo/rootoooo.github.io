@@ -61,7 +61,7 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-vless://21e8a013-fdc9-49a6-9423-6bea41e3cbe5@156.245.234.167:49999?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=Q5ghGi0zep6mYCJZRRJmz54D7lWsTk7QK1dnVGI5lzc&fp=chrome&sni=www.sap.com&sid=00b825&spx=%2F#HK
+vless://be4a1084-2a09-4cb1-a48e-43b716e7a5be@144.34.231.118:49999?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=t6fF_l7FNYfK5PT5Buxyhj2w8q6LG2W4_UeBykun8gQ&fp=chrome&sni=www.sap.com&sid=b4c9da84d6c2&spx=%2F#US
 
 https://account.lightlayer.net
 
@@ -286,5 +286,6 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
