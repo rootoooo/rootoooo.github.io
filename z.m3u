@@ -191,7 +191,7 @@ http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 http://iptv.huuc.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 group-title="Global" ,湖南卫视
 http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 group-title="Global" ,TW CIT
+#EXTINF:-1 group-title="Global" ,TW CTI
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 group-title="Global" ,HK Chinese
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
