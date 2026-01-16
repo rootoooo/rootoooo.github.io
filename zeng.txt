@@ -79,8 +79,6 @@ https://sankei.mo/z.html
 
 https://www.onlyoffice.com/download-desktop
 
-https://d1y.github.io/kitty
-
 http://www.饭太硬.top/tv
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
@@ -104,8 +102,6 @@ Github Time：https://api.github.com/users/XXX
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
-
-Cat：https://github.com/waifu-project/movie/releases
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
@@ -294,5 +290,6 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
 
 
