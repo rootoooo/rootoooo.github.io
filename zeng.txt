@@ -79,6 +79,8 @@ https://sankei.mo/z.html
 
 https://www.onlyoffice.com/download-desktop
 
+http://www.饭太硬.top/tv/
+
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 https://anti-ad.net/adguard.txt
@@ -124,6 +126,8 @@ Live：https://github.com/liuchuancong/pure_live/releases
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
+
+NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
 
 Telegram-X：https://github.com/TGX-Android/Telegram-X/releases
 
@@ -286,3 +290,4 @@ cd ChatGPT-Mirror/
 cp .env.example .env && vi .env
 
 ./deploy.sh
+
