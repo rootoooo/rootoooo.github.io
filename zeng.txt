@@ -61,8 +61,6 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C    www.mozilla.org
 
-https://bwh1.net
-
 https://account.lightlayer.net
 
 http://tonkiang.us
@@ -70,8 +68,6 @@ http://tonkiang.us
 https://sankei.mo/z.html
 
 https://www.onlyoffice.com/download-desktop
-
-http://www.饭太硬.top/tv
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
@@ -266,5 +262,6 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
 
