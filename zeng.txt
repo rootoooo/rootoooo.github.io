@@ -59,11 +59,11 @@
 
 Administrator
 
-AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C    www.mozilla.org
-
-https://github.com/jdnei/mojie
+AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
 https://account.lightlayer.net
+
+https://ipinfo.cv
 
 http://tonkiang.us
 
@@ -264,6 +264,7 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
 
 
