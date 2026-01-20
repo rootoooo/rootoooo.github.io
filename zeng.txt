@@ -93,8 +93,6 @@ APP：https://github.com/tw93/Pake/releases
 
 AlistList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
-BBS：https://github.com/kidozh/DiscuzHub/releases
-
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
 Fancyss：https://github.com/hq450/fancyss
@@ -260,3 +258,5 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
+
