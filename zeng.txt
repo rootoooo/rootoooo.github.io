@@ -75,8 +75,6 @@ https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/m
 
 Looking Glass：http://www.jendoscope.cn/en
 
-Music：https://music.gdstudio.org
-
 Emotn UI：https://app.emotn.com/ui
 
 FinalShell：https://www.hostbuf.com
@@ -260,3 +258,5 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
+
