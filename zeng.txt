@@ -151,6 +151,12 @@ www.airbnb.com    www.sap.com
 
 
 
+3X-ui-Windows：
+
+wsl --install -d Ubuntu
+
+
+
 Hysteria2：
 
 curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
@@ -246,6 +252,7 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
 
 
