@@ -175,7 +175,7 @@ Alist + Openlist：
 
 cd /Applications/openlist && ./openlist server
 
-& "C:\C:\openlist-windows-amd64e\openlist.exe" server
+& "C:\C:\openlist-windows-amd64\openlist.exe" server
 
 https://haoss.eu.org/ppx.jpg
 
@@ -246,6 +246,7 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
 
 
