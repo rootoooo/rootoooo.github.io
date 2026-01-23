@@ -157,6 +157,8 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
+curl.exe -L -o ubuntu.appx https://aka.ms/wslubuntu2004
+
 wsl --install -d Ubuntu
 
 
@@ -256,6 +258,7 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
 
 
