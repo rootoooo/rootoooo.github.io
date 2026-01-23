@@ -151,18 +151,6 @@ www.airbnb.com    www.sap.com
 
 
 
-3X-ui-Windows：
-
-dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-
-dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
-
-curl.exe -L -o ubuntu.appx https://aka.ms/wslubuntu2004
-
-wsl --install -d Ubuntu
-
-
-
 Hysteria2：
 
 curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
@@ -258,6 +246,7 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
 
 
