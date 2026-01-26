@@ -87,8 +87,6 @@ OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-AlistList：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
-
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
 Fancyss：https://github.com/hq450/fancyss
@@ -144,8 +142,6 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 3X-ui：
 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
-
-www.airbnb.com    www.sap.com
 
 
 
@@ -244,6 +240,7 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
 
 
