@@ -63,8 +63,6 @@ AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2
 
 https://account.lightlayer.net
 
-https://188766.xyz/itv
-
 https://sankei.mo/z.html
 
 https://www.onlyoffice.com/download-desktop
@@ -242,4 +240,5 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
