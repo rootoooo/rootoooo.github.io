@@ -61,8 +61,6 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-vless://46bd0550-6e9d-4098-bb9a-0f10a88203b4@45.196.219.0:49999?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=lhWOfjmnau3sodXyt5QGy_8f53yDn9pZiplUaLfa4Qg&fp=chrome&sni=www.bing.com&sid=3d6c7fc5252557&spx=%2F#HK
-
 https://account.lightlayer.net
 
 https://188766.xyz/itv
