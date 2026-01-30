@@ -95,21 +95,15 @@ VNC：https://github.com/gujjwal00/avnc/releases
 
 Seal：https://github.com/JunkFood02/Seal/releases
 
-SmartTube：https://github.com/yuliskov/SmartTube/releases
-
 LocalSend：https://github.com/localsend/localsend/releases
 
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
 
-NoTubeTV：https://github.com/ycngmn/NoTubeTV/releases
-
 NexPlayer：https://github.com/NextPlayerCloud/NextPlayerCloud/releases
 
 Telegram-X：https://github.com/TGX-Android/Telegram-X/releases
-
-Termius：https://github.com/alongw/Termius-zh_CN/releases
 
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 
@@ -242,4 +236,5 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
