@@ -103,8 +103,6 @@ Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/relea
 
 NexPlayer：https://github.com/NextPlayerCloud/NextPlayerCloud/releases
 
-Telegram-X：https://github.com/TGX-Android/Telegram-X/releases
-
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 
 V2rayN：https://github.com/2dust/v2rayn/releases
@@ -236,3 +234,4 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
