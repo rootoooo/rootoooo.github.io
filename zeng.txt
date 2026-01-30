@@ -61,6 +61,8 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
+https://s3.dualstack.us-west-2.amazonaws.com/zhifan2/ytb.html
+
 https://account.lightlayer.net
 
 https://sankei.mo/z.html
@@ -240,3 +242,4 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
