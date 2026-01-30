@@ -101,8 +101,6 @@ MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
 
-NexPlayer：https://github.com/NextPlayerCloud/NextPlayerCloud/releases
-
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 
 V2rayN：https://github.com/2dust/v2rayn/releases
@@ -234,4 +232,3 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
-
