@@ -65,8 +65,6 @@ https://s3.dualstack.us-west-2.amazonaws.com/zhifan2/ytb.html
 
 https://account.lightlayer.net
 
-https://sankei.mo/z.html
-
 https://www.onlyoffice.com/download-desktop
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
@@ -234,4 +232,5 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
