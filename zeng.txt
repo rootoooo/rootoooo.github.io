@@ -89,6 +89,8 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
+Frpc:https://github.com/luckjiawei/frpc-desktop
+
 Fancyss：https://github.com/hq450/fancyss
 
 VNC：https://github.com/gujjwal00/avnc/releases
@@ -232,3 +234,4 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
