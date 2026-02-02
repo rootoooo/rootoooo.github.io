@@ -89,6 +89,8 @@ Frpc:https://github.com/luckjiawei/frpc-desktop
 
 Fancyss：https://github.com/hq450/fancyss
 
+USB-Camera：https://github.com/shlllshlll/USBCamera/releases
+
 VNC：https://github.com/gujjwal00/avnc/releases
 
 Seal：https://github.com/JunkFood02/Seal/releases
