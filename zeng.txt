@@ -95,6 +95,8 @@ VNC：https://github.com/gujjwal00/avnc/releases
 
 Seal：https://github.com/JunkFood02/Seal/releases
 
+SmartTube：https://github.com/yuliskov/SmartTube/releases
+
 LocalSend：https://github.com/localsend/localsend/releases
 
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
@@ -232,5 +234,6 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
 
