@@ -73,8 +73,6 @@ https://anti-ad.net/adguard.txt
 
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
-Looking Glass：http://www.jendoscope.cn/en
-
 Emotn UI：https://app.emotn.com/ui
 
 FinalShell：https://www.hostbuf.com
