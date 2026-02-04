@@ -193,16 +193,6 @@ http://101.35.240.114:88/live.php?id=湖南卫视4K
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="Global" ,凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="Global" ,CCTV-5+
-https://live.catvod.com/live.php?id=cctv5
-#EXTINF:-1 group-title="Global" ,CCTV-5+
-https://live.catvod.com/live.php?id=cctv5plus
-#EXTINF:-1 group-title="Global" ,CCTV-13
-https://live.catvod.com/live.php?id=cctv13
-#EXTINF:-1 group-title="Global" ,中天新闻
-https://live.catvod.com/live.php?id=ctinews
-#EXTINF:-1 group-title="Global" ,TVBS HK
-https://live.catvod.com/live.php?id=tvbs
 #EXTINF:-1 group-title="Global" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Global" ,Wion
@@ -221,6 +211,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 #EXTINF:-1 group-title="Global" ,Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
 
 
 
