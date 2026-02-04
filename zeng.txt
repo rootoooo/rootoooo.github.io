@@ -63,6 +63,10 @@ AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2
 
 https://account.lightlayer.net
 
+https://tmxk.pp.ua
+
+https://live.catvod.com/tv.m3u
+
 https://www.onlyoffice.com/download-desktop
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
@@ -232,4 +236,5 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
 
