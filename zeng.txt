@@ -234,3 +234,15 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
+
+
+ChatGPT Mirror：
+
+cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
+
+cd ChatGPT-Mirror/
+
+cp .env.example .env && vi .env
+
+./deploy.sh
