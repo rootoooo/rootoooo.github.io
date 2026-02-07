@@ -75,6 +75,8 @@ Emotn UI：https://app.emotn.com/ui
 
 FinalShell：https://www.hostbuf.com
 
+ChatGPT-Token：https://chatgpt.com/api/auth/session
+
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
