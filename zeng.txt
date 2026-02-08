@@ -75,15 +75,11 @@ Emotn UI：https://app.emotn.com/ui
 
 FinalShell：https://www.hostbuf.com
 
-ChatGPT-Token：https://chatgpt.com/api/auth/session
-
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
-
-Alist：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
@@ -236,15 +232,3 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
-
-
-
-ChatGPT Mirror：
-
-cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
-
-cd ChatGPT-Mirror/
-
-cp .env.example .env && vi .env
-
-./deploy.sh
