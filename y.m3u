@@ -1,0 +1,1355 @@
+#EXTM3U
+#EXTINF:-1 group-title="常用频道,#genre#" ,凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="常用频道,#genre#" ,凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="常用频道,#genre#" ,凤凰香港
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1 group-title="常用频道,#genre#" ,翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 group-title="常用频道,#genre#" ,翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="常用频道,#genre#" ,明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="常用频道,#genre#" ,TVB Plus
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 group-title="常用频道,#genre#" ,TVB Plus
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 group-title="常用频道,#genre#" ,TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 group-title="常用频道,#genre#" ,TVB星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 group-title="常用频道,#genre#" ,华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 group-title="常用频道,#genre#" ,ViuTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 group-title="常用频道,#genre#" ,翡翠台
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 group-title="常用频道,#genre#" ,亚洲美食
+https://zb.kklive.top/smt.php?id=afc_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,美食星球
+https://zb.kklive.top/smt.php?id=foodplanet_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,亚洲旅游
+https://zb.kklive.top/smt.php?id=tlc_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,亚洲旅游台
+https://zb.kklive.top/smt.php?id=asiatravel_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,J2
+https://zb.kklive.top/smt.php?id=j2_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,翡翠台
+https://migu.188766.xyz/?migutoken=fab294f829b1591c0264f239567ce461&id=hk_fct&type=dy
+#EXTINF:-1 group-title="常用频道,#genre#" ,翡翠台4K
+https://migu.188766.xyz/?migutoken=dd11cb0a55776bd1a8b0802559c0788d&id=hk_fct4k&type=dy
+#EXTINF:-1 group-title="常用频道,#genre#" ,翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线翡翠频美
+https://cdn6.101.qzz.io/163189/fct
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线翡翠频美
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线明珠频美
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线星河频美
+https://cdn6.101.qzz.io/163189/tvbxh
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线功夫频美
+https://cdn6.101.qzz.io/163189/yzwx
+#EXTINF:-1 group-title="常用频道,#genre#" ,澳视澳门频美
+https://cdn6.101.qzz.io/163189/asam
+#EXTINF:-1 group-title="常用频道,#genre#" ,VIUTV'粤频美
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 group-title="常用频道,#genre#" ,TVB J2
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="常用频道,#genre#" ,HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="常用频道,#genre#" ,凤凰中文
+https://cdn6.101.qzz.io/163189/fhzw
+#EXTINF:-1 group-title="常用频道,#genre#" ,凤凰香港
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 group-title="常用频道,#genre#" ,美食星球
+http://51.89.166.17:3002/index.php?id=foodplanet_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,亚洲美食
+http://51.89.166.17:3002/index.php?id=afc_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,亚洲旅游
+http://51.89.166.17:3002/index.php?id=asiatravel_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,亚洲TLC
+http://51.89.166.17:3002/index.php?id=tlc_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,EYE-旅游
+http://51.89.166.17:3002/index.php?id=eyetvtravel_twn
+#EXTINF:-1 group-title="常用频道,#genre#" ,tvbplus
+https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
+#EXTINF:-1 group-title="常用频道,#genre#" ,TVB Plus
+http://feng163.com:8001/bysid/82.m3u8
+#EXTINF:-1 group-title="常用频道,#genre#" ,tvb plus
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+#EXTINF:-1 group-title="常用频道,#genre#" ,HOY77
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
+#EXTINF:-1 group-title="常用频道,#genre#" ,美亞電影台(HK)
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="常用频道,#genre#" ,無線新聞台
+https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="常用频道,#genre#" ,美亞電影台(HK)
+https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线娱乐
+http://hkenlive.uk/livehttpplay?channel_id=13006
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线戏曲
+http://hkenlive.uk/livehttpplay?channel_id=13026
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线粤片
+http://hkenlive.uk/livehttpplay?channel_id=13021
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线经典
+http://hkenlive.uk/livehttpplay?channel_id=13024
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线华剧
+http://hkenlive.uk/livehttpplay?channel_id=13023
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线亚剧
+http://hkenlive.uk/livehttpplay?channel_id=13022
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线亚综
+http://hkenlive.uk/livehttpplay?channel_id=13020
+#EXTINF:-1 group-title="常用频道,#genre#" ,无线赛马
+http://hkenlive.uk/livehttpplay?channel_id=13005
+#EXTINF:-1 group-title="常用频道,#genre#" ,车迷体育4Gtv
+http://152.32.229.52:5050/4gtv-live201/index.m3u8?proxy=true
+#EXTINF:-1 group-title="常用频道,#genre#" ,古典音乐4Gtv
+http://152.32.229.52:5050/4gtv-4gtv059/index.m3u8?proxy=true
+#EXTINF:-1 group-title="常用频道,#genre#" ,民视旅游4Gtv
+http://152.32.229.52:5050/litv-ftv07/index.m3u8?proxy=true
+#EXTINF:-1 group-title="常用频道,#genre#" ,CCTV1
+http://202.168.168.50:5000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV-5体育
+http://122.5.16.250:8989/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV-5+体育赛事
+http://122.5.16.250:8989/tsfile/live/1030_1.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5
+http://112.254.55.106:22222/udp/239.253.254.192:8000
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://112.254.55.106:22222/udp/239.253.254.80:8000
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5
+http://202.168.168.50:5000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5
+http://112.5.67.190:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://112.5.67.190:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16
+http://112.5.67.190:9999/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://110.181.239.203:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://110.181.239.2:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://110.181.238.142:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://110.181.239.217:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://110.181.239.144:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://110.181.238.174:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://110.72.67.190:8181/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://110.72.65.118:8181/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://119.125.104.133:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+
+http://61.156.228.12:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16
+http://119.123.176.82:8086/hls/17/index.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16
+http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16 4K
+http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_800.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16
+http://202.168.168.50:5000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16奥利匹克
+http://163.142.186.56:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16奥利匹克
+http://163.142.186.48:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16奥利匹克
+http://163.142.186.57:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16奥利匹克
+http://163.142.186.49:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV16
+http://36.36.200.196:44330/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV赛事
+http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5G
+http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+G
+http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5
+http://gfr.x3322.net:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5体育
+http://110.241.191.195:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,CCTV5+体育
+http://110.241.191.195:808/hls/17/index.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育2台
+https://zb.kklive.top/smt.php?id=eltasport2_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育3台
+https://zb.kklive.top/smt.php?id=eltasport3_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育4
+http://51.89.166.17:3002/index.php?id=eltasport4_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育3
+http://51.89.166.17:3002/index.php?id=eltasport3_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育2
+http://51.89.166.17:3002/index.php?id=eltasport2_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育1
+http://51.89.166.17:3002/index.php?id=eltasport_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,Astro Badminton1
+https://live.catvod.com/live.php?id=go_badminton1
+#EXTINF:-1 group-title="体育频道,#genre#" ,Astro Badminton2
+https://live.catvod.com/live.php?id=go_badminton2
+#EXTINF:-1 group-title="体育频道,#genre#" ,Astro Badminton 1
+https://zb.kklive.top/smt.php?id=go_badminton1
+#EXTINF:-1 group-title="体育频道,#genre#" ,Astro Badminton 2
+https://zb.kklive.top/smt.php?id=go_badminton2
+#EXTINF:-1 group-title="体育频道,#genre#" ,now Sports Prime
+https://stream1.freetv.fun/prime-2.m3u8
+#EXTINF:-1 group-title="体育频道,#genre#" ,Astro Badminton
+https://stream1.freetv.fun/0482056630fd2ed7aafa8d0b1ce061d054a3eca54f2a1ae57a92e1cbe6d09ef1.ctv
+#EXTINF:-1 group-title="体育频道,#genre#" ,Astro Badminton
+https://stream1.freetv.fun/astro-badminton--wj-1.ctv
+#EXTINF:-1 group-title="体育频道,#genre#" ,Astro Badminton 1
+https://smt.passwdword.xyz/Smart.php?id=go_badminton1
+#EXTINF:-1 group-title="体育频道,#genre#" ,Astro Badminton 2
+https://smt.passwdword.xyz/Smart.php?id=go_badminton2
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育3台1
+https://live.catvod.com/live.php?id=eltasport3_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育2台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育3台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育2台s
+https://smt.passwdword.xyz/Smart.php?id=eltasport2_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育3台s
+https://smt.passwdword.xyz/Smart.php?id=eltasport3_twn
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育2台720
+http://5kuiwan.cn:8888/66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+#EXTINF:-1 group-title="体育频道,#genre#" ,爱尔达体育4台720
+http://5kuiwan.cn:8888/66.90.99.154:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻1
+https://live.catvod.com/live.php?id=inews_twn
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻台s
+https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻台Mt
+http://rihou.cc:555/tv/[Mt]无线新闻
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻频美
+https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1 group-title="新闻频道,#genre#" ,TVB无线新闻台
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,TVB无线新闻
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻va
+http://vallest.uk/livehttpplay?channel_id=30024
+#EXTINF:-1 group-title="新闻频道,#genre#" ,無線新聞台
+https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
+#EXTINF:-1 group-title="新闻频道,#genre#" ,無線新聞台
+https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
+#EXTINF:-1 group-title="新闻频道,#genre#" ,無線新聞台
+https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,無線新聞台
+https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.ctv
+#EXTINF:-1 group-title="新闻频道,#genre#" ,無線新聞台
+https://stream1.freetv.fun/fc27b3908a78de41f3e9bc37f460b885afe653d73baf65ecea825df2eb5212f3.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,無線新聞台s
+https://smt.passwdword.xyz/Smart.php?id=inews_twn
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻74
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,无线新闻z
+https://zb.kklive.top/smt.php?id=inews_twn
+#EXTINF:-1 group-title="新闻频道,#genre#" ,HOY资讯台z
+https://zb.kklive.top/smt.php?id=hoycaijing_twn
+#EXTINF:-1 group-title="新闻频道,#genre#" ,HOY 78
+http://rihou.cc:555/tv/[Mt]有线新闻
+#EXTINF:-1 group-title="新闻频道,#genre#" ,Hoy78FY
+http://hls-pull-wicketpw.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzls4gD05KeGhG.flv?%E4%BA%8C%E6%9C%8D=
+#EXTINF:-1 group-title="新闻频道,#genre#" ,有线新闻
+http://51.89.166.17:3002/index.php?id=hoycaijing_twn
+#EXTINF:-1 group-title="新闻频道,#genre#" ,Hoy78
+https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
+#EXTINF:-1 group-title="新闻频道,#genre#" ,Hoy78
+http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
+#EXTINF:-1 group-title="新闻频道,#genre#" ,HOY资讯台
+http://43.251.102.18:4000/play/a004
+#EXTINF:-1 group-title="新闻频道,#genre#" ,HOY 资讯台
+http://beishan008.asuscomm.com:8891/bysid/78.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,NOW新闻
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,Now新闻台1
+https://live.catvod.com/iptv.php?id=nownews
+#EXTINF:-1 group-title="新闻频道,#genre#" ,Now新闻台
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="新闻频道,#genre#" ,Now新闻台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#" ,Now新闻台
+http://rihou.cc:555/tv/[Mt]Now新闻
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,凤凰中文HD
+http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,凤凰资讯HD
+http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,凤凰中文高清
+http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,凤凰资讯高清
+http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,凤凰资讯cd
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,凤凰资讯
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,寰宇新闻
+http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,寰宇新闻1
+https://live.catvod.com/live.php?id=huanyuxinwen_twn
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,寰宇新闻
+http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,寰宇新闻台1
+https://stream1.freetv.fun/0517aebb01500bf56ba28b35193b93e188c07450e97491e3ce12d8cd67a11130.m3u8
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,寰宇新闻台2
+https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,寰宇新闻台2
+https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.ctv
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,寰宇新闻4Gtv
+http://152.32.229.52:5050/of-litv-longturn14/index.m3u8?proxy=true
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,CCTV13新闻
+http://110.241.191.195:808/hls/13/index.m3u8
+#EXTINF:-1 group-title="Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts" ,CCTV-13新闻
+http://122.5.16.250:8989/tsfile/live/1027_1.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,凤凰中文
+http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 group-title="香港电视台,#genre#" ,凤凰资讯
+http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="香港电视台,#genre#" ,凤凰香港
+http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="香港电视台,#genre#" ,NOW爆谷台
+http://23.237.228.133/live2/baogutai.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,NOW星影台
+http://23.237.228.133/live2/xingyingtai.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,NOW爆谷台备
+http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
+#EXTINF:-1 group-title="香港电视台,#genre#" ,NOW星影台备
+http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
+#EXTINF:-1 group-title="香港电视台,#genre#" ,HOY76
+http://hls.168.us.kg/u/76/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,HOY77
+http://hls.168.us.kg/u/77/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,HOY78
+http://hls.168.us.kg/u/78/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,HOY78
+http://hls.168.us.kg/u/78/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,翡翠台
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,TVB Plus
+http://hls.168.us.kg/u/82/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,无线新闻台
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,明珠台
+http://hls.168.us.kg/u/84/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,Now新聞台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,ViuTVsix
+http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,ViuTV
+http://hls.168.us.kg/u/99/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,Now華劇台
+http://hls.168.us.kg/u/105/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,熊貓TV
+http://hls.168.us.kg/u/200/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,Now直播台
+http://hls.168.us.kg/u/331/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,Now新聞台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,Now財經台
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,Now Sports 精選
+http://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:-1 group-title="香港电视台,#genre#" ,SPOTV
+http://iptv.4666888.xyz/iptv2A.php?id=2
+#EXTINF:-1 group-title="香港电视台,#genre#" ,SPOTV2
+http://iptv.4666888.xyz/iptv2A.php?id=1
+#EXTINF:-1 group-title="香港电视台,#genre#" ,astroFootball
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 group-title="香港电视台,#genre#" ,TntSports3
+http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-1 group-title="香港,#genre#" ,翡翠台
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="香港,#genre#" ,明珠台
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 group-title="香港,#genre#" ,TVBPlus
+https://cdn6.101.qzz.io/163189/tvbp
+#EXTINF:-1 group-title="香港,#genre#" ,TVB星河
+https://cdn6.101.qzz.io/163189/tvbxh
+#EXTINF:-1 group-title="香港,#genre#" ,无线新闻台
+https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1 group-title="香港,#genre#" ,NOW新闻
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="香港,#genre#" ,NOW英超1台
+http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
+#EXTINF:-1 group-title="香港,#genre#" ,NOW英超1台
+http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+#EXTINF:-1 group-title="香港,#genre#" ,NOW英超2台ㅤ
+http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
+#EXTINF:-1 group-title="香港,#genre#" ,NOW英超3台ㅤ
+http://lunar.pm:8080/melodyg/uQnLQnTkRj/117459
+#EXTINF:-1 group-title="香港,#genre#" ,NOW爆谷台
+http://23.237.228.133/live2/baogutai.m3u8
+#EXTINF:-1 group-title="香港,#genre#" ,NOW星影台
+http://23.237.228.133/live2/xingyingtai.m3u8
+#EXTINF:-1 group-title="香港,#genre#" ,凤凰中文台
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="香港,#genre#" ,凤凰资讯台
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 group-title="香港,#genre#" ,凤凰香港台
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 group-title="香港,#genre#" ,凤凰电影台
+http://www.liyajun.top:7088/udp/239.253.93.81:6247
+#EXTINF:-1 group-title="香港,#genre#" ,RTHK31
+https://cdn.163189.xyz/163189/rthk31
+#EXTINF:-1 group-title="香港,#genre#" ,RTHK32
+https://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 group-title="香港,#genre#" ,HOY77
+https://cdn6.101.qzz.io/163189/hoy
+#EXTINF:-1 group-title="香港,#genre#" ,ViuTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,千禧经典 TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,星河 TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,翡翠 TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,黄金翡翠 TVOD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,J2 TVOD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,广东珠江 TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,广东体育 TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,美亚电影粤 TVOD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,凤凰卫视 TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,凤凰资讯 TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,香港卫视 TVOD
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,重温经典 TVOD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,prima TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,翡翠台4K TVOD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,千禧经典台 smt
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,星河频道 smt
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,华丽台 smt
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,无线翡翠台 smt
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,无线新闻 smt
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,TVB翡翠台v2
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,TVB星河v2
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,TVB亚洲武侠v2
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,TVB娱乐新闻台v2
+http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,TVB无线新闻台v2
+http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,TVB无线直播v2
+http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,千禧经典台 xyz
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,华丽台 xyz
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,翡翠台 xyz
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,无线新闻台 xyz
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,星河频道
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,TVB功夫台
+https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,澳門Macau
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,澳視澳門
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,澳門葡文
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,澳門資訊
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,澳門體育
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,澳門綜藝
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod翡翠台2
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod翡翠台3
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod翡翠台4
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvodTVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvodTVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvodTVB Plus2
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvodVIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvodVIUTV2
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvodHOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvodHOY TV2
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod凤凰资讯2
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod凤凰香港2
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="TVOD频道,#genre#" ,tvod澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="电影频道,#genre#" ,星影台
+http://208.87.242.79/livehttpplay?channel_id=13003
+#EXTINF:-1 group-title="电影频道,#genre#" ,爆谷台
+http://208.87.242.79/livehttpplay?channel_id=13002
+#EXTINF:-1 group-title="电影频道,#genre#" ,美亞電影台
+http://208.87.242.79/livehttpplay?channel_id=20197
+#EXTINF:-1 group-title="电影频道,#genre#" ,Now星影粤bx
+http://rihou.cc:555/tv/[Bx]Now星影
+#EXTINF:-1 group-title="电影频道,#genre#" ,Now爆谷粤bx
+http://rihou.cc:555/tv/[Bx]Now爆谷
+#EXTINF:-1 group-title="电影频道,#genre#" ,粤语专场
+https://live.metshop.top/huya/11352894
+#EXTINF:-1 group-title="电影频道,#genre#" ,粤语专场
+http://131.186.40.172:15002/huya/11352894
+#EXTINF:-1 group-title="电影频道,#genre#" ,粤语专场
+http://live.chinacert.cftest5.cn/huya/11352894
+#EXTINF:-1 group-title="电影频道,#genre#" ,粤语专场
+http://cz.crossec.com:35455/huya/11352894
+#EXTINF:-1 group-title="电影频道,#genre#" ,周星馳專輯
+https://stream1.freetv.fun/zhou-xing-chi-1.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,周星馳專輯
+https://stream1.freetv.fun/zhou-xing-chi-2.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,周潤發專輯
+https://stream1.freetv.fun/zhou-run-fa-2.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,周潤發專輯
+https://stream1.freetv.fun/zhou-run-fa-1.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,[HD]功夫电影
+https://stream1.freetv.fun/ed04d98db945d570c677a330af78f245bd38c2ab085e655b26b123a42ea11a10.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,[HD]剧集
+https://stream1.freetv.fun/b6a501d2882e86783e129b6bd4a12c0c8ac416e3bc4f630ff6b262d891514870.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,[BD]周星驰
+https://stream1.freetv.fun/41f43385e61abae694529a55f0141e004a4d0233cfd5cfc6ad73eb5e83211623.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,[SD]周星驰
+https://stream1.freetv.fun/a8dc631f8d58d7ab3f528659cb14d59d74bdd2b1d141678b0a8b9a90e23e06c6.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,[VGA]周润发
+https://stream1.freetv.fun/c7fad06ba64871cf82704406244a7b18902363ea9b42f6471d826d3ac1429157.m3u8
+#EXTINF:-1 group-title="电影频道,#genre#" ,[VGA]周润发
+https://stream1.freetv.fun/67fed69b2c2599812702ba7070157d13eb6365467d3c1b5efb348a95911fe690.m3u8
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,有线新闻欣赏
+http://rihou.cc:555/tv/[Mt]有线新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,有线新闻欣赏
+http://rihou.cc:555/tv/[FY]有线新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,无线新闻欣赏
+http://rihou.cc:555/tv/[Pd]无线新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,无线新闻欣赏
+http://rihou.cc:555/tv/[Mt]无线新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,无线新闻欣赏
+http://rihou.cc:555/tv/[SZ]无线新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,无线新闻欣赏
+http://rihou.cc:555/tv/[Bx]无线新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,Now新闻欣赏
+http://rihou.cc:555/tv/[Cx]Now新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,Now新闻欣赏
+http://rihou.cc:555/tv/[Mt]Now新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,中天新闻欣赏
+http://rihou.cc:555/tv/[Hk]中天新聞
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,中天新闻欣赏
+http://rihou.cc:555/tv/[Bx]中天新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,中天新闻欣赏
+http://rihou.cc:555/tv/[SZ]中天新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,寰宇新闻欣赏
+http://rihou.cc:555/tv/[Hk]寰宇新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,东森新闻欣赏
+http://rihou.cc:555/tv/[Hk]东森新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,中视新闻欣赏
+http://rihou.cc:555/tv/[Hk]中视新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,闽镜新闻欣赏
+http://rihou.cc:555/tv/[Hk]闽镜新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,闽南综合欣赏
+http://rihou.cc:555/tv/[Hk]闽南综合
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,中旺电视欣赏
+http://rihou.cc:555/tv/[Hk]中旺电视
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,tvbS新闻欣赏
+http://rihou.cc:555/tv/[FY]tvbS新闻
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,tvbS闽南欣赏
+http://rihou.cc:555/tv/[Hk]tvbs闽南
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,凤凰中文欣赏
+http://rihou.cc:555/tv/[Pd]凤凰中文
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,凤凰中文欣赏
+http://rihou.cc:555/tv/[Bx]凤凰中文
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,凤凰资讯欣赏
+http://rihou.cc:555/tv/[Pd]凤凰资讯
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,凤凰资讯欣赏
+http://rihou.cc:555/tv/[Bx]凤凰资讯
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,凤凰香港欣赏
+http://rihou.cc:555/tv/[Pd]凤凰香港
+#EXTINF:-1 group-title="猫TV港台源,#genre#" ,凤凰香港欣赏
+http://rihou.cc:555/tv/[Bx]凤凰香港
+#EXTINF:-1 group-title="特闽电影,#genre#" ,东森电影粤赏
+http://rihou.cc:555/tv/[Hk]东森电影
+#EXTINF:-1 group-title="特闽电影,#genre#" ,美亚电影国赏
+http://rihou.cc:555/tv/[Hk]美亚电影
+#EXTINF:-1 group-title="特闽电影,#genre#" ,美亚电影闽赏
+http://rihou.cc:555/tv/[Bx]美亚电影
+#EXTINF:-1 group-title="特闽电影,#genre#" ,重温经典欣赏
+http://rihou.cc:555/tv/[Pd]重温经典
+#EXTINF:-1 group-title="特闽电影,#genre#" ,邵氏电影欣赏
+http://rihou.cc:555/tv/[FY]邵氏电影
+#EXTINF:-1 group-title="特闽电影,#genre#" ,邵氏武侠欣赏
+http://rihou.cc:555/tv/[FY]邵氏武侠
+#EXTINF:-1 group-title="特闽电影,#genre#" ,邵氏动作欣赏
+http://rihou.cc:555/tv/[FY]邵氏动作
+#EXTINF:-1 group-title="特闽电影,#genre#" ,邵氏喜剧欣赏
+http://rihou.cc:555/tv/[FY]邵氏喜剧
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东珠江163
+http://163.142.186.56:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州综合频道
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州新闻频道
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州法治频道
+http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州影视频道
+http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州南国都市
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州综合
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州南国都市4k
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广州南国都市4k
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东新闻
+http://tvtj1.jxwltx.com:8003/live2825.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东珠江
+http://tvtj1.jxwltx.com:8003/live2897.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东民生
+http://tvtj1.jxwltx.com:8003/dfws.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,经济科教
+http://tvtj1.jxwltx.com:8003/live3001.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东体育
+http://tvtj1.jxwltx.com:8003/live2915.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东影视
+http://tvtj1.jxwltx.com:8003/live1762.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东现代
+http://tvtj1.jxwltx.com:8003/live3087.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东少儿
+http://tvtj1.jxwltx.com:8003/live1570.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,嘉佳卡通
+http://tvtj1.jxwltx.com:8003/live1328.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,大湾区卫视
+http://tvtj.jxwltx.com:8003/neimenggu.m3u8
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,番禺新闻
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://110.181.239.217:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://110.181.239.150:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://110.181.239.2:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://110.181.239.203:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://61.156.228.12:8154/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://202.168.168.50:5000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://110.72.65.118:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://110.72.67.190:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://182.91.124.60:8801/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,广东卫视
+http://119.125.104.133:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://110.181.239.150:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://110.181.239.203:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://110.181.238.174:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://110.181.239.144:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://221.13.235.210:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://202.168.168.50:5000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://110.72.65.118:8181/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://110.72.67.190:8181/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://223.75.148.190:9910/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,浙江卫视
+http://119.125.104.133:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://110.181.239.150:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://110.181.239.144:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://223.75.148.190:9910/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://163.142.186.48:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://163.142.186.56:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://202.168.168.50:5000/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://163.142.186.57:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://110.72.67.190:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://111.8.242.142:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,湖南卫视
+http://119.125.104.133:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,旅游卫视
+http://110.72.67.190:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,旅游卫视
+http://218.94.31.154:1111/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,旅游卫视
+http://110.72.65.118:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://110.181.239.144:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://110.181.238.142:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://223.75.148.190:9910/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://221.13.235.210:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://163.142.186.56:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://202.168.168.50:5000/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://163.142.186.57:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://163.142.186.49:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://110.72.65.118:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东&卫视,#genre#" ,江苏卫视
+http://119.125.104.133:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东卫视
+http://www.3344.uk:8888/rtp/239.77.0.2:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东卫视
+http://www.3344.uk:8888/rtp/239.77.1.2:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东卫视高清
+http://www.3344.uk:8888/rtp/239.77.1.19:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东卫视高清
+http://www.3344.uk:8888/rtp/239.77.1.152:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东卫视高清
+http://www.3344.uk:8888/rtp/239.77.0.84:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东卫视超清
+http://www.3344.uk:8888/rtp/239.77.0.166:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东珠江
+http://www.3344.uk:8888/rtp/239.77.0.3:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东珠江
+http://www.3344.uk:8888/rtp/239.77.1.94:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东珠江高清
+http://www.3344.uk:8888/rtp/239.77.0.1:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东珠江超清
+http://www.3344.uk:8888/rtp/239.77.0.114:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东新闻
+http://www.3344.uk:8888/rtp/239.77.0.4:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东新闻高清
+http://www.3344.uk:8888/rtp/239.77.0.173:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东民生
+http://www.3344.uk:8888/rtp/239.77.0.5:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东民生高清
+http://www.3344.uk:8888/rtp/239.77.0.225:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东体育
+http://www.3344.uk:8888/rtp/239.77.0.6:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东体育（深圳）
+http://www.3344.uk:8888/rtp/239.77.1.97:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东体育高清-测试
+http://www.3344.uk:8888/rtp/239.77.0.112:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东体育超清
+http://www.3344.uk:8888/rtp/239.77.0.168:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东国际
+http://www.3344.uk:8888/rtp/239.77.0.7:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,经济科教
+http://www.3344.uk:8888/rtp/239.77.0.8:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,经济科教高清
+http://www.3344.uk:8888/rtp/239.77.0.85:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,经济科教超清
+http://www.3344.uk:8888/rtp/239.77.0.167:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,大湾区卫视
+http://www.3344.uk:8888/rtp/239.77.0.9:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,大湾区卫视
+http://www.3344.uk:8888/rtp/239.77.1.12:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,大湾区卫视高清
+http://www.3344.uk:8888/rtp/239.77.0.215:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东影视
+http://www.3344.uk:8888/rtp/239.77.0.11:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东影视高清
+http://www.3344.uk:8888/rtp/239.77.0.217:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东少儿
+http://www.3344.uk:8888/rtp/239.77.0.12:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东少儿高清
+http://www.3344.uk:8888/rtp/239.77.0.250:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,嘉佳卡通
+http://www.3344.uk:8888/rtp/239.77.0.13:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,嘉佳卡通
+http://www.3344.uk:8888/rtp/239.77.1.15:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,嘉佳卡通高清
+http://www.3344.uk:8888/rtp/239.77.0.179:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,南方购物-精选
+http://www.3344.uk:8888/rtp/239.77.0.19:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,南方购物
+http://www.3344.uk:8888/rtp/239.77.0.22:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,岭南戏曲
+http://www.3344.uk:8888/rtp/239.77.0.16:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东房产
+http://www.3344.uk:8888/rtp/239.77.0.14:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,现代教育
+http://www.3344.uk:8888/rtp/239.77.0.18:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东移动
+http://www.3344.uk:8888/rtp/239.77.0.20:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东综艺 4K50p
+http://www.3344.uk:8888/rtp/239.77.1.236:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东综艺 4K
+http://www.3344.uk:8888/rtp/239.77.1.237:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东综艺(4k)
+http://www.3344.uk:8888/rtp/239.77.0.244:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东综艺 宽色域(4k)
+http://www.3344.uk:8888/rtp/239.77.0.246:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东综艺(4k)
+http://www.3344.uk:8888/rtp/239.77.0.245:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广东综艺 宽色域AVS2(4k) (AVS2)
+http://www.3344.uk:8888/rtp/239.77.0.252:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州综合
+http://www.3344.uk:8888/rtp/239.253.43.66:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州综合高清
+http://www.3344.uk:8888/rtp/239.253.43.71:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州新闻
+http://www.3344.uk:8888/rtp/239.253.43.67:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州新闻高清
+http://www.3344.uk:8888/rtp/239.253.43.72:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州影视
+http://www.3344.uk:8888/rtp/239.253.43.68:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州影视高清
+http://www.3344.uk:8888/rtp/239.253.43.73:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州法治
+http://www.3344.uk:8888/rtp/239.253.43.69:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州法治高清
+http://www.3344.uk:8888/rtp/239.253.43.74:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州竞赛
+http://www.3344.uk:8888/rtp/239.253.43.70:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,广州竞赛高清
+http://www.3344.uk:8888/rtp/239.253.43.75:5146
+#EXTINF:-1 group-title="广东电信,#genre#" ,南国都市 4K
+http://www.3344.uk:8888/rtp/239.253.43.99:5146
+#EXTINF:-1 group-title="特区酒店,#genre#" ,Plus综合频高
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
+#EXTINF:-1 group-title="特区酒店,#genre#" ,Plus综合频高
+http://php.jdshipin.com/PLTV/iptv.php?id=j2
+#EXTINF:-1 group-title="特区酒店,#genre#" ,TVBJ1美频高
+http://php.jdshipin.com/PLTV/iptv.php?id=j1
+#EXTINF:-1 group-title="特区酒店,#genre#" ,TVBJ1美频标
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
+#EXTINF:-1 group-title="特区酒店,#genre#" ,凤凰中文频高
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+#EXTINF:-1 group-title="特区酒店,#genre#" ,凤凰资讯频高
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+#EXTINF:-1 group-title="特区酒店,#genre#" ,凤凰香港频高
+http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+#EXTINF:-1 group-title="特区酒店,#genre#" ,有线综合粤高
+http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="特区酒店,#genre#" ,有线综合国高
+http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线新闻频高
+http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线翡翠频4k
+http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线翡翠频高
+http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线翡翠频高
+http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线翡翠频标
+http://php.jdshipin.com/PLTV/iptv.php?id=fct
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线华丽国标
+http://php.jdshipin.com/PLTV/iptv.php?id=huali
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线明珠粤高
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线明珠频标
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线娱乐频标
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线星河频标
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线星河频标
+http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线功夫频标
+http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线千禧频标
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+#EXTINF:-1 group-title="特区酒店,#genre#" ,美亚电影频标
+http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+#EXTINF:-1 group-title="特区酒店,#genre#" ,VIUTV粤频标
+http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+#EXTINF:-1 group-title="特区酒店,#genre#" ,RTHK31频高
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+#EXTINF:-1 group-title="特区酒店,#genre#" ,RTHK32频高
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+#EXTINF:-1 group-title="特区酒店,#genre#" ,AstroRio频标
+http://php.jdshipin.com/PLTV/iptv.php?id=aod
+#EXTINF:-1 group-title="特区酒店,#genre#" ,澳门Mac频高
+http://php.jdshipin.com/PLTV/iptv.php?id=as
+#EXTINF:-1 group-title="特区酒店,#genre#" ,澳视澳门频高
+http://php.jdshipin.com/PLTV/iptv.php?id=asam
+#EXTINF:-1 group-title="特区酒店,#genre#" ,重温经典频高
+http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+#EXTINF:-1 group-title="特区酒店,#genre#" ,翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,凤凰中文
+http://php.jdshipin.com:8880/iptv.php?id=fhzw
+#EXTINF:-1 group-title="特区酒店,#genre#" ,凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="特区酒店,#genre#" ,凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="特区酒店,#genre#" ,凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="特区酒店,#genre#" ,凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,无线新闻台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,TVBJade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="特区酒店,#genre#" ,TVBJade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="特区酒店,#genre#" ,TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="特区酒店,#genre#" ,TVB星河
+http://php.jdshipin.com/smt.php?id=Xinhe
+#EXTINF:-1 group-title="特区酒店,#genre#" ,明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,TVB无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,美亚电影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="特区酒店,#genre#" ,广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="特区酒店,#genre#" ,广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
+#EXTINF:-1 group-title="特区酒店,#genre#" ,广州影视
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 group-title="特区酒店,#genre#" ,广州法治
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
+#EXTINF:-1 group-title="音乐电台,#genre#" ,香港电台第一台
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,香港电台第一台
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,香港电台第二台
+https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,香港电台第三台
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,香港电台第五台
+https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广东
+https://lhttp.qingting.fm/live/1257/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广东音乐
+https://lhttp.qingting.fm/live/1260/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广东2
+https://lhttp.qingting.fm/live/1259/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广东汽车
+https://lhttp.qingting.fm/live/1262/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广东3
+https://lhttp.qingting.fm/live/1264/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,香港第三台
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,香港古典音乐
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="音乐电台,#genre#" ,亚洲经典
+https://lhttp.qingting.fm/live/5021912/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,亚洲热歌
+https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
+#EXTINF:-1 group-title="音乐电台,#genre#" ,HD音乐
+https://lhttp.qingting.fm/live/15318341/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,亚洲粤语
+https://lhttp.qingting.fm/live/15318569/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,亚洲天空
+https://lhttp.qingting.fm/live/20071/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,亚洲音乐
+https://lhttp.qingting.fm/live/5022405/64k.mp3
+#EXTINF:-1 group-title="音乐电台,#genre#" ,澳门绿坉
+https://fm995.ddns.net/hls1/fm995.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广州新闻电台 FM96.20*0][0*0]
+http://live.xmcdn.com/live/256/64.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广州新闻电台 FM96.20*0][0*0]
+http://ls.qingting.fm/live/4848.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广州新闻电台 FM96.20*0][0*0]
+http://ls.qingting.fm/live/4848.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广州汽车音乐电台 FM102.70*0][0*0]
+http://live.xmcdn.com/live/257/64.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广州汽车音乐电台 FM102.70*0][0*0]
+http://ls.qingting.fm/live/52710.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广州汽车音乐电台 FM102.70*0][0*0]
+http://ls.qingting.fm/live/52710.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广州交通电台 FM106.10*0][0*0]
+http://ls.qingting.fm/live/4955.m3u8
+#EXTINF:-1 group-title="音乐电台,#genre#" ,广州 MYFM 88.0 (都市生活)0*0][0*0]
+http://ls.qingting.fm/live/52712.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#" ,フジテレビ
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK 総合
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#" ,TOKYO MX1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,スペースシャワーTV/SPACE SHOWER TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS 松竹東急
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,ミュージック・ジャパンTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,DiscoveryChannelJapan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,ヒストリーチャンネル日本・世界の歴史
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,MONDO TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,衛星劇場 / Eisei Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,ディズニージュニア お子さま向けディズニー番組/ Disney jr
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,アニマルプラネット/AnimalPlanetJapan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,Cartoon Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,フジテレビNEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,TAKARAZUKA SKY STAGE宝塚歌劇団
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK 総合
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK Eテレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,日本テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,ABCテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,関西テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,テレビ大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK General TV Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,SUN TV H /サンテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK BSP 4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS 朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS Fuji HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,Star Channel 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,日本映画専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS釣りビジョン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,スカイ・A / Sky A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,日テレジータス / Nittele G+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,ゴルフネットワーク Golf
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,時代劇専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,ホームドラマチャンネル 韓流・時代劇
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,キッズステーション
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,ファミリー劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,東映チャンネル / Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,チャンネル銀河
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=6
+#EXTINF:-1 group-title="日本频道,#genre#" ,TBS (备用)
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,日本テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,TOKYO MX
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,ABCテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,関西テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,テレビ大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK关西
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,サンテレビSUN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS 5
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS 6
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,WOWOW
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,Star Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,NHK BS (备用)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,WOWOW (备用)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,GREEN Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS 15
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,J SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,WOWOW (备用2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,日本映画専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS釣りビジョン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,スペースシャワーTV/SPACE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BS 31
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,スカイ・A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,日テレジータス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,ゴルフネットワーク/GOLF
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,時代劇専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,ホームドラマチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,ミュージック・ジャパンTV/MUSIC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,KIDS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,Discovery
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,HISTORY
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,ナショナル ジオグラフィック
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,TBS チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,歌謡ポップスチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,ムービープラス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,BBC World News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,CNN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,GAORA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,MTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,女チャンネル♪LaLa
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,ファミリー劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,MONDO TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,衛星劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,Disney Channel (CS)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,アニマルプラネット/animal
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,Cartoon Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,フジテレビNEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,東映チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,TAKARAZUKA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,チャンネル銀河
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=4
+#EXTINF:-1 group-title="日本频道,#genre#" ,KBS WORLD
+https://hello.kbshlsfree.workers.dev/free/channel/14/master.m3u8
+#EXTINF:-1 group-title="临时,#genre#" ,寰宇新闻
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=60Keo0&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,凤凰中文台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=8aIi1y&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,凤凰资讯台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tYAP2G&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,凤凰香港台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Rh4ix3&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,TVB翡翠台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=gU5BKG&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,华丽翡翠台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=MotBZA&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,TVB明珠台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=rKUOCm&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,无线新闻台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=rRLd7U&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,TVB plus
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=kqfxm2&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,翡翠剧集台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=9AK2mQ&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,TVB戏曲台
+http://pull-skycorp.speedws.com/live/EQcxaUJ0gZR1V1guXNnVHUf2R3lw09kOfAEmUvz6eXnGqefbwf.flv
+#EXTINF:-1 group-title="临时,#genre#" ,TVB金曲
+http://pull-skycorp.speedws.com/live/ACED2KZMC1lQgbghCsizDNVhe2Y4JROw2sG4WddZsHeTHUf2Rw.flv
+#EXTINF:-1 group-title="临时,#genre#" ,TVB奖门人
+http://pull-skycorp.speedws.com/live/3UgJSu0qpO6Lo4NDZTH6fZd4REicHUf2RCOyWGz4dpo1TK5hoA.flv
+#EXTINF:-1 group-title="临时,#genre#" ,黄金翡翠台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=GcNoey&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,now新闻台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jlmXXB&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,Now英超1台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jdhE9E&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,Now星影台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=rxNMwV&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="临时,#genre#" ,Now爆谷台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tCdjo8&tk=Ez8oqxnApir2
+#EXTINF:-1 group-title="推流,#genre# 9821" ,myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 group-title="推流,#genre# 9821" ,明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 group-title="推流,#genre# 9821" ,無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 group-title="推流,#genre# 9821" ,美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya PopC,http://bxtv.3a.ink/api.php?id=popc VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+#EXTINF:-1 group-title="推流,#genre# 9821" ,千禧經典台
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 group-title="推流,#genre# 9821" ,翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 group-title="推流,#genre# 9821" ,鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="推流,#genre# 9821" ,鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 group-title="推流,#genre# 9821" ,鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 group-title="推流,#genre# 9821" ,NOW新闻
+http://bxtv.3a.ink/api.php?id=now
+#EXTINF:-1 group-title="推流,#genre# 9821" ,中天新聞台
+http://bxtv.3a.ink/api.php?id=ztxw
