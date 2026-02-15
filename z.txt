@@ -117,6 +117,9 @@ TVBS HD,http://208.87.242.79/livehttpplay?channel_id=20085
 中天新闻,http://208.87.242.79/livehttpplay?channel_id=20163
 东森新闻,http://208.87.242.79/livehttpplay?channel_id=20082
 三立新闻,http://208.87.242.79/livehttpplay?channel_id=10126
+万合天宜,https://goodiptv.club/douyu/9220456
+周杰伦,https://goodiptv.club/douyu/7537296
+周星驰,https://live.metshop.top/huya/11342412
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
