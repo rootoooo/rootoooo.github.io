@@ -91,11 +91,8 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 卡酷少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
 优漫卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 全球,#genre#
-CCTV-13,https://5r5tv.71781011.xyz/stream/channelid/336159130?ticket=d9e46f63d774036f30705ec580390e0659ab27f9&profile=pass
-东方卫视,https://5r5tv.71781011.xyz/stream/channelid/389444485?ticket=0d57d0f15827733a5dc034bf3c56e62c61ab13d8&profile=pass
-浙江卫视,https://5r5tv.71781011.xyz/stream/channelid/991786513?ticket=c21835980a72d2342ee1bbbd84422f6751b0a681&profile=pass
-江苏卫视,https://5r5tv.71781011.xyz/stream/channelid/2135753971?ticket=42d67fb9a012921ef305948a0df1e538117df68e&profile=pass
-湖南卫视,https://5r5tv.71781011.xyz/stream/channelid/642048008?ticket=75fd35ce4c57ed55775daa733bff2079c1fb7953&profile=pass
+凤凰卫视中文台,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰卫视资讯台,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 TVBS HD,http://208.87.242.79/livehttpplay?channel_id=20085
