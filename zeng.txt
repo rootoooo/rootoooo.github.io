@@ -67,8 +67,6 @@ https://www.onlyoffice.com/download-desktop
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
-https://github.haoss.eu.org/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
 https://anti-ad.net/adguard.txt
 
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
