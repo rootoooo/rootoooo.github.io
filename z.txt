@@ -199,5 +199,3 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 1綜合,http://storage/emulated/0/酷9/js/webview.js?id=https://tv.cctv.com/live/cctv1
 2財經,http://storage/emulated/0/酷9/js/webview.js?id=https://tv.cctv.com/live/cctv2
 3綜藝,http://storage/emulated/0/酷9/js/webview.js?id=https://tv.cctv.com/live/cctv3
-4亞洲,http://storage/emulated/0/酷9/webview.js?id=https://tv.cctv.com/live/cctv4
-
