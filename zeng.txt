@@ -240,9 +240,4 @@ Ofiii-plus：
 
 https://hub.docker.com/r/instituteiptv/ofiii-plus
 
-docker run -d --name ofiii-plus \
-  -p 5050:5050 \ 
-  -v ./config:/app/config \
-  -e CONFIG_DIR=/app/config \
-  --restart unless-stopped \
-  instituteiptv/ofiii-plus:latest
+docker run -d --name ofiii-plus -p 5050:5050 -v ./config:/app/config -e CONFIG_DIR=/app/config --restart unless-stopped instituteiptv/ofiii-plus:latest
