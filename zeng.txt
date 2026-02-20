@@ -234,10 +234,3 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
-
-
-Ofiii-plus：
-
-https://hub.docker.com/r/instituteiptv/ofiii-plus
-
-docker run -d --name ofiii-plus -p 5050:5050 -v ./config:/app/config -e CONFIG_DIR=/app/config --restart unless-stopped instituteiptv/ofiii-plus:latest
