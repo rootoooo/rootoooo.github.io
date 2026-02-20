@@ -244,3 +244,14 @@ https://hub.docker.com/r/doubebly/doube-ofiii
 docker run -d --name=doube-ofiii -p 50505:5000 -e MY_OFIII_TOKEN=xxx --restart=always doubebly/doube-ofiii:1.1.6
 
 http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
+
+
+
+
+IPTV：
+
+https://hub.docker.com/r/yiwanaishare/iptv-aggregator
+
+docker run -d --name iptv-aggregator --restart unless-stopped -p 50555:50086 -e PRIORITY_KEYWORDS="广西,电信" -e REFRESH_INTERVAL_HOURS=12 -e TZ=Asia/Shanghai -v /root/iptv/data:/app/data yiwanaishare/iptv-aggregator:latest
+
+http://xxx:50555/iptv
