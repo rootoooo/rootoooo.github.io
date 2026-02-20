@@ -234,3 +234,11 @@ Mirror SiteProxy-5006：
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
+
+
+
+Doube-ofiii:1.1.6：
+
+docker run -d --name=doube-ofiii -p 50505:5000 -e MY_OFIII_TOKEN=xxx --restart=always doubebly/doube-ofiii:1.1.6
+
+http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
