@@ -61,10 +61,6 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-https://fan1.66youtube.com/Alvin9999/https/m.youtube.com
-
-https://fan2.541852.xyz/Alvin9999/https/m.youtube.com
-
 https://account.lightlayer.net
 
 https://www.onlyoffice.com/download-desktop
@@ -84,6 +80,8 @@ IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+
+AlgerMusicPlayer：https://github.com/algerkong/AlgerMusicPlayer/releases
 
 AListLite：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
