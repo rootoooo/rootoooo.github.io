@@ -95,17 +95,6 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
-中视新闻,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true&token=oooo
-华视新闻,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=oooo
-三立新闻,http://145.79.148.32:50505/index.m3u8?pid=iNEWS&sd=1080&proxy=true&token=oooo
-寰宇新闻,http://145.79.148.32:50505/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true&token=oooo
-寰宇台湾,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true&token=oooo
-中视,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true&token=oooo
-华视,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true&token=oooo
-亚洲旅游,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true&token=oooo
-Smart知识,http://145.79.148.32:50505/index.m3u8?pid=litv-xinchuang19&sd=1080&proxy=true&token=oooo
-ELTV生活英语,http://145.79.148.32:50505/index.m3u8?pid=litv-xinchuang20&sd=1080&proxy=true&token=oooo
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
@@ -129,3 +118,15 @@ TVB星河1,http://r.jdshipin.com/Voac4
 TVB星河2,http://r.jdshipin.com/sXuuD
 华丽翡翠台,http://r.jdshipin.com/thuYX
 ViuTV,http://r.jdshipin.com/vSJvl
+台湾,#genre#
+中天新聞,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true&token=oooo
+中视新闻,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true&token=oooo
+华视新闻,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=oooo
+三立新闻,http://145.79.148.32:50505/index.m3u8?pid=iNEWS&sd=1080&proxy=true&token=oooo
+寰宇新闻,http://145.79.148.32:50505/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true&token=oooo
+寰宇台湾,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true&token=oooo
+中视,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true&token=oooo
+华视,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true&token=oooo
+亚洲旅游,http://145.79.148.32:50505/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true&token=oooo
+Smart知识,http://145.79.148.32:50505/index.m3u8?pid=litv-xinchuang19&sd=1080&proxy=true&token=oooo
+ELTV生活英语,http://145.79.148.32:50505/index.m3u8?pid=litv-xinchuang20&sd=1080&proxy=true&token=oooo
