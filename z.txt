@@ -91,6 +91,7 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 卡酷少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
 优漫卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 全球,#genre#
+CCTV-13,http://101.35.240.114:88/live.php?id=CCTV13
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
@@ -108,9 +109,8 @@ Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
-翡翠台1,http://r.jdshipin.com/62WM7
-翡翠台2,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
+翡翠台,http://r.jdshipin.com/qrfbg
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB Plus1,http://r.jdshipin.com/ndGgS
 TVB Plus2,http://r.jdshipin.com/Nr5jq
