@@ -91,7 +91,14 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 卡酷少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
 优漫卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 全球,#genre#
-CCTV-13,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+CCTV-13 IPV6,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+广西卫视 IPV6,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225557/index.m3u8
+CCTV-5+ IPV6,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+CCTV-5 IPV6,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV-1 IPV6,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+AXN IPV6,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226429/index.m3u8
+CNBC IPV6,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226426/index.m3u8
+CNN IPV6,	http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226460/index.m3u8
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
@@ -130,4 +137,5 @@ ViuTV,http://r.jdshipin.com/vSJvl
 亚洲旅游,http://45.196.239.60:50505/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true&token=oooo
 Smart知识,http://45.196.239.60:50505/index.m3u8?pid=litv-xinchuang19&sd=1080&proxy=true&token=oooo
 ELTV生活英语,http://45.196.239.60:50505/index.m3u8?pid=litv-xinchuang20&sd=1080&proxy=true&token=oooo
+
 
