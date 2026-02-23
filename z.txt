@@ -118,7 +118,8 @@ Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
 无线新闻,http://r.jdshipin.com/CkuBd
-翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台1,http://r.jdshipin.com/n90gt
+翡翠台2,http://r.jdshipin.com/qrfbg
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB Plus1,http://r.jdshipin.com/ndGgS
 TVB Plus2,http://r.jdshipin.com/Nr5jq
