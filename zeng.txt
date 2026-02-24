@@ -87,9 +87,7 @@ AListLite：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
-Frpc:https://github.com/luckjiawei/frpc-desktop
-
-Fancyss：https://github.com/hq450/fancyss
+Frpc:https://github.com/luckjiawei/frpc-desktop/releases
 
 USB-Camera：https://github.com/shlllshlll/USBCamera/releases
 
@@ -113,11 +111,15 @@ V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
 
+Fancyss：https://github.com/hq450/fancyss
+
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
-Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
+Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
 
 https://whatshub.top/module/YouTubeAd.sgmodule
+
+https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
 
 Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activated.win | iex
 
