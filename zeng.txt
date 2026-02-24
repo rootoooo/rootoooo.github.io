@@ -83,8 +83,6 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 AlgerMusicPlayer：https://github.com/algerkong/AlgerMusicPlayer/releases
 
-AListLite：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
-
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
 Frpc:https://github.com/luckjiawei/frpc-desktop/releases
