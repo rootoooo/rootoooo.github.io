@@ -107,6 +107,8 @@ Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/relea
 
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 
+WeatherMaster:https://github.com/PranshulGG/WeatherMaster/releases
+
 V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
