@@ -81,6 +81,8 @@ OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
+AListLite：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
+
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
 Frpc:https://github.com/luckjiawei/frpc-desktop/releases
