@@ -69,11 +69,15 @@ https://account.lightlayer.net
 
 https://www.onlyoffice.com/download-desktop
 
+https://www.饭太硬.com/tv
+
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 https://anti-ad.net/adguard.txt
 
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+
+https://github.haoss.eu.org/raw.githubusercontent.com/wwb521/live/refs/heads/main/video.json
 
 Emotn UI：https://app.emotn.com/ui
 
