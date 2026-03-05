@@ -61,6 +61,8 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
+vless://2d009d62-579d-47f4-8de9-8ca1cb3e653b@IP:9?mode=gun&security=reality&encryption=none&pbk=umChMSYjDzEZzbdA8twAqSEtSFWVVMg336L4r_r4ywU&fp=chrome&spx=%2F&type=grpc&sni=www.bing.com&sid=143b#HK-TW
+
 https://s3.dualstack.us-east-1.amazonaws.com/zhifan/ytb.html
 
 https://www.zrblog.net/?s=lightlayer
