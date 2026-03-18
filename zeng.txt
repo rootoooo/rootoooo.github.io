@@ -139,6 +139,10 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
+(crontab -l 2>/dev/null; echo "0 3 20 * * /sbin/reboot") | crontab -
+
+crontab -l
+
 apt update -y && apt install -y curl socat wget sudo
 
 
