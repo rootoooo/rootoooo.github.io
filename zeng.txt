@@ -97,8 +97,6 @@ VNC：https://github.com/gujjwal00/avnc/releases
 
 Seal：https://github.com/JunkFood02/Seal/releases
 
-SmartTube：https://github.com/yuliskov/SmartTube/releases
-
 LocalSend：https://github.com/localsend/localsend/releases
 
 GhostenPlayer：https://github.com/GhostenEditor/Ghosten-Player/releases
