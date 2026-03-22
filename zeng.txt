@@ -61,8 +61,6 @@ Administrator    1363515-2874-258234-07-730285222-61496868-hsh6-r32t6tb6
 
 *3001#123456#*    50078724-450304-50063312    AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-vless://bfc8cbab-305b-49e3-89ad-aecc58013117@IP:4?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=JVmHnhvBFRve0ZzW9O4vAJtttOqcSJ2WXOJfJahADhc&fp=chrome&sni=www.bing.com&sid=485a38&spx=%2F#HK
-
 vless://52d34fa9-9ba1-40b1-b8ca-184f2f07d1fe@IP:9?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=Ue2L196DDTF_L07o3pOglseNqP6_3PZVkAkq1u6F-UQ&fp=chrome&sni=www.bing.com&sid=ce17&spx=%2F#TW
 
 https://account.lightlayer.net
