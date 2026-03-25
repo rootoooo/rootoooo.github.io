@@ -247,10 +247,20 @@ cd cf && sudo docker compose up
 
 
 
-Doube-ofiii:1.1.6：
+欧飞：
 
 https://hub.docker.com/r/doubebly/doube-ofiii
 
 docker run -d --name=doube-ofiii -p 50505:5000 -e MY_OFIII_TOKEN=xxx --restart=always doubebly/doube-ofiii:1.1.6
 
 http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
+
+
+
+四季：
+
+https://hub.docker.com/r/instituteiptv/4gtv-v1
+
+docker run -d --name=4gtv-v1 -p 50506:5050 --restart=always instituteiptv/4gtv-v1:latest
+
+http://xxx:50506/admin/init
