@@ -91,23 +91,6 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 卡酷少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
 优漫卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 全球,#genre#
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-无线新闻,http://hls.168.us.kg/u/83/master.m3u8
-中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
-TVBS,https://tv.iill.top/4gtv/media-live073
-东森新闻,https://tv.iill.top/4gtv/4gtv-4gtv152
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-香港,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -121,24 +104,20 @@ TVB星河1,http://r.jdshipin.com/Voac4
 TVB星河2,http://r.jdshipin.com/sXuuD
 华丽翡翠台,http://r.jdshipin.com/thuYX
 ViuTV,http://r.jdshipin.com/vSJvl
-IPV6,#genre#
-CCTV-13,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
-广西卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225557/index.m3u8
-东方卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
-浙江卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
-江苏卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
-湖南卫视,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
-CCTV-1,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
-CCTV-2,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
-CCTV-4,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
-CCTV-5,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
-CCTV-5+,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-CCTV-15,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
-星卫电影,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226469/index.m3u8
-HBO,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226423/index.m3u8
-AXN,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226429/index.m3u8
-Star Sports,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226446/index.m3u8
-Cinemax,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226405/index.m3u8
-Discovery,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226463/index.m3u8
-CNBC,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226426/index.m3u8
-CNN,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226460/index.m3u8
+HK中文,http://cdn6.163189.xyz/163189/fhzw
+HK资讯,http://cdn6.163189.xyz/163189/fhzx
+HK香港,http://cdn6.163189.xyz/163189/fhhk
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
+中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
+TVBS,https://tv.iill.top/4gtv/media-live073
+东森新闻,https://tv.iill.top/4gtv/4gtv-4gtv152
+三立新闻,https://tv.iill.top/4gtv/4gtv-live089
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
