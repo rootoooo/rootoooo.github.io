@@ -255,6 +255,8 @@ http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
 
 ChatGPT：
 
+https://chatgpt.com/api/auth/session
+
 cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
 
 cd ChatGPT-Mirror/
