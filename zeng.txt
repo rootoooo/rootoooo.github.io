@@ -61,8 +61,6 @@ Administrator    1363515-2874-258234-07-730285222-61496868-hsh6-r32t6tb6
 
 50078724-450304-50063312    AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
-https://www.lucffee.com
-
 https://account.lightlayer.net
 
 https://www.onlyoffice.com/download-desktop
@@ -77,7 +75,7 @@ Emotn UI：https://app.emotn.com/ui
 
 FinalShell：https://www.hostbuf.com
 
-IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file    https://github.com/5d5d5f5f5f/abc   https://github.com/q1017673817/iptvz
+IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
