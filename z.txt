@@ -1,8 +1,8 @@
 全球,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
-凤凰卫视资讯台,http://cdn6.163189.xyz/163189/fhzx
+凤凰中文台,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯台,http://cdn6.163189.xyz/163189/fhzx
 中文台,http://rihou.cc:555/tv/[Pd]凤凰中文
 资讯台,http://rihou.cc:555/tv/[Pd]凤凰资讯
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
