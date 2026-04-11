@@ -1,17 +1,6 @@
 全球,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-无线新闻,http://r.jdshipin.com/CkuBd
-翡翠台1,http://r.jdshipin.com/n90gt
-翡翠台2,http://r.jdshipin.com/qrfbg
-明珠台,http://r.jdshipin.com/ZQ4kN
-TVB Plus1,http://r.jdshipin.com/ndGgS
-TVB Plus2,http://r.jdshipin.com/Nr5jq
-TVB星河1,http://r.jdshipin.com/Voac4
-TVB星河2,http://r.jdshipin.com/sXuuD
-华丽翡翠台,http://r.jdshipin.com/thuYX
-ViuTV,http://r.jdshipin.com/vSJvl
 凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视资讯台,http://cdn6.163189.xyz/163189/fhzx
 中文台,http://rihou.cc:555/tv/[Pd]凤凰中文
