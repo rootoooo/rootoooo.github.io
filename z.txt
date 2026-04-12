@@ -1,5 +1,9 @@
 全球,#genre#
 CCTV-13,http://69.30.246.194/live/cctv13.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
+浙江卫视,http://69.30.246.194/live/zjws.m3u8
+江苏卫视,http://69.30.246.194/live/jsws.m3u8
+湖南卫视,http://69.30.246.194/live/hnws.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文台,http://cdn6.163189.xyz/163189/fhzw
