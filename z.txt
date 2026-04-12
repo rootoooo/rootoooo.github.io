@@ -6,6 +6,7 @@
 中文台,http://rihou.cc:555/tv/[Pd]凤凰中文
 资讯台,http://rihou.cc:555/tv/[Pd]凤凰资讯
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+中天News,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
