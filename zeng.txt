@@ -252,7 +252,3 @@ https://hub.docker.com/r/doubebly/doube-ofiii
 docker run -d --name=doube-ofiii -p 50505:5000 -e MY_OFIII_TOKEN=xxx --restart=always doubebly/doube-ofiii:1.1.6
 
 http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
-
-
-
-docker run -d --name iptv-trmas -p 54321:19890 -e ADMIN_USER=admin -e ADMIN_PASS=admin -e PLAY_TOKEN=oooo -v /root/iptv:/data --restart unless-stopped instituteiptv/iptv-trmas:latest
