@@ -123,6 +123,8 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 
 crontab -l
 
+crontab -r
+
 apt update -y && apt install -y curl socat wget sudo
 
 
