@@ -71,9 +71,11 @@ https://anti-ad.net/adguard.txt
 
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
-FinalShell：https://www.hostbuf.com
-
 IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
+
+https://github.com/Kimentanm/aptv/tree/master/m3u
+
+FinalShell：https://www.hostbuf.com
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
