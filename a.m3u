@@ -1,235 +1,803 @@
 #EXTM3U
-#EXTINF:-1 group-title="全球,#genre#" ,CCTV-13
-http://207.56.13.146:81/cdnlive/cctv13.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,CCTV-13
-http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,广西卫视
-http://198.204.228.26/live/gxwshd.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,广西卫视
-http://207.56.13.146:81/cdnlive/gxws.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,东方卫视
-http://198.204.228.26/live/dfwshd.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,浙江卫视
-http://198.204.228.26/live/zjwshd.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,江苏卫视
-http://198.204.228.26/live/jswshd.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,湖南卫视
-http://198.204.228.26/live/hnwshd.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,CCTV-5
-http://74.91.26.218:82/live/cctv5hd.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,CCTV-5+
-http://192.151.150.154/live/cctv5p.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,CCTV-5
-http://207.56.13.146:81/cdnlive/cctv5.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,CCTV-5+
-http://207.56.13.146:81/cdnlive/cctv5p.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,凤凰中文
-http://r.jdshipin.com/cCCzW
-#EXTINF:-1 group-title="全球,#genre#" ,凤凰资讯
-http://r.jdshipin.com/0Rp07
-#EXTINF:-1 group-title="全球,#genre#" ,凤凰中文
-http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 group-title="全球,#genre#" ,凤凰资讯
-http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 group-title="全球,#genre#" ,凤凰中文
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 group-title="全球,#genre#" ,凤凰资讯
-http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="全球,#genre#" ,TVBS
-http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,中天新闻
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
-#EXTINF:-1 group-title="全球,#genre#" ,中天新闻
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv009
-#EXTINF:-1 group-title="全球,#genre#" ,中天新闻
-http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true&token=xxx
-#EXTINF:-1 group-title="全球,#genre#" ,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,Wion
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,ABC Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,France 24
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,BBC
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,RT
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,Global News
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 group-title="全球,#genre#" ,Bloomberg
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-1
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-1
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-2
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-2
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-3
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-3
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-4
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-4
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-5
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-5
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-5
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-5+
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-5+
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-6
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-6
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-7
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-7
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-8
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-8
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-9
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-9
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-10
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-10
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-11
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-11
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-12
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-12
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-13
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-13
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-14
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-14
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-15
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-15
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-16
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-16
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-17
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,CCTV-17
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,广西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,东方卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,东方卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,浙江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,浙江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,江苏卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,江苏卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,湖南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,湖南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,北京卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,北京卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,天津卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226022/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,天津卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,广东卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225913/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,广东卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,珠江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,大湾区卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,深圳卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225951/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,深圳卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,山东卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226010/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,山东卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,湖北卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225954/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,湖北卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,安徽卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,安徽卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,东南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225904/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,江西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,四川卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,贵州卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,重庆卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225898/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,重庆卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,海南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,河北卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,河南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,辽宁卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226007/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,辽宁卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,黑龙江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,黑龙江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,甘肃卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,青海卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,山西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,云南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,陕西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,吉林卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,宁夏卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,内蒙古卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,新疆卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,西藏卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="广西移动,#genre#" ,金鹰卡通
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="XXX直播,#genre#" ,惊艳
+http://bt.sc1970.xyz:9099/15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="XXX直播,#genre#" ,惊艳
+http://bt.sc1970.xyz:9099/15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 group-title="XXX直播,#genre#" ,潘多拉完美
+http://bt.sc1970.xyz:9099/15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="XXX直播,#genre#" ,松视1
+http://bt.sc1970.xyz:9099/15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="XXX直播,#genre#" ,松视2
+http://bt.sc1970.xyz:9099/15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="XXX直播,#genre#" ,松视3
+http://bt.sc1970.xyz:9099/15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 group-title="XXX直播,#genre#" ,PLAYBOY ESPA HD
+http://bt.sc1970.xyz:9099/190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="XXX直播,#genre#" ,PLAYBOY ING HD
+http://104.250.145.6/livehttpplay?channel_id=23201
+#EXTINF:-1 group-title="XXX直播,#genre#" ,PLAYBOY ING HD
+http://nor2live.win:80/livehttpplay?channel_id=23201
+#EXTINF:-1 group-title="XXX直播,#genre#" ,PLAYBOY ESPA HD
+http://104.250.145.6/livehttpplay?channel_id=23202
+#EXTINF:-1 group-title="XXX直播,#genre#" ,PLAYBOY ESPA HD
+http://nor2live.win:80/livehttpplay?channel_id=23202
+#EXTINF:-1 group-title="XXX直播,#genre#" ,Miami TV
+http://bt.sc1970.xyz:9099/59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="XXX直播,#genre#" ,Jenny Live
+http://bt.sc1970.xyz:9099/59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,DLDSS-300 两天一夜露营约会 美乃雀
+https://t33.cdn2020.com/video/m3u8/2024/06/30/476f3b69/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,HDKA-290 裸体芭蕾讲师 北山忧
+https://t33.cdn2020.com/video/m3u8/2024/01/12/54fc6edd/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,JUL-761 母亲的友人 天河水无濑
+https://t33.cdn2020.com/video/m3u8/2021/11/17/5819885c/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,SDDE-552 鲍鱼跨坐肉棒航空9中出班机
+https://t33.cdn2020.com/video/m3u8/2024/04/12/cff2a494/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,SDDE-702 鲍鱼跨坐肉棒航空16巨臀特级航班
+https://t33.cdn2020.com/video/m3u8/2023/09/28/193eb47a/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,SONE-291 翼老师的紧密瑜伽教学 翼舞
+https://t33.cdn2020.com/video/m3u8/2024/09/01/9ac43b6d/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,SONE-249 话题十足的美女运动员 翼舞
+https://t33.cdn2020.com/video/m3u8/2024/08/14/b571e247/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,SSIS-549 出差的G罩杯新人女社员 翼舞
+https://video.a1y6.com/20230206/NzQ4MTdkNz/220707/1280/hls/decrypt/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,SSIS-182 舔遍全身男士按摩 葵司
+https://t33.cdn2020.com/video/m3u8/2023/12/04/70efbe92/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,SSIS-352 讨厌的公公给我下了媚药 葵司
+https://t33.cdn2020.com/video/m3u8/2023/11/30/ab43b4bf/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,DLDSS-007 健身教练的汗水性爱 七海蒂娜
+https://t33.cdn2020.com/video/m3u8/2022/12/15/6856117f/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,STARS-136 健身美女的性爱体操 七海蒂娜
+https://t33.cdn2020.com/video/m3u8/2022/09/23/c576921c/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,MIDE-832 学生时期曾经的女友 神宫寺奈绪
+https://t33.cdn2020.com/video/m3u8/2020/10/09/543287aa/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,SONE-525 一千万两天一夜 有栖花绯
+https://t33.cdn2020.com/video/m3u8/2025/01/30/3b85faa5/index.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,PPPE-135 讨厌的上司命令我深夜在办公室加班 佐野佑真 中字
+https://surrit.com/9d55f5c4-c317-47e9-a0f3-9f7fa6bccfed/playlist.m3u8
+#EXTINF:-1 group-title="我的收藏,#genre#" ,PPPE-135 讨厌的上司命令我深夜在办公室加班 佐野佑真 无码
+https://surrit.com/6e68ae88-a6b4-4495-876b-e9d75ab1723b/playlist.m3u8
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Japan HDV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6225/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,21 Sextury
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12205/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,21 Sextury
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6164/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Adult Time
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6166/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Adult TV (18+)
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/31707/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Alba 1 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12105/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Alba 1
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12106/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Alba XXX 2 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12194/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Alex Legend
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12193/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,All Anal
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12192/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Amateur Boxxx
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12191/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Anal 4K
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12190/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Anal Mom
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12189/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Anal Only
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12184/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Anal Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6167/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Anal Teen Angels
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12183/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Anal Time
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12181/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Ass Parade
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12178/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Asshole Fever
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12169/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,AST TV 2
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6170/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,AST TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6169/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Babes TV FHD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6171/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Babes TV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6172/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BAG U
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12170/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Balkan Erotic
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6270/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Banana Fever
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12168/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Bang Bros HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6173/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Bang Bus
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12167/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Bang POV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12166/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Bang U
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12114/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Bang!
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6174/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Barely Legal TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12165/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Barely Legal TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/871/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BBC Pie
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12164/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BCU Charm HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/18053/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Beate UHSE TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12127/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Beate Uhse
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12163/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Big Ass Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6175/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Big Dick Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6176/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Big Tits Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6177/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Blacked HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6178/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Blonde Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6179/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Blowjob Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6180/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Blue Hustler
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/1064/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Brand New Amateurs
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12162/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Bratty Sis
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12161/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Brazzers eXXtra
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6181/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Brazzers HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6182/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Brazzers TV Europe HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12113/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Brazzers TV Europe
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/910/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Brazzers TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12128/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Brunette Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6183/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BTV Erotik 1 (18+) HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/14095/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BTV Erotik 2 (18+) HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/14096/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BTV Erotik 3 (18+) HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/14097/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BTV Киска (+18)
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/14003/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BTV Шелк тв HD (+18)
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/14027/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,BTV Японские sex game
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/15077/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Candy
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/923/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,cento x cento
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6184/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Cherry Pimps
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6185/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,CineMan ExExEx TWO
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/20090/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,CineMan ExExEx
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/20089/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Club 17
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6186/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Club Sweethearts HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6168/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Compilation Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6187/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Cuckold Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6188/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Cum Louder
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6189/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Cum Perfection
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12158/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Cum4k UHD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12157/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Cum4k
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6190/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dad Crush
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12154/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dancing Bear
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12144/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dane Jones
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12143/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dark X
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12140/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Daughter Swap
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6191/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Day with a Pornstar
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6192/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,DDF Busty
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6193/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,DDF Hands on Hardcore
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6217/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,DDF Network
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6194/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Deep Lush
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12139/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Deep Throat Sirens
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12138/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,DESTINY TV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12179/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Devils Film HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12137/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Digital Desire HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6195/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Digital Playground HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6196/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dirty Flix
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12130/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dirty Wives Club
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12122/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dorcel Club
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6197/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dorcel HD orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9064/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dorcel TV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/245/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dorcel TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12131/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dorcel XXX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12132/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,DP Fanatics
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12111/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,DuckTV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/18138/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,DUSK TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12129/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Dusk
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6198/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Eromania 4K
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/10049/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotic 2
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6290/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotic 3
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6291/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotic 4
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6292/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotic 6
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6293/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotic 7
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6294/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotic 8
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6295/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotic Spice
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12110/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotic
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6289/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erotica X
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12109/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Erox HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6296/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Eroxxx HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/5015/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Euro Girls On Girls
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12108/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Evil Angel HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6199/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Evolved Fights
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6200/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Exotic 4k
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12107/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,EXTACY 4K
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12182/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Extasy 4K
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/5014/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,EXTASY HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/11051/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Extasy HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6201/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Extreme
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6273/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Exxxotica HD orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9346/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Exxxotica HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/2397/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fake Taxi HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6202/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Family Strokes
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12156/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Family Swap
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12155/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fap TV 2
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6203/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fap TV 3
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6204/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fap TV Anal
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6206/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fap TV BBW
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6207/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fap TV Compilation
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6208/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fap TV Lesbian
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6209/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fap TV Parody
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6210/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fap TV Teens
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6211/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fast Boyz
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6274/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FemJoy
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6212/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Fetish Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6213/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 10 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12203/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 2 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12195/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 3 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12196/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 4 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12197/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 5 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12198/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 6 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12199/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 7 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12200/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 8 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12201/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FILMAX ADULT 9 HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12202/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FREE X TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12134/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,French Lover
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12124/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,FrenchLover
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/2160/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Gangbang Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6214/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Gay Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6215/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,GAY PREMIUM
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12204/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Got MYLF
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6216/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hard X
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6218/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hardcore Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6219/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hitzefrei HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6220/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Holed
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6221/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hot and Mean
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6222/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hot Guys Fuck
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6223/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hot Pleasure
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6277/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hot Wife XXX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12187/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,HOT XXL HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6276/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,HOT
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6275/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hustler HD Europe
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/244/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Hustler HD orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9065/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Interracial Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6224/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Kaloopy hd tv
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/16018/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Kinoshka Adult HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/18060/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,KinoXXX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/11052/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Latina Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6226/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,LATINA TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12172/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,LEO TV FHD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12123/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Leo TV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6272/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Lesbea
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6227/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Lesbian Affair
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6278/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Lesbian Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6228/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Lethal Hardcore
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6229/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,LIBERTY EROTIKA HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/16069/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Little Asians HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6230/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Live Cams Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6231/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Lust Cinema
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6232/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Meiden Van Holland
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12125/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,MetArt FHD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12160/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,MetArt HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6233/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,MILF Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6234/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,MILF TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12173/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Monsters of Cock
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6235/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,MvH Hard
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6297/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,MYLF TV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6236/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Naughty America
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6237/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Nubiles TV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6238/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,O-La-La orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9068/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,O-la-la
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/2161/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Oldtimer
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6279/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,ox-ax HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6239/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Passie XXX TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12136/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Passion XXX orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9067/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Passion XXX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12120/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Passion XXX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/878/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Penthouse Gold HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/5011/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Penthouse Passion HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/1073/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Penthouse Passion HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/5010/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Penthouse Reality TV FHD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/5013/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Penthouse Reality TV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/5012/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Pink Erotic 3
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6240/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Pink Erotic 4
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6241/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PINK EROTICA 1
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12146/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PINK EROTICA 2
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12147/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PINK EROTICA 3
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12148/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PINK EROTICA 4
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12149/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PINK EROTICA 5
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12150/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PINK EROTICA 6
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12151/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PINK EROTICA 7
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12152/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PINK EROTICA 8
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12153/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Playboy LA
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6280/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Playboy Plus
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6242/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Playboy TV Europe HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12135/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Playboy
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/527/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PlayBoyz TV HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/31709/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Pornstar Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6243/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PORNSTAR TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12174/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,POV Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6244/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,POV TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12175/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Private HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6245/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Private TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/243/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Prokop TV XXX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/19401/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Public Agent
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6246/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,PURE BABES
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12112/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Reality Kings HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6247/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Red Lips
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6271/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Red XXX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6281/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Redlight HD orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9066/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Redlight HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/242/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,RK Prime
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6248/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,RK TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6249/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Rough Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6250/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,ROUGH TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12176/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Russian Adult TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6251/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,RUSSIAN TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12177/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SELECT XXX VINTAGE
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12186/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SELECT XXX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12185/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Sex With Muslims
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6252/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SexArt HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6165/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SexArt
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6253/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,sext 6 senso
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6254/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Sexto Senso
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/875/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Sexy Hot
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6282/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Shalun TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12126/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Shot TV orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9347/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SINematica
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6255/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SKY HIGH ADULT HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/15166/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SKY HIGH SEX VR
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/19406/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Super one HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12121/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SuperONE HD RO
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/7001/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,SuperOne HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6298/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Taboo
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6283/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Teen Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6256/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Threesome Red TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6257/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,THREESOME TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12180/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Tiny4K
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6258/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Trans Angels
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6259/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,True Amateurs
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6260/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,TURK AMATOTLER
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12159/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Tushy HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6261/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Tushy RAW HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6262/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,TUSHY TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12188/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Venus HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12133/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Venus
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6284/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,VERAPORN BIG TITS
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12145/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,VERAPORN GROUP SEX 2
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12142/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,VERAPORN GROUP SEX
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12141/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,VF Cartoon 18+
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/11117/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,VF Граиндхаус
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/14158/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Visit-X TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6263/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Vivid Red HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/2162/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Vivid TV Europe
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6264/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Vixen HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6265/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,We Live Together
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6266/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,White Boxxx
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6267/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Wicked
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6268/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,X-MO
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6285/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Xpanded TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6269/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XXL orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9345/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XXL
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/5009/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XXX Love's Berry HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/14140/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XXXINTERRACIAL TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12171/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XY Max HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6286/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XY Mix HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6287/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XY Plus 1
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12115/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XY Plus 12
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12118/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XY Plus 2
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12116/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XY Plus 24
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12119/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XY Plus 6
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/12117/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,XY Plus HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6288/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Yosso TV Sexy
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/14176/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Кино 18+ HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/18075/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Кино 18+ International
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/18076/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Ню Арт HD (18+)
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/31716/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Ню Арт HD orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9071/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Ню Арт HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/6307/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Нюарт TV
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/2057/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,ОХ-АХ HD
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/11068/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Русская ночь orig
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/9344/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Русская Ночь
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/147/index.m3u
+#EXTINF:-1 group-title="欧美直播,#genre#" ,Шалун
+http://88b9da48.kazmazpaz.ru:80/iptv/QNKP368YM8HMHKUU6G9EDBSL/922/index.m3u
+#EXTINF:-1 group-title="其它,#genre#" ,Ai_Nude
+https://vip3.lbbf9.com/20240930/zdO94oci/index.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Anal
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Anal
+http://bt.sc1970.xyz:9099/live.mycamtv.com/anal.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Anal
+http://bt.sc1970.xyz:9099/live.redtraffic.net/anal.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Arab Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/arab.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Asian Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/asian.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Asian
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Asian
+http://bt.sc1970.xyz:9099/live.redtraffic.net/asian.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Big Ass Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/bigass.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Big Ass
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Big Ass
+http://bt.sc1970.xyz:9099/live.redtraffic.net/bigass.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Big Dick
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Big Dick
+http://bt.sc1970.xyz:9099/live.redtraffic.net/bigdick.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Big Tits Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Big Tits
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Big Tits
+http://bt.sc1970.xyz:9099/live.redtraffic.net/bigtits.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Blonde Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Blonde
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Blonde
+http://bt.sc1970.xyz:9099/live.redtraffic.net/blonde.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Blowjob
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Blowjob
+http://bt.sc1970.xyz:9099/live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Brunette Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Brunette
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Brunette
+http://bt.sc1970.xyz:9099/live.redtraffic.net/brunette.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Compilation
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Compilation
+http://bt.sc1970.xyz:9099/live.redtraffic.net/compilation.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Cuckold
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Cuckold
+http://bt.sc1970.xyz:9099/live.redtraffic.net/cuckold.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Ebony Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/ebony.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Fetish
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Fetish
+http://bt.sc1970.xyz:9099/live.redtraffic.net/fetish.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Gangbang
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Gangbang
+http://bt.sc1970.xyz:9099/live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Gay
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Gay
+http://bt.sc1970.xyz:9099/live.redtraffic.net/gay.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Girls Squirt
+http://bt.sc1970.xyz:9099/live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Hardcore
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Hardcore
+http://bt.sc1970.xyz:9099/live.redtraffic.net/hardcore.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Interracial
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Interracial
+http://bt.sc1970.xyz:9099/live.redtraffic.net/interracial.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Latina Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/latina.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Latina
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Latina
+http://bt.sc1970.xyz:9099/live.redtraffic.net/latina.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Lesbian
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Live Cams
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Livecams
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Livecams
+http://bt.sc1970.xyz:9099/live.redtraffic.net/livecams.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Mature
+http://bt.sc1970.xyz:9099/live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Medium Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/medium.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,MILF
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,MILF
+http://bt.sc1970.xyz:9099/live.mycamtv.com/milf.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,MILF
+http://bt.sc1970.xyz:9099/live.redtraffic.net/milf.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Pornstar
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Pornstar
+http://bt.sc1970.xyz:9099/live.redtraffic.net/pornstar.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,POV
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,POV
+http://bt.sc1970.xyz:9099/live.redtraffic.net/pov.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Rough
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Rough
+http://bt.sc1970.xyz:9099/live.redtraffic.net/rough.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Russian
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Russian
+http://bt.sc1970.xyz:9099/live.redtraffic.net/russian.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Skinny Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/skinny.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Teen Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/teen.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Teen
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Teen
+http://bt.sc1970.xyz:9099/live.redtraffic.net/teen.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Threesome
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Threesome
+http://bt.sc1970.xyz:9099/live.redtraffic.net/threesome.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,White Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/white.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Woman
+http://bt.sc1970.xyz:9099/cdn.adultiptv.net/woman.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Woman
+http://bt.sc1970.xyz:9099/live.redtraffic.net/woman.m3u8
+#EXTINF:-1 group-title="其它,#genre#" ,Young Girls
+http://bt.sc1970.xyz:9099/live.mycamtv.com/young.m3u8
