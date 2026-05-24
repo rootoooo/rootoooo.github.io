@@ -95,6 +95,8 @@ LocalSend：https://github.com/localsend/localsend/releases
 
 NetxPlayer：https://github.com/anilbeesetti/nextplayer/releases
 
+Ghosten Player:https://github.com/GhostenEditor/Ghosten-Player/releases
+
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
