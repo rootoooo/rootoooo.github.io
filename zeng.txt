@@ -85,15 +85,13 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 AListLite：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
+AVNC：https://github.com/gujjwal00/avnc/releases
+
 OpenList：https://github.com/OpenListTeam/OpenList/releases
 
 Frpc:https://github.com/luckjiawei/frpc-desktop/releases
 
 USB-Camera：https://github.com/shlllshlll/USBCamera/releases
-
-VNC：https://github.com/gujjwal00/avnc/releases
-
-Seal：https://github.com/JunkFood02/Seal/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
 
@@ -127,7 +125,7 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
-(crontab -l 2>/dev/null; echo "0 3 20 * * /sbin/reboot") | crontab -
+(crontab -l 2>/dev/null; echo "0 17 20 * * /sbin/reboot") | crontab -
 
 crontab -l
 
@@ -142,12 +140,6 @@ apt update -y && apt install -y curl socat wget sudo
 bash <(curl -sL kejilion.sh)
 
 curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/kejilion.sh -o kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
-
-
-
-3X-ui：
-
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 
 
