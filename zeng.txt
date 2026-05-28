@@ -95,6 +95,8 @@ USB-Camera：https://github.com/shlllshlll/USBCamera/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
 
+NewPipe:https://github.com/TeamNewPipe/NewPipe/releases
+
 NetxPlayer：https://github.com/anilbeesetti/nextplayer/releases
 
 Ghosten Player:https://github.com/GhostenEditor/Ghosten-Player/releases
