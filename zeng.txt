@@ -97,10 +97,6 @@ LocalSend：https://github.com/localsend/localsend/releases
 
 NewPipe:https://github.com/TeamNewPipe/NewPipe/releases
 
-NetxPlayer：https://github.com/anilbeesetti/nextplayer/releases
-
-Ghosten Player:https://github.com/GhostenEditor/Ghosten-Player/releases
-
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
@@ -110,8 +106,6 @@ Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 V2rayN：https://github.com/2dust/v2rayn/releases
 
 V2rayNG：https://github.com/2dust/v2rayNG/releases
-
-Fancyss：https://github.com/hq450/fancyss
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
