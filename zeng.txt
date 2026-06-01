@@ -139,6 +139,17 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 
 
+https://cf.haoss.eu.org/oooo/https/yonggekkk.github.io/argosbx
+
+Clash/Mihomo：http://IP:端口/oooo/clmi.yaml
+
+Sing-box：http://IP:端口/oooo/sbox.json
+
+聚合协议：http://IP:端口/oooo/jhsub.txt
+
+
+
+
 Hysteria2：
 
 curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
