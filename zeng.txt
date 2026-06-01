@@ -103,11 +103,7 @@ Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/relea
 
 Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
 
-V2rayN：https://github.com/2dust/v2rayn/releases
-
-V2rayNG：https://github.com/2dust/v2rayNG/releases
-
-Fancyss:https://github.com/hq450/fancyss
+NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
 AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
