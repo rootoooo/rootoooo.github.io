@@ -97,6 +97,10 @@ USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/
 
 LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
 
+TikTok:https://cf.haoss.eu.org/oooo/https/github.com/uyez/TikTok/releases
+
+NewPipe:https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
+
 MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
@@ -131,8 +135,6 @@ apt update -y && apt install -y curl socat wget sudo
 
 
 
-科技lion：
-
 bash <(curl -sL kejilion.sh)
 
 curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/kejilion.sh -o kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
@@ -141,24 +143,19 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 https://cf.haoss.eu.org/oooo/https/yonggekkk.github.io/argosbx
 
-Clash/Mihomo：http://IP:端口/oooo/clmi.yaml
+http://IP:端口/oooo/clmi.yaml
 
-Sing-box：http://IP:端口/oooo/sbox.json
+http://IP:端口/oooo/sbox.json
 
-聚合协议：http://IP:端口/oooo/jhsub.txt
-
-
+http://IP:端口/oooo/jhsub.txt
 
 
-Hysteria2：
 
 curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
 
 sudo s-hy2
 
 
-
-Frp：
 
 wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
 chmod 700 ./install-frps.sh
@@ -169,8 +166,6 @@ nohup ./frps -c frps.ini >/dev/null 2>&1 &
 sudo ./install-frps.sh uninstall
 
 
-
-Alist + Openlist：
 
 C:\openlist\openlist.exe server
 
@@ -240,15 +235,11 @@ rm ~/Library/LaunchAgents/com.openlist.server.plist
 
 
 
-Mirror SiteProxy-5006：
-
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
 
 
-
-ofiii：
 
 https://hub.docker.com/r/doubebly/doube-ofiii
 
