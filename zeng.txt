@@ -77,35 +77,35 @@ https://anti-ad.net/adguard.txt
 
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
-IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
+IPTV：https://cf.haoss.eu.org/oooo/https/github.com/ngo5/IPTV?tab=readme-ov-file
 
-https://github.com/Kimentanm/aptv/tree/master/m3u
+https://cf.haoss.eu.org/oooo/https/github.com/Kimentanm/aptv/tree/master/m3u
 
 FinalShell：https://www.hostbuf.com
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-AListLite：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
+AListLite：https://cf.haoss.eu.org/oooo/https/github.com/LeoHaoVIP/AListLiteAndroid/releases
 
-AVNC：https://github.com/gujjwal00/avnc/releases
+AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
-OpenList：https://github.com/OpenListTeam/OpenList/releases
+OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
 
-Frpc:https://github.com/luckjiawei/frpc-desktop/releases
+Frpc:https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
 
-USB-Camera：https://github.com/shlllshlll/USBCamera/releases
+USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
-LocalSend：https://github.com/localsend/localsend/releases
+LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
 
-MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
+MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
 
-Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
+Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
 
-Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
+Onlyoffice：https://cf.haoss.eu.org/oooo/https/github.com/ONLYOFFICE/documents-app-android/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
-AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
+AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
 Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
 
