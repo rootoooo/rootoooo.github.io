@@ -91,10 +91,6 @@ USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/
 
 LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
 
-TikTok:https://cf.haoss.eu.org/oooo/https/github.com/uyez/TikTok/releases
-
-NewPipe:https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
-
 MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
