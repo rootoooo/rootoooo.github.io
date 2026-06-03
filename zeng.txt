@@ -85,7 +85,7 @@ AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
 OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
 
-Frpc:https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
+Frpc:https：//cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
 
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
@@ -96,6 +96,8 @@ MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialF
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
 
 Onlyoffice：https://cf.haoss.eu.org/oooo/https/github.com/ONLYOFFICE/documents-app-android/releases
+
+NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
