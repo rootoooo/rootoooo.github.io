@@ -101,6 +101,8 @@ NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/rele
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
+Termius：https://github.com/alongw/Termius-zh_CN/releases
+
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
 Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
@@ -140,6 +142,10 @@ http://IP:端口/oooo/clmi.yaml
 http://IP:端口/oooo/sbox.json
 
 http://IP:端口/oooo/jhsub.txt
+
+
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 
 
