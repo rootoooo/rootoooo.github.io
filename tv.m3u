@@ -200,28 +200,20 @@ http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="IPTV" ,凤凰中文（备1）
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="IPTV" ,凤凰中文（备2）
-http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 group-title="IPTV" ,凤凰中文（备3）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="IPTV" ,凤凰中文（备4）
+#EXTINF:-1 group-title="IPTV" ,凤凰中文（备3）
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="IPTV" ,凤凰中文（备5）
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 group-title="IPTV" ,凤凰中文（备6）
+#EXTINF:-1 group-title="IPTV" ,凤凰中文（备4）
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="IPTV" ,凤凰资讯
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="IPTV" ,凤凰资讯（备1）
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="IPTV" ,凤凰资讯（备2）
-http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 group-title="IPTV" ,凤凰资讯（备3）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="IPTV" ,凤凰资讯（备4）
+#EXTINF:-1 group-title="IPTV" ,凤凰资讯（备3）
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="IPTV" ,凤凰资讯（备5）
-http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="IPTV" ,凤凰资讯（备6）
+#EXTINF:-1 group-title="IPTV" ,凤凰资讯（备4）
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="IPTV" ,中天新闻
 http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true&token=xxx
@@ -237,6 +229,8 @@ http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=x
 http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true&token=xxx
 #EXTINF:-1 group-title="IPTV" ,三立新闻
 http://2.27.174.182:50505/index.m3u8?pid=iNEWS&sd=1080&proxy=true&token=xxx
+#EXTINF:-1 group-title="IPTV" ,TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="IPTV" ,凤凰香港
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="IPTV" ,凤凰香港（备1）
