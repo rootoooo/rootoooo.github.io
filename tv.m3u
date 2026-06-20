@@ -228,9 +228,9 @@ http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true&token=x
 #EXTINF:-1 group-title="IPTV" ,中天新闻（备1）
 http://rihou.cc:555/tv/[Bx]中天新闻
 #EXTINF:-1 group-title="IPTV" ,中视新闻
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 group-title="IPTV" ,东森新闻
-东森新闻 ,https://t.freetv.fun/live/dong-sen-xin-wen-1.m3u8
+https://t.freetv.fun/live/dong-sen-xin-wen-1.m3u8
 #EXTINF:-1 group-title="IPTV" ,华视新闻
 http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=xxx
 #EXTINF:-1 group-title="IPTV" ,寰宇新闻
