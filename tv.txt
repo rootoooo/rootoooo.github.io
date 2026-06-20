@@ -6,9 +6,9 @@ CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
-CCTV-4,CCTV4http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-5,CCTV5http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5+,CCTV5+http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文（备1）,http://cdn6.163189.xyz/163189/fhzw
