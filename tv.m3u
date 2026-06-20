@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="IPTV" ,CCTV-13
 http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="IPTV" ,广西卫视
+http://198.204.228.26/live/gxwshd.m3u8
 #EXTINF:-1 group-title="IPTV" ,东方卫视
 http://74.91.26.218:82/live/dfwshd.m3u8
 #EXTINF:-1 group-title="IPTV" ,浙江卫视
