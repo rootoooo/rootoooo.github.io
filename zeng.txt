@@ -83,8 +83,6 @@ AListLite：https://cf.haoss.eu.org/oooo/https/github.com/LeoHaoVIP/AListLiteAnd
 
 AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
-OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
-
 Frpc:https：//cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
 
 Seal:https://github.com/JunkFood02/Seal/releases
@@ -222,16 +220,6 @@ nano ~/Library/LaunchAgents/com.openlist.server.plist
     <string>/tmp/openlist.err</string>
 </dict>
 </plist>
-
-Ctrl + O → Ctrl + X
-
-launchctl load ~/Library/LaunchAgents/com.openlist.server.plist
-launchctl start com.openlist.server
-
-launchctl list | grep openlist
-
-launchctl unload ~/Library/LaunchAgents/com.openlist.server.plist
-rm ~/Library/LaunchAgents/com.openlist.server.plist
 
 
 
