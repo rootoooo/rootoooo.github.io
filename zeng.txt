@@ -79,8 +79,6 @@ FinalShell：https://www.hostbuf.com
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-AListLite：https://cf.haoss.eu.org/oooo/https/github.com/LeoHaoVIP/AListLiteAndroid/releases
-
 AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
 Frpc:https：//cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
