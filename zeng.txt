@@ -101,6 +101,10 @@ NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/rele
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
+NextPlayerCloud：https://github.com/NextPlayerCloud/NextPlayerCloud/releases
+
+IINA：https://github.com/iina/iina/releases
+
 Termius：https://github.com/alongw/Termius-zh_CN/releases
 
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
