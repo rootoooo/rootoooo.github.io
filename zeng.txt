@@ -85,7 +85,7 @@ AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
 Frpc:https：//cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
 
-Seal:https://github.com/JunkFood02/Seal/releases
+Seal:https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
 
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
@@ -101,11 +101,11 @@ NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/rele
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
-NextPlayerCloud：https://github.com/NextPlayerCloud/NextPlayerCloud/releases
+NextPlayerCloud：https://cf.haoss.eu.org/oooo/https/github.com/NextPlayerCloud/NextPlayerCloud/releases
 
-IINA：https://github.com/iina/iina/releases
+IINA：https://cf.haoss.eu.org/oooo/https/github.com/iina/iina/releases
 
-Termius：https://github.com/alongw/Termius-zh_CN/releases
+Termius：https://cf.haoss.eu.org/oooo/https/github.com/alongw/Termius-zh_CN/releases
 
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
