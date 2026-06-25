@@ -109,6 +109,8 @@ World,#genre#
 华视新闻（备1）,http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=xxx
 寰宇新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
 寰宇新闻（备1）,http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true&token=xxx
+民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 三立新闻,http://2.27.174.182:50505/index.m3u8?pid=iNEWS&sd=1080&proxy=true&token=xxx
 中视,http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true&token=xxx
 华视,http://2.27.174.182:50505/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true&token=xxx
