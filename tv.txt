@@ -93,7 +93,7 @@ CCTV-13,https://cdn16.163189.xyz/163189/cctv13
 江苏卫视,https://b7dfda-9b6e36-ddb3.kylintv.tv/live/jstvhd_iphone.m3u8
 湖南卫视,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/huntvhd_iphone.m3u8
 CCTV-1,https://cdn16.163189.xyz/163189/cctv1
-CCTV-12,https://cdn16.163189.xyz/163189/cctv2
+CCTV-1,https://cdn16.163189.xyz/163189/cctv2
 CCTV-3,https://cdn16.163189.xyz/163189/cctv3
 CCTV-4,https://cdn16.163189.xyz/163189/cctv4
 CCTV-5,https://b7dfda-9b6e36-ddb3.kylintv.tv/live/cctv5hd_iphone.m3u8
@@ -104,12 +104,12 @@ CCTV-5+,https://cdn16.163189.xyz/163189/cctv5p
 凤凰中文（备3）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文（备4）,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文（备5）,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯（备1）,http://cdn6.163189.xyz/163189/fhzx
-凤凰资讯（备2）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯（备3）,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯（备4）,https://cdn6.163189.xyz/163189/fhzx
-凤凰资讯（备5）,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰资讯,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰资讯（备1）,http://r.jdshipin.com/0Rp07
+凤凰资讯（备2）,http://cdn6.163189.xyz/163189/fhzx
+凤凰资讯（备3）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯（备4）,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯（备5）,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰香港（备1）,http://r.jdshipin.com/yDoTN
 凤凰香港（备2）,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
