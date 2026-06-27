@@ -159,6 +159,16 @@ sudo ./install-frps.sh uninstall
 
 
 
+openlist-darwin-arm64.tar.gz
+
+/Applications/Openlist/openlist server
+
+nohup ./openlist server >/dev/null 2>&1 &
+
+killall openlist
+
+
+
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
