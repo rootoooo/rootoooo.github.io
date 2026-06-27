@@ -163,10 +163,6 @@ openlist-darwin-arm64.tar.gz
 
 /Applications/Openlist/openlist server
 
-nohup /Applications/Openlist/openlist server >/dev/null 2>&1 &
-
-killall openlist
-
 /Applications/Openlist/openlist admin set 你的新密码
 
 
