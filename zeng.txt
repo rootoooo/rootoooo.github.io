@@ -167,6 +167,8 @@ nohup /Applications/Openlist/openlist server >/dev/null 2>&1 &
 
 killall openlist
 
+/Applications/Openlist/openlist admin set 你的新密码
+
 
 
 git clone https://github.com/rootoooo/cf.git
