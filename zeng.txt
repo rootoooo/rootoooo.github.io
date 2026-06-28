@@ -99,7 +99,7 @@ OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/r
 
 LIVE：https://cf.haoss.eu.org/oooo/https/github.com/liuchuancong/pure_live/releases
 
-Newpipe：https://cf.haoss.eu.org/oooo/https/github.com/teamnewpipe/newpipe
+Newpipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
