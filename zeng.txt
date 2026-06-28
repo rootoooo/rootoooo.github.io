@@ -81,6 +81,8 @@ AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
 BT：https://cf.haoss.eu.org/oooo/https/github.com/chinasoul/BT/releases
 
+Bilibili：https://cf.haoss.eu.org/oooo/https/github.com/bggRGjQaUbCoE/PiliPlus/releases
+
 Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
 
 Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
@@ -97,7 +99,7 @@ OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/r
 
 LIVE：https://cf.haoss.eu.org/oooo/https/github.com/liuchuancong/pure_live/releases
 
-PiliPlus：https://cf.haoss.eu.org/oooo/https/github.com/bggRGjQaUbCoE/PiliPlus/releases
+Newpipe：https://cf.haoss.eu.org/oooo/https/github.com/teamnewpipe/newpipe
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
