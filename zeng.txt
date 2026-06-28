@@ -83,6 +83,8 @@ BT：https://cf.haoss.eu.org/oooo/https/github.com/chinasoul/BT/releases
 
 Bilibili：https://cf.haoss.eu.org/oooo/https/github.com/bggRGjQaUbCoE/PiliPlus/releases
 
+DouyinDV：https://cf.haoss.eu.org/oooo/https/github.com/mytv-android/myDV/releases
+
 Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
 
 Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
