@@ -95,6 +95,8 @@ Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Mul
 
 OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
 
+LIVE：https://cf.haoss.eu.org/oooo/https/github.com/liuchuancong/pure_live/releases
+
 PiliPlus：https://cf.haoss.eu.org/oooo/https/github.com/bggRGjQaUbCoE/PiliPlus/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
