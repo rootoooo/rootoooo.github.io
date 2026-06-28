@@ -79,9 +79,11 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
-Frpc:https：//cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
+BT：https://cf.haoss.eu.org/oooo/https/github.com/chinasoul/BT/releases
 
-Seal:https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
+Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
+
+Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
 
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
@@ -90,6 +92,10 @@ LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/re
 MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
+
+OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
+
+PiliPlus：https://cf.haoss.eu.org/oooo/https/github.com/bggRGjQaUbCoE/PiliPlus/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
