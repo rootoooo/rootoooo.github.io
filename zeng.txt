@@ -83,8 +83,6 @@ AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
 BT：https://cf.haoss.eu.org/oooo/https/github.com/chinasoul/BT/releases
 
-Bilibili：https://cf.haoss.eu.org/oooo/https/github.com/bggRGjQaUbCoE/PiliPlus/releases
-
 DouyinDV：https://cf.haoss.eu.org/oooo/https/github.com/mytv-android/myDV/releases
 
 Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
@@ -101,15 +99,9 @@ MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialF
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
 
-OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
-
-LIVE：https://cf.haoss.eu.org/oooo/https/github.com/liuchuancong/pure_live/releases
-
 Newpipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
-
-IINA：https://cf.haoss.eu.org/oooo/https/github.com/iina/iina/releases
 
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
