@@ -91,6 +91,8 @@ Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/rel
 
 Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
 
+SmartTube：https://cf.haoss.eu.org/oooo/https/github.com/yuliskov/SmartTube/releases
+
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
 LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
