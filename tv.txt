@@ -87,6 +87,12 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 金鹰卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
 World,#genre#
 CCTV-13,https://cdn16.163189.xyz/163189/cctv13
+东方卫视,http://101.35.240.114:88/live.php?id=东方卫视4K
+浙江卫视,http://101.35.240.114:88/live.php?id=浙江卫视4K
+江苏卫视,http://101.35.240.114:88/live.php?id=江苏卫视4K
+湖南卫视,http://101.35.240.114:88/live.php?id=湖南卫视4K
+中文台,http://101.35.240.114:88/phenix.php?id=fhzx
+资讯台,http://101.35.240.114:88/phenix.php?id=fhzw
 CCTV-5,https://cdn16.163189.xyz/163189/cctv5
 CCTV-5+,https://cdn16.163189.xyz/163189/cctv5p
 凤凰中文,http://r.jdshipin.com/cCCzW
