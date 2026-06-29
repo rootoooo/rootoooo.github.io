@@ -83,8 +83,6 @@ AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
 BT：https://cf.haoss.eu.org/oooo/https/github.com/chinasoul/BT/releases
 
-DouyinDV：https://cf.haoss.eu.org/oooo/https/github.com/mytv-android/myDV/releases
-
 Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
 
 Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
@@ -139,12 +137,6 @@ vless://24ad94b2-5861-4f6a-9cab-85859ae3468c@IP:端口?encryption=none&flow=xtls
 
 https://cf.haoss.eu.org/oooo/https/yonggekkk.github.io/argosbx
 
-http://IP:端口/oooo/clmi.yaml
-
-http://IP:端口/oooo/sbox.json
-
-http://IP:端口/oooo/jhsub.txt
-
 
 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
@@ -164,14 +156,6 @@ chmod 700 ./install-frps.sh
 nohup ./frps -c frps.ini >/dev/null 2>&1 &
 
 sudo ./install-frps.sh uninstall
-
-
-
-openlist-darwin-arm64.tar.gz
-
-/Applications/Openlist/openlist server
-
-/Applications/Openlist/openlist admin set 你的新密码
 
 
 
