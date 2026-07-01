@@ -1,3 +1,7 @@
+vless://20946084-08c1-4ca8-84ff-f14415be4513@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=lol.secure.dyn.riotcdn.net&fp=chrome&pbk=3mdaRFvbnjL8KEHPjU3V975FtVgXNQ-OGqf8XndaVAQ&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#PPX
+
+
+
 vless://24ad94b2-5861-4f6a-9cab-85859ae3468c@IP:端口?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=OVHCSp2SD7KxL0MdRoQRCUkjF9-ycwcaQ-M70vHsq2Y&sid=c83088f1&type=tcp&headerType=none#PPX
 
 
