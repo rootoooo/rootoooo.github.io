@@ -89,76 +89,11 @@ World,#genre#
 CCTV-13,https://cdn16.163189.xyz/163189/cctv13
 CCTV-5,https://cdn16.163189.xyz/163189/cctv5
 CCTV-5+,https://cdn16.163189.xyz/163189/cctv5p
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文（备1）,http://cdn6.163189.xyz/163189/fhzw
-凤凰中文（备2）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文（备3）,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文（备4）,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯（备1）,http://cdn6.163189.xyz/163189/fhzx
-凤凰资讯（备2）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯（备3）,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯（备4）,https://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港（备1）,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港（备2）,http://cdn6.163189.xyz/163189/fhhk
-凤凰香港（备3）,https://cdn6.163189.xyz/163189/fhhk
 中天新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv009&cid=30
 东森新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
 三立新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live089&cid=229
 TVBS新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live072&cid=473
 TVBS,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live073&cid=472
-无线新闻台,http://r.jdshipin.com/CkuBd
-无线新闻台（备1）,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-无线新闻台（备2）,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-无线新闻台（备3）,https://cdn6.163189.xyz/163189/wxxw
-翡翠台,http://r.jdshipin.com/GeWKr
-翡翠台（备1）,http://r.jdshipin.com/qrfbg
-翡翠台（备2）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台（备3）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台（备4）,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台（备5）,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台（备6）,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台（备7）,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台（备8）,http://cdn6.163189.xyz/163189/fct
-翡翠台（备9）,https://cdn6.163189.xyz/163189/fct
-翡翠台 4K,http://r.jdshipin.com/n90gt
-翡翠台 4K（备1）,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台 4K（备2）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台 4K（备3）,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台 4K（备4）,http://cdn6.163189.xyz/163189/fct4k
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台（备1）,http://r.jdshipin.com/jUx8K
-星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-星河台（备1）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-星河台（备2）,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-星河台（备3）,http://r.jdshipin.com/Voac4
-星河台（备4）,http://r.jdshipin.com/sXuuD
-星河台（备5）,https://o11.163189.xyz/stream/live/tvbxh/
-星河剧集,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-娱乐新闻台（备1）,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
-TVB J1（备1）,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB J1（备2）,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVB Plus（备1）,http://r.jdshipin.com/Nr5jq
-TVB Plus（备2）,http://r.jdshipin.com/ndGgS
-TVB Plus（备3）,https://o11.163189.xyz/stream/tvb/tvbp/
-TVB Plus（备4）,http://o11.163189.xyz/stream/tvb/tvbp/
-RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK 32（备1）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-翡翠华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-翡翠华丽（备1）,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-翡翠TVB,http://r.jdshipin.com/qClQf
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-千禧经典台（备1）,http://o11.163189.xyz/stream/live/tvbc/
-千禧经典台（备2）,https://o11.163189.xyz/stream/live/tvbc/
-天映经典,http://o11.163189.xyz/stream/live/typd/
-天映经典（备1）,https://o11.163189.xyz/stream/live/typd/
-天映经典（备2）,http://o11.163189.xyz/stream/live/ccm/
-武侠台,https://cdn6.163189.xyz/163189/yzwx
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
