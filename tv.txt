@@ -87,6 +87,8 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 金鹰卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
 World,#genre#
 CCTV-13,https://cdn16.163189.xyz/163189/cctv13
+CCTV-1,https://cdn16.163189.xyz/163189/cctv1
+CCTV-4,https://cdn16.163189.xyz/163189/cctv4
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
 中天新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv009&cid=30
