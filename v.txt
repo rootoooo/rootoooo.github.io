@@ -6,8 +6,6 @@ vless://24ad94b2-5861-4f6a-9cab-85859ae3468c@IP:端口?encryption=none&flow=xtls
 
 
 
-https://github.haoss.eu.org/raw.githubusercontent.com/5d5d5f5f5f/10102/refs/heads/main/%E5%B9%BF%E8%A5%BF%E7%94%B5%E4%BF%A1.txt
-
 docker run -d -p 6001:6001 --name migu2026 qqt8520/migu2026:1.0
 
 https://github.haoss.eu.org/raw.githubusercontent.com/5d5d5f5f5f/10102/refs/heads/main/0623.txt
