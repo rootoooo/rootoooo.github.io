@@ -1,5 +1,4 @@
 World,#genre#
-CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=0258b1cd4e90a934fe099c3e15fd4184&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260704202043&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=39.103.182.111&SecurityKey=20260704202043&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=337d874bf1aef15aea4542f928dbc108&ddCalcu=8303v17acdyb8ad7842b9ff12a4e5f41a5ea&sv=10004&ct=android
 凤凰中文,https://flv-play.clouda.com/live/fhzw-6zSJoUiicyU3ovDlMvflVRLQlVCMRCARnyJ0NPlfcs3eWJNeJSDRMAz4VgeQV3Diy6.flv
 凤凰资讯,https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
 凤凰香港,https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv
