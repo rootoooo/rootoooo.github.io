@@ -91,6 +91,8 @@ Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
 
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
+Weather：https://cf.haoss.eu.org/oooo/https/github.com/breezy-weather/breezy-weather/releases
+
 LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
 
 MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
