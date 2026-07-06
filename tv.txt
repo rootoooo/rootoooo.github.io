@@ -11,8 +11,8 @@ HOY 77,https://flv-play.clouda.com/live/77-5pHKgr2LragVAykZ2KQfNXrxywsd14D5fFlW6
 HOY 78,https://flv-play.clouda.com/live/78-e4PtDaF6AQrXOW1HJdARYjkmCofuwG9ji2PmlEksbi2eNlD9bKYlXzr8qIRPHOojTPZVOkFUeIhv3IurfpWHPsRv.flv
 VIU TV,https://flv-play.clouda.com/live/viu-KpPuan1QZZRGVviEIXnCPhHAPl5lcylGou268vf92HL4JzDULAFZMnej7IiYgC3P6FGEZdmefzRr0259YM76WYOz.flv
 VIU TV6,https://flv-play.clouda.com/live/viu6-D6pO0qnPgYtsKeTdGr82OSkWEl8zBX3XM1t9ch8UV6mBdTtdTak4E430rwZSou1PWPElll7qSdAUc6WQQb3M0gkb.flv
-中天新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv009&cid=30
-东森新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
+中天新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv009&cid=30&sd=720
+东森新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292&sd=720
 三立新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live089&cid=229
 TVBS,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live073&cid=472
 LiveABC互动英语,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live030&cid=188
