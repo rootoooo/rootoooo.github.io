@@ -1,4 +1,4 @@
-vless://24ad94b2-5861-4f6a-9cab-85859ae3468c@IP:49999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=OVHCSp2SD7KxL0MdRoQRCUkjF9-ycwcaQ-M70vHsq2Y&sid=c83088f1&type=tcp&headerType=none#TW
+vless://e0d1f4c4-8b70-4bf1-b2fd-bf3ab97e6815@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=academy.nvidia.com&fp=chrome&pbk=Y1R5w8EUKAm3aWQD1Wj3xvxyoizKKFfwM5OX9Xmv-zU&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#TW
 
 
 
