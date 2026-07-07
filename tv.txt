@@ -105,6 +105,9 @@ CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2a
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi4k?streamid=a5b6e60170ee8c69290def1c2fe00cc8&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
 湖南卫视,https://live.264788.xyz/channel/hunanweishi4k?streamid=1d2cff60e497ead8198445a199d19583&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+CCTV-5+,https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 中天新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv009&cid=30
 东森新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
