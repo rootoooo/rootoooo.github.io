@@ -100,6 +100,12 @@ CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2a
 凤凰中文（备1）,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
 凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 凤凰资讯（备1）,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=b8d44e8c47f0c0688b1e68b8e2c00b91&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+东方卫视,https://live.264788.xyz/channel/dongfangweishi4k?streamid=b8c707e2ca95b85511f6c50c9638128b&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi4k?streamid=a5b6e60170ee8c69290def1c2fe00cc8&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+湖南卫视,https://live.264788.xyz/channel/hunanweishi4k?streamid=1d2cff60e497ead8198445a199d19583&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 中天新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv009&cid=30
 东森新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
 三立新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live089&cid=229
