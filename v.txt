@@ -2,11 +2,11 @@ vless://eb2e737c-b9a0-4e9c-ae98-f571f295df66@IP:端口?encryption=none&security=
 
 
 
-vless://f501de64-f5bb-47eb-b095-c0459fe1b1d5@IP:4949?encryption=none&security=reality&pqv=&type=tcp&sni=player.live-video.net&fp=chrome&pbk=Cq1P6t66489Sk-RSTlLz13Cn-5AbSUpO8-JJqno1jzo&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#PPX
+vless://f501de64-f5bb-47eb-b095-c0459fe1b1d5@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=player.live-video.net&fp=chrome&pbk=Cq1P6t66489Sk-RSTlLz13Cn-5AbSUpO8-JJqno1jzo&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#HK
 
 
 
-vless://24ad94b2-5861-4f6a-9cab-85859ae3468c@IP:端口?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=OVHCSp2SD7KxL0MdRoQRCUkjF9-ycwcaQ-M70vHsq2Y&sid=c83088f1&type=tcp&headerType=none#PPX
+vless://24ad94b2-5861-4f6a-9cab-85859ae3468c@IP:端口?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=OVHCSp2SD7KxL0MdRoQRCUkjF9-ycwcaQ-M70vHsq2Y&sid=c83088f1&type=tcp&headerType=none#TW
 
 
 
