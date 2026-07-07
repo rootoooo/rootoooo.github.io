@@ -1,8 +1,8 @@
-vless://eb2e737c-b9a0-4e9c-ae98-f571f295df66@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=www.oracle.com&fp=chrome&pbk=5lMpfwDt4A8ygEBp0pUh3JR68lF73tc63Xs-_jqINBo&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#HK
+vless://eb2e737c-b9a0-4e9c-ae98-f571f295df66@IP:4949?encryption=none&security=reality&pqv=&type=tcp&sni=www.oracle.com&fp=chrome&pbk=5lMpfwDt4A8ygEBp0pUh3JR68lF73tc63Xs-_jqINBo&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#HK
 
 
 
-vless://24ad94b2-5861-4f6a-9cab-85859ae3468c@IP:端口?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=OVHCSp2SD7KxL0MdRoQRCUkjF9-ycwcaQ-M70vHsq2Y&sid=c83088f1&type=tcp&headerType=none#TW
+vless://24ad94b2-5861-4f6a-9cab-85859ae3468c@IP:49999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=OVHCSp2SD7KxL0MdRoQRCUkjF9-ycwcaQ-M70vHsq2Y&sid=c83088f1&type=tcp&headerType=none#TW
 
 
 
