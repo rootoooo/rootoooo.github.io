@@ -1,4 +1,4 @@
-vless://20946084-08c1-4ca8-84ff-f14415be4513@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=lol.secure.dyn.riotcdn.net&fp=chrome&pbk=3mdaRFvbnjL8KEHPjU3V975FtVgXNQ-OGqf8XndaVAQ&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#PPX
+vless://eb2e737c-b9a0-4e9c-ae98-f571f295df66@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=www.oracle.com&fp=chrome&pbk=5lMpfwDt4A8ygEBp0pUh3JR68lF73tc63Xs-_jqINBo&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#HK
 
 
 
