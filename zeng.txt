@@ -198,6 +198,6 @@ disablePrintColor = true
 [[proxies]]
 name = "tcp-5244"
 type = "tcp"
-localIP = "192.168.4.4"
+localIP = "127.0.0.1"
 localPort = 5244
 remotePort = XXX
