@@ -1,0 +1,148 @@
+https://account.lightlayer.net
+
+https://tonkiang.us
+
+https://sankei.mo/z.html
+
+https://vd6s.com/zh-cn3
+
+https://yt5s.biz/zh-cnwr200
+
+https://www.onlyoffice.com/download-desktop
+
+https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+
+https://anti-ad.net/adguard.txt
+
+https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+
+IPTV：https://cf.haoss.eu.org/oooo/https/github.com/ngo5/IPTV?tab=readme-ov-file
+
+https://cf.haoss.eu.org/oooo/https/github.com/Kimentanm/aptv/tree/master/m3u
+
+FinalShell：https://www.hostbuf.com
+
+SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+
+AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
+
+BT：https://cf.haoss.eu.org/oooo/https/github.com/chinasoul/BT/releases
+
+Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
+
+Frpc：https://cf.haoss.eu.org/oooo/https/github.com/AceDroidX/frp-Android/releases
+
+Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
+
+USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
+
+Weather：https://cf.haoss.eu.org/oooo/https/github.com/breezy-weather/breezy-weather/releases
+
+LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
+
+MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
+
+Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
+
+NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
+
+NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
+
+AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
+
+Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
+
+https://whatshub.top/module/YouTubeAd.sgmodule
+
+https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
+
+Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activated.win | iex
+
+MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
+
+185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
+
+ssh root@IP -p 22
+
+/Applications/openlist server
+
+(crontab -l 2>/dev/null; echo "0 17 20 * * /sbin/reboot") | crontab -
+
+crontab -l
+
+crontab -r
+
+echo -e "net.ipv6.conf.all.disable_ipv6 = 1\nnet.ipv6.conf.default.disable_ipv6 = 1\nnet.ipv6.conf.lo.disable_ipv6 = 1" | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
+apt update -y && apt install -y curl socat wget sudo
+
+
+
+bash <(curl -sL kejilion.sh)
+
+curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/kejilion.sh -o kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+
+
+
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+
+vasma
+
+
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+
+
+curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
+
+sudo s-hy2
+
+
+
+wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
+chmod 700 ./install-frps.sh
+./install-frps.sh install
+
+nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+sudo ./install-frps.sh uninstall
+
+
+
+git clone https://github.com/rootoooo/cf.git
+
+cd cf && sudo docker compose up
+
+
+
+https://hub.docker.com/r/doubebly/doube-ofiii
+
+docker run -d --name=doube-ofiii -p 50505:5000 -e MY_OFIII_TOKEN=xxx --restart=always doubebly/doube-ofiii:latest
+
+http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
+
+
+
+serverAddr = "XXX"
+serverPort = XXX
+
+auth.method = "token"
+auth.token = "XXX"
+
+loginFailExit = false
+
+[log]
+level = "debug"
+disablePrintColor = true
+
+[[proxies]]
+name = "tcp-5244"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 5244
+remotePort = XXX
+
+
