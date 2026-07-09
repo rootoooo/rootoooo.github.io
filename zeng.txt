@@ -111,6 +111,8 @@ NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/rele
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
+OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
+
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
 Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
@@ -124,6 +126,10 @@ Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activat
 MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
+
+ssh root@IP -p 22
+
+/Applications/openlist server
 
 (crontab -l 2>/dev/null; echo "0 17 20 * * /sbin/reboot") | crontab -
 
@@ -201,3 +207,5 @@ type = "tcp"
 localIP = "127.0.0.1"
 localPort = 5244
 remotePort = XXX
+
+
