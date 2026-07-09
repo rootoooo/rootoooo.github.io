@@ -113,6 +113,8 @@ CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2a
 东森新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 东森新闻（备2）,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
 TVBS,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live073&cid=472
+TVBS（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
+TVBS（备2）,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
