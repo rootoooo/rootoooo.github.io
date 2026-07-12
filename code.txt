@@ -48,6 +48,8 @@ NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAn
 
 OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
 
+Cloudreve：https://cf.haoss.eu.org/oooo/https/github.com/cloudreve/cloudreve/releases
+
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
 Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
