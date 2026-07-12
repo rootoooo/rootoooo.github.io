@@ -32,6 +32,8 @@ Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/rel
 
 Frpc：https://cf.haoss.eu.org/oooo/https/github.com/AceDroidX/frp-Android/releases
 
+Termius：https://cf.haoss.eu.org/oooo/https/github.com/alongw/Termius-zh_CN/releases
+
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
 LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
