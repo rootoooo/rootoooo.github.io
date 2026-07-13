@@ -1,7 +1,5 @@
 https://account.lightlayer.net
 
-https://github.com/hq450/fancyss
-
 https://koolcenter.com
 
 https://tonkiang.us
@@ -48,13 +46,15 @@ MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialF
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
 
+OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
+
+Cloudreve：https://cf.haoss.eu.org/oooo/https/github.com/cloudreve/cloudreve/releases
+
 NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
-OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
-
-Cloudreve：https://cf.haoss.eu.org/oooo/https/github.com/cloudreve/cloudreve/releases
+Fancyss：https://cf.haoss.eu.org/oooo/https/github.com/hq450/fancyss
 
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
@@ -150,5 +150,4 @@ type = "tcp"
 localIP = "127.0.0.1"
 localPort = 5244
 remotePort = XXX
-
 
