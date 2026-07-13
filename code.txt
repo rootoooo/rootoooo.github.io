@@ -44,8 +44,6 @@ MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialF
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
 
-SmartTube：https://cf.haoss.eu.org/oooo/https/github.com/yuliskov/SmartTube/releases
-
 NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
