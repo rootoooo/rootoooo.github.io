@@ -50,6 +50,8 @@ OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/r
 
 Cloudreve：https://cf.haoss.eu.org/oooo/https/github.com/cloudreve/cloudreve/releases
 
+Telegram-X：https://cf.haoss.eu.org/oooo/https/github.com/TGX-Android/Telegram-X/releases
+
 NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
