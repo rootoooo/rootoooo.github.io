@@ -89,7 +89,7 @@ CCTV-17（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/
 西藏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
 金鹰卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
 World,#genre#
-CCTV－13,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029797203_dlna.m3u8
+CCTV-13,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029797203_dlna.m3u8
 中天新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 中天新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 东森新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
