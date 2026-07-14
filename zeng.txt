@@ -49,6 +49,7 @@
 今朝若是同淋雪，此生也算共白头；
 白头若是雪可替，世间何来伤心人；
 此时若有卿在侧，何须淋雪作白头；
+
 白头并非雪可替，相逢已是上上签；
 风吹雪散故人离，陌路只当忆往年；
 此生不吹温柔风。来世不等不归人！
@@ -63,6 +64,6 @@ ctoken=OH3tYu2d--PxxF4l7j_tz7EW; b-user-id=67b1e957-4360-a748-9526-6349ec4c7c32;
 
 vless://eb2e737c-b9a0-4e9c-ae98-f571f295df66@IP:端口?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.oracle.com&fp=chrome&pbk=5lMpfwDt4A8ygEBp0pUh3JR68lF73tc63Xs-_jqINBo&sid=6ba85179e30d4fc2#HK
 
-vless://e0d1f4c4-8b70-4bf1-b2fd-bf3ab97e6815@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=academy.nvidia.com&fp=chrome&pbk=Y1R5w8EUKAm3aWQD1Wj3xvxyoizKKFfwM5OX9Xmv-zU&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#TW
+vless://ba8d6eab-61bf-46f3-b95a-35fbf6e9401b@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=m.media-amazon.com&fp=chrome&pbk=zc91CNscOO5tYEmg8DtqDDqKEZdGT-sUtpVbTg1hxEA&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#TW
 
 
