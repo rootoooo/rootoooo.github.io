@@ -69,5 +69,7 @@ vless://ba8d6eab-61bf-46f3-b95a-35fbf6e9401b@IP:端口?encryption=none&security=
 凤凰中文,http://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=2
 凤凰资讯,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=2
 凤凰香港,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=2
-浙江卫视 4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-湖南卫视 4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
+https://github.haoss.eu.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt
+
+
