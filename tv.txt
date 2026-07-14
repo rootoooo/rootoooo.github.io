@@ -89,14 +89,11 @@ CCTV-17（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/
 西藏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
 金鹰卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
 World,#genre#
-CCTV-13,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029797203_dlna.m3u8
-广西卫视,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060703_dlna.m3u8
-东方卫视,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503_dlna.m3u8
-浙江卫视,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054703_dlna.m3u8
-江苏卫视,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171103_dlna.m3u8
-湖南卫视,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054803_dlna.m3u8
-浙江卫视 4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-湖南卫视 4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+CCTV-13,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=b571ff5143d09261bfd6423a27a12e33&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260714164003&Channel_ID=0116_2600034600-99000-201600010039494&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=125.211.195.250&SecurityKey=20260714164003&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=53b2e828e57def94f5cce152084949e1&sv=10004&ct=android
+东方卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongfanghd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600697&netType=4&sid=5910022185&pid=2028597139&timestamp=20260714171042&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=125.39.93.127&SecurityKey=20260714171042&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=591735d5384f3f0e890bbb4d2de02cc3&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1784020239442&prlId=4f89b0f1d885527a227fd4a636419cfe1784020239592&jid=4f89b0f1d885527a227fd4a636419cfe1784020238606V&is_advertise=0&sjid=subsession_1784020338312&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5fc635874288b312cefbfb6edd0661f5
+浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+江苏卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jswshd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699067&netType=4&sid=5500199408&pid=2028597139&timestamp=20260714171346&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=36.134.64.148&SecurityKey=20260714171346&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=1085c92bfba0c2ae6e36ec1da811dea1&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1784020423215&prlId=4f89b0f1d885527a227fd4a636419cfe1784020423244&jid=4f89b0f1d885527a227fd4a636419cfe1784020422551V&is_advertise=0&sjid=subsession_1784020523579&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fdc49c41496c87d5b99c150431ca7690
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 中天新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 中天新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 东森新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
