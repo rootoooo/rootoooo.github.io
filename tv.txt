@@ -2,9 +2,12 @@ Guangxi Mobile,#genre#
 CCTV-13,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
 CCTV-13（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1
 CCTV-13（备2）,http://gxyd.484947.xyz/PLTV/77777777/224/3221226046/index.m3u8?servicetype=2
-凤凰中文,http://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=2
-凤凰资讯,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=2
-凤凰香港,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=2
+凤凰中文,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=2
+凤凰中文（备1）,http://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=2
+凤凰资讯,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8?servicetype=2
+凤凰资讯（备1）,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=2
+凤凰香港,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=2
+凤凰香港（备1）,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=2
 广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
 广西卫视（备1）,http://gxyd.484947.xyz/PLTV/77777777/224/3221225767/index.m3u8?servicetype=2
 东方卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1
@@ -106,15 +109,12 @@ CCTV-13（备1）,https://live.264788.xyz/channel/cctv13?streamid=4789b08617985d
 浙江卫视 4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 江苏卫视 4K,https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
 湖南卫视 4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-中天新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv009&cid=30
-中天新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
-中天新闻（备2）,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
-东森新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
-东森新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-东森新闻（备2）,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
-TVBS,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live073&cid=472
-TVBS（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
-TVBS（备2）,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
+中天新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+中天新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+东森新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+东森新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
+TVBS（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
