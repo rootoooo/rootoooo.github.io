@@ -91,7 +91,9 @@ CCTV-17（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/
 World,#genre#
 CCTV-13,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029797203_dlna.m3u8
 凤凰中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+凤凰中文（备1）,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
+凤凰资讯（备1）,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 中天新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 中天新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 东森新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
