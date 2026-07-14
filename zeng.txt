@@ -70,6 +70,4 @@ vless://ba8d6eab-61bf-46f3-b95a-35fbf6e9401b@IP:端口?encryption=none&security=
 凤凰资讯,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=2
 凤凰香港,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=2
 
-https://github.haoss.eu.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt
-
 
