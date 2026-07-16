@@ -7,6 +7,7 @@ CCTV-13（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/
 凤凰资讯（备1）,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=2
 凤凰香港,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=2
 凤凰香港（备1）,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=2
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
 东方卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1
 东方卫视（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1
 浙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?servicetype=1
@@ -51,7 +52,6 @@ CCTV-16,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8
 CCTV-16（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1
 CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1
 CCTV-17（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1
-广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
 北京卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1
 北京卫视（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1
 天津卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226022/index.m3u8?servicetype=1
