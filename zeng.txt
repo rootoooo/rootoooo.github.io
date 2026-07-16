@@ -66,4 +66,8 @@ vless://eb2e737c-b9a0-4e9c-ae98-f571f295df66@IP:端口?type=tcp&encryption=none&
 
 vless://ba8d6eab-61bf-46f3-b95a-35fbf6e9401b@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=m.media-amazon.com&fp=chrome&pbk=zc91CNscOO5tYEmg8DtqDDqKEZdGT-sUtpVbTg1hxEA&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#TW
 
+https://0be.net
+
+https://mojie.me
+
 
