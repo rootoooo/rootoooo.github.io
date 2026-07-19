@@ -105,12 +105,10 @@ CCTV-13,http://221.7.175.154:85/tsfile/live/1011_1.m3u8?key=txiptv
 凤凰资讯（备1）,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-中天新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
-中天新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
-东森新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-东森新闻（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
-TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
-TVBS（备1）,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
+中天新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv009&cid=30
+东森新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
+三立新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live089&cid=229
+TVBS,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live073&cid=472
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
