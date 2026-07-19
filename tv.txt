@@ -109,6 +109,12 @@ CCTV-13,http://221.7.175.154:85/tsfile/live/1011_1.m3u8?key=txiptv
 东森新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
 三立新闻,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live089&cid=229
 TVBS,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live073&cid=472
+KMTV,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv016&cid=446
+ROCK Entertainment,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live080&cid=275
+Lifetime,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live029&cid=217
+INULTRA,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv070&cid=501
+NHK,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live168&cid=461
+DW,http://2.27.174.182:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live071&cid=226
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
