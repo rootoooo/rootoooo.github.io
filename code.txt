@@ -68,6 +68,8 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 
 ssh root@IP -p 22
 
+/Applications/openlist server
+
 (crontab -l 2>/dev/null; echo "0 4 28 * * /sbin/reboot") | crontab -
 
 (crontab -l 2>/dev/null; echo '0 3 * * * apt clean && journalctl --vacuum-time=7d && rm -rf /tmp/* /var/tmp/* /root/.cache/*') | crontab -
