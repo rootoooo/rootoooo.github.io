@@ -18,6 +18,8 @@ https://tools.v1.mk
 
 https://cf.haoss.eu.org/oooo/https/github.com/Kimentanm/aptv/tree/master/m3u
 
+https://9877.kstore.space/one.json
+
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/tv.txt
@@ -152,4 +154,3 @@ type = "tcp"
 localIP = "127.0.0.1"
 localPort = 5244
 remotePort = XXX
-
