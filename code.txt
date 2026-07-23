@@ -16,6 +16,8 @@ https://www.onlyoffice.com/download-desktop
 
 https://tools.v1.mk
 
+https://cf.haoss.eu.org/oooo/https/github.com/Kimentanm/aptv/tree/master/m3u
+
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 https://github.haoss.eu.org/raw.githubusercontent.com/rootoooo/rootoooo.github.io/refs/heads/main/tv.txt
@@ -25,8 +27,6 @@ https://anti-ad.net/adguard.txt
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
 IPTV：https://cf.haoss.eu.org/oooo/https/github.com/ngo5/IPTV?tab=readme-ov-file
-
-https://cf.haoss.eu.org/oooo/https/github.com/Kimentanm/aptv/tree/master/m3u
 
 FinalShell：https://www.hostbuf.com
 
