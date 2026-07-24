@@ -136,6 +136,8 @@ http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
 
 /Applications/openlist server
 
+/Applications/openlist admin random
+
 mkdir -p ~/Library/LaunchAgents
 
 mv ~/Downloads/org.openlist.plist ~/Library/LaunchAgents/
