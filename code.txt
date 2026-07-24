@@ -50,7 +50,7 @@ MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialF
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
 
-Cloudreve：https://cf.haoss.eu.org/oooo/https/github.com/cloudreve/cloudreve/releases
+Openlist：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
 
 NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
 
@@ -73,8 +73,6 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
 ssh root@IP -p 22
-
-/Applications/openlist server
 
 (crontab -l 2>/dev/null; echo "0 4 28 * * /sbin/reboot") | crontab -
 
@@ -133,6 +131,18 @@ https://hub.docker.com/r/doubebly/doube-ofiii
 docker run -d --name=doube-ofiii -p 50505:5000 -e MY_OFIII_TOKEN=xxx --restart=always doubebly/doube-ofiii:latest
 
 http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
+
+
+
+/Applications/openlist server
+
+mkdir -p ~/Library/LaunchAgents
+
+mv ~/Downloads/org.openlist.plist ~/Library/LaunchAgents/
+
+launchctl load ~/Library/LaunchAgents/org.openlist.plist
+
+launchctl list | grep openlist
 
 
 
