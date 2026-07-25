@@ -66,14 +66,4 @@ hysteria2://1234567890@IP:端口?peer=www.bing.com&insecure=1&obfs=salamander&ob
 
 vless://ba8d6eab-61bf-46f3-b95a-35fbf6e9401b@IP:端口?encryption=none&security=reality&pqv=&type=tcp&sni=m.media-amazon.com&fp=chrome&pbk=zc91CNscOO5tYEmg8DtqDDqKEZdGT-sUtpVbTg1hxEA&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#TW
 
-https://0be.net
-
-https://mojie.me
-
-https://良心云.com
-
-https://cg51.com
-
-https://cap.saaprsgbn.cc
-
 
