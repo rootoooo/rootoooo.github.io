@@ -56,8 +56,6 @@ NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/rele
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
-Fancyss：https://cf.haoss.eu.org/oooo/https/github.com/hq450/fancyss
-
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
 Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
