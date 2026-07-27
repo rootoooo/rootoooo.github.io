@@ -1,5 +1,7 @@
 https://account.lightlayer.net
 
+https://s3.dualstack.us-east-1.amazonaws.com/zhifan/ytb.html
+
 https://sankei.mo/z.html
 
 https://vd6s.com/zh-cn3
