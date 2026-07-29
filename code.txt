@@ -1,7 +1,5 @@
 https://account.lightlayer.net
 
-https://s3.dualstack.us-east-1.amazonaws.com/zhifan/ytb.html
-
 https://tonkiang.us
 
 https://sankei.mo/z.html
@@ -52,6 +50,8 @@ Openlist：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/r
 
 NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
+V2rayN：https://cf.haoss.eu.org/oooo/https/https://github.com/2dust/v2rayN/releases
+
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
 Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
@@ -77,12 +77,6 @@ apt update -y && apt install -y curl socat wget sudo
 bash <(curl -sL kejilion.sh)
 
 curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/kejilion.sh -o kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
-
-
-
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
-
-vasma
 
 
 
