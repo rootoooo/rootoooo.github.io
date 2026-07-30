@@ -89,6 +89,7 @@ CCTV-17（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/
 新疆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
 西藏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
 World,#genre#
+综艺,http://156.238.121.37:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv006&cid=113
 EBC,http://156.238.121.37:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
 TVBS,http://156.238.121.37:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live073&cid=472
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
