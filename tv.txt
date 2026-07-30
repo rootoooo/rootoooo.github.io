@@ -92,6 +92,7 @@ World,#genre#
 综艺,http://156.238.121.37:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv006&cid=113
 EBC,http://156.238.121.37:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-4gtv152&cid=292
 TVBS,http://156.238.121.37:50505/post/index.m3u8?proxy=true&token=xxx&pid=media-live073&cid=472
+DW,http://156.238.121.37:50505/post/index.m3u8?proxy=true&token=xxx&pid=4gtv-live071&cid=226
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
