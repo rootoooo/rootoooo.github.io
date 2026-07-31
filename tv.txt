@@ -96,6 +96,28 @@ CCTV-13,https://cdn.qd.je/163189.php?id=cctv13
 无线新闻台,https://cdn.qd.je/163189.php?id=wxxw
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 华丽翡翠台,https://cdn.qd.je/163189.php?id=jade
+翡翠剧集台,https://cdn.qd.je/163189.php?id=tvbd
+星河台,https://cdn.qd.je/163189.php?id=xinghe
+CHU,https://cdn.qd.je/163189.php?id=chu
+CH5,https://cdn.qd.je/163189.php?id=ch5
+CH8,https://cdn.qd.je/163189.php?id=ch8
+TVB1,https://cdn.qd.je/163189.php?id=tvb1
+TVB J1,https://cdn.qd.je/163189.php?id=j1
+HOY TV,https://cdn.qd.je/163189.php?id=hoy
+HOY TV2,https://cdn.qd.je/163189.php?id=hoy2
+HOY资讯台,https://cdn.qd.je/163189.php?id=hoy78
+HOY国际财经台,https://cdn.qd.je/163189.php?id=hoy76
+Viu TV,https://cdn.qd.je/163189.php?id=viu
+Viu TVsix,https://cdn.qd.je/163189.php?id=viu6
+NOW新闻台,https://cdn.qd.je/163189.php?id=now
+RTHK31,https://cdn.qd.je/163189.php?id=rthk31
+RTHK32,https://cdn.qd.je/163189.php?id=rthk32
+澳门卫星,https://cdn.qd.je/163189.php?id=as
+澳门澳视,https://cdn.qd.je/163189.php?id=asam
+澳门综艺,https://cdn.qd.je/163189.php?id=amzy
+澳门莲花,https://cdn.qd.je/163189.php?id=amlh
+澳门体育,https://cdn.qd.je/163189.php?id=amty
+Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
