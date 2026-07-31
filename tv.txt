@@ -119,6 +119,7 @@ RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 澳门莲花,https://cdn.qd.je/163189.php?id=amlh
 澳门体育,https://cdn.qd.je/163189.php?id=amty
 Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
+爱奇艺,https://cdn.qd.je/163189.php?id=iqiyi
 CTI,http://rihou.cc:555/tv/[Bx]中天新闻
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
