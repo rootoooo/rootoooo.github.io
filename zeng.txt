@@ -65,6 +65,3 @@ ctoken=OH3tYu2d--PxxF4l7j_tz7EW; b-user-id=67b1e957-4360-a748-9526-6349ec4c7c32;
 hysteria2://1234567890@IP:端口?peer=www.bing.com&insecure=1&obfs=salamander&obfs-password=1234567890#HK
 
 vless://f53c478a-67ec-4808-8f8d-9bdefe9894e6@IP:端口?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=5FYiyKJm_WldJzrwJAPV9FxS6PDerDJXCKNLlq6y0QQ&sid=a9a2d68a&type=tcp&headerType=none#TW
-
-vless://cf1c087f-9ea0-4e50-9171-a2eb66e461fb@IP:端口?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=B8iglRNNvyJVXmjA5h5eZgi07rFNNiju05NHRYPKNCI&sid=9756284c&type=tcp&headerType=none#US
-
