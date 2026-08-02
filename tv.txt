@@ -98,6 +98,7 @@ CCTV-1,https://cdn.qd.je/163189.php?id=cctv1
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 华丽翡翠台,https://cdn.qd.je/163189.php?id=jade
 翡翠剧集台,https://cdn.qd.je/163189.php?id=tvbd
+明珠台,https://cdn.qd.je/163189.php?id=mzt
 星河台,https://cdn.qd.je/163189.php?id=xinghe
 CHU,https://cdn.qd.je/163189.php?id=chu
 CH5,https://cdn.qd.je/163189.php?id=ch5
