@@ -184,7 +184,7 @@ ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8
 影迷数位电影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8
 amc电影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8
 CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8
-大爱二台http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8
+大爱二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8
 人间卫视,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8
 TVBS综艺台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8
 TVBS台剧台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8
