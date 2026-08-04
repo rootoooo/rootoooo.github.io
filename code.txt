@@ -84,6 +84,8 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 https://yonggekkk.github.io/argosbx
 
+agsbx list
+
 
 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
