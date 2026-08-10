@@ -1,30 +1,49 @@
 World,#genre#
 CCTV-13,https://cdn.qd.je/163189.php?id=cctv13
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
+凤凰中文（备1）,http://r.jdshipin.com/cCCzW
+凤凰中文（备2）,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
+凤凰资讯（备1）,http://r.jdshipin.com/0Rp07
+凤凰资讯（备2）,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
+凤凰香港（备1）,http://r.jdshipin.com/yDoTN
+凤凰香港（备2）,http://r.jdshipin.com/NfC0f
+凤凰香港（备3）,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 无线新闻台,https://cdn.qd.je/163189.php?id=wxxw
+无线新闻台（备1,http://r.jdshipin.com/CkuBd
 翡翠台,https://cdn.qd.je/163189.php?id=fct
+翡翠台（备1）,http://r.jdshipin.com/62WM7
 华丽翡翠台,https://cdn.qd.je/163189.php?id=jade
+华丽翡翠台（备1）,http://r.jdshipin.com/thuYX
 翡翠剧集台,https://cdn.qd.je/163189.php?id=tvbd
 明珠台,https://cdn.qd.je/163189.php?id=mzt
+明珠台（备1）,http://r.jdshipin.com/ZQ4kN
 星河台,https://cdn.qd.je/163189.php?id=xinghe
+星河台（备1）,http://r.jdshipin.com/Voac4
+星河台（备2）,http://r.jdshipin.com/sXuuD
 CHU,https://cdn.qd.je/163189.php?id=chu
 CH5,https://cdn.qd.je/163189.php?id=ch5
 CH8,https://cdn.qd.je/163189.php?id=ch8
 TVB1,https://cdn.qd.je/163189.php?id=tvb1
 TVB J1,https://cdn.qd.je/163189.php?id=j1
-HOY TV,https://cdn.qd.je/163189.php?id=hoy
-HOY TV2,https://cdn.qd.je/163189.php?id=hoy2
-HOY资讯台,https://cdn.qd.je/163189.php?id=hoy78
-HOY国际财经台,https://cdn.qd.je/163189.php?id=hoy76
+TVB J2,http://r.jdshipin.com/Nr5jq
+TVB J2（备1）,http://r.jdshipin.com/ndGgS
+HOY 76,https://cdn.qd.je/163189.php?id=hoy76
+HOY 77,https://cdn.qd.je/163189.php?id=hoy
+HOY 77（备1）,https://cdn.qd.je/163189.php?id=hoy2
+HOY 77（备2）,http://r.jdshipin.com/sFw4S
+HOY 78,https://cdn.qd.je/163189.php?id=hoy78
 Viu TV,https://cdn.qd.je/163189.php?id=viu
+Viu TV（备1）,http://r.jdshipin.com/vSJvl
+Viu TV（备2）,http://r.jdshipin.com/TcKr2
 Viu TVsix,https://cdn.qd.je/163189.php?id=viu6
 NOW新闻台,https://cdn.qd.je/163189.php?id=now
 RTHK31,https://cdn.qd.je/163189.php?id=rthk31
 RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 澳门卫星,https://cdn.qd.je/163189.php?id=as
 澳门澳视,https://cdn.qd.je/163189.php?id=asam
+澳门澳视（备1,http://r.jdshipin.com/n2YZI
 澳门综艺,https://cdn.qd.je/163189.php?id=amzy
 澳门莲花,https://cdn.qd.je/163189.php?id=amlh
 澳门体育,https://cdn.qd.je/163189.php?id=amty
@@ -101,5 +120,3 @@ TVBS台剧台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8
 经典电影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8
 经典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8
 精选动漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8
-
-
