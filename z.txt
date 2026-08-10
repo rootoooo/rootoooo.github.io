@@ -1,8 +1,8 @@
 Test,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
