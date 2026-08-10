@@ -134,7 +134,7 @@ RTHK31,https://cdn.qd.je/163189.php?id=rthk31
 RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 澳门卫星,https://cdn.qd.je/163189.php?id=as
 澳门澳视,https://cdn.qd.je/163189.php?id=asam
-澳门澳视（备1,http://r.jdshipin.com/n2YZI
+澳门澳视（备1）,http://r.jdshipin.com/n2YZI
 澳门综艺,https://cdn.qd.je/163189.php?id=amzy
 澳门莲花,https://cdn.qd.je/163189.php?id=amlh
 澳门体育,https://cdn.qd.je/163189.php?id=amty
