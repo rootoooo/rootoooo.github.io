@@ -1,5 +1,6 @@
 World,#genre#
 CCTV-13,https://cdn.qd.je/163189.php?id=cctv13
+CCTV-1,https://cdn.qd.je/163189.php?id=cctv1
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 凤凰中文（备1）,http://r.jdshipin.com/cCCzW
 凤凰中文（备2）,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -11,7 +12,7 @@ CCTV-13,https://cdn.qd.je/163189.php?id=cctv13
 凤凰香港（备2）,http://r.jdshipin.com/NfC0f
 凤凰香港（备3）,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 无线新闻台,https://cdn.qd.je/163189.php?id=wxxw
-无线新闻台（备1,http://r.jdshipin.com/CkuBd
+无线新闻台（备1）,http://r.jdshipin.com/CkuBd
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 翡翠台（备1）,http://r.jdshipin.com/62WM7
 华丽翡翠台,https://cdn.qd.je/163189.php?id=jade
@@ -43,7 +44,7 @@ RTHK31,https://cdn.qd.je/163189.php?id=rthk31
 RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 澳门卫星,https://cdn.qd.je/163189.php?id=as
 澳门澳视,https://cdn.qd.je/163189.php?id=asam
-澳门澳视（备1,http://r.jdshipin.com/n2YZI
+澳门澳视（备1）,http://r.jdshipin.com/n2YZI
 澳门综艺,https://cdn.qd.je/163189.php?id=amzy
 澳门莲花,https://cdn.qd.je/163189.php?id=amlh
 澳门体育,https://cdn.qd.je/163189.php?id=amty
