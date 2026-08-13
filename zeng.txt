@@ -74,5 +74,3 @@ cz4k.com
 xuexi.cn
 icbc.com.cn
 abchina.com
-
-vless://7bf4d117-c1e7-467a-be02-f811099f6a80@XXX:5999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=RcUs4Khd1cQSfT88E5_03Tl6vRzpbJj18fLvDAumrnQ&sid=66a7ad8d&type=tcp&headerType=none#TW
