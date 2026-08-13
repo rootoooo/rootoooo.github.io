@@ -67,6 +67,7 @@ vless://245b83af-1cad-4828-9e70-ce70baba7d3f@IP:端口?encryption=none&flow=xtls
 baidu.com
 taobao.com
 alipay.com
+mi.com
 4kcz.com
 czzy.top
 cz4k.com
