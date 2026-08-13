@@ -52,9 +52,7 @@ Openlist：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/r
 
 YoutubeDownloader：https://cf.haoss.eu.org/oooo/https/github.com/Tyrrrz/YoutubeDownloader/releases
 
-NekoBox：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
-
-V2rayNG：https://cf.haoss.eu.org/oooo/https/https://github.com/2dust/v2rayNG/releases
+V2rayNG：https://cf.haoss.eu.org/oooo/https/github.com/2dust/v2rayNG/releases
 
 V2rayN：https://cf.haoss.eu.org/oooo/https/github.com/2dust/v2rayN/releases
 
