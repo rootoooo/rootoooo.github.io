@@ -73,3 +73,7 @@ cz4k.com
 xuexi.cn
 icbc.com.cn
 abchina.com
+
+hysteria2://c94cab8e-27ef-4193-b8e7-a481425da052@IP:端口?security=tls&alpn=h3&insecure=0&allowInsecure=0&mport=60000-65000&sni=www.bing.com&pinSHA256=88ddd5b0d83ab85b41f4db5c6c041f01f79ae169bbdc10e0ae189af26d1ea668#US
+
+vless://c94cab8e-27ef-4193-b8e7-a481425da052@IP:端口?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=MhU0uR6lW2e1NokRusVBw1IWMhxq3W_anIyVUOYuNzg&sid=8558d837&type=tcp&headerType=none#US
