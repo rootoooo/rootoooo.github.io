@@ -132,10 +132,15 @@ NOW新闻台,https://cdn.qd.je/163189.php?id=now
 澳门综艺,https://cdn.qd.je/163189.php?id=amzy
 澳门莲花,https://cdn.qd.je/163189.php?id=amlh
 澳门体育,https://cdn.qd.je/163189.php?id=amty
-TVBS,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=media-live073&cid=472
 中天新闻,https://iptv.haoss.eu.org/of-4gtv-4gtv009/index.m3u8?proxy=true
+TVBS,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=media-live073&cid=472
 东森新闻,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv152&cid=292
 三立新闻,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live089&cid=229
+TVBS精彩台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv067&cid=227
+TVBS欢乐台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv068&cid=184
+NHK,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live168&cid=461
+CNBC,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live130&cid=235
+DW,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live071&cid=226
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
