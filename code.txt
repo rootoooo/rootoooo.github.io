@@ -46,9 +46,7 @@ Openlist：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/r
 
 YoutubeDownloader：https://cf.haoss.eu.org/oooo/https/github.com/Tyrrrz/YoutubeDownloader/releases
 
-V2rayNG：https://cf.haoss.eu.org/oooo/https/github.com/2dust/v2rayNG/releases
-
-V2rayN：https://cf.haoss.eu.org/oooo/https/github.com/2dust/v2rayN/releases
+NekoBox：https://cf.haoss.eu.org/oooo/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
@@ -76,13 +74,13 @@ curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/
 
 
 
-https://yonggekkk.github.io/argosbx
-
-agsbx list
-
-
-
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+
+
+curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
+
+sudo s-hy2
 
 
 
