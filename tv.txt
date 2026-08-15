@@ -91,13 +91,13 @@ CCTV-17（备1）,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/
 World,#genre#
 CCTV-13,https://cdn.qd.je/163189.php?id=cctv13
 CCTV-1,https://cdn.qd.je/163189.php?id=cctv1
+中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 凤凰中文（备1）,http://r.jdshipin.com/cCCzW
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
 凤凰资讯（备1）,http://r.jdshipin.com/0Rp07
 凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
 凤凰香港（备1）,http://r.jdshipin.com/yDoTN
-凤凰香港（备2）,http://r.jdshipin.com/NfC0f
 无线新闻台,https://cdn.qd.je/163189.php?id=wxxw
 无线新闻台（备1）,http://r.jdshipin.com/CkuBd
 翡翠台,https://cdn.qd.je/163189.php?id=fct
@@ -132,17 +132,6 @@ NOW新闻台,https://cdn.qd.je/163189.php?id=now
 澳门综艺,https://cdn.qd.je/163189.php?id=amzy
 澳门莲花,https://cdn.qd.je/163189.php?id=amlh
 澳门体育,https://cdn.qd.je/163189.php?id=amty
-中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-中天新闻（备1）,https://iptv.haoss.eu.org/of-4gtv-4gtv009/index.m3u8?proxy=true
-东森新闻,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv152&cid=292
-三立新闻,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live089&cid=229
-TVBS,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=media-live073&cid=472
-TVBS新闻台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=media-live072&cid=473
-TVBS精彩台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv067&cid=227
-TVBS欢乐台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv068&cid=184
-NHK,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live168&cid=461
-CNBC,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live130&cid=235
-DW,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live071&cid=226
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
