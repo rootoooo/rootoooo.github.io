@@ -139,6 +139,7 @@ TVBS,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=media-
 TVBS新闻台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=media-live072&cid=473
 TVBS精彩台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv067&cid=227
 TVBS欢乐台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv068&cid=184
+猪哥亮,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv006&cid=113
 NHK,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live168&cid=461
 CNBC,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live130&cid=235
 DW,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live071&cid=226
