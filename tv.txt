@@ -132,14 +132,14 @@ NOW新闻台,https://cdn.qd.je/163189.php?id=now
 澳门综艺,https://cdn.qd.je/163189.php?id=amzy
 澳门莲花,https://cdn.qd.je/163189.php?id=amlh
 澳门体育,https://cdn.qd.je/163189.php?id=amty
-中天新闻,https://iptv.haoss.eu.org/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+中天新闻（备1）,https://iptv.haoss.eu.org/of-4gtv-4gtv009/index.m3u8?proxy=true
 东森新闻,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv152&cid=292
 三立新闻,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live089&cid=229
 TVBS,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=media-live073&cid=472
 TVBS新闻台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=media-live072&cid=473
 TVBS精彩台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv067&cid=227
 TVBS欢乐台,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv068&cid=184
-猪哥亮,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-4gtv006&cid=113
 NHK,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live168&cid=461
 CNBC,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live130&cid=235
 DW,https://ofiii.haoss.eu.org/post/index.m3u8?proxy=true&token=oooo&pid=4gtv-live071&cid=226
