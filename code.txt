@@ -102,6 +102,12 @@ cd cf && sudo docker compose up
 
 
 
+https://hub.docker.com/r/instituteiptv/iptv-4gtv
+
+docker run -d --name iptv-4gtv -p 50501:5050 -p 2080:1080 -e PROXY_HOST=0.0.0.0 -e XRAY_PORT=2080 --restart unless-stopped instituteiptv/iptv-4gtv:latest
+
+
+
 /Applications/openlist server
 
 /Applications/openlist admin random
