@@ -77,8 +77,4 @@ xuexi.cn
 icbc.com.cn
 abchina.com
 
-hysteria2://d4e82635-dc91-4786-93a1-2cba4ab7cf5c@IP:端口?security=tls&alpn=h3&insecure=0&allowInsecure=0&mport=60000-65000&sni=www.bing.com&pinSHA256=f09b251043804e097990210d7bc279e7b03caab2e523dbd882370148c1a720ae#US
-
-vless://d4e82635-dc91-4786-93a1-2cba4ab7cf5c@IP:端口?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=1DUsnPEXe-zrcAIa74-AxO_PJfpkc_jWKkLRVwDiLB4&sid=f9d5524f&type=tcp&headerType=none#US
-
-
+hysteria2://1234567890@IP:34567?sni=www.bing.com&insecure=1&obfs=salamander&obfs-password=1234567890#US
