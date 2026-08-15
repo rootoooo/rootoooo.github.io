@@ -46,7 +46,9 @@ Openlist：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/r
 
 YoutubeDownloader：https://cf.haoss.eu.org/oooo/https/github.com/Tyrrrz/YoutubeDownloader/releases
 
-NekoBox：https://cf.haoss.eu.org/oooo/github.com/MatsuriDayo/NekoBoxForAndroid/releases
+NekoBox-Android：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+NekoBox-PC：https://cf.haoss.eu.org/oooo/https/github.com/qr243vbi/nekobox/releases
 
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
