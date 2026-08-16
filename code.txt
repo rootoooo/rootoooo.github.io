@@ -1,7 +1,5 @@
 https://account.lightlayer.net
 
-https://chatgpt.com/api/auth/session
-
 https://tonkiang.us
 
 https://hero-sms.com/cn
@@ -103,14 +101,6 @@ sudo ./install-frps.sh uninstall
 git clone https://github.com/rootoooo/cf.git
 
 cd cf && sudo docker compose up
-
-
-
-cd /home/ && git clone https://github.com/dairoot/ChatGPT-Mirror.git
-
-cd ChatGPT-Mirror/
-
-./deploy.sh
 
 
 
