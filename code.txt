@@ -110,7 +110,7 @@ cd web && git pull && docker compose up -d --build
 
 rm -rf web && git clone https://github.com/rootoooo/web.git && cd web && docker compose up -d --build
 
-cd web && docker compose down --rmi all && cd .. && rm -rf web
+cd web && docker compose down --rmi all
 
 
 
