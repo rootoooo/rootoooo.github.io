@@ -38,8 +38,6 @@ Iina：https://cf.haoss.eu.org/oooo/https/github.com/iina/iina/releases
 
 linkandroid：https://cf.haoss.eu.org/oooo/https/github.com/modstart-lib/linkandroid/releases
 
-LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
-
 MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
