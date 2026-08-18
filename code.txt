@@ -34,8 +34,6 @@ USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/
 
 Stats：https://cf.haoss.eu.org/oooo/https/https://github.com/exelban/stats/releases
 
-Iina：https://cf.haoss.eu.org/oooo/https/github.com/iina/iina/releases
-
 linkandroid：https://cf.haoss.eu.org/oooo/https/github.com/modstart-lib/linkandroid/releases
 
 MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
