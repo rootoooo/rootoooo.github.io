@@ -80,6 +80,10 @@ sudo s-hy2
 
 
 
+https://yonggekkk.github.io/argosbx
+
+
+
 wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
 chmod 700 ./install-frps.sh
 ./install-frps.sh install
