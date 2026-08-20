@@ -74,12 +74,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 
 
-curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
-
-sudo s-hy2
-
-
-
 https://yonggekkk.github.io/argosbx
 
 
