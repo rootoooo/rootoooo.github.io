@@ -1,6 +1,6 @@
-IPTV：https://cf.haoss.eu.org/oooo/https/github.com/ngo5/IPTV?tab=readme-ov-file
-
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+
+IPTV：https://cf.haoss.eu.org/oooo/https/github.com/ngo5/IPTV?tab=readme-ov-file
 
 AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
 
@@ -12,7 +12,9 @@ Frpc：https://cf.haoss.eu.org/oooo/https/github.com/AceDroidX/frp-Android/relea
 
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
-Stats：https://cf.haoss.eu.org/oooo/https/https://github.com/exelban/stats/releases
+Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
+
+Stats：https://cf.haoss.eu.org/oooo/https/github.com/exelban/stats/releases
 
 linkandroid：https://cf.haoss.eu.org/oooo/https/github.com/modstart-lib/linkandroid/releases
 
