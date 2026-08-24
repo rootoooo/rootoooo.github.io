@@ -10,6 +10,8 @@ Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/rel
 
 Frpc：https://cf.haoss.eu.org/oooo/https/github.com/AceDroidX/frp-Android/releases
 
+Wifi：https://cf.haoss.eu.org/oooo/https/github.com/usamaiqb/network-scanner/releases
+
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
 Stats：https://cf.haoss.eu.org/oooo/https/github.com/exelban/stats/releases
