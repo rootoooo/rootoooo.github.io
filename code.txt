@@ -60,7 +60,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 
 
-https://yonggekkk.github.io/argosbx
+bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh) 4 5999 www.bing.com
 
 
 
