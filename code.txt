@@ -72,12 +72,6 @@ sudo ./install-frps.sh uninstall
 
 
 
-git clone https://github.com/rootoooo/cf.git
-
-cd cf && sudo docker compose up
-
-
-
 rm -rf web && git clone https://github.com/rootoooo/web.git && cd web && read -p "请输入要使用的端口号: " PORT && echo "PORT=${PORT}" > .env && docker compose up -d --build
 
 cd web && docker compose down --rmi all
