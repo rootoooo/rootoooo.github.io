@@ -1,36 +1,36 @@
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-IPTV：https://cf.haoss.eu.org/oooo/https/github.com/ngo5/IPTV?tab=readme-ov-file
+IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 
-AVNC：https://cf.haoss.eu.org/oooo/https/github.com/gujjwal00/avnc/releases
+AVNC：https://github.com/gujjwal00/avnc/releases
 
-BT：https://cf.haoss.eu.org/oooo/https/github.com/chinasoul/BT/releases
+BT：https://github.com/chinasoul/BT/releases
 
-Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
+Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
-Frpc：https://cf.haoss.eu.org/oooo/https/github.com/AceDroidX/frp-Android/releases
+Frpc：https://github.com/AceDroidX/frp-Android/releases
 
-Wifi：https://cf.haoss.eu.org/oooo/https/github.com/usamaiqb/network-scanner/releases
+Wifi：https://github.com/usamaiqb/network-scanner/releases
 
-USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
+USB-Camera：https://github.com/shlllshlll/USBCamera/releases
 
-Stats：https://cf.haoss.eu.org/oooo/https/github.com/exelban/stats/releases
+Stats：https://github.com/exelban/stats/releases
 
-linkandroid：https://cf.haoss.eu.org/oooo/https/github.com/modstart-lib/linkandroid/releases
+linkandroid：https://github.com/modstart-lib/linkandroid/releases
 
-MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialFiles/releases
+MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
-Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
+Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
 
-Openlist：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
+Openlist：https://github.com/OpenListTeam/OpenList/releases
 
-YoutubeDownloader：https://cf.haoss.eu.org/oooo/https/github.com/Tyrrrz/YoutubeDownloader/releases
+YoutubeDownloader：https://github.com/Tyrrrz/YoutubeDownloader/releases
 
-NekoBox-Android：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
+NekoBox-Android：https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
-V2rayN：https://cf.haoss.eu.org/oooo/https/github.com/2dust/v2rayN/releases
+V2rayN：https://github.com/2dust/v2rayN/releases
 
-AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
+AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
 
 Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
 
