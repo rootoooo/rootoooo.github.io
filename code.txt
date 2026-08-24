@@ -1,36 +1,30 @@
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
+TV：https://github.haoss.eu.org/github.com/lystv/fmapp/blob/ok/apk/release/mobile-arm64_v8a.apk
 
-AVNC：https://github.com/gujjwal00/avnc/releases
+AVNC：https://github.haoss.eu.org/github.com/gujjwal00/avnc/releases/download/v3.3.1/AVNC-3.3.1.apk
 
-BT：https://github.com/chinasoul/BT/releases
+BT：https://github.haoss.eu.org/github.com/chinasoul/BT/releases/download/v0.9.34/universal-api19-22.apk
 
-Frpc：https://github.com/luckjiawei/frpc-desktop/releases
+Frpc：https://github.haoss.eu.org/github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/Frpc-Desktop-1.2.6-win.zip
 
-Frpc：https://github.com/AceDroidX/frp-Android/releases
+Frpc：https://github.haoss.eu.org/github.com/AceDroidX/frp-Android/releases/download/v1.3.2/frp_arm64-v8a_1.3.2.apk
 
-Wifi：https://github.com/usamaiqb/network-scanner/releases
+Wifi：https://github.haoss.eu.org/github.com/usamaiqb/network-scanner/releases/download/v1.1.7/network-scanner-v1.1.7.apk
 
-USB-Camera：https://github.com/shlllshlll/USBCamera/releases
+USB-Camera：https://github.haoss.eu.org/github.com/shlllshlll/USBCamera/releases/download/v2.0.6/app-release.apk
 
-Stats：https://github.com/exelban/stats/releases
+linkandroid：https://github.haoss.eu.org/github.com/modstart-lib/linkandroid/releases/download/v2.1.0/LinkAndroid-2.1.0-win-setup-x64.exe
 
-linkandroid：https://github.com/modstart-lib/linkandroid/releases
+MaterialFiles：https://github.haoss.eu.org/github.com/zhanghai/MaterialFiles/releases/download/v1.7.4/app-release-universal.apk
 
-MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
+Multi-Calculator：https://github.haoss.eu.org/github.com/YangDai2003/Multi-Calculator-Android/releases/download/v7.5/Multi-Calculator._Release_7.5.apk
 
-Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
+YoutubeDownloader：https://github.haoss.eu.org/github.com/Tyrrrz/YoutubeDownloader/releases/download/1.16.4/YoutubeDownloader.win-x64.zip
 
-Openlist：https://github.com/OpenListTeam/OpenList/releases
+NekoBox：https://github.haoss.eu.org/github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk
 
-YoutubeDownloader：https://github.com/Tyrrrz/YoutubeDownloader/releases
-
-NekoBox-Android：https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
-
-V2rayN：https://github.com/2dust/v2rayN/releases
-
-AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
+V2rayN：https://github.haoss.eu.org/github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip
 
 Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
 
