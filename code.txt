@@ -28,7 +28,7 @@ YoutubeDownloader：https://cf.haoss.eu.org/oooo/https/github.com/Tyrrrz/Youtube
 
 NekoBox-Android：https://cf.haoss.eu.org/oooo/https/github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
-NekoBox-PC：https://cf.haoss.eu.org/oooo/https/github.com/qr243vbi/nekobox/releases
+V2rayN：https://cf.haoss.eu.org/oooo/https/github.com/2dust/v2rayN/releases
 
 AdGuard：https://cf.haoss.eu.org/oooo/https/github.com/privacy-protection-tools/anti-AD    https://cf.haoss.eu.org/oooo/https/github.com/217heidai/adblockfilters
 
