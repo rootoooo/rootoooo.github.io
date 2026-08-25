@@ -1,67 +1,96 @@
-卿至如画
-卿至风来白卉香，四序因卿韶景长；
-山川万里皆图画，未及卿颜半分妆！
+# 自动测速配置
+[general]
+excluded_routes=192.168.0.0/16, 172.16.0.0/12, 100.64.0.0/10, 10.0.0.0/8, 127.0.0.0/8, 224.0.0.0/24, 239.255.255.250/32
+geo_location_checker=http://ip-api.com/json/?fields=8450015&lang=zh-CN,https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ip-api.js
+resource_parser_url= https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+network_check_url = http://www.baidu.com
+server_check_url = http://cp.cloudflare.com/generate_204
+server_check_timeout=2000
+profile_img_url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Fitness.png
+[dns]
+no-ipv6
+server=119.29.29.29
+server=114.114.114.114
+server=223.5.5.5
+server=8.8.8.8
+[policy]
+static=🚀 策略选择,♻️ ALL,🇨🇳 台湾节点,🇬🇧 英国节点,🇯🇵 日本节点,🇭🇰 香港节点,🇸🇬 新加坡节点,🇺🇸 美国节点,🇰🇷 韩国节点,🇷🇺 俄罗斯节点,🇮🇳 印度,🇩🇪 德国,🇨🇦 加拿大
+url-latency-benchmark=♻️ ALL,server-tag-regex=.*, check-interval=600, tolerance=0, alive-checking=false
+static=🤖️ 人工智能,🇺🇸 美国节点,🇬🇧 英国节点,🇩🇪 德国,🇨🇦 加拿大
+static=📲 Telegram,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=📹 YouTube,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点, 🇰🇷 韩国节点
+static=🎥 Netflix,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=🎬 Disney+,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=🎻 Spotify,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=📄 Twitter,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=🪙 Paypal,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=👤 Facebook,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=📖 Reddit,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=🐦 Discord,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=📽 哔哩哔哩, 🌐 全球直连, 🇭🇰 香港节点, 🇨🇳 台湾节点
+static=🍿 国外媒体,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点
+static=🍔 国内媒体, 🌐 全球直连, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点
+static=🍟 新浪微博, 🌐 全球直连, 🚀 策略选择, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点,🇰🇷 韩国节点
+static=Ⓜ️ 微软服务, 🌐 全球直连, 🚀 策略选择, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点,🇰🇷 韩国节点
+static=🍎 苹果服务, 🌐 全球直连, 🚀 策略选择, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点,🇰🇷 韩国节点
+static=🎮 游戏平台, 🌐 全球直连, 🚀 策略选择, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点,🇰🇷 韩国节点
+static=🌐 全球直连, DIRECT
+url-latency-benchmark=🇭🇰 香港节点,server-tag-regex=(?=.*(港|HK|(?i)Hong))^((?!(台湾|日本|新加坡|美国|韩国|狮城|南朝鲜|US|SG|JP|KR|TW|台灣|美國|韓國|獅城)).)*$, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇨🇳 台湾节点,server-tag-regex=(?=.*(台|TW|(?i)Taiwan))^((?!(港|日|韩|新|美)).)*$, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇺🇸 美国节点,server-tag-regex=(?=.*(美国|美國|US|洛杉矶|西雅图|(?i)States|American))^((?!(香港|台湾|日本|新加坡|韩国|狮城|南朝鲜|SG|JP|KR|HK|TW|台灣|韓國|獅城)).)*$, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇰🇷 韩国节点,server-tag-regex=(?=.*(KR|Korea|KOR|首尔|韩|韓|(?i)Korea))^((?!(香港|台湾|新加坡|美国|狮城|南朝鲜|US|SG|HK|TW|台灣|美國|獅城)).)*$, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇷🇺 俄罗斯节点,server-tag-regex=🇷🇺|俄罗斯|RU|莫斯科|圣彼得堡|喀山|哈尔科夫|乌法|新西伯利亚|下诺夫哥罗德|沃罗涅什, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇬🇧 英国节点,server-tag-regex=🇬🇧|英国|UK|伦敦|英格兰|伯明翰|泰恩河畔纽卡斯尔|利兹|爱丁堡|格拉斯哥|苏格兰, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇯🇵 日本节点,server-tag-regex=(?=.*(日本|JP|(?i)Japan))^((?!(香港|台湾|新加坡|美国|韩国|狮城|南朝鲜|US|SG|KR|HK|TW|台灣|美國|韓國|獅城)).)*$, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇸🇬 新加坡节点,server-tag-regex=(?=.*(新加坡|狮城|SG|(?i)Singapore))^((?!(香港|台湾|日本|美国|韩国|南朝鲜|US|JP|KR|HK|TW|台灣|美國|韓國)).)*$, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇮🇳 印度,server-tag-regex=🇮🇳|印度|IN|IND|孟买|新德里|高知|Republic of India|India, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇩🇪 德国,server-tag-regex=🇩🇪|德国|DEU|DE|柏林|慕尼黑|汉堡|科隆|Germany, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=🇨🇦 加拿大,server-tag-regex=🇨🇦|加拿大|CA|渥太华, check-interval=600, tolerance=0, alive-checking=false
+[server_local]
+vless=154.9.30.73:5999, method=none, password=e144bab5-6b5c-3d14-9af2-ab7d409a1580, obfs=over-tls, obfs-host=www.bing.com, tls-verification=false, reality-base64-pubkey=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw, reality-hex-shortid=6f1964ff61db25a1, vless-flow=xtls-rprx-vision, fast-open=false, udp-relay=false, tag=US
 
-孤舟渡
-半生风雨孤舟渡，苦尽甘来万象新；
-江畔烟霞留旧梦，山间松竹奏清音；
-云开月照天地朗，潮涌风停气象真；
-放眼天涯归路远，平生浩气贯四方！
-
-天命赋
-时也命也运也催，浮生若梦逐风回；
-长河不尽千秋过，孤月犹怜万古哀；
-志在高天云未散，心随流水去还来；
-任他造化弄人事，我自持樽笑百杯！
-
-人生如梦
-初到人世未识愁，半生荒草空留名；
-回首前尘泪满巾，方知人生为何哭；
-举杯邀月对千愁，前路荆棘难逢步；
-红尘泪眼皆是客，笑我何人可怜心；
-常看人生如戏梦，奈何身在局中迷；
-岁月如风吹过梦，白云苍狗转瞬空；
-浮生若梦空回望，满眼风霜泪未干；
-千年一梦浮生尽，谁与共白发青灯！
-
-浮世叹
-少年初见弓如月，未畏风霜志愈坚；
-东风吹醒凌云气，岁月消磨赤子天；
-山重水复人无迹，此去何时再共欢；
-一别竟成归路杳，梦回犹识旧时颜；
-花开花落空长叹，英雄迟暮美人残；
-光阴似水流如箭，最易蹉跎年少欢；
-世路崎岖悲喜半，浮沉荣枯两相安；
-但将遗恨随流水，不惑方知道自宽！
-
-无极生太极，太极生两仪，两仪生三才，三才生四象，四象生五行，五行生六合，六合生七星，七星生八卦，八卦生九宫，一切归十方。
-
-时也，命也，运也，非吾之所能也！
-
-一命二运三风水，四积阴德五读书，六名七相八敬神，九交贵人十养生！
-
-穷算命运富烧香，颠颠倒倒问阴阳；
-若是做好分内事，何须鬼神赐良方；
-十人烧香九为财，又有几炷真香来；
-神明不缺三炷香，善心善念财自来！
-
-忽有故人心上过，回首山河已入冬；
-今朝若是同淋雪，此生也算共白头；
-白头若是雪可替，世间何来伤心人；
-此时若有卿在侧，何须淋雪作白头；
-
-白头并非雪可替，相逢已是上上签；
-风吹雪散故人离，陌路只当忆往年；
-此生不吹温柔风。来世不等不归人！
-
-葛根花+枳椇子+陈皮+山楂-15g+15g+6g+6g    车前草+猫须草+金钱草-1:1:1
-
-Administrator    1363515-2874-258234-07-730285222-61496868-hsh6-r32t6tb6
-
-50078724-450304-50063312    AD1456-FREE    CMBE4RS2F2    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
-
-b-user-id=6c14dea9-48e7-9a83-c6fe-492df5056f0c; __sdid=AATZamYoJS03pvcsD/3ogfQrYj+zWbopBooTjQRo5jKJdVZMt7WwOnpQMi0lBfXAQIY=; _UP_A4A_11_=wba30154aade456eb7716f55701ad4e2; _UP_D_=pc; _er_uuid=BHIGBHGIIEBBC-t09rAT7rCm; _er_is_back_to_node=1; _UP_WG_UID=TiRmBhPyiVas8EEh61TiTwRv; _UP_KP=1:578:74ba6ff00ce1370bb78613cad0225eed:TiTH+ldTwLsmk7QUp36zU+inQk0+FhJoZN+AbXa9RkprYsXIj+ohcdpNJq+USEeee9bIOhf8k5uzCj44f4tgnyT2LawDnr9+DkZNXmbuMhpI2g==; _UP_HASH_UID=uhash:018c480688b1d871c849a4eb4a6d835c; _qk_bx_um_v1=eyJ1ZCI6IlQyZ0FlU0IxdThhWlZlSGdOSjFEZWxTRjJLUjlnekdfRFk3RUhZYmgtTVVMbGo2dzFkRHV5MC02NmpyYlJtQzlMNnc9IiwiZXAiOjE3ODYxOTY2ODUwODh9; _ON_EXT_DVIDN=eCy#AANtL18Zf9GhAS1jOV1/7TCIyhIcH5a0+0xzvqwIucAJMAQsRhjOLE7hq90v0CNUXRE=; _qk_bx_ck_v1=eyJkZXZpY2VJZCI6ImVDeSNBQU50TDE4WmY5R2hBUzFqT1YxLzdUQ0l5aEljSDVhMCsweHp2cXdJdWNBSk1BUXNSaGpPTEU3aHE5MHYwQ05VWFJFPSIsImRldmljZUZpbmdlcnByaW50IjoiOWIzMzI2NzU1ZTMzOWIxNGMxMzI4YWM4MDcxMmYzYTEifQ==; _UP_F7E_8D_=04DCjtxWbavFrTWqYYsa0EPwKLOVbxJPcg0RzQPI6Knpe%2FVlExDLvwWk3%2BqxkwVyhdZ%2Bc09AyraclvYdENl26pP6NZpJjHSFAga2josF9WI5KqmBMZjstSyxXmZd2p0oVFkfbqd%2FhVix0H3H9ao5kfOK74MO9vf9vZ0QUAagmMeThL0Fyv73vNnFKDSDGkjZW%2BLlJFxKmerS2zrP1PvuegL1ab%2BGtr1sS67eEzhURuAGviQUNMpx0YjKLHiThZj4IyEHeBAPtnvxewvGOJ7QR2lMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRffo%2BexiQD6npGgcSR%2FzBV%2B3TmTTmeCQbzdGel%2B2VyH2ZHru1xRmXkg0sPTn64Gvjrx3%2BrBdYEIXini2EjgVM8UKgmfZ1OaWvefiLipsuoS%2FdldBvB7trVMH3IhYSoUw2AYTF7eNiF%2BU9DgASvb4Vfvosp%2BEFl7vny0TNscSZMOl8DcfixlwkYTpwSCY4564fHGA9cyxKste3pBRULSTR8JY7n3P6zUYaG%2BofGCzsMul3NGY6wl6lBISYJ2cSDS100Hjqhb3FcWuLwSSSdvGDxA%3D%3D; __pus=def6540df2d61ef5b711f8da86488dddAAQFtquJi8eEsWYow+TDlemf/+KxHvk1SU9A/+BL3d1UEWgU0XkjH8UC6Q2fBgPXdmiOGooaF3HLtDmM78j8P2Ap; __kp=09d03250-931d-11f1-930c-f54be80221de; __kps=AAQjfTzGuwfPakrFjPckvsG7; __ktd=41nLgwt6XQHkGNbtm3tfnA==; __uid=AAQjfTzGuwfPakrFjPckvsG7; __uus=NxR3F4lS+u4jK94OhS3hZFXLy+6NhGAWxYUtSvdKsl2vNXHskDleLz4ECqOUPATwDuAZLYHD0tFdKeHH8u4M6degGKcdUy2US2aGhzPDoDNfjw==; __kuus=NxR3F4lS+u4jK94OhS3hZFXLxblgoQ8JEClEffySLiD5/E23plvgRayuNxOraQ0f9/z/nuQpFbP9mMHNPG1ksgBbPDVIxKfGV2BWe9Vu100b7w==; isg=BEREM1z_8kDO6kYO_dFJg3eXFcQ2XWjHFuPEbF7l0I_SieRThm04V3qqySFRkaAf; tfstk=gJ0SxxbZNv34_bRJpTR2lnjbImzBQI8av6NKsXQP9zU8AmGE1QVEUXeIA-HQLJyzyi-qqxkFKb4UdxGIng7eZ8kbnWFs-93H9o8QrqoP88JuRXHaRdJw7FloZz4pQdJ-HQsgJWLUpnrRiIVDidJw7EloZy4pQX7zdpkbt-F89JEpGte0TwULekBAD5eYpyHLpoIYt5FRvJE8kIN3HJULJvUvGWwYpyUKpjLPz1NBV8cWTJaMuACAvjyfJw3bwp2tN-N0iqN7VREYhwCSl7Z7BbuMspDTOc3_qApV48nsYANZUEQSCbHSXl3RHKangcMQ14dOfJMoM4rxyBSgiym-Xz3BCTh0fq3zrm917Rnm92ZxZdsggDhZzDMynwerfjHbbqWV7r3SF4EbWg5h7RTN7M1bjwFbQIOfxM2tcPgQ0EUbLuF0NoRXGTn32SVbwIOfxMq8iSWpGI6-x; __puus=27f87c7efe8866f1489a990eeee8a7d0AATp9It0W/eFK1wRtRnCNM07YBTGZSVgkctqmkKJJcT+n0P3UZuJBdvpVyj8hcnxJFhlSPYMc9SSKsMr/pwfVpn7Ecy8RsTaPLEp+9cbnDN1PMcxOg0qa87vVxshzM920U5c5VMDHRwANKGwORoK7ovF/t9NCbMeHM/txty+2rLgS2NVO7Bb2qoUxHlE4AOOC88JjQ7roZv57QjYUk0/CSGZ
-
-vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:5999?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1#US
-
-vless://ca607f12-e771-37bd-b1f5-2de873533f09@IP:5999?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.bing.com&fp=random&pbk=PPW_m5ywsQ6rZJoMa5_sQaAKP_i0iKIq84AQKQbETQk&sid=086dcc79b966ebab&spx=&#TW
+[server_remote]
+[filter_remote]
+#https://yfamilys.com/rule/AntiAD.list, force-policy=REJECT, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/ai.list, force-policy=🤖️ 人工智能, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Microsoft.list, force-policy=Ⓜ️ 微软服务, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Apple.list, force-policy=🍎 苹果服务, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/AppStore.list, force-policy=🍎 苹果服务, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/AppleProxy.list, force-policy=🚀 策略选择, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Telegram.list, force-policy=📲 Telegram, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Weibo.list, force-policy=🍟 新浪微博, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/WeChat.list, force-policy=🌐 全球直连, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Twitter.list, force-policy=📄 Twitter, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/PlayStation.list, force-policy=🎮 游戏平台, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Epic.list, force-policy=🎮 游戏平台, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Sony.list, force-policy=🎮 游戏平台, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Steam.list, force-policy=🎮 游戏平台, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Nintendo.list, force-policy=🎮 游戏平台, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/WanMeiShiJie.list, force-policy=🎮 游戏平台, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Blizzard.list, force-policy=🎮 游戏平台, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Spotify.list, force-policy=🎻 Spotify, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/PayPal.list, force-policy=🪙 Paypal, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Facebook.list, force-policy=👤 Facebook, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Reddit.list, force-policy=📖 Reddit, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Discord.list, force-policy=🐦 Discord, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/YouTube.list, force-policy=📹 YouTube, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/YouTubeMusic.list, force-policy=📹 YouTube, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Netflix.list, force-policy=🎥 Netflix, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Disney.list, force-policy=🎬 Disney+, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/BiliBili.list, force-policy=📽 哔哩哔哩, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/ChinaMedia.list, force-policy=🍔 国内媒体, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/ProxyMedia.list, force-policy=🍿 国外媒体, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Twitch.list, force-policy=🚀 策略选择, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Douyu.list, force-policy=🌐 全球直连, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Google.list, force-policy=🚀 策略选择, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/Proxy.list, force-policy=🚀 策略选择, update-interval=172800, opt-parser=true, enabled=true
+https://yfamilys.com/rule/ASN-CN.list, force-policy=🌐 全球直连, update-interval=172800, opt-parser=true, enabled=true
+[filter_local]
+final, 🚀 策略选择
+[rewrite_local]
+[rewrite_remote]
+[task_local]
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=解锁查询, img-url=checkmark.seal.fill.system, enabled=true
+[mitm]
+passphrase = 591B42A9
+p12 = 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
