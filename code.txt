@@ -1,3 +1,5 @@
+https://yfamilys.com
+
 https://account.lightlayer.net
 
 https://hero-sms.com/cn
@@ -29,12 +31,6 @@ YoutubeDownloader：https://github.haoss.eu.org/github.com/Tyrrrz/YoutubeDownloa
 NekoBox：https://github.haoss.eu.org/github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk
 
 V2rayN：https://github.haoss.eu.org/github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip
-
-Shadowrocket：https://yfamilys.com/config/shadowrocket_basic.conf
-
-https://whatshub.top/module/YouTubeAd.sgmodule
-
-https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
 
 Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activated.win | iex
 
