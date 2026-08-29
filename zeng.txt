@@ -65,3 +65,114 @@ b-user-id=6c14dea9-48e7-9a83-c6fe-492df5056f0c; __sdid=AATZamYoJS03pvcsD/3ogfQrY
 vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:端口?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1#US
 
 vless://eed134be-d834-4b56-a3b5-3273ece9aa16@www.shopify.com:443?encryption=mlkem768x25519plus.native.0rtt.9Iyr3exiyUAH9Rqd1ABdxKdcPuCnIbkH4sMpOhBJNAxC2eO3e6CBQUlzSYOtFVQkB2pbbdaY4ABfw0i0B7NlucyISGqrrTVWEVxEG_oTcSQPMFgo8It8mlvAD3jCNzmdfjsWnwG7AKdeRCIIEqlzNqMeuBZIKcBm6QbE1VyaBLlUd2NLdSwWPxmITwwJ0yFEzVaKOrKAgLeQKbYraxp-DLUGGfR7LzgJmqZ6LSqNYQdlk7pPxHFFyYgeZUKOU4uh-OmUPJHNOxhwz8CjJoKdCOOfTrYnt4FUcaocmawGmEc1oROy19R7XWzIQUbBQHCjM6R5pXGubRamaFUVeucMbmI3vfAVIfRkcAJgvxBdA5F99dDNweOYwYKYFzgRerolrag6CLrAX5ecuzfFeBocimujlXqnm1o0r1ABlAsN2mp-oKpgZ8ZOYSyTCCNVL3i-lVc4HWJ4_mal5TJYPZQcFMci2HsrTZERRiEKzdGrv9COJEBo61cOe0to32x9jTmjpMYdXvws-aIAdggLVZIiAsu8nWDFBOhFpgMZybOK5mCFiQybSpIFUliFdCV0T6hnNxaGotqUiVkVklMgMAMdHCyZD4AkF6FSaTdGwDEkE1NZAsVLzVzOWbg_hMOChxdYlNu-9_EJtpzNmcJDt1ZAqHnCb0Nl-toSJFsojau913BoXBw_pNvPY0M-HOIe49Q3q4ZiP3suinoJ-HpDB_AnvAtkGxmrEebG_imSAcJgsHK-B1KvlnM_m8yS4Ah4QYeEkHZeTadiVWcCkQaWttnJqoAAGlRrEJtJeRdYgVSdjroNqsxwUut6JAADomGZ6-OlUFq3B2FGIqR5gdgEWBluomCftLeHYlKaCgKjorN-IwdSTykIaVULZJeH9ggZZLYDWCG_UyFf8iO9j5k0MxA1tMA9tWMpTcp3zIvJ1ndNrGEFqFxU4iqup4BsokkXCYeYInVTtqE71DPCJ0lvSZSPaVY9zOLPIAJ0KuSBETNPFZCr0gGn3epoYRtZICc8dCTFXvxDJPoy3GjCJ7sdPurAHTUkBMs0c9ah0rMnunU1CEVfcpWLNGEYdMesZYKvpWpVimPIl5rHSlCWCWkMLBwjhOkVONyR94BbyygToxLNhIR0gyRmKuyX3NBgyQVpdzW9znmwC4uGWXsbebxIxKdYzFt_V-Nuk9NxwFOxcttY27da3UtZvciYMzawlGp3FKoWAIm4e1FUaZO_ukxg-doCb_giBBqE3XnDSViPu6S94rGlPeQE1AgkcIwZVAV9D2lAAVULn7UmKyp25Op198JmvLYRMXSeRvI-z0tg79uq_Xy9OZSlQBNpzSQSbzSE0AOAePa2OQSeFCvDWWuPnAqnBAAFlBBhAjJOarRu2kKkcriQ2ndArKaSZGnDM-Ij5FVGA8ZMKvmXj3GXJAkQSDt9qaeS89W01NSzknbJjEwIHwyVi7U6CKkNxfY3uNWeizo9noYylkCm1-up2zylTDJ-XsiNdYjAS-y9qMBIPweieSUBgJMtUXuLaxUTJ-GQhmEE7-nTng88D6z9OUp659RHCKYZld9VoU4IfOAryNxoq1U&flow=xtls-rprx-vision&type=ws&host=shield-eva-lessons-kent.trycloudflare.com&path=eed134be-d834-4b56-a3b5-3273ece9aa16-vw&security=tls&sni=shield-eva-lessons-kent.trycloudflare.com&fp=chrome&insecure=0&allowInsecure=0#vless-ws-tls-argo-enc-vision-TWL1-20250514173812273d9e
+
+Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activated.win | iex
+
+MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   /Users/mac/fsdownload/    ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
+
+
+
+sh -c 'printf "net.ipv6.conf.all.disable_ipv6=1\nnet.ipv6.conf.default.disable_ipv6=1\nnet.ipv6.conf.lo.disable_ipv6=1\n" > /etc/sysctl.d/99-disable-ipv6.conf && sysctl --system'
+
+
+
+apt update -y && apt install -y curl socat wget sudo
+
+
+
+bash <(curl -sL kejilion.sh)
+
+
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+
+
+bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh) 4 5999 www.bing.com
+
+bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ remove --purge
+
+
+
+https://yonggekkk.github.io/argosbx
+
+
+
+wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
+chmod 700 ./install-frps.sh
+./install-frps.sh install
+
+nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+sudo ./install-frps.sh uninstall
+
+
+
+rm -rf web && git clone https://github.com/rootoooo/web.git && cd web && read -p "请输入要使用的端口号: " PORT && echo "PORT=${PORT}" > .env && docker compose up -d --build
+
+cd web && docker compose down --rmi all
+
+
+
+/Applications/openlist server
+
+/Applications/openlist admin random
+
+mkdir -p ~/Library/LaunchAgents
+
+mv ~/Downloads/org.openlist.plist ~/Library/LaunchAgents/
+
+launchctl load ~/Library/LaunchAgents/org.openlist.plist
+
+launchctl list | grep openlist
+
+
+
+serverAddr = "XXX"
+serverPort = XXX
+
+auth.method = "token"
+auth.token = "XXX"
+
+loginFailExit = false
+
+[log]
+level = "debug"
+disablePrintColor = true
+
+[[proxies]]
+name = "tcp-5244"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 5244
+remotePort = XXX
+
+SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+
+TVbox：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+
+OKtv：https://github.haoss.eu.org/github.com/lystv/fmapp/blob/ok/apk/release/mobile-arm64_v8a.apk
+
+AVNC：https://github.haoss.eu.org/github.com/gujjwal00/avnc/releases/download/v3.3.1/AVNC-3.3.1.apk
+
+BT：https://github.haoss.eu.org/github.com/chinasoul/BT/releases/download/v0.9.34/universal-api19-22.apk
+
+Frpc：https://github.haoss.eu.org/github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/Frpc-Desktop-1.2.6-win.zip
+
+Frpc：https://github.haoss.eu.org/github.com/AceDroidX/frp-Android/releases/download/v1.3.2/frp_arm64-v8a_1.3.2.apk
+
+Wifi：https://github.haoss.eu.org/github.com/usamaiqb/network-scanner/releases/download/v1.1.7/network-scanner-v1.1.7.apk
+
+USB-Camera：https://github.haoss.eu.org/github.com/shlllshlll/USBCamera/releases/download/v2.0.6/app-release.apk
+
+linkandroid：https://github.haoss.eu.org/github.com/modstart-lib/linkandroid/releases/download/v2.1.0/LinkAndroid-2.1.0-win-setup-x64.exe
+
+MaterialFiles：https://github.haoss.eu.org/github.com/zhanghai/MaterialFiles/releases/download/v1.7.4/app-release-universal.apk
+
+Multi-Calculator：https://github.haoss.eu.org/github.com/YangDai2003/Multi-Calculator-Android/releases/download/v7.5/Multi-Calculator._Release_7.5.apk
+
+YoutubeDownloader：https://github.haoss.eu.org/github.com/Tyrrrz/YoutubeDownloader/releases/download/1.16.4/YoutubeDownloader.win-x64.zip
+
+NekoBox：https://github.haoss.eu.org/github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk
+
+V2rayN：https://github.haoss.eu.org/github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip
