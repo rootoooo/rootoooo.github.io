@@ -1,9 +1,3 @@
-https://yfamilys.com
-
-https://account.lightlayer.net
-
-https://hero-sms.com/cn
-
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
 TV：https://github.haoss.eu.org/github.com/lystv/fmapp/blob/ok/apk/release/mobile-arm64_v8a.apk
