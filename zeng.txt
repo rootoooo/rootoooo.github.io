@@ -176,3 +176,5 @@ YoutubeDownloader：https://github.haoss.eu.org/github.com/Tyrrrz/YoutubeDownloa
 NekoBox：https://github.haoss.eu.org/github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk
 
 V2rayN：https://github.haoss.eu.org/github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip
+
+VoiceStudio：https://github.haoss.eu.org/github.com/debpalash/VoiceStudio/releases/download/v0.5.1/VoiceStudio_x64.app.tar.gz
