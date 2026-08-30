@@ -177,4 +177,4 @@ NekoBox：https://github.haoss.eu.org/github.com/MatsuriDayo/NekoBoxForAndroid/r
 
 V2rayN：https://github.haoss.eu.org/github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip
 
-VoiceStudio：https://github.haoss.eu.org/github.com/debpalash/VoiceStudio/releases/download/v0.5.1/VoiceStudio_x64.app.tar.gz
+
