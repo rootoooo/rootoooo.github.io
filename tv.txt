@@ -207,7 +207,9 @@ IPTV相声小品,rtsp://180.141.207.144/PLTV/88888888/224/3221225546/10000100000
 IPTV野外,rtsp://180.141.207.144/PLTV/88888888/224/3221225544/10000100000000060000000000081873_0.smil
 网络,#genre#
 CCTV-13,https://cdn.qd.je/163189.php?id=cctv13
-CCTV-1,https://cdn.qd.je/163189.php?id=cctv1
+凤凰中文,https://iptv.yang-1989.xyz/phoenix/ybef6n?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
+凤凰资讯,https://iptv.yang-1989.xyz/phoenix/wjnqtj?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
+中天新闻,https://iptv.yang-1989.xyz/ofiii/33tyzm?token=33f85d3ab19bcb53c9d652c3e133d726fe741deb12931d06
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
