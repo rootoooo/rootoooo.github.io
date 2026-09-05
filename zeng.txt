@@ -64,7 +64,7 @@ b-user-id=6c14dea9-48e7-9a83-c6fe-492df5056f0c; __sdid=AATZamYoJS03pvcsD/3ogfQrY
 
 vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:5999?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1#US
 
-hysteria2://1234567890@IP:34567?ports=60000-65000&sni=www.bing.com&insecure=1&obfs=salamander&obfs-password=1234567890#US
+
 
 lightlayer.net
 baidu.com
@@ -103,12 +103,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh) 4 5999 www.bing.com
 
 bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ remove --purge
-
-
-
-curl -fsSL https://raw.githubusercontent.com/Xiaofei-Z/s-hy2/main/quick-install.sh | sudo bash
-
-sudo s-hy2
 
 
 
