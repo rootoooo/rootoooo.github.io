@@ -64,8 +64,6 @@ b-user-id=6c14dea9-48e7-9a83-c6fe-492df5056f0c; __sdid=AATZamYoJS03pvcsD/3ogfQrY
 
 vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:端口?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1#US
 
-haoss.eu.org
-shehh.eu.org
 lightlayer.net
 baidu.com
 taobao.com
@@ -77,7 +75,6 @@ czzy.top
 cz4k.com
 bilibili.com
 acck.io
-lightlayer.net
 
 Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activated.win | iex
 
