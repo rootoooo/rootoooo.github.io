@@ -64,8 +64,6 @@ b-user-id=6c14dea9-48e7-9a83-c6fe-492df5056f0c; __sdid=AATZamYoJS03pvcsD/3ogfQrY
 
 vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:5999?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1#US
 
-vless://c6408ebb-f6f6-329c-a28b-a8d86657883e@IP:5999?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.bing.com&fp=random&pbk=1ILThterl3njA0HToBXGvX6oahkBKaFRjZSqkf3MUk4&sid=846c8c7a766000a0&spx=&#TW
-
 lightlayer.net
 baidu.com
 taobao.com
