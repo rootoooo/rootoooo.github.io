@@ -175,6 +175,8 @@ Wifi：https://github.haoss.eu.org/github.com/usamaiqb/network-scanner/releases/
 
 USB-Camera：https://github.haoss.eu.org/github.com/shlllshlll/USBCamera/releases/download/v2.0.6/app-release.apk
 
+Uninstally：https://github.haoss.eu.org/github.com/gostonx/uninstally/releases/download/v1.7.3/Uninstally.dmg
+
 linkandroid：https://github.haoss.eu.org/github.com/modstart-lib/linkandroid/releases/download/v2.1.0/LinkAndroid-2.1.0-win-setup-x64.exe
 
 MaterialFiles：https://github.haoss.eu.org/github.com/zhanghai/MaterialFiles/releases/download/v1.7.4/app-release-universal.apk
