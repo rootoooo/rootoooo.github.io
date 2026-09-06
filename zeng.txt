@@ -181,6 +181,8 @@ MaterialFiles：https://github.haoss.eu.org/github.com/zhanghai/MaterialFiles/re
 
 Multi-Calculator：https://github.haoss.eu.org/github.com/YangDai2003/Multi-Calculator-Android/releases/download/v7.5/Multi-Calculator._Release_7.5.apk
 
+Music：https://github.haoss.eu.org/github.com/guohuiyuan/go-music-dl/releases/download/v1.1.0/music-dl_arm64-v8a.apk
+
 NewPipe：https://github.haoss.eu.org/github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk
 
 YoutubeDownloader：https://github.haoss.eu.org/github.com/Tyrrrz/YoutubeDownloader/releases/download/1.16.4/YoutubeDownloader.win-x64.zip
