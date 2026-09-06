@@ -177,6 +177,8 @@ USB-Camera：https://github.haoss.eu.org/github.com/shlllshlll/USBCamera/release
 
 Uninstally：https://github.haoss.eu.org/github.com/gostonx/uninstally/releases/download/v1.7.3/Uninstally.dmg
 
+Stats：https://github.haoss.eu.org/github.com/exelban/stats/releases/download/v3.0.14/Stats.dmg
+
 linkandroid：https://github.haoss.eu.org/github.com/modstart-lib/linkandroid/releases/download/v2.1.0/LinkAndroid-2.1.0-win-setup-x64.exe
 
 MaterialFiles：https://github.haoss.eu.org/github.com/zhanghai/MaterialFiles/releases/download/v1.7.4/app-release-universal.apk
