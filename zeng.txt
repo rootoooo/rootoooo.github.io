@@ -64,18 +64,6 @@ b-user-id=6c14dea9-48e7-9a83-c6fe-492df5056f0c; __sdid=AATZamYoJS03pvcsD/3ogfQrY
 
 vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:5999?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1#US
 
-lightlayer.net
-baidu.com
-taobao.com
-alipay.com
-qq.com
-mi.com
-4kcz.com
-czzy.top
-cz4k.com
-bilibili.com
-acck.io
-
 Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activated.win | iex
 
 MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   /Users/mac/fsdownload/    ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
@@ -185,8 +173,6 @@ MaterialFiles：https://github.haoss.eu.org/github.com/zhanghai/MaterialFiles/re
 
 Multi-Calculator：https://github.haoss.eu.org/github.com/YangDai2003/Multi-Calculator-Android/releases/download/v7.5/Multi-Calculator._Release_7.5.apk
 
-Music：https://github.haoss.eu.org/github.com/guohuiyuan/go-music-dl/releases/download/v1.1.0/music-dl_arm64-v8a.apk
-
 NewPipe：https://github.haoss.eu.org/github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk
 
 YoutubeDownloader：https://github.haoss.eu.org/github.com/Tyrrrz/YoutubeDownloader/releases/download/1.16.4/YoutubeDownloader.win-x64.zip
@@ -196,6 +182,8 @@ V2rayNG：https://github.haoss.eu.org/github.com/2dust/v2rayNG/releases/download
 V2rayN：https://github.haoss.eu.org/github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip
 
 
+
+https://iptv.yang-1989.xyz/playlist.m3u
 
 cluntop/tvbox
 
