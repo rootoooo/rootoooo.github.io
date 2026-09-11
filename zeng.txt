@@ -155,6 +155,8 @@ AVNC：https://github.com/gujjwal00/avnc/releases
 
 Bibili TV：https://github.com/chinasoul/BT/releases
 
+BiliKit：https://github.com/shiinayane/BiliKit-Mac/releases
+
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
 
 Frpc：https://github.com/AceDroidX/frp-Android/releases
