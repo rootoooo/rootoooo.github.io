@@ -198,15 +198,3 @@ vless://c6408ebb-f6f6-329c-a28b-a8d86657883e@IP:5999?type=tcp&encryption=none&fl
 hysteria2://1234567890@IP:34567?alpn=h3&insecure=1&pinSHA256=7062cd2d327423f4f0bd69f9606be78bfe3453c9d8d39c16f41fab48a1103a99#TW
 
 
-
-lightlayer.net
-baidu.com
-taobao.com
-alipay.com
-qq.com
-mi.com
-4kcz.com
-czzy.top
-cz4k.com
-bilibili.com
-acck.io
