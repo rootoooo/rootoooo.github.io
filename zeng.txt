@@ -76,6 +76,12 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 
 sed -i 's/^nameserver.*/nameserver 94.140.14.14/' /etc/resolv.conf && echo "nameserver 94.140.15.15" >> /etc/resolv.conf
 
+chattr -i /etc/resolv.conf
+
+echo -e "nameserver 94.140.14.14\nnameserver 94.140.15.15" > /etc/resolv.conf
+
+cat /etc/resolv.conf
+
 
 
 apt update -y && apt install -y curl socat wget sudo
