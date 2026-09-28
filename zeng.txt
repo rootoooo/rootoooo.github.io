@@ -98,6 +98,8 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 
 bash <(curl -L https://github.com/crazypeace/hy2/raw/main/install.sh)
 
+bash <(curl -fsSL https://get.hy2.sh/) –remove
+
 
 
 wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
