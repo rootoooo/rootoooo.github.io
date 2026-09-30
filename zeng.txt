@@ -175,7 +175,7 @@ YoutubeDownloader：https://github.com/Tyrrrz/YoutubeDownloader/releases
 
 V2rayN：https://github.com/2dust/v2rayN/releases
 
-V2rayNG：https://github.com/2dust/v2rayNG/releases
+NekoBox：https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
 vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:5999?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1&spx=&#US
 
