@@ -92,12 +92,6 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 
 
 
-bash <(curl -L https://github.com/crazypeace/hy2/raw/main/install.sh)
-
-bash <(curl -fsSL https://get.hy2.sh/) –remove
-
-
-
 wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
 chmod 700 ./install-frps.sh
 ./install-frps.sh install
@@ -191,10 +185,6 @@ V2rayNG：https://github.com/2dust/v2rayNG/releases
 
 vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:5999?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1#US
 
-hysteria2://1234567890@IP:34567?alpn=h3&insecure=1&pinSHA256=12535af491878538b51dad3e831804d3ff3681a61ccf4007d5ee099aa9021471#US
-
 vless://c6408ebb-f6f6-329c-a28b-a8d86657883e@IP:5999?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=random&pbk=1ILThterl3njA0HToBXGvX6oahkBKaFRjZSqkf3MUk4&sid=846c8c7a766000a0#TW
-
-hysteria2://1234567890@IP:34567?alpn=h3&insecure=1&pinSHA256=7062cd2d327423f4f0bd69f9606be78bfe3453c9d8d39c16f41fab48a1103a99#TW
 
 
