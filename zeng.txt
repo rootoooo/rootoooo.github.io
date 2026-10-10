@@ -161,10 +161,6 @@ Wifi：https://github.com/usamaiqb/network-scanner/releases
 
 USB-Camera：https://github.com/shlllshlll/USBCamera/releases
 
-Uninstally：https://github.com/gostonx/uninstally/releases
-
-Stats：https://github.com/exelban/stats/releases
-
 linkandroid：https://github.com/modstart-lib/linkandroid/releases
 
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
