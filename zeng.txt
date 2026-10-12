@@ -167,7 +167,7 @@ MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
 
-Hongguo：https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/releases
+Hongguo：https://github.com/jackotom/hongguo-drama/releases
 
 HongguoTV：https://github.com/N3urda/hongguoTV/releases
 
