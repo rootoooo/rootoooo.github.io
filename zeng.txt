@@ -175,6 +175,8 @@ NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
 
 YoutubeDownloader：https://github.com/Tyrrrz/YoutubeDownloader/releases
 
+X：https://github.com/morishin/XDeck/releases
+
 Claude：https://github.com/Wangnov/claude-app-mirror/releases
 
 ChatGPT：https://github.com/SomeWhiteTrashGuy/chatgpt-mac/releases
