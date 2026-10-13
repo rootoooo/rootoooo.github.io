@@ -167,13 +167,9 @@ MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
 
-HongguoTV：https://github.com/N3urda/hongguoTV/releases
-
 NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
 
 YoutubeDownloader：https://github.com/Tyrrrz/YoutubeDownloader/releases
-
-X：https://github.com/morishin/XDeck/releases
 
 Claude：https://github.com/Wangnov/claude-app-mirror/releases
 
