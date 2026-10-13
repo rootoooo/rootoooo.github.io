@@ -169,8 +169,6 @@ Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/relea
 
 NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
 
-YoutubeDownloader：https://github.com/Tyrrrz/YoutubeDownloader/releases
-
 Claude：https://github.com/Wangnov/claude-app-mirror/releases
 
 ChatGPT：https://github.com/SomeWhiteTrashGuy/chatgpt-mac/releases
