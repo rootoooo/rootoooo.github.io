@@ -147,8 +147,6 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 TVbox：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
-OKtv：https://github.com/lystv/fmapp/blob/ok/apk/release
-
 AVNC：https://github.com/gujjwal00/avnc/releases
 
 Bibili TV：https://github.com/chinasoul/BT/releases
