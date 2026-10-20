@@ -147,8 +147,6 @@ SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-a
 
 TVbox：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
-APTV：https://profile.aptv.app
-
 OKtv：https://github.com/lystv/fmapp/blob/ok/apk/release
 
 AVNC：https://github.com/gujjwal00/avnc/releases
@@ -156,8 +154,6 @@ AVNC：https://github.com/gujjwal00/avnc/releases
 Bibili TV：https://github.com/chinasoul/BT/releases
 
 Frpc：https://github.com/luckjiawei/frpc-desktop/releases
-
-Frpc：https://github.com/AceDroidX/frp-Android/releases
 
 Wifi：https://github.com/usamaiqb/network-scanner/releases
 
@@ -168,12 +164,6 @@ linkandroid：https://github.com/modstart-lib/linkandroid/releases
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
 Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
-
-NewPipe：https://github.com/TeamNewPipe/NewPipe/releases
-
-Claude：https://github.com/Wangnov/claude-app-mirror/releases
-
-ChatGPT：https://github.com/SomeWhiteTrashGuy/chatgpt-mac/releases
 
 V2rayN：https://github.com/2dust/v2rayN/releases
 
