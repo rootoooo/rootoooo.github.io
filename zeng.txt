@@ -165,8 +165,4 @@ vless://690a7526-3957-475e-b02a-d66f56245a24@154.9.30.73:5999?encryption=none&fl
 
 hysteria2://690a7526-3957-475e-b02a-d66f56245a24@154.9.30.73:59999?security=tls&alpn=h3&insecure=0&allowInsecure=0&mport=60000-65000&sni=www.bing.com&pinSHA256=a9d03219c825350155c6dd9facb321fd1d5e9832c0c8131469d544be15240e28#US
 
-vless://8c3a2454-8451-4532-b3c0-4f6d08d7c439@2.27.174.182:5999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=Nqod_Xz9JqNiHS8V5FTPgjhqXH1f4_IOM0GrBuNF9Bc&sid=daf79950&type=tcp&headerType=none#TW
-
-hysteria2://8c3a2454-8451-4532-b3c0-4f6d08d7c439@2.27.174.182:59999?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=052fed70fa374cbd5c01df29197939a11e4b8ad3f95559d272437f3eccc53805#TW
-
 
