@@ -84,12 +84,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 
 
-bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh) 4 5999 www.bing.com
-
-bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ remove --purge
-
-
-
 https://yonggekkk.github.io/argosbx
 
 
@@ -167,7 +161,9 @@ V2rayN：https://github.com/2dust/v2rayN/releases
 
 NekoBox：https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
-vless://e144bab5-6b5c-3d14-9af2-ab7d409a1580@IP:5999?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.bing.com&fp=random&pbk=7cNtyClmTJln2qyL3z8VUA-pposEY7qK3yOW8-_sBGw&sid=6f1964ff61db25a1&spx=&#US
+vless://690a7526-3957-475e-b02a-d66f56245a24@154.9.30.73:5999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=kp1AlM6rEv6a_8HtpJvghZSpCKVmw6CLGwYocNVTRTM&sid=f7746d4c&type=tcp&headerType=none#US
+
+hysteria2://690a7526-3957-475e-b02a-d66f56245a24@154.9.30.73:59999?security=tls&alpn=h3&insecure=0&allowInsecure=0&mport=60000-65000&sni=www.bing.com&pinSHA256=a9d03219c825350155c6dd9facb321fd1d5e9832c0c8131469d544be15240e28#US
 
 vless://8c3a2454-8451-4532-b3c0-4f6d08d7c439@2.27.174.182:5999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=Nqod_Xz9JqNiHS8V5FTPgjhqXH1f4_IOM0GrBuNF9Bc&sid=daf79950&type=tcp&headerType=none#TW
 
