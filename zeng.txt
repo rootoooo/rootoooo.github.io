@@ -165,8 +165,8 @@ HongGuo：https://github.com/yangbin1322/hongguo-player/releases
 
 https://github.com/Sxuan-Coder/open-apex-drama/releases
 
-vless://690a7526-3957-475e-b02a-d66f56245a24@666:5999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=kp1AlM6rEv6a_8HtpJvghZSpCKVmw6CLGwYocNVTRTM&sid=f7746d4c&type=tcp&headerType=none#US
+vless://690a7526-3957-475e-b02a-d66f56245a24@9.9.9.9:5999?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=kp1AlM6rEv6a_8HtpJvghZSpCKVmw6CLGwYocNVTRTM&sid=f7746d4c&type=tcp&headerType=none#US
 
-hysteria2://690a7526-3957-475e-b02a-d66f56245a24@666:59999?security=tls&alpn=h3&insecure=0&allowInsecure=0&mport=60000-65000&sni=www.bing.com&pinSHA256=a9d03219c825350155c6dd9facb321fd1d5e9832c0c8131469d544be15240e28#US
+hysteria2://690a7526-3957-475e-b02a-d66f56245a24@9.9.9.9:59999?security=tls&alpn=h3&insecure=0&allowInsecure=0&mport=60000-65000&sni=www.bing.com&pinSHA256=a9d03219c825350155c6dd9facb321fd1d5e9832c0c8131469d544be15240e28#US
 
 
