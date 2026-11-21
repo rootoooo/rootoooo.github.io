@@ -167,4 +167,6 @@ HongGuo：https://github.com/yangbin1322/hongguo-player/releases
 
 VOD：https://www.yszzq.com/ziyuan/api
 
+hysteria2://1234567890@9.9.9.9:9?sni=www.bing.com&insecure=1&obfs=salamander&obfs-password=1234567890#Hysteria2
+
 
